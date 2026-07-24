@@ -2,7 +2,7 @@
 
 A practical, near-exhaustive reference of modern manufacturing processes — from continuous casting to statistical process control — rendered as a searchable, filterable dashboard.
 
-**Live dashboard:** enable GitHub Pages (the included workflow does this automatically on first push) and it will be served at `https://<user>.github.io/<repo>/`. It rebuilds automatically on every commit.
+**Live dashboard:** https://humbaventures.com/manufacturing-processes/ — rebuilds automatically on every commit to `main`.
 
 ## How it works
 
