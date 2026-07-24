@@ -2,7 +2,7 @@
 
 A practical, near-exhaustive reference of modern manufacturing processes — from continuous casting to statistical process control — rendered as a searchable, filterable dashboard.
 
-**Live dashboard:** https://humbaventures.com/manufacturing-processes/ — rebuilds automatically on every commit to `main`.
+**Live dashboard:** https://humbaventures.com/reference/manufacturing-processes/ — rebuilds automatically on every commit to `main`.
 
 ## How it works
 

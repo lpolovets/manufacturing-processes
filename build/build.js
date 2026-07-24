@@ -135,12 +135,19 @@ if (ARTIFACT) {
   fs.writeFileSync(path.join(ROOT, 'dist', 'artifact.html'), frag);
   console.log('dist/artifact.html:', processes.length, 'processes,', frag.length, 'bytes');
 } else {
+  // The repo is named "reference", so Pages mounts at /reference/; the dashboard
+  // lives in a subdirectory so its URL is /reference/manufacturing-processes/.
+  const SUBDIR = 'manufacturing-processes';
   html = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>' + title + '</title>\n</head>\n<body>\n' + page +
     '<script>\n' + dataJs + '\n' + appJs + '</script>\n</body>\n</html>\n';
-  fs.mkdirSync(path.join(ROOT, 'site'), { recursive: true });
-  fs.writeFileSync(path.join(ROOT, 'site', 'index.html'), html);
-  fs.writeFileSync(path.join(ROOT, 'site', 'data.json'), JSON.stringify({ taxonomy, processes }, null, 1));
-  console.log('site/index.html:', processes.length, 'processes,', html.length, 'bytes (+ site/data.json)');
+  const out = path.join(ROOT, 'site', SUBDIR);
+  fs.mkdirSync(out, { recursive: true });
+  fs.writeFileSync(path.join(out, 'index.html'), html);
+  fs.writeFileSync(path.join(out, 'data.json'), JSON.stringify({ taxonomy, processes }, null, 1));
+  fs.writeFileSync(path.join(ROOT, 'site', 'index.html'),
+    '<!doctype html>\n<meta charset="utf-8">\n<meta http-equiv="refresh" content="0; url=' + SUBDIR + '/">\n' +
+    '<title>Reference</title>\n<a href="' + SUBDIR + '/">' + title + '</a>\n');
+  console.log('site/' + SUBDIR + '/index.html:', processes.length, 'processes,', html.length, 'bytes (+ data.json, root redirect)');
 }
