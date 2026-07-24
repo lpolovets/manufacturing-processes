@@ -1,0 +1,39 @@
+---
+number: 11
+name: "Fiber spinning"
+part: 1
+group: "Continuous Stock Production"
+materials: [polymer, textile]
+volumes: [cont]
+tooling: mod
+---
+
+## Description
+
+Polymer is converted into continuous filaments by extrusion through spinnerets, with solidification by cooling, coagulation, solvent evaporation, or electrostatic drawing depending on the variant.
+
+## Strengths and weaknesses
+
+Melt spinning is fast, solvent-free, and economical; solution routes extend spinning to materials that cannot be melted; electrospinning reaches micro- and nanoscale fibers. Solvent recovery, environmental controls, and throughput limits constrain the non-melt variants.
+
+## Variants
+
+### Melt spinning
+
+Molten polymer is extruded through spinnerets into filaments that cool and solidify. Fast, solvent-free, and economical, but only works for polymers that can be melted without degrading. Examples: polyester, nylon, polypropylene fibers.
+
+### Wet spinning
+
+Polymer solution is extruded into a coagulation bath, where the polymer precipitates into fibers. Works for materials that cannot be melt-spun; solvent recovery, washing, environmental controls, and slower line speeds add cost. Examples: rayon, acrylic, specialty cellulose fibers.
+
+### Dry spinning
+
+Polymer solution is extruded into heated gas so solvent evaporates and leaves a filament. Avoids a liquid coagulation bath but requires careful solvent recovery and explosion control. Examples: spandex, acetate fibers.
+
+### Electrospinning
+
+An electric field draws very fine fibers from a polymer solution or melt. Creates micro- and nanoscale fibers with enormous surface area; throughput and scale-up remain difficult. Examples: filtration media, tissue scaffolds, battery separators, wound dressings.
+
+## Examples
+
+Polyester, nylon, rayon, spandex, filtration media, battery separators.

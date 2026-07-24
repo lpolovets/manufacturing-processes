@@ -1,0 +1,80 @@
+{
+  "parts": [
+    {
+      "id": 1,
+      "roman": "I",
+      "name": "Primary & Continuous Stock",
+      "color": "var(--p1)"
+    },
+    {
+      "id": 2,
+      "roman": "II",
+      "name": "Discrete-Part Shaping",
+      "color": "var(--p2)"
+    },
+    {
+      "id": 3,
+      "roman": "III",
+      "name": "Joining & Assembly",
+      "color": "var(--p3)"
+    },
+    {
+      "id": 4,
+      "roman": "IV",
+      "name": "Surface & Property Modification",
+      "color": "var(--p4)"
+    },
+    {
+      "id": 5,
+      "roman": "V",
+      "name": "Semiconductor & Microscale",
+      "color": "var(--p5)"
+    },
+    {
+      "id": 6,
+      "roman": "VI",
+      "name": "Precision Optics",
+      "color": "var(--p6)"
+    },
+    {
+      "id": 7,
+      "roman": "VII",
+      "name": "Inspection & Process Control",
+      "color": "var(--p7)"
+    }
+  ],
+  "materials": {
+    "metal": "Metal",
+    "polymer": "Polymer",
+    "rubber": "Rubber",
+    "ceramic": "Ceramic",
+    "glass": "Glass",
+    "composite": "Composite",
+    "wood": "Wood & paper",
+    "textile": "Textile & fiber",
+    "semi": "Semiconductor",
+    "other": "Other",
+    "multi": "Multi-material"
+  },
+  "volumes": {
+    "proto": "Proto",
+    "low": "Low",
+    "med": "Med",
+    "high": "High",
+    "cont": "Cont"
+  },
+  "volumeOrder": [
+    "proto",
+    "low",
+    "med",
+    "high",
+    "cont"
+  ],
+  "tooling": {
+    "min": "Minimal",
+    "low": "Low",
+    "mod": "Moderate",
+    "high": "High",
+    "vhigh": "Very high"
+  }
+}

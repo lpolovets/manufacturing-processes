@@ -1,0 +1,290 @@
+<style>
+:root{
+  --bg:#F2F3F1; --surface:#FBFBFA; --surface2:#ECEEEB; --ink:#21262B; --ink2:#5C6670; --ink3:#8A939B;
+  --line:#D9DDD8; --line2:#C8CDC7; --accent:#33597F; --accent-ink:#FFFFFF;
+  --p1:#4C6C8C; --p2:#A65B33; --p3:#8F7A2E; --p4:#33807A; --p5:#705BA6; --p6:#9A5580; --p7:#5A8047;
+  --chip-bg:#EDEFEC; --shadow:0 1px 2px rgba(30,38,45,.06),0 4px 14px rgba(30,38,45,.05);
+  --mono:ui-monospace,"SF Mono","Cascadia Mono",Menlo,Consolas,monospace;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#15181B; --surface:#1D2125; --surface2:#23282D; --ink:#E4E8EA; --ink2:#9AA4AC; --ink3:#6E787F;
+  --line:#31373C; --line2:#3C434A; --accent:#7FA9D3; --accent-ink:#10141A;
+  --p1:#7C9CBC; --p2:#C98A62; --p3:#B7A25A; --p4:#5FAAA3; --p5:#9C8AC9; --p6:#BC7FA5; --p7:#84A873;
+  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25);
+}}
+:root[data-theme="dark"]{
+  --bg:#15181B; --surface:#1D2125; --surface2:#23282D; --ink:#E4E8EA; --ink2:#9AA4AC; --ink3:#6E787F;
+  --line:#31373C; --line2:#3C434A; --accent:#7FA9D3; --accent-ink:#10141A;
+  --p1:#7C9CBC; --p2:#C98A62; --p3:#B7A25A; --p4:#5FAAA3; --p5:#9C8AC9; --p6:#BC7FA5; --p7:#84A873;
+  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25);
+}
+:root[data-theme="light"]{
+  --bg:#F2F3F1; --surface:#FBFBFA; --surface2:#ECEEEB; --ink:#21262B; --ink2:#5C6670; --ink3:#8A939B;
+  --line:#D9DDD8; --line2:#C8CDC7; --accent:#33597F; --accent-ink:#FFFFFF;
+  --p1:#4C6C8C; --p2:#A65B33; --p3:#8F7A2E; --p4:#33807A; --p5:#705BA6; --p6:#9A5580; --p7:#5A8047;
+  --chip-bg:#EDEFEC; --shadow:0 1px 2px rgba(30,38,45,.06),0 4px 14px rgba(30,38,45,.05);
+}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px 96px}
+button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:pointer}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+@media (prefers-reduced-motion: reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
+
+/* ---------- header ---------- */
+header.site{padding:44px 0 26px;border-bottom:1px solid var(--line2)}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);margin:0 0 10px}
+h1{font-size:clamp(26px,4vw,38px);line-height:1.12;letter-spacing:-.015em;margin:0 0 14px;font-weight:650;text-wrap:balance}
+.lede{max-width:62ch;color:var(--ink2);margin:0 0 18px}
+.hdr-stats{display:flex;gap:26px;flex-wrap:wrap;font-family:var(--mono);font-size:12px;color:var(--ink2)}
+.hdr-stats b{display:block;font-size:20px;color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+
+/* ---------- tabs ---------- */
+nav.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line2);display:flex;gap:4px;padding-top:10px}
+nav.tabs button{font-family:var(--mono);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;padding:9px 14px 11px;color:var(--ink2);border-bottom:2px solid transparent;margin-bottom:-1px}
+nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+nav.tabs button:hover{color:var(--ink)}
+
+/* ---------- part tiles ---------- */
+.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(136px,1fr));gap:8px;margin:22px 0 6px}
+.ptile{text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px 12px 9px;border-top:3px solid var(--pc,var(--line));transition:background .12s}
+.ptile:hover{background:var(--surface2)}
+.ptile[aria-pressed="true"]{background:var(--surface2);border-color:var(--pc);box-shadow:inset 0 0 0 1px var(--pc)}
+.ptile .pn{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--pc);text-transform:uppercase}
+.ptile .pt{font-size:12.5px;font-weight:600;line-height:1.25;margin:3px 0 4px;min-height:2.4em}
+.ptile .pc{font-family:var(--mono);font-size:11px;color:var(--ink2);font-variant-numeric:tabular-nums}
+
+/* ---------- filter panel ---------- */
+.filters{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin:14px 0 8px;box-shadow:var(--shadow)}
+.frow{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search{flex:1 1 260px;display:flex;align-items:center;gap:8px;background:var(--bg);border:1px solid var(--line2);border-radius:6px;padding:7px 11px}
+.search svg{flex:none;color:var(--ink3)}
+.search input{border:none;background:none;color:var(--ink);font:inherit;width:100%;outline:none}
+.search input::placeholder{color:var(--ink3)}
+.rescount{font-family:var(--mono);font-size:12px;color:var(--ink2);white-space:nowrap;font-variant-numeric:tabular-nums}
+.clearbtn{font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--accent);padding:6px 10px;border:1px solid var(--line2);border-radius:6px}
+.clearbtn:hover{border-color:var(--accent)}
+.facets{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.facet{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:74px;flex:none}
+.fchip{font-family:var(--mono);font-size:11.5px;padding:3px 9px 4px;border-radius:99px;background:var(--chip-bg);border:1px solid transparent;color:var(--ink2)}
+.fchip:hover{color:var(--ink);border-color:var(--line2)}
+.fchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.fnote{font-size:12px;color:var(--ink3);margin-top:10px}
+
+/* ---------- process list ---------- */
+.grouphdr{display:flex;align-items:baseline;gap:10px;margin:30px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--pc,var(--line2))}
+.grouphdr .gp{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--pc)}
+.grouphdr h2{font-size:16px;margin:0;font-weight:650;letter-spacing:-.005em}
+.grouphdr .gc{font-family:var(--mono);font-size:11px;color:var(--ink3);margin-left:auto;font-variant-numeric:tabular-nums}
+.card{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--pc,var(--line));border-radius:6px;margin-bottom:8px;box-shadow:var(--shadow);overflow:hidden}
+.card>button.chead{display:flex;width:100%;text-align:left;gap:12px;align-items:baseline;padding:11px 14px;flex-wrap:wrap}
+.card>button.chead:hover{background:var(--surface2)}
+.cnum{font-family:var(--mono);font-size:11.5px;color:var(--pc,var(--ink3));font-variant-numeric:tabular-nums;flex:none;width:30px}
+.cname{font-weight:600;font-size:14.5px;flex:0 1 auto}
+.ctags{display:flex;gap:5px;flex-wrap:wrap;margin-left:auto;align-items:center}
+.tag{font-family:var(--mono);font-size:10.5px;padding:2px 7px 3px;border-radius:4px;background:var(--chip-bg);color:var(--ink2);white-space:nowrap}
+.tag.tool{border:1px solid var(--line2);background:none}
+.caret{flex:none;color:var(--ink3);transition:transform .15s;margin-left:2px;align-self:center}
+.card.open .caret{transform:rotate(90deg)}
+.cbody{display:none;padding:2px 16px 16px;border-top:1px dashed var(--line)}
+.card.open .cbody{display:block}
+.cbody p{max-width:72ch;margin:12px 0 0}
+.cbody .lab{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);display:block;margin:14px 0 2px}
+.cbody .ex{color:var(--ink2)}
+.variants{margin-top:6px;display:grid;gap:8px}
+.variant{background:var(--bg);border:1px solid var(--line);border-radius:5px;padding:9px 12px}
+.variant b{font-size:13px}
+.variant p{margin:3px 0 0;font-size:13.5px;color:var(--ink2);max-width:70ch}
+.empty{padding:48px 0;text-align:center;color:var(--ink2)}
+.empty .mono{font-family:var(--mono);font-size:12px;color:var(--ink3)}
+.listtools{display:flex;justify-content:flex-end;gap:8px;margin:16px 0 -14px}
+.listtools button{font-family:var(--mono);font-size:11px;color:var(--ink2);padding:4px 8px;border:1px solid var(--line);border-radius:5px}
+.listtools button:hover{color:var(--ink);border-color:var(--line2)}
+
+/* ---------- guide view ---------- */
+.guide{display:none;padding-top:8px}
+.guide.active{display:block}
+.explorer{display:none}
+.explorer.active{display:block}
+.guide h2{font-size:20px;letter-spacing:-.01em;margin:40px 0 6px;font-weight:650;text-wrap:balance}
+.guide h3{font-size:15px;margin:26px 0 6px;font-weight:650}
+.guide p{max-width:68ch;color:var(--ink);margin:10px 0}
+.guide p.muted{color:var(--ink2)}
+.guide .tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:7px;background:var(--surface);box-shadow:var(--shadow);margin:14px 0}
+.guide table{border-collapse:collapse;width:100%;font-size:13.5px}
+.guide th{font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink3);text-align:left;padding:10px 14px;border-bottom:1px solid var(--line2);background:var(--surface2)}
+.guide td{padding:9px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+.guide tr:last-child td{border-bottom:none}
+.guide td:first-child{font-weight:600;white-space:nowrap}
+.guide td:last-child{color:var(--ink2)}
+.bands{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:8px;margin:14px 0}
+.band{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+.band .bt{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.band .bv{font-size:13px;color:var(--ink2);margin-top:2px}
+.qlist{max-width:68ch;padding-left:1.2em;margin:10px 0}
+.qlist li{margin:6px 0;color:var(--ink)}
+.callout{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:6px;padding:14px 18px;max-width:76ch;margin:18px 0}
+.callout p{margin:6px 0}
+footer.site{margin-top:60px;padding-top:16px;border-top:1px solid var(--line);font-family:var(--mono);font-size:11px;color:var(--ink3)}
+</style>
+
+<div class="wrap">
+  <header class="site">
+    <p class="eyebrow">Reference · Rev {{REV}}</p>
+    <h1>Manufacturing Processes: A Practical Reference</h1>
+    <p class="lede">Manufacturing is a chain of processes — producing raw stock, shaping parts, joining assemblies, modifying properties and surfaces, and verifying the result. This guide catalogs {{N_PROCESSES}} processes across seven layers, from continuous casting to statistical process control.</p>
+    <div class="hdr-stats">
+      <div><b>{{N_PROCESSES}}</b>processes</div>
+      <div><b>{{N_PARTS}}</b>layers</div>
+      <div><b>{{N_GROUPS}}</b>process families</div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="tab-explorer" aria-selected="true" aria-controls="view-explorer">Process explorer</button>
+    <button role="tab" id="tab-guide" aria-selected="false" aria-controls="view-guide">Selection guide</button>
+  </nav>
+
+  <section id="view-explorer" class="explorer active" role="tabpanel" aria-labelledby="tab-explorer">
+    <div class="parts" id="partTiles"></div>
+
+    <div class="filters">
+      <div class="frow">
+        <label class="search">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.6 3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          <input id="q" type="search" placeholder="Search processes, examples, defects…" aria-label="Search processes">
+        </label>
+        <span class="rescount" id="resCount"></span>
+        <button class="clearbtn" id="clearAll">Reset filters</button>
+      </div>
+      <div class="facets">
+        <div class="facet"><span class="flabel">Material</span><span id="facet-mat"></span></div>
+        <div class="facet"><span class="flabel">Volume</span><span id="facet-vol"></span></div>
+        <div class="facet"><span class="flabel">Tooling</span><span id="facet-tool"></span></div>
+      </div>
+      <p class="fnote">Material, volume, and tooling tags are directional estimates added for filtering — typical cases, not universal limits. Volume bands: Prototype 1–10 · Low 10–1k · Medium 1k–100k · High 100k+ · Continuous (tons, meters, wafers, cells). Tooling &amp; NRE bands: Minimal &lt;$5k · Low $5–50k · Moderate $50–250k · High $250k–1M · Very high &gt;$1M.</p>
+    </div>
+
+    <div class="listtools">
+      <button id="expandAll">Expand all</button>
+      <button id="collapseAll">Collapse all</button>
+    </div>
+    <div id="list"></div>
+    <div class="empty" id="empty" hidden>
+      <p>No processes match the current filters.</p>
+      <p class="mono">Try clearing a facet or broadening the search.</p>
+    </div>
+  </section>
+
+  <section id="view-guide" class="guide" role="tabpanel" aria-labelledby="tab-guide">
+    <h2>How to choose a manufacturing process</h2>
+    <p class="muted">A serious process-selection framework must include both engineering feasibility and economic structure. A finished component usually combines several processes: an aircraft bracket might begin as a forged billet, then be CNC-machined, heat-treated, shot-peened, anodized, dimensionally inspected, and ultrasonically tested.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Material compatibility</td><td>Melting point, ductility, conductivity, chemistry, cure behavior, brittleness, and oxidation eliminate many processes immediately.</td></tr>
+        <tr><td>Geometry</td><td>Internal passages, undercuts, wall thickness, aspect ratio, symmetry, draft, and tool access govern manufacturability.</td></tr>
+        <tr><td>Size and mass</td><td>Press force, chamber size, furnace size, machine travel, lifting, and handling create hard limits.</td></tr>
+        <tr><td>Tolerance</td><td>Every process has a native accuracy range; forcing tighter tolerances usually requires secondary machining or inspection.</td></tr>
+        <tr><td>Surface finish</td><td>Surface condition affects appearance, friction, fatigue, sealing, cleanliness, optics, and coating adhesion.</td></tr>
+        <tr><td>Mechanical properties</td><td>Grain flow, porosity, fiber orientation, residual stress, heat treatment, and anisotropy may matter more than nominal material grade.</td></tr>
+        <tr><td>Production rate</td><td>Cycle time, cooling, curing, line speed, deposition rate, and setup time determine practical throughput.</td></tr>
+        <tr><td>Secondary operations</td><td>Deburring, machining, heat treatment, coating, joining, cleaning, and inspection may dominate total cost.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Tooling and NRE</td><td>Dies, molds, fixtures, programming, process development, qualification coupons, and validation determine upfront risk.</td></tr>
+        <tr><td>Breakeven volume</td><td>Low-tooling processes win at low volume; high-tooling processes often dominate at scale.</td></tr>
+        <tr><td>Yield and scrap</td><td>First-pass yield can matter more than nominal machine rate, especially in batteries, semiconductors, composites, optics, and high-value alloys.</td></tr>
+        <tr><td>Scrap recoverability</td><td>Metal chips may retain recycling value; cured thermosets, contaminated powders, mixed materials, and batteries may not.</td></tr>
+        <tr><td>Installed-base scarcity</td><td>Large presses, HIP vessels, autoclaves, large-envelope 5-axis machines, and precision optical equipment may have only a handful of qualified suppliers.</td></tr>
+        <tr><td>Capacity utilization</td><td>Continuous and capital-intensive processes become uneconomic when underutilized.</td></tr>
+        <tr><td>Qualification burden</td><td>Aerospace, medical, nuclear, automotive, and defense customers may require years of testing, source approval, audits, and process lock-down.</td></tr>
+        <tr><td>Switching cost</td><td>Requalifying a new supplier or process may cost far more than any apparent unit-price savings.</td></tr>
+        <tr><td>Inspection burden</td><td>A process that makes parts cheaply but requires 100% CT or extensive destructive testing may not be economical.</td></tr>
+        <tr><td>Process maturity</td><td>Laboratory feasibility does not guarantee stable yield, repeatability, maintenance, production uptime, or qualified equipment.</td></tr>
+        <tr><td>Supply-chain concentration</td><td>Feedstocks, specialty tooling, chemicals, machine vendors, and operators can create hidden single points of failure.</td></tr>
+        <tr><td>Environmental &amp; permitting</td><td>Solvents, plating baths, powders, explosives, radiation, emissions, and hazardous gases can determine site feasibility and launch time.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h2>Comparing processes quantitatively</h2>
+    <p class="muted">A useful process database should include more than descriptions. Each process should ideally record:</p>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Field</th><th>What to record</th></tr></thead>
+      <tbody>
+        <tr><td>Typical native tolerance</td><td>Before secondary machining.</td></tr>
+        <tr><td>Typical surface roughness</td><td>Usually Ra in micrometers or microinches.</td></tr>
+        <tr><td>Practical size range</td><td>Smallest and largest typical component.</td></tr>
+        <tr><td>Typical production volume</td><td>Prototype, low, medium, high, or continuous.</td></tr>
+        <tr><td>Tooling and NRE</td><td>Rough order of magnitude.</td></tr>
+        <tr><td>Machine capex</td><td>Rough order of magnitude.</td></tr>
+        <tr><td>Cycle time / throughput</td><td>Seconds, minutes, hours, meters per minute, wafers per hour, or tons per year.</td></tr>
+        <tr><td>Material utilization</td><td>Yield and primary scrap modes.</td></tr>
+        <tr><td>Common secondary ops</td><td>Machining, heat treatment, coating, cleaning, joining, inspection.</td></tr>
+        <tr><td>Main defect modes</td><td>Porosity, cracks, warpage, burrs, voids, contamination, delamination, inclusions.</td></tr>
+        <tr><td>Qualification difficulty</td><td>Low, moderate, high, or extreme.</td></tr>
+        <tr><td>Supplier scarcity</td><td>Commodity, specialized, scarce, or globally constrained.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Volume categories</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Prototype</div><div class="bv">1–10 parts</div></div>
+      <div class="band"><div class="bt">Low volume</div><div class="bv">10–1,000 parts</div></div>
+      <div class="band"><div class="bt">Medium volume</div><div class="bv">1,000–100,000 parts</div></div>
+      <div class="band"><div class="bt">High volume</div><div class="bv">100,000+ parts</div></div>
+      <div class="band"><div class="bt">Continuous</div><div class="bv">Tons, meters, m², wafers, cells, or other flow units</div></div>
+    </div>
+
+    <h3>Tooling-cost bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Minimal</div><div class="bv">Under $5,000</div></div>
+      <div class="band"><div class="bt">Low</div><div class="bv">$5,000–$50,000</div></div>
+      <div class="band"><div class="bt">Moderate</div><div class="bv">$50,000–$250,000</div></div>
+      <div class="band"><div class="bt">High</div><div class="bv">$250,000–$1M</div></div>
+      <div class="band"><div class="bt">Very high</div><div class="bv">Above $1M</div></div>
+    </div>
+    <p class="muted">These are directional categories, not universal quotes. Part size, material, geography, supplier availability, qualification, and production rate can shift actual costs by orders of magnitude.</p>
+
+    <h2>Why the continuous / discrete distinction matters</h2>
+    <p>A startup operating a continuous extrusion or rolling line is fundamentally different from one operating CNC machines, injection-molding presses, or additive-manufacturing systems. Continuous processes are usually driven by utilization, throughput, energy cost, and commodity-scale capital intensity; discrete manufacturing is more often driven by tooling, cycle time, part complexity, labor, yield, and qualification.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Manufacturing processes should not be compared solely by whether they can produce the same CAD shape. Two parts with identical geometry may behave very differently depending on whether they were cast, forged, machined, molded, printed, sintered, welded, or heat-treated. The process determines grain structure, porosity, anisotropy, residual stress, surface condition, defect population, inspectability, qualification burden, and eventual unit economics.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>Can the process make the geometry in the required material?</li>
+      <li>Can it achieve the necessary properties, tolerance, and finish?</li>
+      <li>Can defects be detected and controlled?</li>
+      <li>Can it scale to the required volume?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is the real yield?</li>
+      <li>What is the qualification burden?</li>
+      <li>How scarce is qualified capacity?</li>
+      <li>What fraction of cost comes from secondary operations and inspection?</li>
+      <li>How much utilization is needed to earn an acceptable return on equipment?</li>
+      <li>Is the process genuinely differentiated, or merely technically feasible?</li>
+      <li>Does the company control a bottleneck, or is it dependent on scarce upstream equipment, feedstocks, or suppliers?</li>
+    </ul>
+
+    <p class="muted">A manufacturing advantage is rarely just "a faster machine." Durable advantages usually arise from some combination of process know-how, qualification, yield, automation, proprietary tooling, difficult-to-replicate operating data, scarce installed capacity, and integration across multiple manufacturing steps.</p>
+
+    <footer class="site">MANUFACTURING PROCESSES REFERENCE · {{N_PROCESSES}} PROCESSES · TAGS ARE DIRECTIONAL ESTIMATES · <a href="{{REPO_URL}}" style="color:var(--accent)">SOURCE ON GITHUB</a></footer>
+  </section>
+</div>

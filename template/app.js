@@ -1,0 +1,152 @@
+// ---------------- APP ----------------
+const state = { q:"", parts:new Set(), mats:new Set(), vols:new Set(), tools:new Set() };
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+
+// Precompute search haystack
+P.forEach(x => {
+  x._hay = (x.n+" "+x.name+" "+x.g+" "+x.d+" "+x.sw+" "+(x.ex||"")+" "+(x.ec||"")+" "+
+    (x.v ? x.v.map(v=>v.t+" "+v.d).join(" ") : "")).toLowerCase();
+});
+
+function volLabel(vol){
+  if(!vol.length) return null;
+  const idx = vol.map(v=>VOL_ORDER.indexOf(v)).sort((a,b)=>a-b);
+  const first = VOLS[VOL_ORDER[idx[0]]], last = VOLS[VOL_ORDER[idx[idx.length-1]]];
+  return first===last ? "Vol: "+first : "Vol: "+first+"–"+last;
+}
+
+function matches(x){
+  if(state.parts.size && !state.parts.has(x.p)) return false;
+  if(state.mats.size && !x.mat.some(m=>state.mats.has(m))) return false;
+  if(state.vols.size && !x.vol.some(v=>state.vols.has(v))) return false;
+  if(state.tools.size && !(x.tool && state.tools.has(x.tool))) return false;
+  if(state.q && !x._hay.includes(state.q)) return false;
+  return true;
+}
+
+function cardHTML(x){
+  const part = PARTS[x.p-1];
+  const tags = [];
+  x.mat.forEach(m=>tags.push('<span class="tag">'+MATS[m]+'</span>'));
+  const vl = volLabel(x.vol);
+  if(vl) tags.push('<span class="tag">'+vl+'</span>');
+  if(x.tool) tags.push('<span class="tag tool">Tooling: '+TOOLS[x.tool]+'</span>');
+  let body = '<p>'+esc(x.d)+'</p>';
+  body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+esc(x.sw)+'</p>';
+  if(x.v){
+    body += '<span class="lab">Variants</span><div class="variants">'+
+      x.v.map(v=>'<div class="variant"><b>'+esc(v.t)+'</b><p>'+esc(v.d)+'</p></div>').join("")+'</div>';
+  }
+  if(x.ex) body += '<span class="lab">Examples</span><p class="ex" style="margin-top:2px">'+esc(x.ex)+'</p>';
+  if(x.ec) body += '<span class="lab">Economic profile</span><p class="ex" style="margin-top:2px">'+esc(x.ec)+'</p>';
+  return '<div class="card" style="--pc:'+part.color+'" data-n="'+x.n+'">'+
+    '<button class="chead" aria-expanded="false">'+
+      '<span class="cnum">'+String(x.n).padStart(3,"0")+'</span>'+
+      '<span class="cname">'+esc(x.name)+'</span>'+
+      '<span class="ctags">'+tags.join("")+
+      '<svg class="caret" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M3 1.5L7 5L3 8.5" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>'+
+    '</button><div class="cbody">'+body+'</div></div>';
+}
+
+function render(){
+  const hits = P.filter(matches);
+  const listEl = $("list");
+  let html = "", lastKey = "";
+  hits.forEach(x=>{
+    const part = PARTS[x.p-1];
+    const key = x.p+"|"+x.g;
+    if(key!==lastKey){
+      lastKey = key;
+      const count = hits.filter(h=>h.p===x.p && h.g===x.g).length;
+      html += '<div class="grouphdr" style="--pc:'+part.color+'">'+
+        '<span class="gp">Part '+part.roman+'</span><h2>'+esc(x.g)+'</h2>'+
+        '<span class="gc">'+count+(count===1?' process':' processes')+'</span></div>';
+    }
+    html += cardHTML(x);
+  });
+  listEl.innerHTML = html;
+  $("empty").hidden = hits.length>0;
+  $("resCount").textContent = hits.length+" / "+P.length;
+  // part tile counts + pressed state
+  PARTS.forEach(part=>{
+    const t = document.querySelector('.ptile[data-p="'+part.id+'"]');
+    if(!t) return;
+    const c = hits.filter(h=>h.p===part.id).length;
+    t.querySelector(".pc").textContent = c+" of "+P.filter(h=>h.p===part.id).length;
+    t.setAttribute("aria-pressed", state.parts.has(part.id) ? "true" : "false");
+  });
+}
+
+// ----- build part tiles -----
+$("partTiles").innerHTML = PARTS.map(part=>
+  '<button class="ptile" data-p="'+part.id+'" style="--pc:'+part.color+'" aria-pressed="false">'+
+  '<span class="pn">Part '+part.roman+'</span>'+
+  '<span class="pt" style="display:block">'+part.name+'</span>'+
+  '<span class="pc"></span></button>').join("");
+$("partTiles").addEventListener("click", e=>{
+  const t = e.target.closest(".ptile"); if(!t) return;
+  const id = +t.dataset.p;
+  state.parts.has(id) ? state.parts.delete(id) : state.parts.add(id);
+  render();
+});
+
+// ----- build facet chips -----
+function buildFacet(elId, entries, set){
+  $(elId).innerHTML = entries.map(([k,label])=>
+    '<button class="fchip" data-k="'+k+'" aria-pressed="false">'+label+'</button>').join(" ");
+  $(elId).addEventListener("click", e=>{
+    const c = e.target.closest(".fchip"); if(!c) return;
+    const k = c.dataset.k;
+    set.has(k) ? set.delete(k) : set.add(k);
+    c.setAttribute("aria-pressed", set.has(k) ? "true" : "false");
+    render();
+  });
+}
+const matOrder = ["metal","polymer","rubber","ceramic","glass","composite","wood","textile","semi","multi","other"];
+buildFacet("facet-mat", matOrder.map(k=>[k,MATS[k]]), state.mats);
+buildFacet("facet-vol", VOL_ORDER.map(k=>[k,{proto:"Prototype",low:"Low",med:"Medium",high:"High",cont:"Continuous"}[k]]), state.vols);
+buildFacet("facet-tool", Object.entries(TOOLS), state.tools);
+
+// ----- search -----
+let qt;
+$("q").addEventListener("input", e=>{
+  clearTimeout(qt);
+  qt = setTimeout(()=>{ state.q = e.target.value.trim().toLowerCase(); render(); }, 120);
+});
+
+// ----- clear -----
+$("clearAll").addEventListener("click", ()=>{
+  state.q=""; $("q").value="";
+  state.parts.clear(); state.mats.clear(); state.vols.clear(); state.tools.clear();
+  document.querySelectorAll(".fchip[aria-pressed='true']").forEach(c=>c.setAttribute("aria-pressed","false"));
+  render();
+});
+
+// ----- expand / collapse -----
+$("list").addEventListener("click", e=>{
+  const h = e.target.closest(".chead"); if(!h) return;
+  const card = h.parentElement;
+  const open = card.classList.toggle("open");
+  h.setAttribute("aria-expanded", open ? "true" : "false");
+});
+$("expandAll").addEventListener("click", ()=>{
+  document.querySelectorAll("#list .card").forEach(c=>{c.classList.add("open");c.querySelector(".chead").setAttribute("aria-expanded","true");});
+});
+$("collapseAll").addEventListener("click", ()=>{
+  document.querySelectorAll("#list .card").forEach(c=>{c.classList.remove("open");c.querySelector(".chead").setAttribute("aria-expanded","false");});
+});
+
+// ----- tabs -----
+const tabs = [["tab-explorer","view-explorer"],["tab-guide","view-guide"]];
+tabs.forEach(([tid,vid])=>{
+  $(tid).addEventListener("click", ()=>{
+    tabs.forEach(([t2,v2])=>{
+      $(t2).setAttribute("aria-selected", t2===tid ? "true" : "false");
+      $(v2).classList.toggle("active", v2===vid);
+    });
+    window.scrollTo({top:0});
+  });
+});
+
+render();
