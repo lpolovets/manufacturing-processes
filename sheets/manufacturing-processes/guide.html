@@ -1,0 +1,104 @@
+    <h2>How to choose a manufacturing process</h2>
+    <p class="muted">A serious process-selection framework must include both engineering feasibility and economic structure. A finished component usually combines several processes: an aircraft bracket might begin as a forged billet, then be CNC-machined, heat-treated, shot-peened, anodized, dimensionally inspected, and ultrasonically tested.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Material compatibility</td><td>Melting point, ductility, conductivity, chemistry, cure behavior, brittleness, and oxidation eliminate many processes immediately.</td></tr>
+        <tr><td>Geometry</td><td>Internal passages, undercuts, wall thickness, aspect ratio, symmetry, draft, and tool access govern manufacturability.</td></tr>
+        <tr><td>Size and mass</td><td>Press force, chamber size, furnace size, machine travel, lifting, and handling create hard limits.</td></tr>
+        <tr><td>Tolerance</td><td>Every process has a native accuracy range; forcing tighter tolerances usually requires secondary machining or inspection.</td></tr>
+        <tr><td>Surface finish</td><td>Surface condition affects appearance, friction, fatigue, sealing, cleanliness, optics, and coating adhesion.</td></tr>
+        <tr><td>Mechanical properties</td><td>Grain flow, porosity, fiber orientation, residual stress, heat treatment, and anisotropy may matter more than nominal material grade.</td></tr>
+        <tr><td>Production rate</td><td>Cycle time, cooling, curing, line speed, deposition rate, and setup time determine practical throughput.</td></tr>
+        <tr><td>Secondary operations</td><td>Deburring, machining, heat treatment, coating, joining, cleaning, and inspection may dominate total cost.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Tooling and NRE</td><td>Dies, molds, fixtures, programming, process development, qualification coupons, and validation determine upfront risk.</td></tr>
+        <tr><td>Breakeven volume</td><td>Low-tooling processes win at low volume; high-tooling processes often dominate at scale.</td></tr>
+        <tr><td>Yield and scrap</td><td>First-pass yield can matter more than nominal machine rate, especially in batteries, semiconductors, composites, optics, and high-value alloys.</td></tr>
+        <tr><td>Scrap recoverability</td><td>Metal chips may retain recycling value; cured thermosets, contaminated powders, mixed materials, and batteries may not.</td></tr>
+        <tr><td>Installed-base scarcity</td><td>Large presses, HIP vessels, autoclaves, large-envelope 5-axis machines, and precision optical equipment may have only a handful of qualified suppliers.</td></tr>
+        <tr><td>Capacity utilization</td><td>Continuous and capital-intensive processes become uneconomic when underutilized.</td></tr>
+        <tr><td>Qualification burden</td><td>Aerospace, medical, nuclear, automotive, and defense customers may require years of testing, source approval, audits, and process lock-down.</td></tr>
+        <tr><td>Switching cost</td><td>Requalifying a new supplier or process may cost far more than any apparent unit-price savings.</td></tr>
+        <tr><td>Inspection burden</td><td>A process that makes parts cheaply but requires 100% CT or extensive destructive testing may not be economical.</td></tr>
+        <tr><td>Process maturity</td><td>Laboratory feasibility does not guarantee stable yield, repeatability, maintenance, production uptime, or qualified equipment.</td></tr>
+        <tr><td>Supply-chain concentration</td><td>Feedstocks, specialty tooling, chemicals, machine vendors, and operators can create hidden single points of failure.</td></tr>
+        <tr><td>Environmental &amp; permitting</td><td>Solvents, plating baths, powders, explosives, radiation, emissions, and hazardous gases can determine site feasibility and launch time.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h2>Comparing processes quantitatively</h2>
+    <p class="muted">A useful process database should include more than descriptions. Each process should ideally record:</p>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Field</th><th>What to record</th></tr></thead>
+      <tbody>
+        <tr><td>Typical native tolerance</td><td>Before secondary machining.</td></tr>
+        <tr><td>Typical surface roughness</td><td>Usually Ra in micrometers or microinches.</td></tr>
+        <tr><td>Practical size range</td><td>Smallest and largest typical component.</td></tr>
+        <tr><td>Typical production volume</td><td>Prototype, low, medium, high, or continuous.</td></tr>
+        <tr><td>Tooling and NRE</td><td>Rough order of magnitude.</td></tr>
+        <tr><td>Machine capex</td><td>Rough order of magnitude.</td></tr>
+        <tr><td>Cycle time / throughput</td><td>Seconds, minutes, hours, meters per minute, wafers per hour, or tons per year.</td></tr>
+        <tr><td>Material utilization</td><td>Yield and primary scrap modes.</td></tr>
+        <tr><td>Common secondary ops</td><td>Machining, heat treatment, coating, cleaning, joining, inspection.</td></tr>
+        <tr><td>Main defect modes</td><td>Porosity, cracks, warpage, burrs, voids, contamination, delamination, inclusions.</td></tr>
+        <tr><td>Qualification difficulty</td><td>Low, moderate, high, or extreme.</td></tr>
+        <tr><td>Supplier scarcity</td><td>Commodity, specialized, scarce, or globally constrained.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Volume categories</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Prototype</div><div class="bv">1–10 parts</div></div>
+      <div class="band"><div class="bt">Low volume</div><div class="bv">10–1,000 parts</div></div>
+      <div class="band"><div class="bt">Medium volume</div><div class="bv">1,000–100,000 parts</div></div>
+      <div class="band"><div class="bt">High volume</div><div class="bv">100,000+ parts</div></div>
+      <div class="band"><div class="bt">Continuous</div><div class="bv">Tons, meters, m², wafers, cells, or other flow units</div></div>
+    </div>
+
+    <h3>Tooling-cost bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Minimal</div><div class="bv">Under $5,000</div></div>
+      <div class="band"><div class="bt">Low</div><div class="bv">$5,000–$50,000</div></div>
+      <div class="band"><div class="bt">Moderate</div><div class="bv">$50,000–$250,000</div></div>
+      <div class="band"><div class="bt">High</div><div class="bv">$250,000–$1M</div></div>
+      <div class="band"><div class="bt">Very high</div><div class="bv">Above $1M</div></div>
+    </div>
+    <p class="muted">These are directional categories, not universal quotes. Part size, material, geography, supplier availability, qualification, and production rate can shift actual costs by orders of magnitude.</p>
+
+    <h2>Why the continuous / discrete distinction matters</h2>
+    <p>A startup operating a continuous extrusion or rolling line is fundamentally different from one operating CNC machines, injection-molding presses, or additive-manufacturing systems. Continuous processes are usually driven by utilization, throughput, energy cost, and commodity-scale capital intensity; discrete manufacturing is more often driven by tooling, cycle time, part complexity, labor, yield, and qualification.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Manufacturing processes should not be compared solely by whether they can produce the same CAD shape. Two parts with identical geometry may behave very differently depending on whether they were cast, forged, machined, molded, printed, sintered, welded, or heat-treated. The process determines grain structure, porosity, anisotropy, residual stress, surface condition, defect population, inspectability, qualification burden, and eventual unit economics.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>Can the process make the geometry in the required material?</li>
+      <li>Can it achieve the necessary properties, tolerance, and finish?</li>
+      <li>Can defects be detected and controlled?</li>
+      <li>Can it scale to the required volume?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is the real yield?</li>
+      <li>What is the qualification burden?</li>
+      <li>How scarce is qualified capacity?</li>
+      <li>What fraction of cost comes from secondary operations and inspection?</li>
+      <li>How much utilization is needed to earn an acceptable return on equipment?</li>
+      <li>Is the process genuinely differentiated, or merely technically feasible?</li>
+      <li>Does the company control a bottleneck, or is it dependent on scarce upstream equipment, feedstocks, or suppliers?</li>
+    </ul>
+
+    <p class="muted">A manufacturing advantage is rarely just "a faster machine." Durable advantages usually arise from some combination of process know-how, qualification, yield, automation, proprietary tooling, difficult-to-replicate operating data, scarce installed capacity, and integration across multiple manufacturing steps.</p>

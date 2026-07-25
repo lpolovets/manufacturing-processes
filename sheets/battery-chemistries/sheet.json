@@ -1,0 +1,98 @@
+{
+  "slug": "battery-chemistries",
+  "docTitle": "Battery Chemistries Reference",
+  "shortTitle": "Battery Chemistries",
+  "blurb": "Lithium-ion and beyond — energy, power, cycle life, safety, and cost trade-offs across rechargeable, primary, and grid-scale chemistries.",
+  "title": "Battery Chemistries: A Practical Reference",
+  "lede": "A battery is a chemistry packaged as an electrochemical system — electrodes, electrolyte, and cell engineering traded off against energy, power, life, safety, and cost. This guide catalogs {{N_ENTRIES}} chemistries across seven classes, from mass-produced lithium-ion to flow batteries and research frontiers.",
+  "unit": ["chemistry", "chemistries"],
+  "groupLabel": "Class",
+  "explorerTab": "Chemistry explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search chemistries, applications, trade-offs…",
+  "stats": [
+    { "count": "entries", "label": "chemistries" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Commercial Lithium-Ion", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Next-Generation Lithium", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Sodium & Other Alkali-Ion", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Lead-Acid & Nickel", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Zinc & Metal-Air", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Flow Batteries", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Primary Lithium & Specialty", "color": "var(--p7)" }
+  ],
+  "facets": [
+    {
+      "id": "app",
+      "key": "applications",
+      "label": "Application",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Directional tags for where each chemistry is mainly used or targeted today — not exhaustive.",
+      "order": ["ev", "grid", "consumer", "industrial", "aero", "medical"],
+      "options": {
+        "ev": "EV & mobility",
+        "grid": "Grid & stationary",
+        "consumer": "Consumer devices",
+        "industrial": "Industrial & backup",
+        "aero": "Aerospace & defense",
+        "medical": "Medical & wearables"
+      }
+    },
+    {
+      "id": "nrg",
+      "key": "energy",
+      "label": "Energy",
+      "type": "single",
+      "color": "--fb",
+      "tagPrefix": "Wh/kg",
+      "tip": "Typical cell-level gravimetric energy density band (system-level for flow batteries). Format, generation, and chemistry tuning shift real products within and across bands.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<60", "low": "60–120", "med": "120–180", "high": "180–260", "vhigh": "260+" }
+    },
+    {
+      "id": "cyc",
+      "key": "cycles",
+      "label": "Cycle life",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Cycles",
+      "tip": "Directional full-cycle life to ~80% capacity at moderate rate, depth of discharge, and temperature — real conditions can shift this by multiples. Primary (non-rechargeable) chemistries carry no tag.",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "<500", "med": "500–2k", "high": "2k–5k", "vhigh": "5k+" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "$/kWh",
+      "required": true,
+      "tip": "Directional average price per kWh: cell-level for mainstream rechargeables, system-level for flow and grid products, contained energy at street prices for primaries, and sample-scale pricing for pilot/R&D chemistries. Real quotes move with volume, format, and commodity prices.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<100", "low": "100–200", "med": "200–400", "high": "400–1k", "vhigh": "1k+" },
+      "chipLabels": { "vlow": "<$100", "low": "$100–200", "med": "$200–400", "high": "$400–1k", "vhigh": "$1k+" }
+    },
+    {
+      "id": "mtr",
+      "key": "maturity",
+      "label": "Maturity",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Mass production = multi-GWh global supply chains · Commercial = established products at smaller scale · Pilot = demonstration or early commercial · R&D = lab and startup stage.",
+      "order": ["mass", "comm", "pilot", "rd"],
+      "options": { "mass": "Mass production", "comm": "Commercial", "pilot": "Pilot / early", "rd": "R&D" }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}

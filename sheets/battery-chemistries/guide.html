@@ -1,0 +1,102 @@
+    <h2>How to choose a battery chemistry</h2>
+    <p class="muted">There is no best battery — only a best fit. Every chemistry is a bundle of trade-offs among energy, power, cycle life, calendar life, safety, temperature range, and cost, and the application defines which of those dominate. A drone, a pacemaker, a grid container, and a torpedo all want radically different batteries.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Gravimetric energy density</td><td>Wh/kg governs range and endurance in anything that moves — vehicles, aircraft, wearables.</td></tr>
+        <tr><td>Volumetric energy density</td><td>Wh/L often binds before Wh/kg in phones, laptops, and tightly packaged vehicle floors.</td></tr>
+        <tr><td>Power &amp; rate capability</td><td>W/kg and sustained C-rate determine acceleration, fast charge, and power-tool or defense pulse loads.</td></tr>
+        <tr><td>Cycle life</td><td>Full cycles to ~80% capacity sets replacement economics; depth of discharge, rate, and temperature can shift it by multiples.</td></tr>
+        <tr><td>Calendar life</td><td>Cells degrade sitting still; automotive and grid projects need 10–20 year calendar life independent of cycling.</td></tr>
+        <tr><td>Safety &amp; abuse tolerance</td><td>Thermal-runaway onset, oxygen release, and flammable electrolyte decide pack complexity, certification, and where the battery may live.</td></tr>
+        <tr><td>Temperature range</td><td>Low-temperature power fade and high-temperature degradation eliminate chemistries for cold climates, downhole, engine bays, and space.</td></tr>
+        <tr><td>Voltage &amp; discharge curve</td><td>Cell voltage sets series count and electronics; flat curves (LFP) complicate state-of-charge estimation, sloped ones (NMC) ease it.</td></tr>
+        <tr><td>Self-discharge &amp; shelf life</td><td>Reserve, medical, and IoT applications may need 10–20 year shelf life that only primary chemistries deliver.</td></tr>
+        <tr><td>Round-trip efficiency</td><td>Every point of loss is bought twice in grid storage — charged in and never sold back out.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cell cost ($/kWh)</td><td>The headline metric, but only at the cell level; pack integration, BMS, thermal management, and yield gap it from system cost.</td></tr>
+        <tr><td>Levelized cost ($/kWh-cycle)</td><td>For storage, cost per delivered cycle — cell cost divided by usable cycles times efficiency — matters more than upfront $/kWh.</td></tr>
+        <tr><td>Materials supply chain</td><td>Lithium, cobalt, nickel, graphite, and vanadium each carry concentration, geopolitical, and price-swing risk that chemistry choice can dodge or embrace.</td></tr>
+        <tr><td>Manufacturing scale &amp; capex</td><td>Gigafactories cost $50–150M+ per GWh; chemistries that reuse existing Li-ion lines (LFP, Na-ion, LMFP) scale far faster than those that don't.</td></tr>
+        <tr><td>Incumbent learning curve</td><td>Li-ion costs fall ~15–20% per doubling of cumulative volume; a challenger must beat where Li-ion will be at its own maturity, not where it is today.</td></tr>
+        <tr><td>Yield &amp; formation</td><td>First-pass yield and days-long formation cycling dominate cell economics; new chemistries usually start far down the yield curve.</td></tr>
+        <tr><td>Qualification cycles</td><td>Automotive design-ins run 3–5 years; aerospace and medical longer. Revenue lags technical success by years.</td></tr>
+        <tr><td>Safety certification &amp; transport</td><td>UN 38.3, UL, and shipping rules for lithium cells add cost and constrain logistics; some chemistries (aqueous, solid-state) promise relief.</td></tr>
+        <tr><td>Recycling &amp; second life</td><td>Nickel and cobalt carry recoverable value; LFP and sodium recycle for less than the recovery cost, shifting end-of-life economics.</td></tr>
+        <tr><td>Switching cost</td><td>A pack, BMS, and factory tuned for one chemistry rarely accepts another without requalification — wins compound, losses persist.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h2>Comparing chemistries quantitatively</h2>
+    <p class="muted">A useful chemistry database should include more than descriptions. Each chemistry should ideally record:</p>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Field</th><th>What to record</th></tr></thead>
+      <tbody>
+        <tr><td>Nominal voltage</td><td>Per cell, with the discharge-curve shape.</td></tr>
+        <tr><td>Energy density</td><td>Wh/kg and Wh/L at cell level, and at pack/system level for the intended format.</td></tr>
+        <tr><td>Power density</td><td>W/kg continuous and pulse; maximum sustained charge and discharge C-rate.</td></tr>
+        <tr><td>Cycle life</td><td>Cycles to 80% at a stated depth of discharge, rate, and temperature.</td></tr>
+        <tr><td>Calendar life</td><td>Years to 80% at a stated temperature and state of charge.</td></tr>
+        <tr><td>Temperature window</td><td>Operating and survival range, for charge and discharge separately.</td></tr>
+        <tr><td>Self-discharge</td><td>Percent per month, and shelf life for primaries.</td></tr>
+        <tr><td>Round-trip efficiency</td><td>At the application's realistic rate.</td></tr>
+        <tr><td>Cost</td><td>$/kWh at cell and system level, at current and projected volume.</td></tr>
+        <tr><td>Safety behavior</td><td>Thermal-runaway onset temperature, failure modes, propagation behavior.</td></tr>
+        <tr><td>Supply chain</td><td>Critical materials, their concentration, and processing chokepoints.</td></tr>
+        <tr><td>Manufacturability</td><td>Line compatibility with standard Li-ion equipment, formation time, yield maturity.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Energy-density bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">&lt;60 Wh/kg</div><div class="bv">Flow batteries, lead-acid, NiFe — stationary or cost-driven roles</div></div>
+      <div class="band"><div class="bt">60–120 Wh/kg</div><div class="bv">NiMH, LTO, NiZn — robustness or rate over energy</div></div>
+      <div class="band"><div class="bt">120–180 Wh/kg</div><div class="bv">LFP, Na-ion — the cost-optimized mainstream</div></div>
+      <div class="band"><div class="bt">180–260 Wh/kg</div><div class="bv">NMC, LCO, LMFP — energy-optimized commercial Li-ion</div></div>
+      <div class="band"><div class="bt">260+ Wh/kg</div><div class="bv">NCA, silicon anodes, Li-metal, Li-S, primary lithium</div></div>
+    </div>
+
+    <h3>Cycle-life bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">&lt;500</div><div class="bv">Lead-acid SLI, silver-zinc, early Li-metal</div></div>
+      <div class="band"><div class="bt">500–2,000</div><div class="bv">Consumer Li-ion, NiMH, NiCd, deep-cycle lead</div></div>
+      <div class="band"><div class="bt">2,000–5,000</div><div class="bv">LFP, Na-ion, Na-S — EV and daily-cycled storage</div></div>
+      <div class="band"><div class="bt">5,000+</div><div class="bv">LTO, flow batteries, NiFe, Ni-H2 — infrastructure-grade</div></div>
+    </div>
+    <p class="muted">These are directional categories, not datasheet values. Depth of discharge, rate, temperature, and cutoff definitions move real numbers by large factors, and vendor claims are usually measured under the gentlest defensible conditions.</p>
+
+    <h2>Why lithium-ion keeps winning</h2>
+    <p>Since 1991, lithium-ion cell prices have fallen roughly two orders of magnitude while energy density tripled — a learning curve powered by consumer electronics, then EVs, now grid storage. Any challenger chemistry must intercept where Li-ion will be after another decade of ~15–20% cost decline per volume doubling, using a supply chain and manufacturing base that do not yet exist. This is why most successful "beyond Li-ion" efforts either reuse Li-ion factories (LFP, LMFP, sodium-ion) or retreat to niches Li-ion serves poorly: very long duration, extreme temperature, extreme cycle life, absolute safety, or ultra-low cost per cycle.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Chemistries should not be compared by single headline numbers. A cell that wins on Wh/kg may lose on $/kWh-cycle, safety certification, cold-weather power, or the simple existence of a supply chain. The right comparison is the application's full merit function — energy, power, life, safety, temperature, and cost, weighted the way the use case actually weights them — evaluated at the volume and date the product will ship.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>Does the chemistry meet the energy and power budget in the real operating envelope — including cold, heat, and end of life?</li>
+      <li>Do cycle and calendar life cover the product's warranty at the actual depth of discharge and duty cycle?</li>
+      <li>Can the pack meet safety and certification requirements without erasing the cell's advantages?</li>
+      <li>Is the supply chain for cells and materials real at the required volume and date?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What does the technology cost per kWh-cycle at maturity, and does that beat where incumbent Li-ion will be by then?</li>
+      <li>Is the claimed advantage measured at cell level under realistic conditions, or extrapolated from lab coin cells?</li>
+      <li>Can it be made on existing Li-ion lines, or does it need a new manufacturing ecosystem — and who funds that?</li>
+      <li>What is the real first-pass yield, and how long is the qualification path to first meaningful revenue?</li>
+      <li>Which niche does it win outright, and is that niche big enough to fund the climb down the cost curve?</li>
+      <li>Does the company control genuinely differentiated chemistry or process know-how, or only a head start on engineering?</li>
+    </ul>
+
+    <p class="muted">A battery advantage is rarely just "better chemistry." Durable advantages usually combine materials know-how, manufacturing yield, scale, supply-chain position, qualification wins, and field data — which is why chemistry transitions take decades and why incumbents so often absorb innovations rather than being displaced by them.</p>

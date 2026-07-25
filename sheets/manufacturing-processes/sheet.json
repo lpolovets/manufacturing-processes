@@ -1,0 +1,79 @@
+{
+  "slug": "manufacturing-processes",
+  "docTitle": "Manufacturing Processes Reference",
+  "shortTitle": "Manufacturing Processes",
+  "blurb": "Producing stock, shaping parts, joining, surface and property modification, semiconductors, optics, and inspection — with selection guidance.",
+  "title": "Manufacturing Processes: A Practical Reference",
+  "lede": "Manufacturing is a chain of processes — producing raw stock, shaping parts, joining assemblies, modifying properties and surfaces, and verifying the result. This guide catalogs {{N_ENTRIES}} processes across seven layers, from continuous casting to statistical process control.",
+  "unit": ["process", "processes"],
+  "groupLabel": "Part",
+  "explorerTab": "Process explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search processes, examples, defects…",
+  "stats": [
+    { "count": "entries", "label": "processes" },
+    { "count": "parts", "label": "layers" },
+    { "count": "groups", "label": "process families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Primary & Continuous Stock", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Discrete-Part Shaping", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Joining & Assembly", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Surface & Property Modification", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Semiconductor & Microscale", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Precision Optics", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Inspection & Process Control", "color": "var(--p7)" }
+  ],
+  "facets": [
+    {
+      "id": "mat",
+      "key": "materials",
+      "label": "Material",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tip": "Material tags are directional estimates added for filtering — typical cases, not universal limits.",
+      "order": ["metal", "polymer", "rubber", "ceramic", "glass", "composite", "wood", "textile", "semi", "multi", "other"],
+      "options": {
+        "metal": "Metal",
+        "polymer": "Polymer",
+        "rubber": "Rubber",
+        "ceramic": "Ceramic",
+        "glass": "Glass",
+        "composite": "Composite",
+        "wood": "Wood & paper",
+        "textile": "Textile & fiber",
+        "semi": "Semiconductor",
+        "multi": "Multi-material",
+        "other": "Other"
+      }
+    },
+    {
+      "id": "vol",
+      "key": "volumes",
+      "label": "Volume",
+      "type": "range",
+      "color": "--fb",
+      "tagPrefix": "Vol",
+      "tip": "Directional volume bands: Prototype 1–10 · Low 10–1,000 · Medium 1k–100k · High 100k+ · Continuous (tons, meters, wafers, cells).",
+      "order": ["proto", "low", "med", "high", "cont"],
+      "options": { "proto": "Proto", "low": "Low", "med": "Med", "high": "High", "cont": "Cont" },
+      "chipLabels": { "proto": "Prototype", "low": "Low", "med": "Medium", "high": "High", "cont": "Continuous" }
+    },
+    {
+      "id": "tool",
+      "key": "tooling",
+      "label": "Tooling",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Tooling",
+      "tip": "Directional tooling & NRE bands: Minimal <$5k · Low $5–50k · Moderate $50–250k · High $250k–1M · Very high >$1M. Size, material, and qualification can shift real costs by orders of magnitude.",
+      "order": ["min", "low", "mod", "high", "vhigh"],
+      "options": { "min": "Minimal", "low": "Low", "mod": "Moderate", "high": "High", "vhigh": "Very high" }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}

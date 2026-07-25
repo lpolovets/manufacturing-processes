@@ -1,0 +1,23 @@
+---
+number: 29
+name: Nickel-Cadmium (NiCd)
+part: 4
+group: Nickel
+applications: [aero, industrial]
+energy: vlow
+cycles: med
+cost: high
+maturity: comm
+---
+
+## Description
+Nickel oxyhydroxide positive, cadmium negative, potassium hydroxide electrolyte: the rugged rechargeable of the 20th century. NiCd delivers hard current at -40 °C, shrugs off overcharge and deep discharge, and fails gradually and predictably — which is why certified aircraft still start their turbines with vented NiCd batteries decades after consumer NiCd was legislated away over cadmium toxicity (EU bans with aviation/medical exemptions).
+
+## Strengths and weaknesses
+Exceptional abuse tolerance, temperature range, and shelf robustness; predictable failure modes suited to certification; flat discharge curve; long calendar life with maintenance. Weaknesses: cadmium is toxic and regulated; low specific energy; the famous "memory effect" (voltage depression under repetitive shallow cycling); self-discharge is high; costs more than lead for less energy.
+
+## Examples
+Turbine-engine start batteries (Saft, Marathon Norco) on airliners and helicopters; rail rolling stock; emergency power in refineries and substations; legacy power tools now fully converted to Li-ion.
+
+## Economic profile
+A shrinking but sticky installed base: certification moats in aviation and rail keep prices and margins high while regulation forecloses growth. Saft dominates the surviving aerospace segment. Analytically interesting as the template for how a chemistry exits — niche by niche, held longest where requalification costs most.

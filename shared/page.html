@@ -1,0 +1,54 @@
+<style>
+{{STYLE}}
+</style>
+
+<div class="wrap">
+  <header class="site">
+    <div class="hdr-top">
+{{LOGO}}
+    </div>
+    <h1>{{TITLE}}</h1>
+    <p class="lede">{{LEDE}}</p>
+    <div class="hdr-stats">
+{{STATS}}
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="tab-explorer" aria-selected="true" aria-controls="view-explorer">{{EXPLORER_TAB}}</button>
+    <button role="tab" id="tab-guide" aria-selected="false" aria-controls="view-guide">{{GUIDE_TAB}}</button>
+  </nav>
+
+  <section id="view-explorer" class="explorer active" role="tabpanel" aria-labelledby="tab-explorer">
+    <div class="parts" id="partTiles"></div>
+
+    <div class="filters">
+      <div class="frow">
+        <label class="search">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.6 3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          <input id="q" type="search" placeholder="{{SEARCH_PLACEHOLDER}}" aria-label="Search">
+        </label>
+        <span class="rescount" id="resCount"></span>
+        <button class="clearbtn" id="clearAll">Reset filters</button>
+      </div>
+      <div class="facets">
+{{FACETS}}
+      </div>
+    </div>
+
+    <div class="listtools">
+      <button id="expandAll">Expand all</button>
+      <button id="collapseAll">Collapse all</button>
+    </div>
+    <div id="list"></div>
+    <div class="empty" id="empty" hidden>
+      <p>No {{UNIT_PLURAL}} match the current filters.</p>
+      <p class="mono">Try clearing a facet or broadening the search.</p>
+    </div>
+  </section>
+
+  <section id="view-guide" class="guide" role="tabpanel" aria-labelledby="tab-guide">
+{{GUIDE}}
+  </section>
+  <footer class="site">&copy; {{YEAR}} HUMBA VENTURES</footer>
+</div>

@@ -1,38 +1,62 @@
 // ---------------- APP ----------------
-const state = { q:"", parts:new Set(), mats:new Set(), vols:new Set(), tools:new Set() };
+// Generic explorer engine. The build injects:
+//   SHEET    - config: unit, groupLabel, parts, facets
+//   P        - entries: {n, p, g, name, d, sw, f:{facetId: value|[values]}, v?, vid?, extra?}
+//   EMBED_OK - false in the claude.ai artifact flavor (no external requests)
+const state = { q:"", parts:new Set(), f:{} };
+SHEET.facets.forEach(f => state.f[f.id] = new Set());
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 
 // Precompute search haystack
 P.forEach(x => {
-  x._hay = (x.n+" "+x.name+" "+x.g+" "+x.d+" "+x.sw+" "+(x.ex||"")+" "+(x.ec||"")+" "+
+  x._hay = (x.n+" "+x.name+" "+x.g+" "+x.d+" "+x.sw+" "+
+    (x.extra ? x.extra.map(e=>e[1]).join(" ") : "")+" "+
     (x.v ? x.v.map(v=>v.t+" "+v.d).join(" ") : "")).toLowerCase();
 });
 
-function volLabel(vol){
-  if(!vol.length) return null;
-  const idx = vol.map(v=>VOL_ORDER.indexOf(v)).sort((a,b)=>a-b);
-  const first = VOLS[VOL_ORDER[idx[0]]], last = VOLS[VOL_ORDER[idx[idx.length-1]]];
-  return first===last ? "Vol: "+first : "Vol: "+first+"–"+last;
+function rangeLabel(facet, vals){
+  if(!vals || !vals.length) return null;
+  const idx = vals.map(v=>facet.order.indexOf(v)).sort((a,b)=>a-b);
+  const first = facet.options[facet.order[idx[0]]], last = facet.options[facet.order[idx[idx.length-1]]];
+  return first===last ? first : first+"–"+last;
 }
 
 function matches(x){
   if(state.parts.size && !state.parts.has(x.p)) return false;
-  if(state.mats.size && !x.mat.some(m=>state.mats.has(m))) return false;
-  if(state.vols.size && !x.vol.some(v=>state.vols.has(v))) return false;
-  if(state.tools.size && !(x.tool && state.tools.has(x.tool))) return false;
+  for(const facet of SHEET.facets){
+    const set = state.f[facet.id];
+    if(!set.size) continue;
+    const val = x.f[facet.id];
+    if(facet.type==="single"){ if(!(val && set.has(val))) return false; }
+    else if(!(val && val.some(v=>set.has(v)))) return false;
+  }
   if(state.q && !x._hay.includes(state.q)) return false;
   return true;
 }
 
+function facetTags(x){
+  const rows = { 1:[], 2:[] };
+  for(const facet of SHEET.facets){
+    const val = x.f[facet.id];
+    if(val==null || (Array.isArray(val) && !val.length)) continue;
+    const tags = rows[facet.tagRow===2 ? 2 : 1];
+    const style = ' style="--tc:var('+facet.color+')"';
+    const pre = facet.tagPrefix ? facet.tagPrefix+": " : "";
+    if(facet.type==="multi"){
+      val.forEach(v=>tags.push('<span class="tag"'+style+'>'+pre+esc(facet.options[v])+'</span>'));
+    } else if(facet.type==="range"){
+      tags.push('<span class="tag"'+style+'>'+pre+rangeLabel(facet, val)+'</span>');
+    } else {
+      tags.push('<span class="tag"'+style+'>'+pre+esc(facet.options[val])+'</span>');
+    }
+  }
+  return rows;
+}
+
 function cardHTML(x){
-  const part = PARTS[x.p-1];
-  const tags = [];
-  x.mat.forEach(m=>tags.push('<span class="tag mat">'+MATS[m]+'</span>'));
-  const vl = volLabel(x.vol);
-  if(vl) tags.push('<span class="tag vol">'+vl+'</span>');
-  if(x.tool) tags.push('<span class="tag tool">Tooling: '+TOOLS[x.tool]+'</span>');
+  const part = SHEET.parts[x.p-1];
   let body = '<p>'+esc(x.d)+'</p>';
   body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+esc(x.sw)+'</p>';
   if(x.v){
@@ -50,33 +74,37 @@ function cardHTML(x){
     } else {
       body += '<p class="ex" style="margin-top:2px">'+x.vid.map(v=>
         '<a href="https://www.youtube.com/watch?v='+v.id+'" target="_blank" rel="noopener">&#9656; '+
-        (v.t?esc(v.t):'Watch on YouTube')+'</a>').join(' &nbsp;·&nbsp; ')+'</p>';
+        (v.t?esc(v.t):'Watch on YouTube')+'</a>').join(' &nbsp;&middot;&nbsp; ')+'</p>';
     }
   }
-  if(x.ex) body += '<span class="lab">Examples</span><p class="ex" style="margin-top:2px">'+esc(x.ex)+'</p>';
-  if(x.ec) body += '<span class="lab">Economic profile</span><p class="ex" style="margin-top:2px">'+esc(x.ec)+'</p>';
+  if(x.extra) x.extra.forEach(e=>{
+    body += '<span class="lab">'+esc(e[0])+'</span><p class="ex" style="margin-top:2px">'+esc(e[1])+'</p>';
+  });
+  const tags = facetTags(x);
   return '<div class="card" id="'+slug(x.name)+'" style="--pc:'+part.color+'" data-n="'+x.n+'">'+
     '<button class="chead" aria-expanded="false">'+
       '<span class="cnum">'+String(x.n).padStart(3,"0")+'</span>'+
       '<span class="cname">'+esc(x.name)+'</span>'+
-      '<span class="ctags">'+tags.join("")+
+      '<span class="ctags">'+tags[1].join("")+
       '<svg class="caret" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M3 1.5L7 5L3 8.5" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>'+
+      (tags[2].length ? '<span class="ctags2">'+tags[2].join("")+'</span>' : '')+
     '</button><div class="cbody">'+body+'</div></div>';
 }
 
 function render(){
   const hits = P.filter(matches);
   const listEl = $("list");
+  const [unit, units] = SHEET.unit;
   let html = "", lastKey = "";
   hits.forEach(x=>{
-    const part = PARTS[x.p-1];
+    const part = SHEET.parts[x.p-1];
     const key = x.p+"|"+x.g;
     if(key!==lastKey){
       lastKey = key;
       const count = hits.filter(h=>h.p===x.p && h.g===x.g).length;
       html += '<div class="grouphdr" style="--pc:'+part.color+'">'+
-        '<span class="gp">Part '+part.roman+'</span><h2>'+esc(x.g)+'</h2>'+
-        '<span class="gc">'+count+(count===1?' process':' processes')+'</span></div>';
+        '<span class="gp">'+SHEET.groupLabel+' '+part.roman+'</span><h2>'+esc(x.g)+'</h2>'+
+        '<span class="gc">'+count+' '+(count===1?unit:units)+'</span></div>';
     }
     html += cardHTML(x);
   });
@@ -84,7 +112,7 @@ function render(){
   $("empty").hidden = hits.length>0;
   $("resCount").textContent = hits.length+" / "+P.length;
   // part tile counts + pressed state
-  PARTS.forEach(part=>{
+  SHEET.parts.forEach(part=>{
     const t = document.querySelector('.ptile[data-p="'+part.id+'"]');
     if(!t) return;
     const c = hits.filter(h=>h.p===part.id).length;
@@ -94,9 +122,9 @@ function render(){
 }
 
 // ----- build part tiles -----
-$("partTiles").innerHTML = PARTS.map(part=>
+$("partTiles").innerHTML = SHEET.parts.map(part=>
   '<button class="ptile" data-p="'+part.id+'" style="--pc:'+part.color+'" aria-pressed="false">'+
-  '<span class="pn">Part '+part.roman+'</span>'+
+  '<span class="pn">'+SHEET.groupLabel+' '+part.roman+'</span>'+
   '<span class="pt" style="display:block">'+part.name+'</span>'+
   '<span class="pc"></span></button>').join("");
 $("partTiles").addEventListener("click", e=>{
@@ -107,21 +135,21 @@ $("partTiles").addEventListener("click", e=>{
 });
 
 // ----- build facet chips -----
-function buildFacet(elId, entries, set){
-  $(elId).innerHTML = entries.map(([k,label])=>
-    '<button class="fchip" data-k="'+k+'" aria-pressed="false">'+label+'</button>').join(" ");
-  $(elId).addEventListener("click", e=>{
+SHEET.facets.forEach(facet=>{
+  const el = $("facet-"+facet.id);
+  const keys = facet.order || Object.keys(facet.options);
+  const labels = facet.chipLabels || facet.options;
+  const set = state.f[facet.id];
+  el.innerHTML = keys.map(k=>
+    '<button class="fchip" data-k="'+k+'" aria-pressed="false">'+labels[k]+'</button>').join(" ");
+  el.addEventListener("click", e=>{
     const c = e.target.closest(".fchip"); if(!c) return;
     const k = c.dataset.k;
     set.has(k) ? set.delete(k) : set.add(k);
     c.setAttribute("aria-pressed", set.has(k) ? "true" : "false");
     render();
   });
-}
-const matOrder = ["metal","polymer","rubber","ceramic","glass","composite","wood","textile","semi","multi","other"];
-buildFacet("facet-mat", matOrder.map(k=>[k,MATS[k]]), state.mats);
-buildFacet("facet-vol", VOL_ORDER.map(k=>[k,{proto:"Prototype",low:"Low",med:"Medium",high:"High",cont:"Continuous"}[k]]), state.vols);
-buildFacet("facet-tool", Object.entries(TOOLS), state.tools);
+});
 
 // ----- search -----
 let qt;
@@ -133,7 +161,8 @@ $("q").addEventListener("input", e=>{
 // ----- clear -----
 $("clearAll").addEventListener("click", ()=>{
   state.q=""; $("q").value="";
-  state.parts.clear(); state.mats.clear(); state.vols.clear(); state.tools.clear();
+  state.parts.clear();
+  Object.values(state.f).forEach(s=>s.clear());
   document.querySelectorAll(".fchip[aria-pressed='true']").forEach(c=>c.setAttribute("aria-pressed","false"));
   render();
 });
@@ -219,7 +248,7 @@ tabs.forEach(([tid,vid])=>{
 
 render();
 
-// ----- deep links: open the process named in the URL hash -----
+// ----- deep links: open the entry named in the URL hash -----
 try{
   if(location.pathname.endsWith("/index.html"))
     history.replaceState(null,"",location.pathname.slice(0,-10)+location.search+location.hash);
