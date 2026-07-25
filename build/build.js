@@ -235,7 +235,7 @@ if (ARTIFACT_SLUG) {
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>Reference Sheets</title>\n<style>\n' + THEME + '</style>\n</head>\n<body>\n' +
     '<div class="wrap">\n<header class="site">\n<div class="hdr-top">\n' + LOGO + '</div>\n' +
-    '<p class="eyebrow">Humba Ventures</p>\n<h1>Reference Sheets</h1>\n' +
+    '<h1>Reference Sheets</h1>\n' +
     '<p class="lede">Practical, searchable references for deep-tech diligence and engineering decisions.</p>\n' +
     '</header>\n<div class="sheets">\n' + cards + '\n</div>\n' +
     '<footer class="site">&copy; ' + YEAR + ' HUMBA VENTURES</footer>\n</div>\n</body>\n</html>\n';

@@ -12,7 +12,7 @@ Markdown-driven reference dashboards (manufacturing processes, battery chemistri
 ## Layout
 
 - `sheets/<slug>/` — one directory per reference sheet:
-  - `sheet.json` — all sheet config: titles, lede, unit words, group label, the seven parts/classes, and **facet definitions** (`id`, frontmatter `key`, `label`, `type` multi|range|single, `color` var, `options`, `order`, optional `chipLabels`/`tagPrefix`/`tip`/`required`), plus `extraSections` mapping optional markdown sections to card labels.
+  - `sheet.json` — all sheet config: titles, lede, unit words, group label, the seven parts/classes, and **facet definitions** (`id`, frontmatter `key`, `label`, `type` multi|range|single, `color` var, `options`, `order`, optional `chipLabels`/`tagPrefix`/`tip`/`required`/`tagRow`), plus `extraSections` mapping optional markdown sections to card labels.
   - `entries/NNN-slug.md` — one file per entry. Frontmatter: `number`, `name`, `part`, `group`, plus one key per facet (keys validated against sheet.json). Sections: `## Description`, `## Strengths and weaknesses`, then optional `## Variants` (with `###` entries), `## Videos`, and the sheet's extra sections (`## Examples`, `## Economic profile`).
   - `guide.html` — the sheet's guide-tab content (raw HTML fragment using shared classes: `.tblwrap`, `.bands`, `.callout`, `.qlist`).
 - `shared/` — everything common: `theme.css` (all styling, inlined into every page at build), `page.html` (skeleton with `{{...}}` placeholders), `app.js` (the generic explorer engine, driven by an injected `SHEET` config), `logo.html`.
@@ -30,8 +30,10 @@ No dependencies. The build validates frontmatter and video lines and fails namin
 
 ## Conventions and gotchas
 
-- **Adding a sheet**: create `sheets/<slug>/{sheet.json,guide.html,entries/}`; the build and landing page pick it up automatically. Reuse `--p1..--p7` for part colors and `--fa..--fd` for facet colors.
+- **Adding a sheet**: create `sheets/<slug>/{sheet.json,guide.html,entries/}`; the build and landing page pick it up automatically. Reuse `--p1..--p7` for part colors and `--fa..--fe` for facet colors (blue/gold/red/green/purple — all defined once in `shared/theme.css` for both themes; add a new var there if a sheet needs a sixth facet).
 - **Facet types**: `multi` = array field, one tag per value; `range` = ordered array collapsed to a "Prefix: First–Last" tag (labels must be single words or the dash collapse reads badly); `single` = scalar, `none`/omitted allowed unless `required` (no tag rendered when absent, and entries without it match only when that facet filter is empty).
+- **`tagRow: 2`** on a facet puts its card tags on their own second line under the others, right-aligned to match (battery-chemistries uses it for applications). Facets without it share the first row with the expand caret.
+- **Shared style**: all styling lives in `shared/theme.css` and is inlined into every page at build — edit it once and every sheet (and the landing page) changes together. Keep the label column (`.facet .flabel`, 108px) wide enough for the longest facet label across all sheets; long labels wrap badly otherwise.
 - **Videos**: max 3 per entry, format `- <YouTube watch URL> — Title (Channel, N minutes, band+ views)`. Policy: embeddable, playable, not live, ~1.5–20 min (≥1 min for popular animations), prefer popular/maker-community explainers; leave the section out if nothing good exists (manufacturing #22 semi-solid is currently blank; battery-chemistries has none yet). View bands: 1k/5k/10k/50k/100k/500k/1m/5m.
 - **Fetching YouTube metadata**: watch pages captcha-block curl. Use the innertube player API (`POST https://www.youtube.com/youtubei/v1/player` with a WEB client context) plus the oEmbed endpoint for the embed/existence check.
 - **Artifact flavor must stay pure ASCII** (the artifact host serves no charset header); the build escapes this automatically. The artifact also blocks all external requests — video embeds degrade to links there (`EMBED_OK` flag).
