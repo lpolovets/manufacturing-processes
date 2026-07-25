@@ -99,14 +99,13 @@ for (const x of processes) {
 
 // ---- compose page ----
 const groups = new Set(processes.map(x => x.p + '|' + x.g));
-const rev = new Date().toISOString().slice(0, 7);
 const repoUrl = process.env.REPO_URL || 'https://github.com/' + (process.env.GITHUB_REPOSITORY || '');
 
 let page = fs.readFileSync(path.join(ROOT, 'template', 'page.html'), 'utf8')
   .replace(/{{N_PROCESSES}}/g, String(processes.length))
   .replace(/{{N_PARTS}}/g, String(taxonomy.parts.length))
   .replace(/{{N_GROUPS}}/g, String(groups.size))
-  .replace(/{{REV}}/g, rev)
+  .replace(/{{YEAR}}/g, String(new Date().getFullYear()))
   .replace(/{{REPO_URL}}/g, repoUrl);
 
 const dataJs = [
