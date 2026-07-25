@@ -1,0 +1,66 @@
+    <h2>How to choose an end effector</h2>
+    <p class="muted">Effector selection runs backwards from everything else in robotics: start with the object (weight, geometry, surface, fragility, porosity), then the task (place accuracy, cycle time, forces), then the environment (food-safe? sparks? washdown?) — and only then pick hardware. The most common integration failure is a capable robot wearing the wrong hand. The most common cost failure is buying dexterity the task never needed.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Object properties</td><td>Porous cardboard defeats vacuum; ferrous-only limits magnets; deformable produce defeats rigid jaws — the object eliminates most effector classes before engineering begins.</td></tr>
+        <tr><td>Grasp security vs gentleness</td><td>Holding force, friction, and form closure against marring, denting, and crushing; the trade defines food, glass, and finished-surface handling.</td></tr>
+        <tr><td>Cycle time & takt</td><td>Suction attaches in milliseconds; fingers must approach, close, and settle. At logistics rates, tenths of a second per pick decide the business case.</td></tr>
+        <tr><td>Positional tolerance</td><td>How much object-pose uncertainty the effector absorbs mechanically (compliance, self-centering) versus how much the vision system must remove first — mechanical forgiveness is cheap; perception isn't.</td></tr>
+        <tr><td>Payload & moment</td><td>Rated grip force at the pads is not payload at the fingertips under acceleration; moment loads on cantilevered grasps are the silent spec killer.</td></tr>
+        <tr><td>Environment rating</td><td>Washdown chemicals, flour dust, weld spatter, cleanroom particles, and EOD ruggedness each define separate product lines with separate prices.</td></tr>
+        <tr><td>Energy & utilities</td><td>Compressed air is a factory's most expensive utility per joule; electric grippers trade purchase price against air-line cost and controllability.</td></tr>
+        <tr><td>Sensing integration</td><td>Grip-detect, part-present, force feedback, and slip detection convert an effector from actuator to closed-loop tool — increasingly the differentiator.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cost per pick / per weld</td><td>The only metric that closes deals: effector price, maintenance, consumables (pads, tips, gels), and downtime amortized over throughput.</td></tr>
+        <tr><td>Changeover economics</td><td>One versatile gripper versus several specialized ones plus a tool changer — the answer flips with SKU count, and gets it wrong in both directions routinely.</td></tr>
+        <tr><td>Wear parts & consumables</td><td>Suction cups, gripper pads, welding tips, and soft fingers are consumables; vendors price them accordingly (the razor-blade model is alive at the wrist).</td></tr>
+        <tr><td>Ecosystem lock-in</td><td>Plug-and-play cobot ecosystems (UR+ style) trade premium pricing for integration speed; fingers and cups follow the flange standard that wins.</td></tr>
+        <tr><td>The humanoid hand question</td><td>General-purpose robots bet that one five-finger hand beats task-specific tooling; industrial history bets the reverse. The resolution of this argument prices the entire category.</td></tr>
+        <tr><td>Supplier structure</td><td>Traditional gripping is a profitable European/Japanese oligopoly (Schunk, Festo, SMC, Zimmer, Piab); logistics-AI grippers and humanoid hands are the venture-funded flank attack.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Task-fit quick map</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Logistics picking</div><div class="bv">Vacuum first, fingers for the exceptions, hybrids for the long tail</div></div>
+      <div class="band"><div class="bt">Precision assembly</div><div class="bv">Parallel-jaw with custom fingers + compliance device; screwdriving spindles</div></div>
+      <div class="band"><div class="bt">Food & delicate</div><div class="bv">Soft elastomeric fingers, hygienic vacuum, gentle jamming</div></div>
+      <div class="band"><div class="bt">Metal & heavy</div><div class="bv">Magnets for ferrous sheet, mechanical for shafts, process tools thereafter</div></div>
+      <div class="band"><div class="bt">Unstructured / general</div><div class="bv">Dexterous hands and learned policies — the frontier, priced like it</div></div>
+    </div>
+
+    <h2>Why vacuum runs the world's warehouses</h2>
+    <p>Suction wins logistics for reasons that generalize poorly but compound beautifully: it needs access to only one face of the object, tolerates centimeters of pose error, attaches in milliseconds, weighs almost nothing, and fails cheaply (a $2 cup, not a $200 finger). Parcel and e-commerce flows are overwhelmingly boxes, bags, and flats — vacuum's home turf — so every high-throughput picking system (Amazon's Robin/Sparrow class included) is suction-first with fingers as the fallback. The lesson for effector strategy: coverage of the object distribution beats elegance on any single object.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Effectors are portfolio decisions, not device decisions: real cells mix suction, jaws, and tools via changers, and the right question is which combination covers the object-and-task distribution at the lowest cost per successful handle — including consumables, changeover, and the failures. Versatility is only worth its price when the distribution is actually wide; most industrial distributions are narrower than the pitch deck claims, and a $800 two-finger gripper with custom jaws remains the most underrated device in automation.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What is the full object distribution — including the worst 5% that will consume 50% of the engineering?</li>
+      <li>How much pose uncertainty must the effector absorb, and how much will perception actually deliver?</li>
+      <li>What are the consumable wear items, their life in cycles, and the replacement procedure's downtime?</li>
+      <li>Does the environment (hygiene, spatter, dust, washdown) demand a rated product line?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is cost per successful pick/operation at fleet scale, versus the incumbent (often a human at $25–40/hour, all-in)?</li>
+      <li>Is the differentiation the effector hardware, the perception software, or the integration — and which layer holds margin as the others commoditize?</li>
+      <li>For dexterous-hand ventures: which tasks pay for dexterity that suction-plus-jaws can't already do cheaper?</li>
+      <li>How locked-in is the incumbent gripper oligopoly's distribution, and does the challenger sell to integrators or end users?</li>
+      <li>What does the consumables/service revenue line look like — and who captures it?</li>
+    </ul>
+
+    <p class="muted">Durable effector advantages have come from application depth (welding, hygiene, semiconductor handling), distribution through integrator networks, and consumables economics — and may next come from the data flywheel of learned manipulation, if generalist hands find tasks that pay generalist prices.</p>

@@ -7,6 +7,9 @@ const state = { q:"", parts:new Set(), f:{} };
 SHEET.facets.forEach(f => state.f[f.id] = new Set());
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+// escape, then render markdown links: [label](https://...)
+const fmt = s => esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+  '<a href="$2" target="_blank" rel="noopener">$1</a>');
 const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 
 // Precompute search haystack
@@ -57,11 +60,11 @@ function facetTags(x){
 
 function cardHTML(x){
   const part = SHEET.parts[x.p-1];
-  let body = '<p>'+esc(x.d)+'</p>';
-  body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+esc(x.sw)+'</p>';
+  let body = '<p>'+fmt(x.d)+'</p>';
+  body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+fmt(x.sw)+'</p>';
   if(x.v){
     body += '<span class="lab">Variants</span><div class="variants">'+
-      x.v.map(v=>'<div class="variant"><b>'+esc(v.t)+'</b><p>'+esc(v.d)+'</p></div>').join("")+'</div>';
+      x.v.map(v=>'<div class="variant"><b>'+esc(v.t)+'</b><p>'+fmt(v.d)+'</p></div>').join("")+'</div>';
   }
   if(x.vid){
     body += '<span class="lab">Videos</span>';
@@ -78,7 +81,7 @@ function cardHTML(x){
     }
   }
   if(x.extra) x.extra.forEach(e=>{
-    body += '<span class="lab">'+esc(e[0])+'</span><p class="ex" style="margin-top:2px">'+esc(e[1])+'</p>';
+    body += '<span class="lab">'+esc(e[0])+'</span><p class="ex" style="margin-top:2px">'+fmt(e[1])+'</p>';
   });
   const tags = facetTags(x);
   return '<div class="card" id="'+slug(x.name)+'" style="--pc:'+part.color+'" data-n="'+x.n+'">'+

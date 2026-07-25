@@ -1,0 +1,96 @@
+{
+  "slug": "robot-sensors",
+  "docTitle": "Robot Sensors Reference",
+  "shortTitle": "Robot Sensors",
+  "blurb": "LiDAR, radar, cameras, IMUs, force-torque, tactile, encoders, and GNSS — compared on range, cost, compute burden, and how they fail.",
+  "title": "Robot Sensors: A Practical Reference",
+  "lede": "A robot is only as honest as its sensors, and every sensor lies in its own characteristic way. This guide catalogs {{N_ENTRIES}} sensing technologies across six classes — with range, cost, compute burden, and, for each one, the failure modes that actually bite in the field.",
+  "unit": ["sensor type", "sensor types"],
+  "groupLabel": "Class",
+  "explorerTab": "Sensor explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search sensors, ranges, failure modes…",
+  "stats": [
+    { "count": "entries", "label": "sensor types" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "LiDAR", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Radar & Acoustic", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Cameras", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Inertial & Navigation", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Position & Motion Feedback", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Force & Touch", "color": "var(--p6)" }
+  ],
+  "facets": [
+    {
+      "id": "use",
+      "key": "uses",
+      "label": "Use",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "What the sensor mainly feeds: environment perception & mapping, ego-state & navigation, manipulation & joint control, or safety & proximity functions.",
+      "order": ["perception", "nav", "manip", "safety"],
+      "options": {
+        "perception": "Perception & mapping",
+        "nav": "Navigation & state",
+        "manip": "Manipulation & control",
+        "safety": "Safety & proximity"
+      }
+    },
+    {
+      "id": "rng",
+      "key": "range",
+      "label": "Range",
+      "type": "range",
+      "color": "--fb",
+      "tip": "Useful sensing envelope: Contact · Near (<1 m) · Mid (1–30 m) · Far (30–300 m) · Global (300 m+ or worldwide). Proprioceptive sensors (IMUs, encoders) carry no range tag.",
+      "order": ["contact", "near", "mid", "far", "glob"],
+      "options": { "contact": "Contact", "near": "Near", "mid": "Mid", "far": "Far", "glob": "Global" },
+      "chipLabels": { "contact": "Contact", "near": "Near (<1 m)", "mid": "Mid (1–30 m)", "far": "Far (30–300 m)", "glob": "Global / 300 m+" }
+    },
+    {
+      "id": "cmp",
+      "key": "compute",
+      "label": "Compute",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Compute",
+      "required": true,
+      "tip": "Downstream processing burden to turn raw output into robot-usable information: Trivial (a register read) · Moderate (filtering, classical DSP) · Heavy (point-cloud pipelines, stereo matching) · Extreme (deep networks, learned perception stacks).",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "Trivial", "med": "Moderate", "high": "Heavy", "vhigh": "Extreme" }
+    },
+    {
+      "id": "mtr",
+      "key": "adoption",
+      "label": "Adoption",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Ubiquitous = deployed by the billion or in essentially every robot · Common = standard in its niche · Emerging = shipping but young · Research = lab stage.",
+      "order": ["std", "common", "emerging", "rd"],
+      "options": { "std": "Ubiquitous", "common": "Common", "emerging": "Emerging", "rd": "Research" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "Cost",
+      "required": true,
+      "tip": "Directional unit cost at robot-relevant grades and current volumes. Sensor prices fall fast — automotive volume has repeatedly cut categories by 10× in a decade.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$10", "low": "$10–100", "med": "$100–1k", "high": "$1k–10k", "vhigh": "$10k+" }
+    }
+  ],
+  "extraSections": [
+    ["failure modes", "Failure modes"],
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}

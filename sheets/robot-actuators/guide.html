@@ -1,0 +1,66 @@
+    <h2>How to choose an actuator</h2>
+    <p class="muted">An actuator choice is really a stack: motor + transmission + sensing + drive electronics + control, and the system properties emerge from the stack, not any layer alone. A brilliant motor behind a 100:1 gearbox inherits the gearbox's friction, backlash, and fragility. The four axes that decide most robotics arguments are torque density, backdrivability, precision, and cost — and no known technology wins more than three.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Torque/force density</td><td>Nm/kg at the joint sets what a limb can lift including itself; legged robots live and die by it. Continuous (thermal) ratings matter more than peak numbers.</td></tr>
+        <tr><td>Backdrivability & impedance</td><td>Whether the world can push back determines contact safety, force control quality, and survival of impacts. Reflected inertia scales with gear ratio squared — the hidden killer.</td></tr>
+        <tr><td>Precision & backlash</td><td>Transmission backlash, compliance, and cogging set achievable accuracy; zero-backlash transmissions (harmonic, cycloidal preloaded) buy precision with friction and cost.</td></tr>
+        <tr><td>Bandwidth</td><td>Control-loop speed — how fast force or position commands become reality. Fluid lines, elastic elements, and heavy rotors all eat bandwidth.</td></tr>
+        <tr><td>Efficiency & heat</td><td>Motors are torque-limited by heat, not magnetics; gearing multiplies torque but adds 10–30% loss per stage. Battery-powered robots budget every watt.</td></tr>
+        <tr><td>Power-to-weight of the whole system</td><td>Hydraulics look unbeatable until the pump, valves, and hoses are weighed; pneumatics until the compressor is. Always compare at system level.</td></tr>
+        <tr><td>Robustness</td><td>Shock loads, dust, thermal cycling, and overload behavior — gearboxes strip, harmonic drives ratchet, direct drive shrugs.</td></tr>
+        <tr><td>Controllability</td><td>Smooth torque (BLDC with FOC) versus discrete steps (steppers) versus valve nonlinearity (fluids) determines the control effort needed for a given motion quality.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cost per axis at volume</td><td>A humanoid has 30–50 actuated degrees of freedom; a $500 difference per axis is a $20k difference per robot. Actuators are typically the largest single cost block in a robot's BOM.</td></tr>
+        <tr><td>Supply concentration</td><td>Precision strain-wave and cycloidal gearing is dominated by two Japanese firms (Harmonic Drive, Nabtesco); rare-earth magnets by China. Both are strategic chokepoints the humanoid wave is straining.</td></tr>
+        <tr><td>Drive electronics</td><td>Modern actuator economics are increasingly silicon economics: FOC controllers, GaN stages, and integrated encoders ride semiconductor cost curves that mechanical parts don't.</td></tr>
+        <tr><td>Integration level</td><td>Buying motor, gear, encoder, and drive separately versus an integrated smart-joint module trades cost against engineering time — the module market is where robotics BOMs are consolidating.</td></tr>
+        <tr><td>Wear & service life</td><td>Gear replacement intervals and lubrication schedules dominate lifetime cost in industrial fleets; direct drive and fluid systems shift the maintenance elsewhere.</td></tr>
+        <tr><td>Volume trajectory</td><td>EV traction motors industrialized the BLDC supply chain; drone ESCs commoditized small FOC drives; humanoids are now doing the same to QDD modules and mini strain-wave gears — costs are falling an order of magnitude where volume arrives.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>The four-axis trade at a glance</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Torque density</div><div class="bv">Hydraulics &gt; geared BLDC &gt; QDD &gt; direct drive &gt; pneumatics &gt; muscles</div></div>
+      <div class="band"><div class="bt">Backdrivability</div><div class="bv">Direct drive &gt; QDD &gt; SEA &gt; low-ratio gears &gt; harmonic &gt; lead screw (none)</div></div>
+      <div class="band"><div class="bt">Precision</div><div class="bv">Piezo &gt; harmonic/cycloidal &gt; ball screw &gt; belt &gt; fluid &gt; muscles</div></div>
+      <div class="band"><div class="bt">Cost per axis</div><div class="bv">Steppers/brushed &lt; hobby servos &lt; BLDC+planetary &lt; harmonic &lt; servo-hydraulic</div></div>
+    </div>
+    <p class="muted">Directional orderings, not laws — a well-engineered exception exists to each. But a pitch that claims the top of all four axes at once is claiming a physics breakthrough and should be diligenced as one.</p>
+
+    <h2>Why the humanoid wave runs on QDD</h2>
+    <p>Legged robotics spent two decades on hydraulics (Atlas-era Boston Dynamics) and harmonic-drive arms before the MIT Cheetah popularized the quasi-direct-drive recipe: a large-diameter, high-torque BLDC with a modest 6–10:1 planetary stage. Torque density adequate, backdrivability excellent, impacts survivable, and force sensed for free through motor current — proprioception without a force sensor. Nearly every modern humanoid and quadruped joint is a variant of this recipe (with strain-wave gears surviving in the high-precision, low-speed joints), and the resulting demand is industrializing what was a research part into a commodity module.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>There is no best actuator — there is a best actuator for a joint's torque, speed, precision, contact, and cost budget, and a real robot mixes several. Evaluate at the system level (motor + gear + sensing + drive + thermal path), on continuous rather than peak ratings, and price the transmission's failure modes with the same seriousness as the motor's specs. The transmission, not the motor, is usually the actual product decision.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What are the continuous torque and thermal limits at the duty cycle — not the datasheet peak?</li>
+      <li>Does the joint need to feel the world (backdrivability, force control), or just position it?</li>
+      <li>What does the transmission do to reflected inertia, backlash, and impact survival?</li>
+      <li>What is the whole-system mass and power draw, including drives, pumps, or compressors?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is the cost per axis at 10× and 100× current volume, and what part of that curve is mechanical versus silicon?</li>
+      <li>Does the company depend on the strain-wave/cycloidal duopoly or the rare-earth supply chain — and is that a moat or an exposure?</li>
+      <li>Is the claimed torque density measured continuous-at-temperature or peak-for-seconds?</li>
+      <li>For novel actuators (muscles, piezo, SMA): what is the cycle life and bandwidth at useful force, and who has run one for a year?</li>
+      <li>Is the differentiation the actuator itself, or the integration (module, drive, control) around a commodity core?</li>
+    </ul>
+
+    <p class="muted">Durable actuator advantages have historically come from manufacturing precision at scale (Japanese gearmakers), materials position (magnets), or owning the integrated module layer — rarely from a novel actuation principle alone, most of which have remained laboratory celebrities for fifty years.</p>

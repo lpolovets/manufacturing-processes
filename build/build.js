@@ -66,7 +66,7 @@ function parseEntry(sheet, file, src) {
     const keys = new Set(Object.keys(facet.options));
     let val = fm[facet.key];
     if (facet.type === 'single') {
-      if (val === 'none' || val === undefined || val === '') val = null;
+      if (val === undefined || val === '' || (val === 'none' && !keys.has('none'))) val = null;
       if (val !== null && !keys.has(val)) fail('unknown ' + facet.key + ' "' + val + '" (see sheet.json)');
       if (facet.required && val === null) fail('frontmatter needs "' + facet.key + '"');
     } else {

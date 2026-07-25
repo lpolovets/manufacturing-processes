@@ -1,0 +1,98 @@
+{
+  "slug": "robot-end-effectors",
+  "docTitle": "Robot End Effectors Reference",
+  "shortTitle": "Robot End Effectors",
+  "blurb": "Grippers, hands, and process tools — parallel-jaw to vacuum, soft, jamming, and dexterous — compared on task fit, versatility, reliability, and cost.",
+  "title": "Robot End Effectors: A Practical Reference",
+  "lede": "The end effector is where a robot's capital finally touches its work, and it is chosen backwards: from the object and the task, not from the robot. This guide catalogs {{N_ENTRIES}} effector types across six classes — grippers, suction, soft and dexterous hands, and the process tools that do the actual work of industry.",
+  "unit": ["effector type", "effector types"],
+  "groupLabel": "Class",
+  "explorerTab": "Effector explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search grippers, tools, task fits…",
+  "stats": [
+    { "count": "entries", "label": "effector types" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Mechanical Grippers", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Suction & Field", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Soft & Compliant", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Dexterous Hands", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Process Tools", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Infrastructure", "color": "var(--p6)" }
+  ],
+  "facets": [
+    {
+      "id": "task",
+      "key": "tasks",
+      "label": "Task fit",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Task families where the effector is a natural first choice — directional, and most cells mix effectors.",
+      "order": ["pick", "asm", "food", "metal", "dex", "proc"],
+      "options": {
+        "pick": "Pick & place / logistics",
+        "asm": "Assembly",
+        "food": "Food & delicate",
+        "metal": "Metal & heavy",
+        "dex": "Dexterous manipulation",
+        "proc": "Process work"
+      }
+    },
+    {
+      "id": "ver",
+      "key": "versatility",
+      "label": "Versatility",
+      "type": "single",
+      "color": "--fb",
+      "tagPrefix": "Versatility",
+      "required": true,
+      "tip": "How wide a range of objects and tasks one unit handles without retooling: Single-task (engineered per part) · Moderate (a part family) · Broad (most objects in a category) · Near-universal (the anything-goes aspiration).",
+      "order": ["narrow", "mod", "broad", "univ"],
+      "options": { "narrow": "Single-task", "mod": "Moderate", "broad": "Broad", "univ": "Near-universal" }
+    },
+    {
+      "id": "rel",
+      "key": "reliability",
+      "label": "Reliability",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Reliability",
+      "required": true,
+      "tip": "Field-proven robustness at industrial duty cycles: Industrial-proven = decades of 24/7 fleet data · Good = solid with maintenance · Mixed = works but with known operational headaches · Fragile = handle with engineering care.",
+      "order": ["proven", "good", "mixed", "frag"],
+      "options": { "proven": "Industrial-proven", "good": "Good", "mixed": "Mixed", "frag": "Fragile" }
+    },
+    {
+      "id": "mtr",
+      "key": "maturity",
+      "label": "Maturity",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Ubiquitous = standard equipment across industry · Common = established in its niche · Emerging = shipping but young · Research = lab stage.",
+      "order": ["std", "common", "emerging", "rd"],
+      "options": { "std": "Ubiquitous", "common": "Common", "emerging": "Emerging", "rd": "Research" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "Cost",
+      "required": true,
+      "tip": "Directional unit cost for a robot-ready effector, excluding the robot and cell engineering around it.",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "<$500", "med": "$500–5k", "high": "$5k–25k", "vhigh": "$25k+" }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}

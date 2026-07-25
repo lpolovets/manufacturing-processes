@@ -1,0 +1,101 @@
+{
+  "slug": "robot-actuators",
+  "docTitle": "Robot Actuators Reference",
+  "shortTitle": "Robot Actuators",
+  "blurb": "Motors, gearing, fluid power, piezo, and artificial muscles — compared on torque density, backdrivability, precision, and cost.",
+  "title": "Robot Actuators: A Practical Reference",
+  "lede": "Every robot is a set of compromises made physical, and most of them are made at the actuator: torque density against backdrivability, precision against cost, force against compliance. This guide catalogs {{N_ENTRIES}} actuator and transmission technologies across seven classes, from brushed DC motors to artificial muscles.",
+  "unit": ["actuator type", "actuator types"],
+  "groupLabel": "Class",
+  "explorerTab": "Actuator explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search actuators, transmissions, trade-offs…",
+  "stats": [
+    { "count": "entries", "label": "actuator types" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Electric Rotary Motors", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Transmissions & Gearing", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Actuator Architectures", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Fluid Power", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Linear Electromagnetic", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Micro & Precision", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Soft & Artificial Muscle", "color": "var(--p7)" }
+  ],
+  "facets": [
+    {
+      "id": "app",
+      "key": "applications",
+      "label": "Application",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Where the technology is mainly used or targeted in robotics — directional, not exhaustive.",
+      "order": ["arm", "legged", "mobile", "prec", "soft", "heavy"],
+      "options": {
+        "arm": "Industrial arms & cobots",
+        "legged": "Legged & humanoids",
+        "mobile": "Mobile robots & drones",
+        "prec": "Precision & semiconductor",
+        "soft": "Soft & wearable",
+        "heavy": "Heavy machinery"
+      }
+    },
+    {
+      "id": "den",
+      "key": "density",
+      "label": "Density",
+      "type": "single",
+      "color": "--fb",
+      "tagPrefix": "Density",
+      "required": true,
+      "tip": "Directional torque (or force) per unit mass of the complete actuator at robot-relevant duty. Hydraulics anchor the top; ungeared electric motors sit lower than their spec sheets suggest once continuous thermal limits apply.",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "Low", "med": "Moderate", "high": "High", "vhigh": "Extreme" }
+    },
+    {
+      "id": "bdr",
+      "key": "backdrive",
+      "label": "Backdrive",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Backdrive",
+      "required": true,
+      "tip": "How easily external forces can move the actuator — the proxy for safe contact, force control, and impact tolerance. High gear ratios and lead screws kill it; direct drive, QDD, and fluid muscles preserve it.",
+      "order": ["none", "poor", "good", "exc"],
+      "options": { "none": "None", "poor": "Poor", "good": "Good", "exc": "Excellent" }
+    },
+    {
+      "id": "prc",
+      "key": "precision",
+      "label": "Precision",
+      "type": "single",
+      "color": "--fd",
+      "tagPrefix": "Precision",
+      "required": true,
+      "tip": "Achievable positioning precision in typical use, including transmission backlash and control: Coarse (mm+) · Moderate (0.1–1 mm) · Fine (µm–0.1 mm) · Sub-micron.",
+      "order": ["coarse", "mod", "fine", "ufine"],
+      "options": { "coarse": "Coarse", "mod": "Moderate", "fine": "Fine", "ufine": "Sub-micron" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "Cost",
+      "required": true,
+      "tip": "Directional cost per axis at robot-relevant sizes, including drive electronics where inseparable. Volume changes everything — humanoid-scale orders are collapsing prices across the board.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$10", "low": "$10–100", "med": "$100–1k", "high": "$1k–10k", "vhigh": "$10k+" }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["suppliers", "Suppliers"],
+    ["economic profile", "Economic profile"]
+  ]
+}
