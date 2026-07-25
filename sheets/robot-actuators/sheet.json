@@ -9,6 +9,7 @@
   "groupLabel": "Class",
   "explorerTab": "Actuator explorer",
   "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
   "searchPlaceholder": "Search actuators, transmissions, trade-offs…",
   "stats": [
     { "count": "entries", "label": "actuator types" },

@@ -1,0 +1,14 @@
+    <h2>Head-to-head: the usual short list</h2>
+    <p class="muted">Most joint arguments come down to the same handful of architectures — the ones below are what actually compete for a given axis. Exotic and research approaches (piezo, voice coils, artificial muscles) solve different problems and live in the explorer.</p>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Architecture</th><th>Torque density</th><th>Precision</th><th>Backdrive &amp; contact</th><th>Cost</th><th>Pick it when</th></tr></thead>
+      <tbody>
+        <tr><td>Servo + harmonic</td><td>High</td><td>Fine, zero backlash</td><td>Poor; hard impacts can ratchet</td><td>$1k–10k</td><td>Wrists and distal joints needing 50–160:1 in minimum mass and axial depth, with controlled trajectories and rare impacts.</td></tr>
+        <tr><td>Servo + planetary</td><td>High</td><td>Moderate; arcminute backlash</td><td>Good at low ratio</td><td>$100–1k</td><td>The default axis — cheapest torque density at any ratio one or two stages can reach; wheels, drivetrains, and general positioning that tolerates backlash.</td></tr>
+        <tr><td>Servo + cycloidal</td><td>High</td><td>Fine, torsionally stiff</td><td>Poor</td><td>$1k–10k</td><td>Shocked high-torque proximal joints — robot bases and shoulders, humanoid hips and knees — where 500% momentary overload is the spec that matters.</td></tr>
+        <tr><td>Quasi-direct drive</td><td>High; static holds run hot</td><td>Moderate</td><td>Excellent; torque sensed from current</td><td>$100–1k</td><td>Contact-rich dynamic joints — legs and dynamic arms that strike the world and must feel it. The modern legged default.</td></tr>
+        <tr><td>Ball/roller screw</td><td>Extreme (linear)</td><td>Fine to sub-micron</td><td>None; lead screws self-lock</td><td>$100–1k</td><td>The joint is really a linear force problem — knees, ankles, presses, clamps: kilonewtons from a modest motor, but contact is sensed, never felt.</td></tr>
+        <tr><td>Servo-hydraulic</td><td>Extreme at the cylinder</td><td>Moderate</td><td>Poor; valve-mediated</td><td>$10k+</td><td>Tens of kilonewtons per axis in dirty, hot, shock-laden environments where one power plant amortizes across many joints — excavator class and up.</td></tr>
+        <tr><td>Pneumatic</td><td>Moderate</td><td>Coarse; endpoints, not mid-stroke</td><td>Excellent, intrinsically compliant</td><td>&lt;$100</td><td>Binary motion against stops at high cycle rates — clamp, eject, gripper — where plant air exists and the axis must cost tens of dollars.</td></tr>
+      </tbody>
+    </table></div>

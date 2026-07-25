@@ -136,6 +136,8 @@ function loadSheet(dir) {
     seen.add(x.n);
   }
   sheet.guide = fs.readFileSync(path.join(dir, 'guide.html'), 'utf8');
+  const h2hPath = path.join(dir, 'h2h.html');
+  sheet.h2h = fs.existsSync(h2hPath) ? fs.readFileSync(h2hPath, 'utf8') : null;
   return { sheet, entries };
 }
 
@@ -184,6 +186,12 @@ function composeBody(sheetData, artifact) {
     .replace('{{FACETS}}', facetRows)
     .replace('{{UNIT_PLURAL}}', esc(sheet.unit[1]))
     .replace('{{GUIDE}}', sheet.guide)
+    .replace('{{H2H_TAB_BTN}}', sheet.h2h
+      ? '<button role="tab" id="tab-h2h" aria-selected="false" aria-controls="view-h2h">' + esc(sheet.h2hTab || 'Head-to-head') + '</button>'
+      : '')
+    .replace('{{H2H_VIEW}}', sheet.h2h
+      ? '<section id="view-h2h" class="guide" role="tabpanel" aria-labelledby="tab-h2h">\n' + sheet.h2h + '\n  </section>'
+      : '')
     .replace('{{YEAR}}', YEAR);
 
   const clientSheet = {

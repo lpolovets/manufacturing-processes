@@ -9,6 +9,7 @@
   "groupLabel": "Class",
   "explorerTab": "Chemistry explorer",
   "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
   "searchPlaceholder": "Search chemistries, applications, trade-offs…",
   "stats": [
     { "count": "entries", "label": "chemistries" },

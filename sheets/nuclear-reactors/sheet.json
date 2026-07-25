@@ -9,6 +9,7 @@
   "groupLabel": "Class",
   "explorerTab": "Design explorer",
   "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
   "searchPlaceholder": "Search designs, coolants, fuel cycles…",
   "stats": [
     { "count": "entries", "label": "designs" },

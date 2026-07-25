@@ -9,6 +9,7 @@
   "groupLabel": "Class",
   "explorerTab": "Sensor explorer",
   "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
   "searchPlaceholder": "Search sensors, ranges, failure modes…",
   "stats": [
     { "count": "entries", "label": "sensor types" },

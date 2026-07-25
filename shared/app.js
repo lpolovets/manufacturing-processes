@@ -240,7 +240,8 @@ if(EMBED_OK){
 }
 
 // ----- tabs -----
-const tabs = [["tab-explorer","view-explorer"],["tab-guide","view-guide"]];
+const tabs = [["tab-explorer","view-explorer"],["tab-guide","view-guide"],["tab-h2h","view-h2h"]]
+  .filter(([tid])=>$(tid));
 tabs.forEach(([tid,vid])=>{
   $(tid).addEventListener("click", ()=>{
     tabs.forEach(([t2,v2])=>{

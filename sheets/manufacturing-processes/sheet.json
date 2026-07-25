@@ -9,6 +9,7 @@
   "groupLabel": "Part",
   "explorerTab": "Process explorer",
   "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
   "searchPlaceholder": "Search processes, examples, defects…",
   "stats": [
     { "count": "entries", "label": "processes" },
