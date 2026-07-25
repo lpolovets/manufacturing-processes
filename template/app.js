@@ -28,9 +28,9 @@ function matches(x){
 function cardHTML(x){
   const part = PARTS[x.p-1];
   const tags = [];
-  x.mat.forEach(m=>tags.push('<span class="tag">'+MATS[m]+'</span>'));
+  x.mat.forEach(m=>tags.push('<span class="tag mat">'+MATS[m]+'</span>'));
   const vl = volLabel(x.vol);
-  if(vl) tags.push('<span class="tag">'+vl+'</span>');
+  if(vl) tags.push('<span class="tag vol">'+vl+'</span>');
   if(x.tool) tags.push('<span class="tag tool">Tooling: '+TOOLS[x.tool]+'</span>');
   let body = '<p>'+esc(x.d)+'</p>';
   body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+esc(x.sw)+'</p>';

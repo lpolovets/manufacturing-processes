@@ -4,6 +4,7 @@
   --line:#D9DDD8; --line2:#C8CDC7; --accent:#33597F; --accent-ink:#FFFFFF;
   --p1:#4C6C8C; --p2:#A65B33; --p3:#8F7A2E; --p4:#33807A; --p5:#705BA6; --p6:#9A5580; --p7:#5A8047;
   --chip-bg:#EDEFEC; --shadow:0 1px 2px rgba(30,38,45,.06),0 4px 14px rgba(30,38,45,.05);
+  --fmat:#4E7AA8; --fvol:#9A7B2F; --ftool:#A25757;
   --mono:ui-monospace,"SF Mono","Cascadia Mono",Menlo,Consolas,monospace;
   --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
@@ -11,19 +12,20 @@
   --bg:#15181B; --surface:#1D2125; --surface2:#23282D; --ink:#E4E8EA; --ink2:#9AA4AC; --ink3:#6E787F;
   --line:#31373C; --line2:#3C434A; --accent:#7FA9D3; --accent-ink:#10141A;
   --p1:#7C9CBC; --p2:#C98A62; --p3:#B7A25A; --p4:#5FAAA3; --p5:#9C8AC9; --p6:#BC7FA5; --p7:#84A873;
-  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25);
+  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25); --fmat:#7FA6CE; --fvol:#BFA060; --ftool:#C98585;
 }}
 :root[data-theme="dark"]{
   --bg:#15181B; --surface:#1D2125; --surface2:#23282D; --ink:#E4E8EA; --ink2:#9AA4AC; --ink3:#6E787F;
   --line:#31373C; --line2:#3C434A; --accent:#7FA9D3; --accent-ink:#10141A;
   --p1:#7C9CBC; --p2:#C98A62; --p3:#B7A25A; --p4:#5FAAA3; --p5:#9C8AC9; --p6:#BC7FA5; --p7:#84A873;
-  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25);
+  --chip-bg:#262B30; --shadow:0 1px 2px rgba(0,0,0,.35),0 4px 16px rgba(0,0,0,.25); --fmat:#7FA6CE; --fvol:#BFA060; --ftool:#C98585;
 }
 :root[data-theme="light"]{
   --bg:#F2F3F1; --surface:#FBFBFA; --surface2:#ECEEEB; --ink:#21262B; --ink2:#5C6670; --ink3:#8A939B;
   --line:#D9DDD8; --line2:#C8CDC7; --accent:#33597F; --accent-ink:#FFFFFF;
   --p1:#4C6C8C; --p2:#A65B33; --p3:#8F7A2E; --p4:#33807A; --p5:#705BA6; --p6:#9A5580; --p7:#5A8047;
   --chip-bg:#EDEFEC; --shadow:0 1px 2px rgba(30,38,45,.06),0 4px 14px rgba(30,38,45,.05);
+  --fmat:#4E7AA8; --fvol:#9A7B2F; --ftool:#A25757;
 }
 *{box-sizing:border-box}
 html{background:var(--bg)}
@@ -81,8 +83,13 @@ nav.tabs button:hover{color:var(--ink)}
 #facet-mat,#facet-vol,#facet-tool{display:flex;flex-wrap:wrap;gap:7px;flex:1;min-width:0}
 .facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:74px;flex:none;padding-top:5px}
 .fchip{font-family:var(--mono);font-size:11.5px;padding:3px 9px 4px;border-radius:99px;background:var(--chip-bg);border:1px solid transparent;color:var(--ink2)}
-.fchip:hover{color:var(--ink);border-color:var(--line2)}
+.fchip:hover{color:var(--ink)}
 .fchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+#facet-mat .fchip{border-color:var(--fmat)}#facet-vol .fchip{border-color:var(--fvol)}#facet-tool .fchip{border-color:var(--ftool)}
+#facet-mat .fchip[aria-pressed="true"]{background:var(--fmat);color:var(--accent-ink)}
+#facet-vol .fchip[aria-pressed="true"]{background:var(--fvol);color:var(--accent-ink)}
+#facet-tool .fchip[aria-pressed="true"]{background:var(--ftool);color:var(--accent-ink)}
+.facet[data-f="mat"] .flabel{color:var(--fmat)}.facet[data-f="vol"] .flabel{color:var(--fvol)}.facet[data-f="tool"] .flabel{color:var(--ftool)}
 .fnote{font-size:12px;color:var(--ink3);margin-top:10px}
 
 /* ---------- process list ---------- */
@@ -96,8 +103,8 @@ nav.tabs button:hover{color:var(--ink)}
 .cnum{font-family:var(--mono);font-size:11.5px;color:var(--pc,var(--ink3));font-variant-numeric:tabular-nums;flex:none;width:30px}
 .cname{font-weight:600;font-size:14.5px;flex:0 1 auto}
 .ctags{display:flex;gap:5px;flex-wrap:wrap;margin-left:auto;align-items:center}
-.tag{font-family:var(--mono);font-size:10.5px;padding:2px 7px 3px;border-radius:4px;background:var(--chip-bg);color:var(--ink2);white-space:nowrap}
-.tag.tool{border:1px solid var(--line2);background:none}
+.tag{font-family:var(--mono);font-size:10.5px;padding:2px 7px 3px;border-radius:4px;background:var(--chip-bg);border:1px solid transparent;color:var(--ink2);white-space:nowrap}
+.tag.mat{border-color:var(--fmat)}.tag.vol{border-color:var(--fvol)}.tag.tool{border-color:var(--ftool)}
 .caret{flex:none;color:var(--ink3);transition:transform .15s;margin-left:2px;align-self:center}
 .card.open .caret{transform:rotate(90deg)}
 .cbody{display:none;padding:2px 16px 16px;border-top:1px dashed var(--line)}
@@ -177,9 +184,9 @@ footer.site{margin-top:60px;padding-top:16px;border-top:1px solid var(--line);fo
         <button class="clearbtn" id="clearAll">Reset filters</button>
       </div>
       <div class="facets">
-        <div class="facet"><span class="flabel">Material</span><span id="facet-mat"></span></div>
-        <div class="facet"><span class="flabel">Volume</span><span id="facet-vol"></span></div>
-        <div class="facet"><span class="flabel">Tooling</span><span id="facet-tool"></span></div>
+        <div class="facet" data-f="mat"><span class="flabel">Material</span><span id="facet-mat"></span></div>
+        <div class="facet" data-f="vol"><span class="flabel">Volume</span><span id="facet-vol"></span></div>
+        <div class="facet" data-f="tool"><span class="flabel">Tooling</span><span id="facet-tool"></span></div>
       </div>
       <p class="fnote">Material, volume, and tooling tags are directional estimates added for filtering — typical cases, not universal limits. Volume bands: Prototype 1–10 · Low 10–1k · Medium 1k–100k · High 100k+ · Continuous (tons, meters, wafers, cells). Tooling &amp; NRE bands: Minimal &lt;$5k · Low $5–50k · Moderate $50–250k · High $250k–1M · Very high &gt;$1M.</p>
     </div>
