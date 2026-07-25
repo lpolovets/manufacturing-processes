@@ -16,6 +16,9 @@ LiDAR with (almost) nothing spinning: MEMS mirrors, rotating polygon prisms, opt
 ## Strengths and weaknesses
 Vibration- and wear-tolerant, compact and embeddable, high point density in the field of view, costs falling on semiconductor-style curves. Weaknesses: limited field of view per unit; MEMS and polygon versions still have micro-moving parts (the "solid-state" label is marketing-elastic); flash LiDAR's power budget caps range; and optical phased arrays — the true solid-state endgame — remain barely commercial after a decade of promises.
 
+## When to use
+Pick solid-state when the sensor must be embedded, shaken, or automotive-qualified and a forward wedge of dense points covers the task — ADAS and highway autonomy, drones, forklift and AMR forward safety zones — with sub-$500 units riding Chinese ADAS volume. Multiple units or a supplementary spinner cover the seams when wider coverage is needed. Avoid it when one sensor must see 360° (a spinning unit still wins on coverage per dollar) or when your program cannot stomach supply concentrated in two Chinese vendors; and treat "solid-state" labels skeptically — MEMS and polygon units still carry micro-moving parts with shock limits.
+
 ## Failure modes
 Same weather and surface pathologies as all ToF LiDAR (rain, fog, glass, retroreflector bloom); windshield mounting adds dirt, condensation, and wiper streaks; MEMS mirrors have resonance and shock limits; narrow FoV creates coverage seams between units where objects vanish; interference between fixed-pattern units is harder to dodge than between spinners.
 

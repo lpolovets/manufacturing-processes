@@ -15,6 +15,9 @@ The pacemaker battery: a solid-state primary in which a lithium anode and iodine
 ## Strengths and weaknesses
 Extraordinary reliability and predictability (end-of-life is forecastable months ahead from impedance rise — essential for scheduling replacement surgery); hermetic all-solid construction; decades of implant history with failure rates near zero. Weaknesses: microamp-only current, useless outside ultra-low-power implants; the self-grown LiI electrolyte's resistance climbs throughout life; higher-drain implants (defibrillators, neurostimulators) require different chemistries (Li-SVO, Li-CFx).
 
+## When to use
+Pick Li-I2 for implanted devices drawing continuous microamps where reliability and a forecastable end of life are worth almost any price — pacemakers define the application, and the impedance-based replacement warning is a clinical requirement, not a nicety. It has no use outside that envelope: anything above microamp drain needs a different implant chemistry — Li-SVO for defibrillator pulse loads, Li-CFx for neurostimulators — and non-implanted low-power devices are better served by cheap Li-MnO2 coin cells.
+
 ## Examples
 Cardiac pacemakers since 1972 (Greatbatch/Integer, EaglePicher Medical); adjacent implant chemistries — lithium silver vanadium oxide for defibrillators, lithium carbon monofluoride for neurostimulators — share the market.
 

@@ -14,6 +14,9 @@ The Soviet graphite-moderated, water-cooled channel reactor — Chernobyl's desi
 ## Strengths and weaknesses
 On-power refueling, no enrichment-heavy fuel demands, no giant pressure vessel — the design was cheap and scalable, which is why 17 were built. Weaknesses: the void coefficient and scram behavior made it uniquely unforgiving; graphite fires spread contamination in a way water reactors cannot; no containment; and the design is unlicensable anywhere outside its legacy fleet. Its safety story is the textbook case of physics choices dictating institutional catastrophe.
 
+## When to use
+There is no deployment case: the design is unlicensable outside its legacy Russian fleet and exits with the 2030s retirements. Its use today is analytical — the benchmark against which every "inherent safety" claim gets priced, and the case study in how a positive void coefficient compounds with institutional secrecy. Anyone actually shopping for a channel-type reactor with on-power refueling should be looking at the CANDU lineage instead.
+
 ## Examples
 Chernobyl (all units closed, 1986–2000); Leningrad, Kursk, and Smolensk units in Russia — seven still operating with lifetime extensions, retiring through the 2030s as VVER-1200s replace them.
 

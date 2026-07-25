@@ -16,6 +16,9 @@ Actuation at the scale where electrostatics wins: below roughly a millimeter, Co
 ## Strengths and weaknesses
 Batch-fabricated by semiconductor economics — thousands per wafer; nanometer precision; microsecond speeds; near-zero power (electrostatic holding is capacitive). Weaknesses: forces and strokes are microscopic, useful only where the load is also microscopic; stiction and dielectric charging are chronic failure modes; packaging often costs more than the die; and scaling up in force means ganging thousands of elements — rarely worth it.
 
+## When to use
+Choose MEMS when the load itself is microscopic — a mirror facet, an optical element, a microliter of fluid — and volumes justify wafer economics: thousands of units per wafer, nanometer precision, near-zero holding power. It is a design-win business, so plan for the packaging and fab NRE dominating the die cost. Avoid it for any macroscopic force or stroke — micronewtons do not gang up economically — and treat one millimeter as the practical boundary: above it, piezo or voice-coil hardware takes over, and no robot joint decision ever lands here.
+
 ## Examples
 TI's DLP micromirror arrays (millions of mirrors per chip), MEMS autofocus and OIS (a growing phone niche), MEMS scanning mirrors in LiDAR and AR displays, RF-MEMS switches, microfluidic pumps and valves, Fabry-Perot tunable filters.
 

@@ -16,6 +16,10 @@ Silicon is exposed to oxygen or steam at high temperature to grow silicon dioxid
 
 Produces high-quality dielectric interfaces and uniform films. Consumes silicon, requires high temperature, and is substrate-specific.
 
+## When to use
+
+Grow thermal oxide whenever the electrical quality of the Si-SiO2 interface matters — gate and tunnel oxides, high-quality passivation, and any dielectric where defect density must be minimal — and for cheap, uniform hard masks on bare silicon early in a flow. Dry oxidation gives dense, slow-growing films for thin critical oxides; wet oxidation grows thick field and masking oxides up to a couple of microns in reasonable furnace time. Because it runs at 900-1200 C and consumes the substrate, it is only usable on exposed silicon before metallization or any dopant profile that cannot tolerate the thermal budget; once those constraints bind, deposit oxide by CVD instead, or use ALD for thin conformal dielectrics on arbitrary materials.
+
 ## Examples
 
 Gate oxides, isolation layers, masks, passivation.

@@ -16,6 +16,9 @@ Electrostatic muscles: dielectric elastomer actuators (DEAs) squeeze a rubbery c
 ## Strengths and weaknesses
 Muscle-like strain (10–30%+) at tens-to-hundreds of hertz, high efficiency (electrostatic, with energy recovery possible), silent, self-sensing, and made from films and liquids by roll-to-roll-friendly processes. Weaknesses: kilovolt drive electronics — miniaturizing safe 5–10 kV supplies is half the product; forces per unit are modest, demanding stacks and arrays; dielectric breakdown and electrode fatigue set lifetime; and no application beyond demos has yet shipped at volume.
 
+## When to use
+Consider HASEL/DEA when the application needs silent, muscle-like motion at modest force with built-in self-sensing and can absorb a 5–10 kV drive stage: haptic surfaces, small valves and pumps, adaptive optics, soft-robot research — jobs where tens of hertz and 10–30% strain in a film-thin package beat any motor. Design around stacks and arrays from the start, since single units push newtons, not tens of newtons. Avoid it for load-bearing joints and any product needing demonstrated lifetime today — breakdown and electrode fatigue data are still thin and nothing has shipped at volume — and default to conventional electromagnetic actuation wherever the muscle-like form factor isn't itself the requirement.
+
 ## Examples
 Artimus Robotics (HASEL commercialization), Toyota Research and academic humanoid-muscle demos, historical SRI DEA work (the field's origin), haptic-display startups using DEA films, adaptive-optics and valve prototypes.
 

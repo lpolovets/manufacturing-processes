@@ -16,6 +16,10 @@ Fuel gas preheats carbon steel and oxygen rapidly oxidizes and removes the metal
 
 Portable, inexpensive, and can cut extremely thick steel. Slow, thermally aggressive, and unsuitable for many nonferrous alloys.
 
+## When to use
+
+Pick oxy-fuel for carbon and low-alloy steel from about 25 mm up to 300 mm and beyond — thicknesses plasma cannot reach — and for field work, demolition, and shops where a torch set costing a few hundred dollars is the entire capital outlay; multiple-torch machines still bevel and strip heavy plate economically. It only works where the oxidation chemistry does: stainless, aluminum, and copper alloys are out. Below roughly 25 mm, plasma cuts faster with less distortion and laser owns thin sheet, so treat oxy-fuel as the thick-ferrous and portability specialist.
+
 ## Examples
 
 Structural fabrication, demolition, shipbuilding, heavy plate.

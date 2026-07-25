@@ -16,6 +16,10 @@ Charged polymer powder is sprayed onto a part and baked into a continuous film.
 
 Produces durable, thick, low-solvent finishes with good material utilization. Cure temperature and coating thickness in recesses can be limiting.
 
+## When to use
+
+Powder coat is the default finish for fabricated steel and aluminum that can survive a 150-200 C oven: enclosures, frames, wheels, and outdoor furniture get a tough 60-120 um film with near-zero VOCs and 95+ percent material utilization on a reclaim line. It beats liquid paint on chip resistance, edge coverage, and cost per part once a line is running. Rule it out for heat-sensitive substrates like most plastics, wood, and assemblies with seals or electronics, for parts needing films under about 25 um or Class A automotive color-matched finishes, and for deep recesses where Faraday-cage effects starve coverage; liquid spray painting handles all of those. Very large one-off structures also favor liquid paint applied in place.
+
 ## Examples
 
 Appliances, outdoor furniture, wheels, enclosures.

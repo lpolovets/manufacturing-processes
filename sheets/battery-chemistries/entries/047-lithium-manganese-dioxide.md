@@ -15,6 +15,9 @@ The everyday lithium primary: lithium anode, heat-treated manganese dioxide cath
 ## Strengths and weaknesses
 Good energy density at consumer-safe chemistry; ~10-year shelf life; wide temperature range; cheap and universally available formats. Weaknesses: modest rate capability (coin formats especially); capacity well below thionyl chloride for long-life industrial use; non-rechargeable; coin-cell ingestion hazard for children drove new safety packaging regulation; voltage drops under high pulse loads in cold.
 
+## When to use
+Li-MnO2 is the default primary for ~10-year small-device service where consumers handle the cell: key fobs, motherboard clocks, tags, smoke alarms, telemetry. Reach for it whenever a CR-format cell fits and the load is low-to-moderate; design in ingestion-safe retention wherever children can reach coin cells. Step up to Li-SOCl2 when the spec demands 20-year life or temperature extremes beyond its window, and to Li-SO2 or spiral formats for sustained high-rate cold-weather discharge.
+
 ## Examples
 CR2032 coin cells everywhere (key fobs, motherboards, sensors, tags — Panasonic, Murata, Maxell); CR123A cells in flashlights, smoke alarms, and cameras; medical telemetry devices.
 

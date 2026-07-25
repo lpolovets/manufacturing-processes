@@ -16,6 +16,9 @@ The simplest motor that works: current through a wound rotor, commutated mechani
 ## Strengths and weaknesses
 Unbeatable simplicity and cost; torque proportional to current with no commutation electronics; trivially reversible and controllable. Weaknesses: brushes wear out (hundreds to thousands of hours), arc, generate EMI and dust; heat is trapped in the rotor where it's hardest to remove, capping continuous torque; and at any performance level that matters, a BLDC now beats it on every axis except price and simplicity.
 
+## When to use
+Pick brushed DC when the axis is intermittent-duty, cost-dominated, and coarse — a few hundred to a few thousand hours of life is acceptable, the BOM allows single dollars, and control is an H-bridge off a battery: toys, lids, low-end grippers, prototype drivetrains. The coreless variant earns its premium where zero cogging and smoothness matter at low power, as in medical pumps and micro-mechanisms. Avoid it for continuous duty, tight thermal budgets, or any joint you'll iterate toward performance — rotor-trapped heat caps sustained torque and brush wear becomes the maintenance item; a small BLDC with a commodity FOC drive is the default upgrade path.
+
 ## Examples
 Toys, seat adjusters, and appliance actuators by the billion; hobby gearmotors (Pololu-class) in education and prototyping robots; coreless brushed micromotors (Faulhaber, Maxon DCX) surviving in medical devices and precision niches where their zero-cogging smoothness matters.
 

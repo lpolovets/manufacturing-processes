@@ -16,6 +16,10 @@ Polymer is converted into continuous filaments by extrusion through spinnerets, 
 
 Melt spinning is fast, solvent-free, and economical; solution routes extend spinning to materials that cannot be melted; electrospinning reaches micro- and nanoscale fibers. Solvent recovery, environmental controls, and throughput limits constrain the non-melt variants.
 
+## When to use
+
+Default to melt spinning for any fiber whose polymer melts cleanly — polyester, nylon, polypropylene — since it delivers the lowest cost at commodity scale. Reserve wet or dry spinning for polymers that degrade before melting (cellulosics, acrylics, spandex) and accept the solvent-recovery burden that comes with them. Use electrospinning only where micro- or nanoscale diameters and extreme surface area justify very low throughput — filtration media, scaffolds, separators — never for bulk textile fiber.
+
 ## Variants
 
 ### Melt spinning

@@ -16,6 +16,9 @@ A three-dimensional spinel LiMn2O4 cathode offering high power, good safety, and
 ## Strengths and weaknesses
 Excellent rate capability, good thermal stability, low-cost cobalt-free materials, and easy synthesis. Weaknesses: mediocre energy density and the chemistry's defining flaw — Mn2+ dissolution into the electrolyte at elevated temperature, which poisons the graphite anode and drives fast fade. Modern use is mostly in blends (LMO-NMC) rather than standalone.
 
+## When to use
+Specify LMO today mainly as a blend component — adding rate capability and thermal margin to NMC electrodes — or standalone in cost-sensitive power applications where the device retires before manganese dissolution matters (a few hundred cycles). Avoid it standalone in anything that runs warm or must last years of cycling; LFP delivers similar cost with several times the life, and NMC delivers the energy.
+
 ## Examples
 First-generation Nissan Leaf and Chevy Volt packs (blended); cordless power tools; medical devices; e-bike cells.
 

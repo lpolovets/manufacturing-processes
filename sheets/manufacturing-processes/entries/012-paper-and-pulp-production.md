@@ -16,6 +16,10 @@ Cellulose fibers are suspended in water, deposited as a continuous web, pressed,
 
 Offers high throughput using renewable feedstocks. Water, energy, drying, fiber quality, and machine utilization dominate economics.
 
+## When to use
+
+Relevant when the product is a web of renewable cellulose fiber — paper, board, tissue, packaging stock — at machine-scale volumes where cost per ton is decisive. It is a buy-not-make process for essentially everyone downstream: mills cost hundreds of millions and live or die on utilization, energy, and fiber cost. Where barrier or structural performance exceeds what coated paper can deliver, polymer film or laminate constructions are the alternative.
+
 ## Examples
 
 Paper, paperboard, tissue, packaging stock.

@@ -16,6 +16,10 @@ Fine abrasives smooth a surface using belts, wheels, pads, compounds, or robots.
 
 Improves appearance, friction, cleanliness, and coating performance. Can be labor-intensive and may round edges or change dimensions.
 
+## When to use
+
+Pick polishing and buffing when the requirement is cosmetic or functional surface quality rather than dimension — mirror trim, cookware, mold cavities that must release cleanly, and surfaces being prepared for plating. Budget real labor hours unless volume justifies robotic cells or the parts are small enough for mass finishing. Avoid it on tight-tolerance features and crisp edges, which it rounds; for internal passages or large batches of stainless parts, electropolishing achieves the finish chemically, and vibratory finishing handles bulk deburring far more cheaply.
+
 ## Examples
 
 Medical tools, cookware, molds, automotive trim.

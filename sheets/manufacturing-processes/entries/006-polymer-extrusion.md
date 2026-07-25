@@ -16,6 +16,10 @@ Molten polymer is continuously forced through a die to produce a profile, pipe, 
 
 Among the highest-throughput and lowest-cost polymer processes. Geometry must remain substantially constant along the production direction, and quality depends on melt rheology, cooling, line stability, die swell, and feedstock consistency.
 
+## When to use
+
+Make extrusion the default for any thermoplastic product that is long and constant in section — pipe, profile, sheet, tubing, wire insulation — at medium volumes and above, where cost per meter is unmatched. Startup scrap and die tuning make short runs painful, so avoid it for small lots or discrete three-dimensional parts, which belong in injection molding. If the cross-section must change along the length, extrusion is out entirely.
+
 ## Examples
 
 Pipe, medical tubing, window profiles, wire insulation, plastic sheet, packaging film, weather seals, resin pellets.

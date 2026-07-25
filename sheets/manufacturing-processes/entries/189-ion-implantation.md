@@ -16,6 +16,10 @@ Accelerated dopant ions are driven into a semiconductor substrate and later acti
 
 Provides precise control of dose and depth. Equipment is expensive and implantation damages the crystal lattice.
 
+## When to use
+
+Implantation is the standard doping method for any modern device flow: choose it when dose must be controlled to a few percent and depth set independently by beam energy, when doping through a masking layer at room temperature, or when the profile — a retrograde well, a shallow source/drain extension, a buried layer — is unobtainable by diffusion from the surface. Every implant needs a subsequent activation anneal, so verify the thermal budget fits the rest of the stack, and use rapid thermal annealing when shallow junctions must not diffuse. For deep, cheap, uniform doping where profile shape is uncritical — power-device drift regions, solar cell emitters at commodity cost — furnace diffusion still wins on throughput and capital, and heavy-dose amorphization damage in compound semiconductors may push you to doped epitaxial growth instead.
+
 ## Examples
 
 Source/drain regions, wells, threshold adjustment, power devices.

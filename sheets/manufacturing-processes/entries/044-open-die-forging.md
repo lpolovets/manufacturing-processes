@@ -16,6 +16,10 @@ Metal is compressed between simple dies that do not fully enclose the workpiece.
 
 Produces very large, strong parts with favorable grain flow and relatively modest tooling. Accuracy is low and substantial machining is usually required.
 
+## When to use
+
+Open-die forging is for very large or very low-volume parts that must be metallurgically sound — turbine shafts, vessel rings, rotors from hundreds of kilograms to hundreds of tons — where no closed die could exist. Treat the forging as a rough envelope and plan substantial machining allowances. For thousands of identical net-shape parts move to closed-die forging; where strength requirements allow, a large casting is cheaper still.
+
 ## Examples
 
 Turbine shafts, pressure-vessel rings, generator rotors, large gears.

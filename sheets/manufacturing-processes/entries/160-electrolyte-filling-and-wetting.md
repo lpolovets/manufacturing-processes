@@ -16,6 +16,10 @@ Electrolyte is introduced, often under vacuum, and allowed to penetrate porous e
 
 Proper wetting is essential for impedance, capacity, and safety. Moisture sensitivity, soak time, incomplete wetting, and trapped gas are major challenges.
 
+## When to use
+
+Every liquid-electrolyte cell line needs this step; the real choices are dosing and wetting strategy. Use vacuum filling with multi-step dose-and-soak cycles for large-format prismatic and pouch cells, high-loading or highly calendered electrodes, and any design where trapped gas or dry spots would show up as impedance outliers, and budget hours of soak time plus dew-point control below roughly -40 C in the fill room. Single-shot filling with short soaks is acceptable only for small cylindrical cells with thin, porous electrodes. If fill and wetting time is dominating line takt, attack it with electrode porosity, electrolyte formulation, or warm soak rather than by shortening the soak and shipping poorly wetted cells.
+
 ## Examples
 
 Lithium-ion cells of all formats.

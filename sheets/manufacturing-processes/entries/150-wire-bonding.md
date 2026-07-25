@@ -16,6 +16,10 @@ Fine gold, copper, or aluminum wire is bonded between a die and package using ul
 
 Mature, flexible, inexpensive, and well understood. Adds electrical inductance and package height and is limited at extreme interconnect density.
 
+## When to use
+
+Wire bonding is the default die-to-package interconnect for cost-sensitive and moderate-pin-count devices — analog, sensors, LEDs, MEMS — and heavy aluminum wire remains standard in power modules; it needs no wafer bumping and accommodates routing changes with a program edit rather than a mask. Move to flip-chip when pin counts run into the high hundreds, when interconnect inductance limits high-frequency or high-current performance, or when package height is critical.
+
 ## Examples
 
 Analog ICs, sensors, LEDs, MEMS, power devices.

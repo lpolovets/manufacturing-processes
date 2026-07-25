@@ -16,6 +16,10 @@ Rubber compound passes through heated rolls to create sheet or coat reinforcemen
 
 Produces controlled thickness and reinforced laminates. Equipment is large and temperature and thickness control are demanding.
 
+## When to use
+
+Calender when you need wide, thickness-controlled rubber sheet or rubber-coated fabric in continuous quantity — tire plies, conveyor belting, roofing membrane — holding gauge tolerances of a few percent across meters of width. The multi-roll capital only pays at plant-scale volumes, so for narrow profiles use extrusion, and for moderate sheet quantities extrusion through a sheet die or press-cured sheet is the economical route.
+
 ## Examples
 
 Tire plies, belts, roofing membranes, flooring.

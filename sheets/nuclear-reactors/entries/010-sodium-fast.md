@@ -15,6 +15,9 @@ The most-built advanced reactor in history: liquid sodium coolant, no moderator,
 ## Strengths and weaknesses
 Vast operating experience (EBR-II's legendary passive-safety tests, Russia's BN-600/800 running commercially for decades), atmospheric pressure, waste transmutation potential, and metal-fuel passive shutdown physics. Weaknesses: sodium burns on contact with air or water — leak-and-fire history stalked Monju and Superphénix; opaque coolant complicates inspection; an intermediate loop adds cost; and breeding start-up cores need plutonium or HALEU at quantities that strain supply.
 
+## When to use
+For a utility, the near-term case is Natrium's specific configuration: a renewable-heavy grid that will pay for storage-backed load-following, in a jurisdiction willing to license sodium — not cheap baseload, where LWRs win. For a state program, choose the SFR when the objective is fuel-cycle infrastructure — breeding, actinide burning, plutonium management — and the treasury can hold a multi-decade position, as Russia, China, and India do. In either case, treat a secured HALEU or plutonium startup inventory as the gating item; it is the binding constraint on every Western schedule.
+
 ## Examples
 Russia's BN-800 (operating on MOX, the only commercial fast fleet); TerraPower's Natrium (345 MWe, metal fuel, plus a molten-salt heat store for 500 MWe peaking) — construction underway at Kemmerer, Wyoming, targeting ~2030; India's PFBR at Kalpakkam approaching operation; historic Phénix, Superphénix, Monju, EBR-II, FFTF.
 

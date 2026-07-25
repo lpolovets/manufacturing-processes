@@ -16,6 +16,10 @@ A pierced ring is rolled to increase diameter and reduce wall thickness.
 
 Creates strong seamless rings with excellent grain orientation and material efficiency. Limited to annular geometry.
 
+## When to use
+
+Ring rolling is the sensible route to seamless rings from roughly 200 mm to several meters in diameter — bearing races, jet-engine and flange rings — at one-off to medium volumes, delivering circumferential grain flow and far better material yield than machining from plate or forged block. It handles annular geometry only. Small rings at high volume are better cold-formed or machined from tube, and non-round frames must be forged or fabricated.
+
 ## Examples
 
 Bearing races, jet-engine rings, wind-turbine rings, flanges.

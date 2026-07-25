@@ -16,6 +16,9 @@ The third alkali metal option: potassium ions shuttling between a Prussian-blue-
 ## Strengths and weaknesses
 Uses standard graphite anodes; potassium is abundant everywhere; higher cell voltages than sodium-ion are possible; fast ion transport favors rate capability. Weaknesses: the large ion strains host structures, limiting cathode choices and cycle life; energetic potassium metal raises safety questions in failure modes; electrolytes are immature; and the value proposition must beat sodium-ion, which has a decade's head start on the same "cheaper than lithium" pitch.
 
+## When to use
+There is no product reason to specify potassium-ion today — no commercial cells exist — so treat it purely as a research and investment allocation, most sensibly at the materials layer (Prussian white cathodes, electrolyte salts) rather than full-stack cell plays. For any actual "cheaper than lithium" requirement, use sodium-ion, which runs a decade ahead on the identical pitch; potassium only becomes interesting if both lithium and sodium hit supply or performance walls.
+
 ## Examples
 Academic programs worldwide; Group1's potassium Prussian white cathode development; no commercial cells of consequence yet.
 

@@ -16,6 +16,10 @@ Powder or a preformed component is exposed to high temperature and uniform gas p
 
 Creates dense material and closes internal porosity in cast or printed parts. Equipment and cycles are expensive and external geometry generally requires a shaped container or later machining.
 
+## When to use
+
+Specify HIP when internal porosity limits fatigue life — cast or powder-bed-fusion titanium and nickel parts for rotating aerospace hardware, medical implants, and similar critical service — or when consolidating superalloy powder into segregation-free billets. Treat it as a densification step bought from a toll processor: it fixes what is inside the part, not its shape, so budget for canning or finish machining and for batch cycles measured in hours. Skip it for statically loaded or cost-driven castings, where vacuum impregnation or simply accepting the porosity is the norm.
+
 ## Examples
 
 Turbine disks, aerospace castings, powder-superalloy billets, additive parts.

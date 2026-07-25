@@ -16,6 +16,9 @@ The heavy-duty precision transmission: an eccentric input rolls cycloidal discs 
 ## Strengths and weaknesses
 Extreme overload tolerance and rigidity, near-zero backlash when preloaded, long fatigue life, high single-stage ratios. Weaknesses: heavier and bulkier than strain-wave at equal ratio; eccentric motion needs balancing and induces a small cyclic ripple; manufacturing tolerances are ferocious (hence the duopoly); efficiency similar to harmonic; effectively non-backdrivable.
 
+## When to use
+Pick a cycloidal for high-torque proximal joints that will be shocked — industrial-robot bases and shoulders, humanoid hips and knees, anything that lifts hundreds of newton-meters or takes impacts as part of the job — where its 500% momentary overload rating and torsional stiffness are the difference between a service call and a shrug. It wants ratios of 30–300:1 and a mass budget that tolerates the extra kilograms over strain-wave. Avoid it in wrists and distal joints where grams and axial depth dominate (harmonic wins the packaging) and in force-controlled, contact-transparent joints, where a low-ratio QDD stage is the right architecture.
+
 ## Examples
 Nabtesco RV series — the base and shoulder joints of the large industrial robots of Fanuc, ABB, KUKA, Yaskawa (Nabtesco holds ~60% of the world precision-reducer market); Sumitomo Fine Cyclo; Spinea; Chinese entrants (Shuanghuan, Zhongdadi) chasing the market; 3D-printed hobby cycloidals as a maker staple.
 

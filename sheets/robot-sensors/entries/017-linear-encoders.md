@@ -15,6 +15,9 @@ Position measured where it matters: a graduated scale (glass, steel tape, or mag
 ## Strengths and weaknesses
 Eliminates drivetrain error (backlash, screw pitch error, thermal growth) from the measurement; nanometer-class options for stages; tape versions cut to any length on site. Weaknesses: must be mounted, aligned, and protected along the full travel — installation is the product; exposed scales collect the shop's filth; cost scales with length; and most robot arms can't use them (rotary joints), confining linear scales to gantries, stages, and machine axes.
 
+## When to use
+Pick a linear scale when a linear axis must hit tolerances the drivetrain cannot guarantee — gantries, stages, and machine axes chasing tens of microns or better, where backlash, screw error, and thermal growth would otherwise land in the part. Glass scales for precision work, cut-to-length magnetic tape for long or dirty axes, interferential scales for nanometer stages. Avoid them when a motor-side encoder plus a stiff, well-mapped drivetrain already meets spec — installation, alignment, and full-travel protection are the real cost — and remember they simply do not apply to rotary-joint arms, which is most robots.
+
 ## Failure modes
 Contamination scratches or obscures gratings — sealed scales trade protection for friction; mounting stress and thermal mismatch between scale and machine bend accuracy; read-head gap drift from wear or crash; magnetic scales corrupted by strong fields or physical dings; reference-mark loss after power cycling on incremental types; cable-carrier fatigue on fast axes.
 

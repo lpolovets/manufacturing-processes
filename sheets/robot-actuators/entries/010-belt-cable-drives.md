@@ -16,6 +16,9 @@ Transmission at a distance: synchronous belts, steel cables, and capstan winding
 ## Strengths and weaknesses
 Remote actuation slashes limb inertia; smooth, quiet, backdrivable, and backlash-free (tensioned cables); belts are cheap and forgiving of misalignment. Weaknesses: compliance — belts stretch and cables creep, stealing stiffness and demanding tensioning maintenance; routing through multiple joints couples them kinematically; power density is modest; and cable fatigue/fray is a wear item with inspection burden (surgical robots replace instruments partly for this reason).
 
+## When to use
+Reach for belts and cables when moving mass is the enemy: remote the motors to the base and the limb's inertia collapses, which is why tendon drives own dexterous hands and cable capstans own haptics and surgical instruments — applications where backdrivable, backlash-free feel is the product. Belts are the cheap default for planar stages (CoreXY, SCARA, deltas) and any long, misalignment-tolerant run. Avoid them where stiffness under high load or maintenance-free life is the requirement — cables creep, fray, and need tensioning, so a screw or geared joint wins for heavy sustained force — and keep routing simple, because every joint a cable crosses becomes a kinematic coupling you must compensate.
+
 ## Examples
 The da Vinci surgical system's cable-driven instruments (the category's flagship), Phantom haptic devices' capstans, 3D printer CoreXY belt systems, SCARA and delta robot belt stages, tendon-driven robot hands (Shadow Hand), Agility Robotics' leg transmissions mixing cables and links.
 

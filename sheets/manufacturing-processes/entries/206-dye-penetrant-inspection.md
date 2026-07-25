@@ -16,6 +16,10 @@ Visible or fluorescent liquid penetrates surface-breaking flaws and is drawn out
 
 Inexpensive and sensitive on many nonporous materials. Only detects flaws open to the surface.
 
+## When to use
+
+Reach for penetrant testing as the cheap default for surface-crack detection on nonmagnetic materials — aluminum, titanium, austenitic stainless, nickel alloys, even ceramics — where magnetic-particle inspection cannot work, with fluorescent systems for critical aerospace hardware and simple visible-dye kits for weld shops and field checks. It inspects whole complex surfaces at once with minimal equipment and modest training. It finds nothing subsurface and nothing plugged: smeared metal from machining, peening, or blasting seals crack openings, so etch or sequence inspection before those operations, and porous surfaces like castings with connected porosity and as-printed additive parts give overwhelming false indications. On ferromagnetic steel, magnetic-particle inspection is faster and also catches slightly subsurface flaws; for anything internal, use ultrasonic or radiographic methods.
+
 ## Examples
 
 Turbine blades, castings, forgings, welds.

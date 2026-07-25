@@ -16,6 +16,9 @@ The classic compressed-air plant: compress air into a salt cavern off-peak, then
 ## Strengths and weaknesses
 Cavern energy capacity is nearly free ($1–10/kWh), plant life is measured in decades, and the technology is boringly bankable. Weaknesses: it burns gas — emissions and fuel exposure make classic diabatic CAES effectively unfinanceable in decarbonizing markets; round-trip framing is awkward (it's half storage, half gas peaker); salt-cavern geology is required; and 45 years produced exactly two Western plants — revealed preference matters.
 
+## When to use
+Build new diabatic CAES only where salt caverns are on hand, gas is cheap and unpriced for carbon, and the buyer wants dispatchable capacity more than clean storage — in practice, a shrinking set of markets, mostly outside the West. If you already own Huntorf- or McIntosh-class assets, keep running them; the caverns and machinery are paid for. In any decarbonizing market, skip straight to advanced CAES or hydrogen-fired turbines on the same salt geology — the gas burner is what makes this design unfinanceable, not the cavern.
+
 ## Examples
 Huntorf (Germany, 321 MW), McIntosh (Alabama, 110 MW); China's Zhangjiakou and Yingcheng plants revive the concept at 100–300 MW scale with reduced or zero gas input.
 

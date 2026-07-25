@@ -16,6 +16,10 @@ Molten or partially solid metal solidifies under substantial mechanical pressure
 
 Produces dense, strong parts with low porosity. Equipment, dies, and process development are expensive and the operating window can be narrow.
 
+## When to use
+
+Reserve squeeze casting for safety- and fatigue-critical aluminum parts — suspension arms, knuckles, pistons — that need forging-like density and full heat-treat response in a geometry too complex or costly to forge. Volumes must be high enough to amortize dies and the process development its narrow operating window demands. If ordinary casting integrity suffices, use LPDC; if the shape is forgeable, closed-die forging often reaches the same properties for less.
+
 ## Examples
 
 Pistons, wheels, suspension components, aerospace aluminum parts.

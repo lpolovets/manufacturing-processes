@@ -16,6 +16,9 @@ Fingers with no bones: molded elastomer digits — pneumatic bellows that curl w
 ## Strengths and weaknesses
 Gentle by construction (pressure limits force), huge shape tolerance without sensing or programming, washdown-friendly monolithic construction, forgiving of pose error. Weaknesses: floppy precision — placement accuracy and grip stability trail rigid fingers; payload is modest; elastomers wear, tear, and fatigue as consumables; pneumatic versions need air and valving; and cycle rates suffer from inflation dynamics. Oil and some CIP chemicals attack certain elastomers.
 
+## When to use
+Pick soft fingers for delicate, shape-variable products under hygiene rules — produce, bakery, proteins, anything washdown-regulated — where gentleness must be guaranteed by construction rather than by control, and moderate line rates are acceptable. Fin-ray fingertips are also a cheap upgrade for pose-tolerant grasping on ordinary grippers. Avoid them where placement precision, payload, or cycle rate dominates — vacuum and rigid jaws are faster and stiffer — and verify elastomer compatibility with your cleaning chemicals and oils before committing, because fingers are consumables and the wrong material shortens an already finite life.
+
 ## Examples
 Soft Robotics Inc's mGrip food lines (the category's commercial proof, since acquired into Schmalz's orbit), Festo's adaptive fin-ray fingers, Rochu and other Chinese soft-gripper vendors, bakery/produce/protein picking cells, fin-ray fingertips printed by countless integrators.
 

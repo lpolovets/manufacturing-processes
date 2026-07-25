@@ -16,6 +16,10 @@ Ceramic powder mixed with binder is injection-molded, debound, and sintered.
 
 Produces intricate small ceramic components at scale. Tooling, debinding, sintering shrinkage, and process development are demanding.
 
+## When to use
+
+Use CIM for small, intricate technical ceramics — dental brackets, watch cases, nozzles, typically under about 100 g with sections below roughly 10 mm for clean debinding — at volumes of tens of thousands and up that amortize hard tooling and process development. Sintering shrinkage near 20 percent must be dialed in per geometry. At lower volumes or larger sizes, press-and-sinter or green machining of pressed blanks is the practical route.
+
 ## Examples
 
 Dental brackets, watch parts, medical instruments, electronic insulators.

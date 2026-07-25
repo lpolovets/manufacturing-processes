@@ -16,6 +16,9 @@ The supporting cast of stationary electrochemistry: zinc-halide static batteries
 ## Strengths and weaknesses
 Non-flammable aqueous chemistries permit indoor and urban siting lithium's fire codes complicate; sodium systems dodge lithium-price exposure entirely; Na-S carries 20 years of utility operating data. Weaknesses: every member trails lithium on efficiency, density, or cost — usually two of three; small vendor bases create single-supplier project risk (Eos's financing saga, NGK's monopoly); and sodium-ion containers arriving from CATL-scale factories may cannibalize the niche players' safety-and-cost story before they scale.
 
+## When to use
+Reach for these when siting or policy, not price, is the binding constraint: zinc's non-flammable chemistry unlocks indoor, urban, and colocation sites lithium's fire codes foreclose; Na-S suits buyers who value 20 years of utility fleet history at 6-hour durations; and domestic-content or supply-chain-diversification mandates favor all three. Before committing, ask the killer question explicitly — what does this deliver that an LFP container at next year's price does not — and demand an answer beyond cost. Where plain $/kWh at 2–6 hours decides, avoid the niche players: LFP today and CATL-scale sodium-ion containers tomorrow will win that fight, and single-supplier vendor risk compounds the bet.
+
 ## Examples
 Eos Z3 cubes (US utility projects, DOE loan), NGK Na-S fleets (Abu Dhabi 108 MW), BASF-NGK partnership, CATL Naxtra and BYD sodium-ion grid containers entering volume production.
 

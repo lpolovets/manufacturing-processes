@@ -16,6 +16,9 @@ The energy king of aqueous batteries: silver oxide cathodes and zinc anodes scal
 ## Strengths and weaknesses
 Highest energy density of any proven aqueous rechargeable; extreme pulse power; safe electrolyte with graceful failure; storable dry and activated when needed. Weaknesses: silver makes large cells staggeringly expensive; zinc electrodes limit life to tens of cycles (a hundred with care); separators degrade in the silver-laden electrolyte; wet life after activation is months, not years.
 
+## When to use
+Pick silver-zinc for cost-insensitive missions demanding the most energy and pulse power a non-flammable aqueous cell can give — torpedoes, launch vehicles, submarine emergency power — especially where dry storage followed by activation on demand fits the concept of operations. Plan around tens of cycles and months of wet life, not years. Avoid it anywhere budgets or cycle counts matter, or where a lithium system qualified to the same naval or aerospace safety standard exists; that is the displacement path already underway.
+
 ## Examples
 Torpedo and submarine emergency batteries, launch-vehicle avionics packs (Saft, EaglePicher, EnerSys specialty lines), historic lunar rover and X-15 batteries; briefly, hearing aids and film cameras at button scale.
 

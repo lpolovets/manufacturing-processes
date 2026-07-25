@@ -16,6 +16,10 @@ An ion beam sputters tiny quantities of material from selected areas to correct 
 
 Noncontact and capable of nanometer-level correction. Slow, expensive, and vacuum-intensive.
 
+## When to use
+
+IBF is the final-correction process for the most demanding optics made: use it when the figure error budget is in single-digit nanometers RMS or below — EUV lithography mirrors, space telescope segments, synchrotron and high-energy laser optics — and when a contact process would print through on lightweighted or thin substrates, since the ion beam applies no force and no edge roll. It removes only tens to hundreds of nanometers per run inside a vacuum chamber, so the optic must arrive already polished to excellent finish and near-final figure by conventional means or MRF. For everything short of that last decimal place of figure, MRF is faster and cheaper, and IBF does not improve roughness — pair it with smoothing steps when microroughness also matters.
+
 ## Examples
 
 Space telescope mirrors, EUV optics, high-energy laser optics.

@@ -16,6 +16,10 @@ Molten glass floats on molten tin, forming a flat sheet with highly uniform thic
 
 The most efficient way to make large, optically smooth flat glass. Cannot directly produce shaped three-dimensional parts.
 
+## When to use
+
+Specify float glass for any flat glazing need — windows, mirrors, automotive and architectural stock — since nothing else produces large optically smooth sheet at commodity cost. It is strictly a feedstock decision: float lines cost hundreds of millions and run continuously for years, so all but the largest producers buy rather than make. Shaped or hollow glassware needs pressing, blowing, or slumping instead.
+
 ## Examples
 
 Windows, mirrors, architectural glazing, automotive glass feedstock.

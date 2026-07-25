@@ -16,6 +16,10 @@ Base resin is mixed with fillers, fibers, pigments, flame retardants, plasticize
 
 Allows material properties to be tailored for a specific application. Dispersion, heat history, moisture, contamination, and batch consistency are critical.
 
+## When to use
+
+Commission custom compounding when no stock resin meets the property targets — filled, reinforced, flame-retardant, conductive, or precisely matched color grades — and annual usage justifies a dedicated formulation, typically tons rather than kilograms. For simple coloring, masterbatch let-down at the molding machine is cheaper; at modest volumes, an existing commercial compound beats developing your own.
+
 ## Examples
 
 Glass-filled nylon pellets, flame-retardant plastics, conductive polymers, colored resin.

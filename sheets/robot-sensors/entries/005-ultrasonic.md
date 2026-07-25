@@ -16,6 +16,9 @@ Sonar for pennies: a piezo transducer chirps at 40–200 kHz and times the echo,
 ## Strengths and weaknesses
 Detects glass, mirrors, and transparent obstacles that defeat every optical sensor; immune to lighting; trivially cheap and simple; safe everywhere. Weaknesses: slow (speed of sound), wide sloppy beams that localize poorly, meters-scale maximum range, soft materials (foam, cloth, snow) absorb the ping and vanish; temperature and wind shift the speed of sound; crosstalk between multiple units needs scheduling.
 
+## When to use
+Pick ultrasonic for last-centimeter work and transparent obstacles: docking, parking, and any indoor robot operating near glass walls, partitions, or mirrors that optical sensors read as open space — a few dollars per unit, no compute, no lighting dependence. It earns a slot as the cheap safety net even on sensor-rich platforms. Avoid it wherever you need range past a few meters, precise bearing, fast update rates, or detection of foam, cloth, and other sound absorbers; there short-range ToF or radar does the job, and Tesla's removal-and-regret arc shows what happens when cameras are asked to cover the last centimeter alone.
+
 ## Failure modes
 Specular surfaces at oblique angles bounce echoes away — a smooth wall at 45° reads as empty space; sound-absorbent obstacles (clothing, foam) return nothing; ultrasonic cleaners, air nozzles, and other robots' pingers inject phantom echoes; rain and wind noise degrade outdoor use; transducer face contamination (mud, ice) silently kills sensitivity.
 

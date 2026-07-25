@@ -16,6 +16,9 @@ The workhorse of world logistics: elastomer cups pressed against a surface while
 ## Strengths and weaknesses
 Fastest attach in gripping, single-face access, huge pose tolerance, near-zero moving mass, cheap failures (cups are consumables), scales from grams to hundreds of kilos via arrays. Weaknesses: porous, curved, dusty, oily, or crumpled surfaces leak; the compressed-air bill is real (venturis are convenient and thermodynamically offensive); grip is normal-force only — shear and peel are the failure directions; hiss and dust movement disqualify some cleanrooms; and every dropped parcel in e-commerce is a leak that won.
 
+## When to use
+Default to cups for anything with one accessible, nonporous, reasonably smooth face — cartons, cases, panels, glass, sheet, most e-commerce goods — whenever attach speed and pose tolerance drive throughput; arrays with per-cup flow sensing scale from envelopes to appliance panels. Avoid them on porous, oily, crumpled, or perforated surfaces and on moves that load the grip in shear or peel; there mechanical jaws take structured parts, foam-area vacuum takes rough surfaces, and magnets take ferrous sheet. Budget the compressed-air bill honestly — smart ejectors pay back — and track leak-driven drop rates per thousand picks as the real performance metric.
+
 ## Examples
 Piab, Schmalz, and SMC ecosystems (cups, ejectors, sensors); Amazon Robin/Cardinal/Sparrow's suction arrays; every palletizer and carton erector; sheet-metal and glass handling lines; egg and produce packing with food-grade silicone cups.
 

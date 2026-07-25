@@ -16,6 +16,10 @@ Uncured rubber is forced through a die into a continuous profile before vulcaniz
 
 Efficiently creates long constant-cross-section products. Die swell, temperature, dimensional control, and later curing must be managed.
 
+## When to use
+
+Extrude any elastomer product that is a constant cross-section sold by the meter — seals, tubing, hose bodies, tread stock — where dies cost hundreds rather than tens of thousands of dollars and continuous cure lines (salt bath, microwave, hot air) sustain high throughput. For discrete three-dimensional rubber parts, or profiles whose tolerances are tighter than die swell allows, move to compression, transfer, or injection molding.
+
 ## Examples
 
 Weather seals, hose, tubing, tire tread, gaskets.

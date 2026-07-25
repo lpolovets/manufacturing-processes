@@ -16,6 +16,10 @@ Continuous fibers are pulled through resin and a heated die to form a continuous
 
 Provides high throughput and excellent longitudinal properties. Cross-section cannot vary and transverse properties are weaker.
 
+## When to use
+
+Use pultrusion when the part is a constant cross-section produced by the kilometer — structural profiles, ladder rails, composite rebar, cable tray — where die amortization and continuous line speed make it the cheapest continuous-fiber process per kilogram. It is the wrong answer for any varying cross-section, and transverse strength stays weak unless mats or fabrics are added to the roving stack. For hoop-loaded tubes go to filament winding; for discrete parts, to molding.
+
 ## Examples
 
 Beams, ladder rails, rods, cable trays, window frames.

@@ -16,6 +16,10 @@ Material is physically vaporized and condensed as a thin film.
 
 Produces high-purity metal, ceramic, and optical films. Vacuum-intensive and often line-of-sight.
 
+## When to use
+
+Reach for PVD when you need a pure, dense, well-adhered thin film — nanometers to a few microns — of a metal, nitride, or optical material at low substrate temperature: sputtered metallization and barrier stacks, TiN and DLC tool coatings, evaporated optical and decorative layers. Sputtering handles alloys and compounds with good composition control and works on plastics and other temperature-limited substrates where CVD cannot go. Its line-of-sight nature makes step coverage poor, so avoid it for deep trenches, internal surfaces, and high-aspect-ratio features — that is CVD or ALD territory — and its low deposition rates make films beyond ~10 um uneconomical, where electroplating or thermal spray take over.
+
 ## Examples
 
 Semiconductor metallization, tool coatings, mirrors.

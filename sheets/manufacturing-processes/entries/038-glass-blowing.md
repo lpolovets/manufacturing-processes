@@ -16,6 +16,10 @@ Heated glass is inflated and shaped manually or mechanically, often inside a mol
 
 Readily creates seamless hollow objects. Dimensional precision, thick structural sections, and sharp internal features are difficult.
 
+## When to use
+
+Machine blowing is the route for narrow-necked hollow glassware at volume — bottles, jars, bulbs, globes — while hand blowing covers low-volume laboratory, lighting, and artistic ware where tooling would never pay. Expect loose dimensional control and avoid thick structural sections or sharp internal features. Open, thick, or precise pieces are better pressed; flat stock comes from float lines.
+
 ## Examples
 
 Bottles, laboratory glassware, lighting globes, vessels.

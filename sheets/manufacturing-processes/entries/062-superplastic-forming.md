@@ -16,6 +16,10 @@ Specialized alloys are heated into a superplastic regime and slowly formed into 
 
 Can create complex one-piece lightweight structures. Cycles are slow, material choices are narrow, and temperature control is demanding.
 
+## When to use
+
+Pick superplastic forming for deep, complex thin-wall shells in fine-grain titanium or aluminum at aerospace volumes — tens to low thousands per year — especially where combining it with diffusion bonding consolidates a multi-part stiffened structure into one piece. Accept cycle times of 20 minutes to several hours and plan for thinning gradients in deep sections. Avoid it for cost-driven or high-volume work and for alloys without superplastic grades; conventional stamping or hydroforming covers those, and hot stamping handles high-strength steels.
+
 ## Examples
 
 Titanium aerospace panels, ducts, lightweight shells.

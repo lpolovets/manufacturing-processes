@@ -16,6 +16,10 @@ Loose abrasives between a lap and workpiece remove microscopic material.
 
 Achieves exceptional flatness, contact, and surface finish. Slow and unsuitable for substantial stock removal.
 
+## When to use
+
+Pick lapping when flatness or fit must reach the light-band level — mechanical seal faces, gauge blocks, valve seats, optics, and wafers — with finishes down to 0.01-0.05 micrometers Ra that grinding cannot deliver. It removes only micrometers to a few hundredths of a millimeter, so parts must arrive already ground to size. Avoid it wherever ground tolerances suffice, since it is slow and messy, and for bores or contoured surfaces, where honing and polishing are the corresponding finishing steps.
+
 ## Examples
 
 Mechanical seals, gauge blocks, optical surfaces, wafers.

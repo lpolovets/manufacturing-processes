@@ -14,6 +14,9 @@ Fission where solar can't follow: kilowatt-to-megawatt reactors for lunar bases,
 ## Strengths and weaknesses
 Continuous power through lunar nights and dust storms where solar dies; heat pipes eliminate nearly every classic failure mode; decades of RTG heritage in deep space. Weaknesses: launch approval politics for fissile material; mass budgets punish shielding; testing ground-based analogs of space conditions is expensive; and programs — NASA's Fission Surface Power, DARPA/NASA's DRACO nuclear-thermal demo — have a long history of cancellation before flight (DRACO's 2025 wind-down being the latest).
 
+## When to use
+This is a mission-driven government market: specify a fission surface-power or heat-pipe system when the mission profile rules out solar — lunar night, Mars dust, the outer planets — and RTG power levels (hundreds of watts) fall short. Investors get exposure through component, fuel, and shielding suppliers rather than mission primes, with the terrestrial microreactor crossover (eVinci out of the Kilopower lineage) as the commercial payoff. Program planners should price cancellation as the dominant risk — the field's history, DRACO included, is programs dying before flight.
+
 ## Examples
 KRUSTY (1 kWe ground demo), Fission Surface Power program (40 kWe-class lunar unit, industry teams incl. Westinghouse and IX/Intuitive Machines), the Soviet TOPAZ and RORSAT flight heritage, DRACO nuclear-thermal (paused), China/Russia announced lunar-station reactor plans.
 

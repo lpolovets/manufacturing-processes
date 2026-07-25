@@ -16,6 +16,10 @@ A foam pattern is embedded in sand and vaporized by molten metal as the cavity f
 
 Enables complex near-net-shape castings with fewer cores and parting lines. Foam quality, gas evolution, pattern handling, and repeatability are challenging.
 
+## When to use
+
+Consider lost foam at automotive-scale volumes for complex castings that would otherwise need many sand cores — blocks, heads, manifolds — since one foam pattern consolidates internal passages and eliminates parting lines and draft. It only pays when volumes amortize the foam-pattern tooling and the process is thoroughly debugged. Avoid it for short runs or shops without tight pattern-quality control; conventional cored sand casting is the fallback.
+
 ## Examples
 
 Engine blocks, cylinder heads, manifolds, pump housings.

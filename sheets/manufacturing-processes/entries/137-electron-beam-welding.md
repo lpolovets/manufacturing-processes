@@ -16,6 +16,10 @@ A focused electron beam melts the joint, generally in vacuum.
 
 Creates deep, narrow, clean welds with low distortion. Vacuum chambers, radiation controls, and part-size limits increase cost.
 
+## When to use
+
+Specify EB welding for deep, narrow, single-pass welds — tens of millimeters in one shot — in critical rotating hardware and reactive metals like titanium and zirconium, where the vacuum guarantees weld purity and distortion must stay minimal. Batch pumping and chamber size cap throughput and part dimensions, so unless the depth, purity, or material genuinely demands it, laser welding delivers similar precision faster and cheaper in open air.
+
 ## Examples
 
 Turbine parts, aerospace gears, nuclear components.

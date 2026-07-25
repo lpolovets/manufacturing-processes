@@ -16,6 +16,10 @@ Dried electrodes pass through precision rolls to reach target thickness, density
 
 Improves particle contact, adhesion, and energy density. Excessive compression reduces transport and can damage particles or foil.
 
+## When to use
+
+Calendering is mandatory to hit target density; the decision is the setpoint, not the step. Compress energy cells toward roughly 25–30% porosity for maximum volumetric capacity, and leave power and fast-charge designs more open, since over-densification chokes electrolyte transport and cracks particles — high-nickel cathodes and silicon-bearing anodes tolerate the least compression. As webs get wider, watch roll deflection and foil elongation: uneven density across the web shows up later as lithium plating.
+
 ## Examples
 
 Densified anode and cathode webs.

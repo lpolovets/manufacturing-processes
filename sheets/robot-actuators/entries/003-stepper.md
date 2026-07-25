@@ -16,6 +16,9 @@ Position control without feedback: a toothed rotor snaps between discrete magnet
 ## Strengths and weaknesses
 Dirt cheap, dead simple to control, full torque at standstill, and repeatable positioning with zero sensors. Weaknesses: torque collapses with speed; it draws full current while holding still (hot and inefficient); missed steps under overload are silent position errors; resonance bands cause vibration; and torque density is poor — steppers position light loads, they don't power limbs.
 
+## When to use
+Pick a stepper when the load is light and predictable, speeds stay in the low hundreds of RPM, and the whole axis must land under ~$30: instrument stages, syringe pumps, tool positioners, printer-class motion where full holding torque at standstill is a feature. Add an encoder (closed-loop variants) when a missed step would matter but the budget still can't reach a servo. Avoid it wherever the load can vary or collide — lost steps fail silently — and wherever watts or heat matter, since it draws full current doing nothing; above that line a BLDC servo axis is the answer, and for powered limbs the stepper was never a candidate.
+
 ## Examples
 Every FDM 3D printer axis (NEMA 17 as a de facto standard), syringe pumps and lab robots, pick-and-place machines, telescope mounts; hybrid closed-loop steppers (ClearPath, cheap Chinese servo-steppers) eating the low-end servo market.
 

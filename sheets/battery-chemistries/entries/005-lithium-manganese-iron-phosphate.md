@@ -16,6 +16,9 @@ An olivine cathode that substitutes manganese for part of the iron in LFP, raisi
 ## Strengths and weaknesses
 LFP-class cost and safety with meaningfully higher energy; runs on existing LFP production lines. Weaknesses: manganese dissolution into the electrolyte degrades cycle life at high temperature; poor intrinsic conductivity demands fine particles and heavy carbon coating; and the two-plateau discharge curve complicates BMS work. Still proving calendar life at scale.
 
+## When to use
+Pick LMFP for mid-range EV programs that need 15–25% more energy than LFP at essentially LFP cost, ideally blended with LFP or NMC so the two-plateau curve and calendar-life risk are diluted while the chemistry matures. Avoid betting a product on pure LMFP in hot-climate, long-calendar applications until manganese-dissolution data at scale is public; where current LFP density already clears your range target, plain LFP is the lower-risk buy.
+
 ## Examples
 CATL M3P (shipping in mainstream Chinese EVs, often blended), Gotion Astroinno pack, BYD and EVE development programs.
 

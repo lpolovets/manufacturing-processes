@@ -16,6 +16,10 @@ Fine abrasive particles carried by high-speed gas erode material.
 
 Creates delicate features without substantial heat or force. Removal rates are low and nozzle wear is significant.
 
+## When to use
+
+Pick abrasive-jet machining for small, delicate work on brittle materials — etching and frosting glass, trimming fired ceramics, cutting fine slots and micro-holes, and deburring where cutting forces would crack the part. It suits low and medium volumes of small features rather than bulk shaping. Avoid it for substantial material removal or large cuts (waterjet handles those), for ductile metals that resist erosion, and for deep accurate cavities in brittle stock, where ultrasonic machining is the stronger choice; contain the dust and expect steady nozzle replacement.
+
 ## Examples
 
 Glass etching, ceramic trimming, micro-holes, deburring.

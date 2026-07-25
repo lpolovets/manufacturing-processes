@@ -16,6 +16,9 @@ Reversible rusting as grid storage: iron electrodes oxidize to iron hydroxide wh
 ## Strengths and weaknesses
 Potentially ~$20/kWh energy capacity cost; iron, water, and air inputs with zero supply-chain risk; non-flammable; long-duration niche that lithium economics cannot serve. Weaknesses: round-trip efficiency around 40–50% (hydrogen evolution on charge); massive footprint per MW; slow response suited only to energy (not power) services; air-electrode durability across thousands of cycles remains the hard engineering problem.
 
+## When to use
+Pick iron-air only for multi-day firming — 100-hour-class discharge on renewable-heavy grids — where capacity cost per kWh is everything, charging happens on surplus power that makes 40–50% efficiency tolerable, and land is available for the footprint. It is an energy asset, not a power asset: never spec it for daily cycling, fast response, or ancillary services. For anything up to roughly 8–12 hours, LFP (or flow batteries at the margin) is the answer; iron-air begins where their tank-and-container economics end.
+
 ## Examples
 Form Energy's 100-hour systems — Cambridge, Minnesota (Great River Energy) and multiple utility pilots, with a West Virginia factory; ESS-adjacent academic iron-electrode programs.
 

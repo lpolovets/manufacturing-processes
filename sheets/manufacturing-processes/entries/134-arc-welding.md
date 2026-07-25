@@ -16,6 +16,10 @@ An electric arc melts base and filler metal to fuse a joint. Major variants diff
 
 Broadly applicable, from portable field repair to automated production. Speed, quality, fume generation, and operator skill vary strongly by variant.
 
+## When to use
+
+Arc welding is the default for structural steel and general fabrication from one-off field repair through mid-volume production: pick stick for portability and outdoor work, MIG for shop throughput and robotic automation, TIG for thin sections and critical or exotic-alloy joints, and flux-cored or submerged arc for heavy plate deposition. Move away from it for high-volume thin sheet, where resistance or laser welding is faster with less distortion, and for distortion-critical aluminum seams, where friction-stir welding is often the better answer.
+
 ## Variants
 
 ### Shielded metal arc (stick)

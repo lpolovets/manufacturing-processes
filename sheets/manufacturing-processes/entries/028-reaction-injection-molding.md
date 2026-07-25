@@ -16,6 +16,10 @@ Low-viscosity reactive liquids are mixed and injected into a mold, where they po
 
 Accommodates large parts, thick sections, and lower-cost tooling because mold pressure is relatively low. Cycle times, surface quality, and material selection may be inferior to thermoplastic injection molding.
 
+## When to use
+
+Choose RIM for large, lightweight polyurethane parts — machine covers, fascias, panels at sizes where thermoplastic molds become prohibitive — at hundreds to roughly 10,000 units per year, since low cavity pressure allows inexpensive aluminum or even composite tooling. Avoid it for small parts, tight tolerances, or six-figure volumes, where thermoplastic injection molding is faster and cheaper per part, and plan on painting to cover its weaker as-molded surface.
+
 ## Examples
 
 Automotive fascias, machine covers, medical-device housings, polyurethane panels.

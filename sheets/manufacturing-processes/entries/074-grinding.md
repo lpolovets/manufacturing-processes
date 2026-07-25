@@ -16,6 +16,10 @@ Abrasive grains remove small chips to produce accurate dimensions and fine surfa
 
 Works on hardened materials and achieves excellent tolerances and finishes. Heat, wheel wear, burn, residual stress, and low removal rates must be controlled.
 
+## When to use
+
+Pick grinding whenever the part is hardened past practical cutting-tool range (roughly 45-50 HRC and up) or the drawing demands tolerances tighter than about plus or minus 0.005 mm or finishes below 0.4 micrometers Ra — bearing surfaces, dies, gauges, cutting tools. Centerless grinding turns it into a genuine high-volume process for small cylindrical parts. Avoid using it for bulk stock removal — machine soft, heat treat, then grind the last tenths of a millimeter (creep-feed grinding of superalloy slots being the notable exception) — and note that hard turning with CBN now takes some of this territory when geometry is simple.
+
 ## Examples
 
 Bearing races, shafts, cutting tools, dies, engine components.

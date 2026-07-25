@@ -16,6 +16,9 @@ The meta-effector: a locking coupler between wrist and tool that passes mechanic
 ## Strengths and weaknesses
 One robot, many processes — capital utilization transformed; repeatability of microns preserves calibration across swaps; pass-through utilities avoid re-cabling; manual versions serve low-frequency changeover cheaply. Weaknesses: every coupling is a failure point multiplied by pass-through pins and seals (contamination in the interface is the classic fault); swap time (5–15 s) taxes cycle-driven applications; tool racks consume floor space; the tool inventory multiplies cost; and dropped-tool safety logic must be engineered, not assumed.
 
+## When to use
+Pick a changer when one robot must run multiple processes — weld then handle, machine-tend then deburr — or serve a part mix no single tool covers, and changeover happens every few minutes to hours rather than every cycle; manual changers cover low-frequency swaps at a fraction of the cost. Engineer dropped-tool safety and keep the pass-through interface clean, since contaminated pins are the classic fault. Avoid it in cycle-time-critical single-process cells, where the 5–15 s swap and the added failure interfaces are pure tax; there, bolt the one right tool on permanently, or add a second robot before adding a tool rack.
+
 ## Examples
 ATI (the category leader) and Schunk/Stäubli changer lines from cobot-size to 1-tonne press-tending units, Kosmek and BL Autotec in Asia, OnRobot's quick changers for the cobot ecosystem, multi-tool welding-plus-handling cells throughout automotive.
 

@@ -16,6 +16,10 @@ Finished wafers are separated into individual dies by saw, laser, plasma, or ste
 
 Mechanical sawing is mature and inexpensive; laser and plasma methods support thinner wafers and narrower streets. Chipping, kerf loss, debris, and thermal damage can reduce yield.
 
+## When to use
+
+Default to blade sawing: for standard-thickness silicon with streets of 50 um or more it is the cheapest, best-understood option. Switch to stealth (laser-internal) dicing for thin wafers below roughly 100 um, memory and stacked-die products where edge chipping kills yield, and dry processes where cooling water would damage MEMS; use ablation lasers for hard or brittle materials like SiC and glass where blades wear fast. Plasma dicing earns its cost when die are tiny and numerous — narrow streets and simultaneous singulation of the whole wafer reclaim several percent of area and boost die strength. Avoid blade sawing on cantilevered or released MEMS structures and on wafers where microcracks would propagate in service; choose the singulation method before street width is frozen in layout, not after.
+
 ## Examples
 
 Logic chips, sensors, MEMS, power devices.

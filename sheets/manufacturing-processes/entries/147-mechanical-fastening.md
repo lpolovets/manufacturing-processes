@@ -16,6 +16,10 @@ Parts are joined with discrete hardware or interlocking geometry rather than fus
 
 Broadly applicable, often reversible and inspectable. Adds weight or hardware, requires holes or precise tolerances, and joints can loosen, creep, or fatigue.
 
+## When to use
+
+Fasten mechanically when joints must come apart for service, when joining dissimilar or heat-intolerant materials, or when assembly happens in the field without process control — and default to it whenever inspectability and repairability outrank weight. Within the family, choose rivets for thin sheet and airframes, snap fits for high-volume plastics, and press or shrink fits for concentric hubs. Avoid it where sealing, weight, or fatigue at hole stress concentrations dominates; welding or adhesive bonding eliminates the holes and the hardware.
+
 ## Variants
 
 ### Bolts and screws

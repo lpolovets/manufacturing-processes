@@ -14,6 +14,9 @@ The reactor where fuel and coolant are the same liquid: uranium (or thorium) flu
 ## Strengths and weaknesses
 Atmospheric pressure and walk-away drain-tank safety; 700 °C heat; fuel that cannot melt down because it is already molten; exceptional fuel-cycle flexibility including thorium. Weaknesses: the salt is ferociously corrosive and radioactive everywhere it flows — every pump, valve, and heat exchanger becomes a licensed nuclear component; tritium production (from lithium salts) permeates hot metal; off-gas systems must handle mobile fission products continuously; and graphite lifetime limits core life.
 
+## When to use
+Back a thermal MSR when the thesis is plant-cost collapse — no pressure vessel, no fuel fabrication, 700 °C heat — and the venture has a credible answer to salt chemistry as an operations problem, which today means an IMSR-style sealed replaceable core pursued in a jurisdiction like Canada that will engage novel designs. Program planners should treat China's TMSR line as the pacing demonstration and calibrate timelines to it. If you need salt-heat revenue this decade, the FHR's solid-fuel compromise is the lower-risk route; liquid fuel is the bigger prize on a longer clock.
+
 ## Examples
 MSRE (Oak Ridge, 1965–69 — the founding demonstration); China's TMSR-LF1 at Wuwei (2 MWt, achieved criticality 2023 and thorium-in-salt operation — the world's only operating MSR); Terrestrial Energy's IMSR (LEU, sealed replaceable core units, deep into Canadian licensing); Denmark's Copenhagen Atomics and Seaborg pursuing mass-manufactured salt units.
 

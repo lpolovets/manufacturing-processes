@@ -16,6 +16,10 @@ A wax pattern is coated with ceramic, the wax is removed, and molten metal is po
 
 Produces intricate shapes, thin walls, fine details, and high-performance alloy parts. Slower and more expensive than sand casting and has practical size limits.
 
+## When to use
+
+Choose investment casting for complex, thin-walled (down to about 1.5 mm), fine-finish parts in hard-to-machine alloys — superalloys, titanium, stainless — at tens to tens of thousands of pieces, typically under about 50 kg. It buys near-net shape and detail that would otherwise demand extensive machining. Skip it for simple geometry or large parts, where sand casting is far cheaper, and for high-volume aluminum, where die casting wins on cycle time.
+
 ## Examples
 
 Turbine blades, aerospace brackets, surgical implants, impellers, jewelry.

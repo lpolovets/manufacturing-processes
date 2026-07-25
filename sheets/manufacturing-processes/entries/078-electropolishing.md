@@ -16,6 +16,10 @@ The workpiece acts as the anode in an electrolytic bath, preferentially dissolvi
 
 Improves cleanliness, corrosion resistance, fatigue behavior, and finish, including on difficult internal surfaces. Requires conductive materials, chemical handling, and careful edge control.
 
+## When to use
+
+Pick electropolishing for stainless and nickel-alloy parts in hygienic or high-purity service — pharmaceutical vessels, medical implants, semiconductor gas lines — and wherever internal passages, batches of small parts, or delicate features rule out mechanical polishing; it also deburrs and boosts corrosion resistance in the same bath. Design for the 5-50 micrometers it removes and expect preferential attack on sharp edges. Avoid it on parts with tight dimensional stack-ups, mixed alloys in one assembly, or surfaces whose deep scratches it will only make shinier — it smooths peaks, not gouges — and use mechanical polishing when a specific directional or heavy-stock finish is required.
+
 ## Examples
 
 Semiconductor gas lines, stainless medical devices, pharmaceutical equipment, additive parts.

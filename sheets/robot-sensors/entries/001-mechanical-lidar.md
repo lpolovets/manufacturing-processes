@@ -16,6 +16,9 @@ The sensor that made autonomous driving imaginable: a rotating head of pulsed la
 ## Strengths and weaknesses
 True 360° coverage from one unit, dense direct 3D geometry, works in darkness, mature SLAM and detection ecosystems. Weaknesses: a precision opto-mechanical assembly spinning continuously — bearings and encoders wear, shock and vibration are enemies; big and conspicuous; per-unit cost stayed stubbornly high for years; and resolution concentrates in horizontal lines, leaving sparse vertical detail at range.
 
+## When to use
+Pick spinning LiDAR when you need 360° geometry from a single mast-mounted unit — outdoor AMRs, off-road and mining vehicles, mapping rigs — at 30–200 m range with centimeter accuracy, and the platform can carry a fist-sized wear-prone assembly; sub-$1k 32-beam units make it the default outdoor navigation sensor. Take it over solid-state whenever full surround coverage from one sensor beats point density in a wedge. Avoid it on high-shock or high-vibration platforms, in designs that must embed the sensor flush, and in automotive series production — there solid-state units (one or several) are the answer. If the mission is surviving rain, fog, and dust rather than resolving shape, skip LiDAR entirely and lean on radar.
+
 ## Failure modes
 Rain, snow, fog, and dust return spurious points and absorb signal; glass and mirrors are invisible or teleporting surfaces; retroreflectors bloom and ghost; wet black asphalt absorbs returns; multi-LiDAR interference at scale; bearing wear ends in dead sectors or total loss — usually gradually, occasionally not.
 

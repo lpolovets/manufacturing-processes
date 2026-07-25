@@ -16,6 +16,9 @@ A rubber bladder in a braided sleeve: inflate it and the braid geometry converts
 ## Strengths and weaknesses
 Excellent force density and inherent compliance, naturally safe around humans, tolerant of misalignment (it's a rope that pulls), water- and dirt-proof, absurdly cheap. Weaknesses: needs compressed air — the compressor, valves, and tether are the real system; force fades nonlinearly with contraction; antagonistic pairs are needed for bidirection; hysteresis and air compressibility make precision a lost cause; and bladder fatigue is a genuine wear item.
 
+## When to use
+Use McKibben muscles when compliance and force-per-gram dominate, precision doesn't, and compressed air is already on site or a tether is acceptable: compliant tensioning and special machines on factory air, wearable and rehabilitation prototypes, bio-inspired research where muscle-like springiness is the point. Design in antagonistic pairs and treat bladder fatigue as a scheduled consumable. Avoid them for untethered robots — the compressor, valves, and hoses are the real system and kill the mass advantage — and for anything needing repeatable position or force, where hysteresis and air compressibility concede the job to electric QDD joints or plain cylinders running to stops.
+
 ## Examples
 Festo's Fluidic Muscle (the industrial productization) and its Airic's-arm demos, Shadow Robot's original air-muscle hand, countless bio-inspired legged and wearable prototypes, exosuit research (Harvard's soft exosuit lineage uses related pneumatics), Bridgestone's 1980s "rubbertuators."
 

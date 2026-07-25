@@ -16,6 +16,9 @@ A rotary motor unrolled: magnets laid flat as a track, coils as a moving forcer,
 ## Strengths and weaknesses
 Zero backlash and zero transmission wear, extreme speed and acceleration, sub-micron precision with linear encoders, unlimited travel by adding track. Weaknesses: no mechanical advantage — every newton is bought with amps and magnets, so continuous force per dollar is poor; strong open magnet tracks collect ferrous debris and complicate handling; holding force requires constant current or brakes; and the magnet track's cost scales with travel length.
 
+## When to use
+Pick a linear motor when a linear axis must be both fast and precise — meters per second and micron-or-better accuracy in the same move — or when throughput per track meter justifies magnet money: lithography stages, SMT gantries, programmable transport lines. Ironless variants buy cogging-free smoothness for scanning; iron-core buys force. Avoid it when the axis mostly holds force rather than moves (holding burns continuous current or needs brakes — a ball screw holds for free), when travel is long but speed modest (belt or screw is a fraction of the track cost), or around ferrous swarf that the open magnet track will harvest.
+
 ## Examples
 ASML wafer and reticle stages, pick-and-place machine gantries (the SMT industry runs on them), laser cutters and high-end CNC axes, maglev-style transport systems (Beckhoff XTS, Planar motors), Rockwell/B&R track systems replacing conveyor lines.
 

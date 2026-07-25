@@ -16,6 +16,10 @@ A pulsed magnetic field induces forces in conductive metal and rapidly deforms i
 
 Clean, fast, and contactless. Mainly works on conductive materials and requires high-voltage equipment.
 
+## When to use
+
+Pick electromagnetic forming for high-conductivity alloys — aluminum and copper above roughly 1-2 mm skin depth equivalents — in fast, repeatable crimping, flanging, and joining operations at medium to high volume, particularly dissimilar-material joints (aluminum to steel, metal to composite) where welding is off the table. Cycle times of a second or less and no tool contact make it attractive for cosmetic surfaces. Avoid it for steels and other poor conductors without a driver sheet, for large-area panel forming, and for shops unwilling to maintain pulsed high-voltage capacitor banks; mechanical crimping or conventional press forming is the fallback.
+
 ## Examples
 
 Tube crimping, aluminum forming, connector joining.

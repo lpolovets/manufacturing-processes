@@ -16,6 +16,10 @@ Liquid binder selectively joins powder particles layer by layer.
 
 Fast, requires no separate support structures in the powder bed, and can process metal, ceramic, or sand. Green parts are fragile and sintering causes shrinkage and distortion.
 
+## When to use
+
+Pick binder jetting for printed sand molds and cores — its most mature use, delivering casting tooling in days with no pattern — and for batches of small complex metal parts in the hundreds to tens of thousands, where full-bed nesting without supports makes it the cheapest metal additive route per part. Design for sintering: roughly 15-20 percent linear shrinkage, distortion on unsupported spans, and final density a shade below wrought. Avoid it for fatigue-critical or highly loaded metal parts, where laser powder-bed fusion or MIM gives better properties, and for one-off metal prototypes where the sintering furnace cycle erases the speed advantage.
+
 ## Examples
 
 Sand molds and cores, metal components, ceramic parts.

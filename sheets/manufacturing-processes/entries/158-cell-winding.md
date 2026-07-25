@@ -16,6 +16,10 @@ Anode, separator, and cathode webs are wound into a compact jelly roll.
 
 Fast and material-efficient. Tension, alignment, wrinkling, telescoping, and contamination must be controlled.
 
+## When to use
+
+Wind whenever the format allows it: it is the fastest, cheapest, most mature assembly route, the only practical one for cylindrical cells, and winders comfortably outpace stacking machines per unit of capital. Accept its limits — curvature stress on the electrodes, corner strain in flattened prismatic rolls, and poor fit to thick or fragile electrodes. For large pouch and prismatic formats where packaging efficiency and uniform stack pressure drive performance, and for solid-state and lithium-metal designs, stacking is the alternative.
+
 ## Examples
 
 Cylindrical and wound prismatic cells.

@@ -16,6 +16,10 @@ Fine abrasive stones oscillate against a rotating surface to remove surface peak
 
 Reduces friction, noise, and wear and improves fatigue life. Cannot correct major geometric errors.
 
+## When to use
+
+Pick superfinishing as the last operation on ground rotating contact surfaces — bearing races, cams, crank and cam journals, gear flanks — when friction, noise, or contact fatigue drives the spec and finish must drop below roughly 0.1 micrometers Ra. It removes only the peaks left by grinding, a few micrometers at most, in seconds per part at production rates. Avoid it as a corrective step: size, roundness, and position must already be right from grinding, and if the surface is merely decorative or a standard ground finish suffices, skip it.
+
 ## Examples
 
 Crankshafts, camshafts, gears, bearing races.

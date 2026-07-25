@@ -16,6 +16,10 @@ Wedge-shaped dies redistribute material along a rotating cylindrical billet.
 
 Produces stepped shafts quickly with low waste and favorable grain flow. Tooling is specialized and internal cracking can occur.
 
+## When to use
+
+Cross-wedge rolling suits stepped shafts and forging preforms at automotive volumes — typically 100,000-plus per year — where its seconds-long cycle, minimal material loss, and grain flow beat turning from bar. Tooling is specialized and internal Mannesmann-effect cracking must be engineered out during development. Below tooling-payback volume, CNC turning or roll forging covers the same parts; for the largest shafts, open- or closed-die forging.
+
 ## Examples
 
 Axles, transmission shafts, stepped pins, connecting-rod preforms.

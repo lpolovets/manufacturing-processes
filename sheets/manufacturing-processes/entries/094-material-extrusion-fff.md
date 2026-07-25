@@ -16,6 +16,10 @@ Melted thermoplastic or paste is deposited layer by layer through a nozzle. Fuse
 
 Equipment and feedstock are inexpensive and ideal for prototypes, fixtures, and custom parts. Surface finish, anisotropy, layer adhesion, accuracy, and production speed are weaker than molding.
 
+## When to use
+
+Pick FFF for form-and-fit prototypes, jigs, fixtures, and one-off functional parts where a few hundred dollars of machine and commodity filament turn CAD into a part overnight — it is the cheapest route to a physical object below roughly a few hundred units. Design around the weaknesses: plus or minus 0.2 mm typical accuracy, visible layers, and Z-direction strength a fraction of in-plane. Avoid it for fine detail and smooth cosmetic surfaces (vat photopolymerization), for isotropic production-grade nylon parts (powder-bed fusion), and for anything past roughly 500-1,000 units, where injection molding's per-part economics take over.
+
 ## Examples
 
 Jigs, fixtures, prototypes, housings, tooling aids.

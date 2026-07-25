@@ -16,6 +16,10 @@ Active material, conductive additive, binder, and solvent are mixed into a contr
 
 Determines dispersion, rheology, coating quality, and electrochemical performance. Sequencing, shear, contamination, temperature, and scale-up are critical.
 
+## When to use
+
+Slurry mixing is the mandatory first step of any slurry-cast electrode line; the decisions are equipment and solvent. Batch planetary mixers suit pilot lines and multi-product plants, while continuous twin-screw mixing wins at GWh scale on footprint, consistency, and cost. Water-based processing is standard for graphite anodes, but most cathodes still require NMP and its recovery loop; if solvent handling and drying dominate your economics, dry-electrode processing is the emerging way around this step entirely.
+
 ## Examples
 
 Anode and cathode slurries for lithium-ion cells.

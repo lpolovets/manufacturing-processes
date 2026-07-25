@@ -16,6 +16,9 @@ The default robot hand: two fingers translating in parallel, driven by a servo t
 ## Strengths and weaknesses
 Programmable force and stroke covers part families without retooling; self-locking screws hold parts through power loss; clean (no air) for labs and electronics; current-based grip detection is free process feedback. Weaknesses: two rigid contact lines demand reasonable object geometry and pose accuracy; wide flat objects and soft produce fight it; speed trails pneumatics; and per-unit cost runs 5–20× the pneumatic equivalent it often replaces.
 
+## When to use
+Make it the first candidate for discrete rigid parts when part families vary, grip force must be controlled, or the environment bans compressed air — labs, electronics, cobot cells, machine tending with SKU churn — since programmable stroke and force cover variety without finger changeovers, and current-based grip detection comes free. Avoid it on high-cycle single-part duty where a pneumatic gripper at a tenth the price cycles faster and outlasts it, and on wide flat panels, limp goods, and soft produce, where suction or soft fingers are the right reach.
+
 ## Examples
 Schunk EGP/EGU lines, Robotiq 2F-85/140 (the cobot-era standard), OnRobot RG series, Zimmer electric ranges; Chinese entrants (DH Robotics, Hitbot) compressing prices; nearly every cobot demo ever filmed.
 

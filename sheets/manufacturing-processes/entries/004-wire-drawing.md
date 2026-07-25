@@ -16,6 +16,10 @@ Metal rod or wire is pulled through progressively smaller dies to reduce diamete
 
 Provides precise dimensions, excellent surface finish, and very high throughput. Limited to continuous products and may require intermediate annealing to prevent cracking.
 
+## When to use
+
+Specify drawn wire whenever round stock is needed below hot-rolled rod sizes or with tight diameter tolerance, elevated tensile strength, or a bright finish — springs, cable, conductors, welding wire. It is a continuous commodity operation, so buy from a wire drawer unless consumption runs to tons per month. For non-round profiles, discrete parts, or applications where work hardening is unacceptable, shaped-profile rolling or machining from bar is the alternative.
+
 ## Examples
 
 Electrical wire, steel cable, welding wire, springs, piano wire.

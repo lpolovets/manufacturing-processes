@@ -16,6 +16,9 @@ A hybrid of battery and fuel cell: a nickel positive electrode paired with a hyd
 ## Strengths and weaknesses
 Cycle life beyond 30,000 deep cycles; tolerant of overcharge and reversal; state of charge readable from gas pressure; wide temperature range; no fire risk. Weaknesses: low volumetric energy density (pressure vessels are mostly space); historically fabulously expensive with aerospace-grade Inconel vessels; platinum catalysts in classic designs; self-discharge from hydrogen leakage.
 
+## When to use
+Pick Ni-H2 when the duty is decades of daily deep cycles with zero fire risk and floor space is nearly free — the EnerVenue-style 20-to-30-year stationary bet, or legacy spacecraft where it is already qualified. Underwrite it on levelized cost across 30,000 cycles, not on $/kWh, and stress-test the capex assumptions on vessel manufacturing. Avoid it wherever volumetric footprint or upfront cost binds, in short-lived projects that never reach the cycle count, and in new spacecraft, where Li-ion has taken the design wins.
+
 ## Examples
 Hubble, ISS, and GEO communication satellites (largely superseded by Li-ion in new spacecraft); EnerVenue's terrestrial reboot using cheap vessels and catalyst substitutions for stationary storage.
 

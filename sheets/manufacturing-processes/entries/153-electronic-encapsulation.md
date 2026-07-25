@@ -16,6 +16,10 @@ Epoxy molding compound, underfill, glob top, or hermetic sealing protects the di
 
 Improves mechanical and environmental protection. Cure stress, moisture absorption, delamination, and trapped voids are risks.
 
+## When to use
+
+Every packaged die needs protection; choose the method by environment and volume. Transfer-molded epoxy compound is the high-volume default for ICs, glob-top the cheap answer for chip-on-board, and underfill effectively mandatory under flip-chip dies. Reserve hermetic metal or ceramic packages for aerospace, implantable, and other applications where molded plastic's moisture uptake and delamination risk are unacceptable — at an order-of-magnitude cost premium.
+
 ## Examples
 
 IC packages, controllers, MEMS, power electronics.

@@ -16,6 +16,9 @@ Pumped hydro without the water: lift mass — concrete blocks, compacted-earth b
 ## Strengths and weaknesses
 High efficiency, no cycle fade, no exotic materials, works anywhere with height or a shaft. Weaknesses: dreadful energy density means structure cost per kWh is hard to get below batteries; mechanical handling of thousands of blocks is a reliability and O&M question no one has answered at fleet scale; mine-shaft versions are capacity-limited by shaft volume; and the sector carries credibility baggage from hyped early ventures.
 
+## When to use
+Consider solid gravity only where an existing deep shaft or structure supplies the height for free — decommissioned mines with 500+ m drops — and the buyer specifically needs chemistry-free storage with zero fade and cold-weather indifference. Greenfield block towers are almost never the answer: at realized FOAK costs above Li-ion with unproven fleet-scale mechanical reliability, an LFP container wins every intraday application. For cheap bulk capacity at real scale, go to pumped hydro or CAES; treat gravity as a site-specific reuse play, not a category bet.
+
 ## Examples
 Energy Vault's EVx towers (Rudong, China — the first commercial-scale build, and Energy Vault's own pivot toward batteries is telling), Gravitricity mine-shaft pilots (UK/Czech), various Chinese EPC-led block towers.
 

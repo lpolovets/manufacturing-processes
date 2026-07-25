@@ -15,6 +15,9 @@ A metal-air primary cell: zinc anode, air-breathing cathode that reduces atmosph
 ## Strengths and weaknesses
 Outstanding energy density at very low cost; flat discharge; safe, non-flammable chemistry; decades of manufacturing maturity at button scale. Weaknesses: once activated, life is limited by air exposure regardless of load; performance depends on humidity and CO2; power density is low; sealed-system applications (implants) are excluded by the need to breathe.
 
+## When to use
+Pick zinc-air when the load is continuous microamps for days to weeks in an air-breathing device — hearing aids are the archetype, and any similar always-on, weight-sensitive wearable fits. Match the cell size so the battery is consumed before air exposure kills it: once the tab is peeled, the clock runs regardless of load. Avoid it for pulse or high-drain loads, sealed enclosures, and intermittent-use devices that sit idle after activation; silver-oxide or Li-MnO2 buttons cover those.
+
 ## Examples
 Hearing-aid buttons (the overwhelming application — billions yearly from Varta, Renata, Energizer); railway signal and fence-energizer lanterns; historic mine and marine lamps.
 

@@ -16,6 +16,10 @@ Sheet metal is cut or formed in a press using dies. It is an umbrella family cov
 
 Provides extremely high production rates and low unit cost at volume. Presses and dies are expensive, design changes are costly, and tearing, springback, wrinkling, and tool wear constrain designs.
 
+## When to use
+
+Stamping is the default for sheet-metal parts at high volume — tens of thousands per year and up, where progressive dies costing tens to hundreds of thousands of dollars pay back in cents-per-part pricing at dozens of strokes per minute. Lock the design early around springback, tearing, and die constraints, because changes after die tryout are expensive. Below roughly 10,000 parts per year, laser cutting plus press-brake forming is almost always cheaper.
+
 ## Variants
 
 ### Blanking

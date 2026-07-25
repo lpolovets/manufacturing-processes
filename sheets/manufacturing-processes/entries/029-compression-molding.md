@@ -16,6 +16,10 @@ A measured charge is placed in a heated mold and compressed until it conforms an
 
 Works well for thermosets, rubber, and fiber-reinforced compounds. Slower and less geometrically flexible than injection molding, though tooling may be simpler.
 
+## When to use
+
+Choose compression molding for rubber, thermoset, and fiber-reinforced parts — SMC panels, seals, electrical housings — at medium-to-high volumes, where simple tooling and low material shear (which preserves fiber length) matter; it is the default for large composite panels. Avoid it for intricate geometry, tight flash control, or fragile inserts, which transfer or injection molding handle better. For plain thermoplastics, injection molding is simply faster.
+
 ## Examples
 
 Electrical housings, rubber seals, composite panels, melamine products.

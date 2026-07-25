@@ -16,6 +16,9 @@ Rechargeable cells that pair a thin lithium-metal foil anode with conventional h
 ## Strengths and weaknesses
 The highest energy density of any near-term rechargeable architecture, with mostly conventional cell assembly. Weaknesses: cycle life measured in low hundreds; dendrite and dead-lithium formation worsen with fast charge; safety margin is thin without solid separators; thin lithium foil supply and dry-room handling add cost. Every improvement in cycle life trades against energy or rate.
 
+## When to use
+Pick liquid-electrolyte lithium-metal when Wh/kg is worth thousands of dollars per kilogram and the mission fits inside 100–300 cycles — HAPS and pseudo-satellites, defense UAVs, eVTOL demonstrators, record attempts. Charge it slowly, under pressure, on a disciplined protocol, and treat every cycle as consumable. Avoid it for anything needing fast charge, long service life, or a consumer safety envelope; silicon-anode or high-nickel Li-ion is the practical high-energy choice there, and solid-state is the eventual successor.
+
 ## Examples
 Sion Power Licerion, SES AI hybrid-electrolyte automotive samples; ultralight cells for HAPS/pseudo-satellites, defense UAVs, and record-setting eVTOL demonstrations.
 

@@ -15,6 +15,9 @@ A battery that is inert until ignited: electrodes separated by a salt electrolyt
 ## Strengths and weaknesses
 Decades of dormant shelf life with instant, all-conditions activation (-55 to +75 °C storage); very high power density; immune to vibration, spin, and acceleration (fired from artillery shells). Weaknesses: single-use and short-lived once fired (minutes to an hour); energy density is modest; pyrotechnic activation and thermal management make them strictly specialist devices; costs are defense-grade.
 
+## When to use
+Specify thermal batteries when the requirement is 20+ years of maintenance-free dormancy followed by guaranteed, instant burst power for minutes under extreme environments — munitions, ejection seats, safing systems, anything fired from a gun. They are single-shot by design: never spec them where sustained runtime, reuse, or testing-without-consuming matters. For long-dormancy applications needing hours rather than minutes of output, reserve-activated Li-SOCl2 or Li-SO2 primaries are the alternatives.
+
 ## Examples
 Missile and guided-munition power (EaglePicher, ASB/Aerospatiale Batteries, Eurenco), ejection-seat and emergency aircraft systems, nuclear-weapon safing systems, some downhole tools.
 

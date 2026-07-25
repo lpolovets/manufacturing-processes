@@ -16,6 +16,10 @@ A single-point tool moves linearly relative to the workpiece.
 
 Can produce large flat surfaces with simple tooling. Slow, and has largely been displaced by milling and grinding.
 
+## When to use
+
+Reach for planing or shaping only in niche situations: machine beds and guideways too large for available milling envelopes, internal keyways or corners a rotating cutter cannot reach, or a legacy shop where a cheap single-point tool beats buying inserts. The single-point cut can also leave a favorable finish on long ways. For essentially all new work, milling is faster and more flexible and grinding holds tighter flatness — treat those as the defaults and this as the exception.
+
 ## Examples
 
 Machine beds, guideways, large plates, keyways.

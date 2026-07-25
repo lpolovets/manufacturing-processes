@@ -16,6 +16,10 @@ Alternating electrode and separator sheets are aligned and stacked.
 
 Supports rectangular formats and uniform compression. Mechanically complex and alignment-sensitive.
 
+## When to use
+
+Stack when the format is rectangular and performance justifies slower, costlier machinery: pouch and large prismatic EV cells gain packaging efficiency, uniform pressure, and better swelling tolerance from flat stacks, and solid-state and lithium-metal designs with fragile layers essentially require them. Z-folding the separator is the common compromise between speed and alignment. For cylindrical cells, or wherever assembly cost per amp-hour dominates, winding remains the faster default.
+
 ## Examples
 
 Pouch, prismatic, solid-state, and lithium-metal cells.

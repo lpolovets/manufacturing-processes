@@ -16,6 +16,10 @@ Thin wood or sheet layers are bonded together for stability, shape, or appearanc
 
 Conserves valuable material, enables curved structures, and improves dimensional stability. Adhesive durability and delamination are concerns.
 
+## When to use
+
+Choose veneering to put premium species on stable, economical substrates, and lamination to build curved parts that solid wood cannot hold or engineered structural members (LVL, glulam) with better consistency and span than sawn lumber. Bent lamination over a simple form is the standard route to curves at moderate volume. Avoid deep compound curves, which need molded plywood pressing or a different material entirely, and match the adhesive class to moisture and heat exposure — delamination is the characteristic failure mode.
+
 ## Examples
 
 Plywood, furniture surfaces, laminated beams, curved chairs.

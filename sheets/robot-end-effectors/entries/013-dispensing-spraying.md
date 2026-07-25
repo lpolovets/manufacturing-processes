@@ -16,6 +16,9 @@ Fluids applied with robotic patience: adhesive and sealant dispensers metering b
 ## Strengths and weaknesses
 Consistency impossible manually; electrostatic rotary atomizers reach 80–95% transfer efficiency versus ~40% hand spraying; hazardous-environment removal of humans (isocyanates, solvent booths); metering precision enables modern EV assembly (gap fillers, fire barriers). Weaknesses: fluid systems clog, cure, and drip — purge-and-clean cycles are the operational tax; viscosity drifts with temperature demand closed-loop metering; paint robots are explosion-rated capital items; and every material change is a requalification.
 
+## When to use
+Automate fluids wherever bead or coating consistency at volume is the product: paint lines (where 80–95% transfer efficiency versus ~40% by hand pays for the robot in material alone), body-shop sealing, EV battery TIM and fire-barrier dosing, and conformal coating — plus any application that removes humans from isocyanate and solvent exposure. Spec closed-loop metering when viscosity or dose tolerance is tight. Avoid it for low-volume, high-mix work where purge cycles and per-material requalification dominate the economics, and treat every material change as an engineering event with its own validation, never a parameter tweak.
+
 ## Examples
 Dürr, ABB, and Fanuc paint-shop ecosystems (every automotive paint line on earth), Graco and Nordson dispensing valves, SCA/Atlas Copco sealing systems in body shops, EV battery TIM and fire-barrier dispensing cells (the current growth engine), conformal coating in electronics.
 

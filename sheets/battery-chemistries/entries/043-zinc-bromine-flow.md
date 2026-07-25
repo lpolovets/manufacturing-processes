@@ -16,6 +16,9 @@ A hybrid flow battery: bromine chemistry flows from tanks, but zinc plates as so
 ## Strengths and weaknesses
 Cheap, abundant reactants; better energy density than vanadium flow; full-depth cycling; non-flammable. Weaknesses: zinc plating limits independent power/energy scaling and demands strip cycles; bromine vapor management adds safety engineering; efficiency ~65–75%; sequencing valves, pumps, and strip logic make reliability engineering-intensive — the failure mode of several past ventures.
 
+## When to use
+Consider zinc-bromine only where its cheaper reactants and roughly double vanadium's energy density genuinely change the project economics — remote or off-grid installations tolerant of scheduled full-strip discharges and hands-on maintenance — and where single-vendor risk is acceptable (Redflow's 2024 administration is the cautionary datapoint). Avoid it for bankability-critical fleet deployments or any site wanting fire-and-forget operation; VRFB is the proven flow choice and LFP the default battery, and both should be priced first.
+
 ## Examples
 Redflow (Australia; entered administration 2024 — a cautionary datapoint) residential-to-utility zinc-bromine modules; Primus Power's no-membrane design; historic ZBB/Ensync systems.
 

@@ -16,6 +16,10 @@ Glass is heated near its softening point and rapidly cooled, placing its surface
 
 Significantly increases strength and causes safer fragmentation. Tempered glass cannot be cut afterward, and optical distortion may increase.
 
+## When to use
+
+Temper flat soda-lime glass 3 mm and thicker whenever codes demand safety glazing or the design needs roughly four times annealed strength — doors, shower enclosures, vehicle side windows, facades — since it is by far the cheapest strengthening route at volume. All cutting, drilling, and edging must happen before tempering, so finalize geometry first. It cannot handle thin glass, which lacks the thermal mass to build the stress profile, and the quench pattern and roller wave make it wrong for display covers and precision optics; chemically strengthen those. Where post-breakage retention matters, as in overhead glazing, use laminated or heat-strengthened constructions rather than fully tempered lites, and specify heat soaking when spontaneous nickel-sulfide breakage is a liability concern.
+
 ## Examples
 
 Architectural glazing, side windows, shower doors, oven doors.

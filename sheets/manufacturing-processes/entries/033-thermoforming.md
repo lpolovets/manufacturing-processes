@@ -16,6 +16,10 @@ Plastic sheet is heated, stretched over or into a mold, and trimmed. Vacuum form
 
 Tooling is relatively inexpensive and large parts can be formed quickly. Geometry is mostly one-sided, wall thinning occurs, and trimming generates scrap.
 
+## When to use
+
+Thermoforming suits shell-like one-sided parts from sheet — trays, liners, panels, enclosures — from prototypes on cheap wood or epoxy molds up to very high-volume thin-gauge packaging on dedicated lines. Tooling costs a fraction of an injection mold, so it also bridges the large-part and mid-volume territory injection molding cannot serve economically. Avoid it where two-sided features, uniform wall thickness, or tight tolerances are required, and account for trim scrap; injection molding covers those needs.
+
 ## Examples
 
 Packaging trays, refrigerator liners, aircraft interior panels, signs, shower enclosures.

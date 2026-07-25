@@ -16,6 +16,10 @@ High-frequency mechanical vibration and clamping pressure create a joint. In the
 
 Extremely fast, clean, and requires no filler. Thermoplastic welding requires compatible materials and suitable joint geometry; metal ultrasonic welding is primarily limited to thin sheets, foils, wires, and tabs.
 
+## When to use
+
+Ultrasonic welding is the default for mass-produced thermoplastic assemblies — sub-second cycles, no consumables, clean enough for medical disposables — provided the joint is designed with an energy director, sits near-field under the horn, and joins compatible materials. On the metals side it is the standard for battery tab and foil-stack joints and wire splices, where laser and resistance welding struggle with thin dissimilar stacks. Avoid it for large plastic parts, where vibration or hot-plate welding takes over, and for metal joints thicker than foils and wires.
+
 ## Examples
 
 Plastic medical disposables, electronics housings, wire harnesses, battery tabs, foil stacks, semiconductor wire bonds.

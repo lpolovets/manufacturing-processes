@@ -15,6 +15,9 @@ Button cells with a silver oxide cathode and zinc anode in alkaline electrolyte:
 ## Strengths and weaknesses
 Flat, predictable voltage ideal for timing circuits; high energy per unit volume; excellent leakage resistance and shelf life; benign chemistry at button scale. Weaknesses: silver makes it the most expensive common button cell per unit of energy; sizes are limited to small formats (silver cost forbids large cells); capacity is modest against lithium coin cells for higher-drain electronics.
 
+## When to use
+Pick silver-oxide when a small device's circuit depends on voltage stability — watches, calipers, glucose meters, precision timing — where the flat 1.55 V curve from first use to exhaustion is the feature being bought. Avoid it for higher-drain or larger devices, where silver pricing makes it uneconomic; a 3 V Li-MnO2 coin cell delivers more capacity per dollar wherever the electronics can regulate, and zinc-air wins for continuous microamp drain in air-breathing devices like hearing aids.
+
 ## Examples
 Watch batteries (SR-series from Murata, Renata, Energizer), hearing-aid-adjacent instruments, calipers and precision gauges, glucose meters and small medical sensors.
 

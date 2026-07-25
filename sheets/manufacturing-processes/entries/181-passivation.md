@@ -16,6 +16,10 @@ Chemical treatment removes free iron and promotes a protective oxide layer, espe
 
 Improves corrosion resistance without materially changing dimensions. Cannot compensate for poor alloy choice, severe contamination, or bad surface finish.
 
+## When to use
+
+Passivate every machined, ground, or welded stainless part before service — free iron picked up from tooling otherwise seeds rust spots — and treat it as mandatory, spec-driven practice (ASTM A967/AMS 2700) in medical, food, pharma, and aerospace work. Citric acid chemistry now covers most needs with fewer safety and disposal issues than nitric. It is a cleaning and oxide-optimization step, not a coating: dimensions are untouched, so it is safe on finished precision parts. Do not expect it to rescue 400-series or free-machining grades in chloride service or to fix heat tint and weld scale, which need pickling or electropolishing first; if the alloy is marginal for the environment, change the alloy rather than lean on passivation.
+
 ## Examples
 
 Medical tools, food equipment, pharmaceutical vessels.

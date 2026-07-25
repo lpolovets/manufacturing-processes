@@ -15,6 +15,9 @@ The bet that nuclear's cost disease is a construction problem, not a physics pro
 ## Strengths and weaknesses
 Financeable unit size (~$2–5B, not $15–35B), passive decay-heat removal, siting flexibility including retiring coal plants, and a regulatory path that reuses six decades of LWR precedent. Weaknesses: small reactors sacrifice economies of scale — per-kW costs are structurally higher until factory volume compensates, which requires an order book nobody has yet; NuScale's Utah project died at ~$20k/kW; and "modular" savings remain a projection, not a datum.
 
+## When to use
+Choose a light-water SMR when the binding constraint is financing size or grid size, not $/MWh: utilities that cannot carry a $15–35B single-asset risk, 300 MW-class grids, coal-site conversions with transmission already in place, and data-center offtakers paying a premium for firm power on a date. Prefer the designs with concentrated order books (BWRX-300 today) — the whole thesis is the manufacturing learning curve, so an orphan design delivers small-reactor costs without the volume that redeems them. A buyer who can finance a full-size PWR from a serial builder should do that instead; it beats any FOAK SMR on cost per kW.
+
 ## Variants
 ### BWRX-300 (GE Hitachi)
 Boiling-water simplicity at 300 MW; under construction at Darlington (Ontario) — the West's SMR frontrunner — with TVA and Poland following.

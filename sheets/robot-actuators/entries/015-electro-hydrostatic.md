@@ -16,6 +16,9 @@ Hydraulics without the hydraulic plant: a self-contained unit where an electric 
 ## Strengths and weaknesses
 Hydraulic force density with electric-drive controllability and 60–80% efficiency; sealed-for-life fluid; per-joint modularity with only wires running to it; inherent shock tolerance through fluid compliance. Weaknesses: the pump-per-joint architecture multiplies precision pumps (the expensive, wear-prone part); bandwidth trails valve-controlled hydraulics; small EHAs suffer disproportionate pump losses; and the design space is engineering-intensive with few off-the-shelf products at robot scale.
 
+## When to use
+Consider an EHA when sustained joint force outgrows what a BLDC plus roller screw can package — multi-kilonewton loads with shock exposure — but a central hydraulic plant is unacceptable: aerospace surfaces, heavy exoskeletons, high-payload humanoid legs. You get hydraulic density with motor-side force control, 60–80% efficiency, sealed fluid, and only wires to the joint. Avoid it while requirements still fit electromechanics: every joint carries its own precision pump, nothing is off the shelf at robot scale, and prices are aerospace-adjacent, so it's a program decision rather than a catalog purchase; if you need valve-hydraulic bandwidth or force, classic servo-hydraulics still holds that ground.
+
 ## Examples
 F-35 flight-control actuators (the flagship deployment), Moog and Parker aerospace lines, Apptronik's early EHA work and various humanoid knee prototypes, KNR and Kawasaki hydraulic-robot research, heavy-payload exoskeletons.
 

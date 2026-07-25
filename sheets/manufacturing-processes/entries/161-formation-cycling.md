@@ -16,6 +16,10 @@ Newly assembled cells undergo controlled initial charging and discharging to for
 
 Strongly affects lifetime, impedance, self-discharge, and safety. Requires extensive power electronics, long residence time, heat management, floor space, and working capital.
 
+## When to use
+
+Formation is unavoidable for lithium-ion; the decision is how much capex and residence time to spend on it. Plan for it early in factory design, since formation and aging typically occupy a quarter or more of plant footprint and capex, and size charger channels with regenerative discharge to recover energy at scale. Use slow, multi-step protocols with elevated-temperature holds when qualifying new chemistries or when warranty life dominates, and move to compressed fast-formation recipes only after cycle-life and self-discharge data prove them out on the exact cell design. Do not shorten formation to relieve a capacity bottleneck without that validation; latent SEI defects surface as field failures, not as line rejects.
+
 ## Examples
 
 All lithium-ion cell production.

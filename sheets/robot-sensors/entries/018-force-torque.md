@@ -16,6 +16,9 @@ The wrist's sense of effort: a machined flexure instrumented with strain gauges 
 ## Strengths and weaknesses
 Complete, calibrated contact truth at the tool; the enabling sensor for assembly, finishing, and teleoperation with force feedback; drop-in integration on standard wrist flanges. Weaknesses: precision flexures are expensive ($2–15k traditional); overload during crashes is a warranty event — the sensor protecting the process is itself fragile; thermal drift demands zeroing rituals; the added compliance and mass sit exactly where dynamics hate them; and cheap versions historically weren't, in every sense.
 
+## When to use
+Pick a wrist F/T sensor when the process needs calibrated wrench truth: precision insertion beyond what compliance devices capture, polishing and finishing at specified pressure, teleoperation with force feedback, and product test stands — sub-$1k entrants have dropped the ante from the traditional $2–15k. Spec overload protection if the cell can crash, and budget the zeroing ritual into cycle plans. Avoid it where coarse contact detection is enough — current-based sensing is free and every cobot ships it — or where the arm's built-in joint-torque sensing (iiwa, Franka class) already covers the fidelity you need; reserve the dedicated sensor for tasks where force accuracy visibly pays.
+
 ## Failure modes
 Overload from collisions (the classic: the sensor dies protecting the experiment); thermal drift misread as force — gauges are thermometers with side jobs; cable fatigue at a constantly-moving wrist; gravity/payload compensation errors masquerade as phantom contact forces; capacitive types sensitive to temperature and humidity; slow zero-drift silently corrupting long tasks.
 

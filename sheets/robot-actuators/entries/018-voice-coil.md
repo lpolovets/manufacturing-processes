@@ -16,6 +16,9 @@ The loudspeaker principle as a precision actuator: a coil in a permanent-magnet 
 ## Strengths and weaknesses
 Perfectly linear force-current relationship, zero friction and backlash, kilohertz bandwidth, silent, intrinsically backdrivable. Weaknesses: short stroke only; force density is poor and holding force burns continuous current; no power-off holding; heat in the moving coil limits continuous duty; and beyond a few centimeters of travel, a linear motor is simply the better unrolling of the same idea.
 
+## When to use
+Use a voice coil when the stroke is millimeters to a couple of centimeters and the job is fast, clean force: kilohertz bandwidth, force exactly proportional to current, zero friction — fast-steering mirrors, precision dosing, haptic transducers, and the fine stage of a coarse-fine axis layered on a screw or linear motor. Avoid it beyond a few centimeters of travel (a linear motor is the same physics packaged for distance), wherever the load must be held without power (no detent, no self-locking — add a brake or use a screw), and for sustained high force, since the moving coil's thermal limit arrives quickly.
+
 ## Examples
 Hard-disk head actuators (billions made — the volume champion), smartphone camera OIS/AF modules, fast-steering mirrors in optics and laser comms, Apple's Taptic Engine, wafer-stage fine-positioning layers, ventilator and dosing valves.
 

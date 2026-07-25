@@ -16,6 +16,9 @@ Split water with renewable electricity and store the energy in the hydrogen bond
 ## Strengths and weaknesses
 Unbounded energy capacity at near-zero marginal reservoir cost; the product doubles as industrial feedstock, fuel, and reductant, so "storage" competes with several revenue stacks at once. Weaknesses: electricity-to-hydrogen runs 60–75% efficient before compression; the full power-to-power round trip lands at 30–40%; electrolyzer capex and stack life still dominate levelized cost; and the sector's 2021–24 hype cycle left a trail of cancelled projects that discipline any forecast.
 
+## When to use
+Use electrolysis as storage only for the duration nothing else reaches — weeks to seasons — and only with a cheap reservoir downstream, which in practice means salt-cavern access; then a 30–40% power-to-power round trip is acceptable because the alternative is not storing at all. It needs power that is both cheap and available several thousand hours a year: pure-curtailment charging leaves the electrolyzer idle, flat-running erases the surplus story. For anything under ~100 hours, don't — Li-ion, flow, and CAES all beat it — and if the real customer is industry, sell the molecule as feedstock rather than round-tripping it.
+
 ## Variants
 ### Alkaline
 KOH liquid electrolyte; $300–600/kW from Chinese suppliers; slower dynamics.

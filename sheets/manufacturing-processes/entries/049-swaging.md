@@ -16,6 +16,10 @@ Repeated radial hammering or die action reduces or shapes rods, tubes, or wire.
 
 Creates tapered or stepped axisymmetric parts with good finish and strengthened material. Complex non-axisymmetric geometry is impractical.
 
+## When to use
+
+Choose rotary swaging for tapering, pointing, or stepping round bars and tubes — cable fittings, tapered shafts, tube-end reductions — at medium-to-high volumes, where cheap dies, chipless material savings, and a work-hardened burnished surface beat turning. It also attaches end fittings by swaging directly over them. Anything non-axisymmetric is out of scope, and for one-offs or complex internal profiles, CNC turning is the simpler answer.
+
 ## Examples
 
 Cable fittings, tapered shafts, medical tubing, tool handles.

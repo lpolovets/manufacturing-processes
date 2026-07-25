@@ -16,6 +16,10 @@ Electromagnetic fields induce currents in conductive material, and changes revea
 
 Fast, contactless, and sensitive to cracks, conductivity, coating thickness, and heat-treatment condition. Penetration is limited and calibration is geometry-specific.
 
+## When to use
+
+Use eddy current where speed and no surface preparation matter: in-service aircraft crack checks around fasteners and through paint, 100 percent inline inspection of tube, bar, and wire at meters per second, heat-exchanger tubing surveys with internal bobbin probes, and quick sorting by alloy, conductivity, or heat-treat condition that no other NDT method does as easily. It needs no couplant or chemicals and automates cleanly. Skin effect confines sensitivity to the surface and a few millimeters below at best, so deep volumetric flaws belong to ultrasonic testing, and ferromagnetic steels require magnetically biased or specialized probes — plain MPI is often simpler there. Every geometry change demands recalibration against reference standards with artificial defects, so it rewards repetitive inspection of consistent parts and punishes one-off jobs.
+
 ## Examples
 
 Aircraft skins, tubing, wheels, fastener holes.

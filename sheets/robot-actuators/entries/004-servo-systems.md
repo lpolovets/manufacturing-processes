@@ -16,6 +16,9 @@ The motor sold as a solution: motor + encoder + drive + tuning packaged as one c
 ## Strengths and weaknesses
 Engineering time collapses to configuration; industrial versions deliver decades-proven reliability, safety functions, and fieldbus integration; the ecosystem (cables, gearheads, software) is complete. Weaknesses: you inherit the vendor's choices — usually a high-ratio gearbox with poor backdrivability; hobby-grade servos strip gears and burn out under sustained load; and the markup over components is exactly what the integration is worth, which at humanoid volumes is being competed away by in-house modules.
 
+## When to use
+Buy an integrated servo when engineering time is scarcer than unit cost: research platforms and low-volume machines (Dynamixel-class smart servos), or industrial axes that need certified safety functions, fieldbus integration, and decade-scale reliability (Yaskawa/Beckhoff-class). It's the right call up to a few hundred units a year, or wherever the axis is not your product's differentiator. Avoid it when the joint needs backdrivability or force transparency — the bundled high-ratio gearbox forecloses that, and a QDD module is the alternative — and at humanoid-scale volumes, where the integration markup funds an in-house motor-gear-encoder module within a generation of product.
+
 ## Examples
 Yaskawa, Fanuc, Siemens, and Beckhoff AC servo axes across industrial automation; Dynamixel (Robotis) as the research-robot standard; Feetech/Waveshare clones powering the low-cost arm wave (SO-ARM100 class); KEBA-driven cobot joints.
 

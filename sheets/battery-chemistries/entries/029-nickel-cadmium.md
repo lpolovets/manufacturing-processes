@@ -16,6 +16,9 @@ Nickel oxyhydroxide positive, cadmium negative, potassium hydroxide electrolyte:
 ## Strengths and weaknesses
 Exceptional abuse tolerance, temperature range, and shelf robustness; predictable failure modes suited to certification; flat discharge curve; long calendar life with maintenance. Weaknesses: cadmium is toxic and regulated; low specific energy; the famous "memory effect" (voltage depression under repetitive shallow cycling); self-discharge is high; costs more than lead for less energy.
 
+## When to use
+Specify NiCd only where certification and abuse tolerance rule and a regulatory exemption applies: turbine-engine starting, rail rolling stock, and emergency power that must deliver hard current at -40 °C and fail predictably enough to certify. Existing qualified installations are usually worth keeping — requalification costs more than the batteries. Avoid it for any new design outside those exemptions (cadmium bans foreclose it), and for anything energy-density- or cost-driven; NiMH or Li-ion took those markets long ago.
+
 ## Examples
 Turbine-engine start batteries (Saft, Marathon Norco) on airliners and helicopters; rail rolling stock; emergency power in refineries and substations; legacy power tools now fully converted to Li-ion.
 

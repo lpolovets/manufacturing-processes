@@ -143,6 +143,12 @@ function loadSheet(dir) {
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const THEME = fs.readFileSync(path.join(SHARED, 'theme.css'), 'utf8');
 const LOGO = fs.readFileSync(path.join(SHARED, 'logo.html'), 'utf8');
+// The logo links to the reference-sheets landing page; the href depends on where
+// the page lives (sheet pages sit one level below the landing, the artifact is
+// off-site so it gets the absolute URL in a new tab).
+const logoFor = ctx => LOGO.replace(/\n$/, '')
+  .replace('{{HOME_HREF}}', ctx === 'artifact' ? 'https://humbaventures.com/reference/' : ctx === 'sheet' ? '../' : './')
+  .replace('{{HOME_EXTRA}}', ctx === 'artifact' ? ' target="_blank" rel="noopener"' : '');
 const APP = fs.readFileSync(path.join(SHARED, 'app.js'), 'utf8');
 const PAGE = fs.readFileSync(path.join(SHARED, 'page.html'), 'utf8');
 const YEAR = String(new Date().getFullYear());
@@ -168,7 +174,7 @@ function composeBody(sheetData, artifact) {
 
   const page = PAGE
     .replace('{{STYLE}}', THEME)
-    .replace('{{LOGO}}', LOGO.replace(/\n$/, ''))
+    .replace('{{LOGO}}', logoFor(artifact ? 'artifact' : 'sheet'))
     .replace('{{TITLE}}', esc(sheet.title))
     .replace('{{LEDE}}', esc(sheet.lede).replace('{{N_ENTRIES}}', String(counts.entries)))
     .replace('{{STATS}}', stats)
@@ -246,7 +252,7 @@ if (ARTIFACT_SLUG) {
   const landing = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' + PREPAINT +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>Reference Sheets</title>\n<style>\n' + THEME + '</style>\n</head>\n<body>\n' +
-    '<div class="wrap">\n<header class="site">\n<div class="hdr-top">\n' + LOGO + '</div>\n' +
+    '<div class="wrap">\n<header class="site">\n<div class="hdr-top">\n' + logoFor('landing') + '</div>\n' +
     '<h1>Reference Sheets</h1>\n' +
     '<p class="lede">Practical, searchable references for deep-tech diligence and engineering decisions.</p>\n' +
     '</header>\n<div class="sheets">\n' + cards + '\n</div>\n' +

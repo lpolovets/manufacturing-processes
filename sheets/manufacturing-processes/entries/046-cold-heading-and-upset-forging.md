@@ -16,6 +16,10 @@ Wire, rod, or billet is compressed axially so material flows outward and forms a
 
 Extremely fast, chipless, and produces strong parts with good grain flow. Geometry and deformation are constrained by material ductility and die access.
 
+## When to use
+
+Cold heading is the automatic choice for fasteners and similar headed axisymmetric parts in ductile metals at hundreds of pieces per minute — economics demand runs in the hundreds of thousands to millions. The chipless process strengthens the material and wastes almost nothing, beating machining decisively at volume. Below tens of thousands of pieces, or for low-ductility alloys and features the dies cannot reach, screw-machine turning is the fallback.
+
 ## Examples
 
 Bolts, screws, rivets, valve heads, pins.

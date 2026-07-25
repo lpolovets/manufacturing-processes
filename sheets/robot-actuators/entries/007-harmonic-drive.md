@@ -16,6 +16,9 @@ The transmission that made the modern robot arm: an elliptical wave generator fl
 ## Strengths and weaknesses
 Zero backlash, huge single-stage ratios, thin coaxial form factor with a through-hole for cables, excellent positional repeatability. Weaknesses: the flexing metal spline has finite fatigue life and strict shock-load ceilings (impacts ratchet or crack it); efficiency is mediocre (60–85%) with strongly load-dependent friction; torsional wind-up and resonance complicate force control; essentially non-backdrivable; and until recently, one company set the world price.
 
+## When to use
+Choose strain-wave when you need 50–160:1 with zero backlash in minimum mass and axial depth — arm wrists and distal joints, cobots, positioning duty where trajectories are controlled and impacts rare, and anywhere a cable pass-through hole earns its keep. Respect its limits at design time: derate for shock (a single hard impact can ratchet the flexspline), and treat force control through its wind-up and load-dependent friction as a real controls project. Avoid it for impact-exposed proximal joints — cycloidal takes the hits — and for contact-rich tasks needing backdrivability, where a QDD joint is the modern answer; if buying cheap Chinese units, qualify on fatigue-life data rather than catalog torque.
+
 ## Examples
 Harmonic Drive Systems (the namesake, ~half the world market), every UR cobot joint, most industrial-robot wrists, space mechanisms from lunar rovers to JWST; Chinese challengers (Leaderdrive, Zhongdadi) scaling with the humanoid boom; Tesla Optimus uses strain-wave stages in high-torque joints.
 

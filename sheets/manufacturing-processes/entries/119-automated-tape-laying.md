@@ -16,6 +16,10 @@ Robots lay wide composite tape over relatively flat or gently curved molds.
 
 Faster than fiber placement for broad simple surfaces. Less capable on highly curved or intricate geometry.
 
+## When to use
+
+Choose ATL over AFP when the surface is flat or gently curved — wing skins, tail planes, spar caps, large panels — because 150–300 mm tape lays down material several times faster than narrow tows, and the aerospace-scale machine cost is justified by throughput on big laminates. The wide tape cannot steer or conform to tight double curvature, so complex contours push you to AFP, and small or one-off parts back to manual prepreg layup.
+
 ## Examples
 
 Wing skins, tail structures, large panels.

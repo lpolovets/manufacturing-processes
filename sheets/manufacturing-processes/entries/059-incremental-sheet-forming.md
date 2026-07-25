@@ -16,6 +16,10 @@ A CNC-controlled tool progressively deforms sheet without a full matched die.
 
 Avoids expensive tooling and is valuable for prototypes and custom parts. Slow, and dimensional accuracy can be modest.
 
+## When to use
+
+Pick incremental forming for one-offs and runs under roughly 100 pieces — prototype panels, patient-specific implants, replacement parts for out-of-production vehicles — where die cost would dominate and a CNC toolpath is the only tooling. Accept cycle times of minutes to hours per part and accuracy around plus or minus 0.5-1 mm unless you add a partial die and compensation passes. Avoid it for production volumes or tight-tolerance skins; stamping takes over once quantities justify dies, and stretch forming handles large smooth aerospace contours.
+
 ## Examples
 
 Custom medical implants, prototype body panels, low-volume enclosures.

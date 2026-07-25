@@ -16,6 +16,10 @@ Powder is consolidated using pressure and rapid electrical heating.
 
 Enables fast densification and fine microstructures. Size, tooling geometry, equipment cost, and scale-up remain limiting.
 
+## When to use
+
+Reserve SPS for research and pilot quantities of materials that conventional sintering ruins or cannot densify — nanostructured and transparent ceramics, thermoelectrics, ultra-hard composites — where minutes at temperature preserve fine grains that hours in a furnace would coarsen. Expect part geometry limited to graphite-die pucks, disks, and simple cylinders up to a few hundred millimeters. For production volumes or complex shapes, switch to conventional press-and-sinter, hot pressing, or HIP.
+
 ## Examples
 
 Advanced ceramics, thermoelectrics, hard metals, research alloys.

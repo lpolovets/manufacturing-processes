@@ -16,6 +16,10 @@ Semiconductor dies are attached to packages or heat spreaders using solder, silv
 
 Provides structural support, thermal conduction, and sometimes electrical connection. Voids, intermetallic growth, contamination, and thermal mismatch can cause failure.
 
+## When to use
+
+Die attach is a mandatory packaging step; the real decision is the material. Use solder or silver-sintered attach when the die dissipates serious power or needs a low-resistance electrical path — power modules, high-brightness LEDs — with sintering preferred for high-temperature and automotive reliability. Conductive or plain epoxy is the low-cost default for logic, sensors, and anything thermally undemanding, and film adhesives suit thin-die stacking in memory packages.
+
 ## Examples
 
 Power modules, LEDs, processors, sensors.

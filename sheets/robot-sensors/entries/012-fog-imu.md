@@ -15,6 +15,9 @@ Navigation without the world's help: fiber-optic and ring-laser gyroscopes measu
 ## Strengths and weaknesses
 Bias stability of 0.001–0.01°/hr enables genuine long-duration dead reckoning and gyrocompassing (finding north from Earth's rotation alone); immune to jamming, spoofing, weather, and darkness; decades of proven reliability. Weaknesses: $20k–$1M+ price range; kilograms and watts, not grams; ITAR/export licensing complicates everything; and performance is bought in fiber length or cavity precision — costs that resist consumer-style curves.
 
+## When to use
+Pick FOG/RLG when GNSS-denied dead reckoning for minutes to hours is a hard requirement — subsea and underground vehicles, defense platforms, operations near jamming — or when you need gyrocompassing where magnetometers are useless, and the platform can carry kilograms and a $20k–$1M line item. Factor export licensing into the schedule from day one. Avoid it wherever external fixes (GNSS, vision, UWB, ranging) are reliably available; tactical MEMS plus good fusion is 10–100× cheaper and covers outage gaps of seconds to minutes, which is most commercial autonomy.
+
 ## Failure modes
 Even navigation grade drifts eventually — it postpones, never eliminates, the need for fixes; temperature gradients across the fiber coil induce bias (careful thermal design is half the product); shock beyond spec misaligns optics; RLG dither mechanisms wear; and procurement/export delays are the program-level failure mode.
 

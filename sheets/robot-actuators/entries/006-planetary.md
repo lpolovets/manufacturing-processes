@@ -16,6 +16,9 @@ The workhorse transmission: sun, planets, and ring gear sharing load across mult
 ## Strengths and weaknesses
 High torque density, 90–97% efficiency per stage, coaxial layout, robust to shock, manufactured everywhere at every quality grade. Weaknesses: backlash of arcminutes unless preloaded (precision grades cost accordingly); multi-stage stacks lose efficiency and backdrivability fast; noise at high speed; and at the ratios arms traditionally need (50–150:1), stacked planetaries lose the size battle to strain-wave and cycloidal designs.
 
+## When to use
+Default to a planetary for any ratio it can reach in one or two stages: a single 3–10:1 stage for backdrivable QDD limbs, two stages up to ~100:1 for drivetrains, wheels, and general servo axes where arcminute backlash (or the cost of a preloaded grade) is acceptable. It's the cheapest torque density money buys, at every quality point from hobby to ground-and-preloaded. Avoid it where the spec is 50:1+ in a pancake envelope with zero backlash — that's strain-wave territory — or a shock-hammered base joint at high ratio, where a cycloidal survives what stacked planet gears won't.
+
 ## Examples
 Every cordless drill; Neugart/Wittenstein precision gearheads on industrial servos; single-stage planetaries inside MIT Cheetah-descended QDD joints (Unitree, Tesla Optimus rotary joints); drone gimbal and rover wheel hubs; automotive transmissions by the hundred million.
 

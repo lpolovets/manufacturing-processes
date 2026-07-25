@@ -16,6 +16,10 @@ A toothed blade cuts stock into pieces or rough shapes.
 
 Versatile and inexpensive for material preparation. Accuracy and finish are generally insufficient for final precision surfaces.
 
+## When to use
+
+Pick sawing for cutoff and stock preparation — billets, bar, tube, structural sections, lumber — at any volume, since cost per cut is lower than any other separation method and kerf loss is small. Treat sawn length as roughly plus or minus 0.5-1 mm and leave facing stock when the end matters. Avoid relying on it for finished surfaces or profiles; for accurate sheet and plate contours go to laser, waterjet, or plasma, and for precise faces follow the saw with machining.
+
 ## Examples
 
 Billets, tube, structural steel, lumber, plastic stock.

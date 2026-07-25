@@ -15,6 +15,9 @@ The energy-density and shelf-life champion of practical batteries: a lithium ano
 ## Strengths and weaknesses
 Unmatched energy density and shelf life; operates from -55 to +85 °C; ideal for decades-long unattended service. Weaknesses: low rate capability (bobbin types) — pulse loads need spiral construction or a supercapacitor buddy; voltage delay after storage; thionyl chloride is toxic and corrosive, making cells hazardous to ship, puncture, or recycle; strictly non-rechargeable, and charging one is dangerous.
 
+## When to use
+Pick Li-SOCl2 for decades-long unattended service at microamp-to-milliamp drains across -55 to +85 °C — utility meters, IoT sensors, downhole tools, ordnance electronics — where sub-1%/year self-discharge is the whole point; pair bobbin cells with a supercapacitor or specify spiral construction when the device pulses, and design for the voltage delay after dormancy. Avoid it for consumer-handled products, high-rate loads, or anything with a disposal path that can't handle toxic, corrosive cells; Li-MnO2 is the consumer-safe default for decade-scale duty.
+
 ## Examples
 Utility meters (the giant volume application — Saft, Tadiran, EVE), toll transponders, downhole oil-and-gas tools, military ordnance electronics, IoT sensors expected to outlive their installers.
 

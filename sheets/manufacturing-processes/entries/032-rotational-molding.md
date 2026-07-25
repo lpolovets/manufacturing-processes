@@ -16,6 +16,10 @@ Polymer powder coats the inside of a heated rotating mold and forms a seamless h
 
 Excellent for large hollow parts and low-to-medium volumes because tooling is relatively inexpensive. Cycles are slow, tolerances are loose, and material choices are limited.
 
+## When to use
+
+Pick rotomolding for large seamless hollow parts — tanks, kayaks, bins from tens of liters to several cubic meters — at dozens to a few thousand units per year, where its cheap cast-aluminum or fabricated tooling beats every alternative. Accept cycles of 30–60 minutes, loose tolerances, and a material menu led by polyethylene. At high volumes or for small containers blow molding wins; for precision or structural detail, injection molding.
+
 ## Examples
 
 Water tanks, kayaks, playground equipment, coolers, barriers.

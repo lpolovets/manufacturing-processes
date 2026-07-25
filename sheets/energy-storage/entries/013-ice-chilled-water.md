@@ -16,6 +16,9 @@ Cool storage: run chillers at night when power is cheap and reject heat easily, 
 ## Strengths and weaknesses
 Mature, cheap, and boring in the best way: standard HVAC equipment, 30-year tank life, and it often improves chiller efficiency (night air is cooler). Effective round trip is high because "discharge" is the service itself. Weaknesses: cooling-only — it shifts a specific end use, not general electricity; economics depend on time-of-use rate spreads that utilities keep flattening; and space for tanks in dense buildings is contested real estate.
 
+## When to use
+Install ice or chilled-water storage in any building or district system with a large afternoon cooling peak, meaningful time-of-use or demand-charge spreads, and room for tanks — new construction and district cooling pencil best, since the tank can displace chiller capacity rather than add to it. It is the default first move before batteries wherever cooling drives the peak. Skip it where rate structures are flat, cooling load is small, or floor space is worth more than the demand savings; and remember it shifts cooling only — for general load shifting or backup, a behind-the-meter battery is the tool.
+
 ## Examples
 Thousands of Calmac/Trane ice-tank buildings, Chicago and Gulf-region district cooling plants, Ice Energy's residential "Ice Bear" (bankrupt — the small-scale cautionary tale), Singapore's Marina Bay district system.
 

@@ -16,6 +16,9 @@ The high-density end of heat storage. Phase-change materials (PCMs) — salt hyd
 ## Strengths and weaknesses
 Constant-temperature delivery (PCM) suits processes that need exact conditions; thermochemical stores hold energy for months without insulation and can be transported. Weaknesses: PCMs suffer cycling degradation, phase separation, and poor thermal conductivity that demands expensive encapsulation; thermochemical systems add reactors and mass handling that swamp the density advantage; and both remain far from the cost floor that plain bricks set — density is rarely what industrial heat customers are actually short of.
 
+## When to use
+Reach for PCM when the application demands constant-temperature discharge or compactness worth a multiple of brick cost — domestic hot water in space-constrained homes, cold-chain shipping, processes that cannot tolerate a sliding temperature. Choose thermochemical only where months-long hold or transportable heat is the actual requirement, and price in the reactors and mass handling honestly. For bulk industrial heat storage, avoid both: sensible bricks, rock, or salt win on $/kWh-thermal nearly everywhere, so underwrite specific applications where the density or precision premium is paid, never the category.
+
 ## Examples
 Sunamp's heat batteries (UK homes, salt-hydrate PCM), PCM cold-chain shipping packs, aluminum-alloy PCM pilots (Azelio, wound down — a cautionary tale), university metal-oxide and salt-hydrate programs, solar-ammonia loops (historic ANU work).
 

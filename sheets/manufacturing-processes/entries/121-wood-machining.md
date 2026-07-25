@@ -16,6 +16,10 @@ Saws, routers, planers, drills, lathes, and shapers remove material from lumber 
 
 Wood is easy to machine and aesthetically attractive. It is anisotropic, moisture-sensitive, variable, combustible, and dimensionally unstable.
 
+## When to use
+
+Wood machining is the default for furniture, cabinetry, millwork, and instrument making from prototypes through mid volumes: tooling is nearly free, CNC routers make complex 2.5D work repeatable, and the material cuts fast and finishes easily. Design around the material rather than the process — avoid it where tolerances must hold across humidity swings, where fire or rot resistance is required without treatment, or at volumes where molded plastics or stamped metal become cheaper per part.
+
 ## Examples
 
 Furniture, cabinetry, framing, musical instruments, flooring.

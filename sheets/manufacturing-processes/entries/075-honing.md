@@ -16,6 +16,10 @@ Abrasive stones move in a controlled rotating and reciprocating pattern against 
 
 Corrects bore geometry and creates a functional crosshatch surface. Removal rates are low and a near-size hole is required.
 
+## When to use
+
+Pick honing as the final operation on bores that must be round, straight, and sized to a few micrometers and that seal or slide — engine cylinders, hydraulic cylinders, valve and bearing bores — especially where the crosshatch pattern must retain oil. It expects a bored or reamed hole within roughly 0.02-0.1 mm of final size and it fixes geometry that reaming cannot. Avoid it when a reamed or bored finish already meets spec, for external surfaces (grind or superfinish those), and for correcting bore position, which honing follows rather than moves.
+
 ## Examples
 
 Engine cylinders, hydraulic cylinders, valve bores, barrels.

@@ -15,6 +15,9 @@ The pragmatist's molten-salt reactor: keep the fuel solid (TRISO pebbles, alread
 ## Strengths and weaknesses
 Atmospheric pressure, qualified fuel form, dramatically simpler source term than liquid-fuel MSRs, high-grade heat, and the sector's most disciplined build-test-iterate execution. Weaknesses: FLiBe means beryllium toxicity and lithium-7 enrichment supply (another boutique supply chain); TRISO and salt costs stack; pebble handling in salt is novel; and the design intentionally forfeits liquid fuel's fuel-cycle magic — it is a heat plant, not a breeder.
 
+## When to use
+Choose the FHR path when you want advanced-reactor heat on the nearest credible timeline and weight execution evidence over fuel-cycle ambition — permits granted, concrete poured, and hyperscaler offtake signed make it the de-risked entry in the salt family. It fits data-center campuses and TVA-style utilities wanting 600 °C-class output without liquid-fuel licensing novelty. Skip it if the prize you're after is breeding or waste burning, which it deliberately forfeits — that's sodium or chloride-salt territory — and check lithium-7, beryllium, and HALEU supply before underwriting fleet scale-up.
+
 ## Examples
 Kairos Power: Hermes (35 MWt) under construction at Oak Ridge — the first non-water US power-reactor construction permit in 50 years — with Hermes 2 approved, a Google power-purchase agreement for 500 MW of fleet output, and TVA partnership; ORNL's decades of FLiBe research underneath.
 

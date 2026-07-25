@@ -16,6 +16,9 @@ A balloon full of coffee grounds that becomes a hand: press the soft, grain-fill
 ## Strengths and weaknesses
 Grasps wildly irregular shapes with zero programming; conforming contact spreads force gently; mechanically simple (a bag, grains, a vacuum line); holds odd orientations rigid for machining-adjacent tasks. Weaknesses: needs to push down on the object against support (bin walls and neighbors interfere); flat, large, or porous objects defeat the envelope; membranes puncture and wear against anything sharp; grains fatigue and clump with humidity; release can eject small parts unpredictably; and vacuum plumbing negates some of the simplicity.
 
+## When to use
+Consider jamming only for oddly-shaped rigid parts presented on a supportive surface with clearance to press down — short-run kitting of irregular parts, or instant custom fixturing that holds strange geometries rigid for secondary operations. It shines exactly where fingers need programming and cups can't seal, provided nothing sharp meets the membrane. Avoid bins with walls and close-packed neighbors, flat or large or porous objects, and anything needing predictable release placement; in nearly every general-picking scenario vacuum or soft fingers is slightly better, which is precisely why the standalone category failed — think of jamming as a variable-stiffness component, not a default gripper.
+
 ## Examples
 The Empire Robotics VERSABALL (the famous commercialization — and 2017 shutdown, the category's cautionary tale), Nichols/Formhand jamming pads for kitting, research fixtures for odd-part machining, jamming-stiffened surgical and wearable devices (the principle's livelier second career).
 

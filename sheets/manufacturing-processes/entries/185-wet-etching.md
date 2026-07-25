@@ -16,6 +16,10 @@ Liquid chemicals selectively dissolve exposed material. Wet etching may be isotr
 
 Inexpensive, high-throughput, and chemically selective. Isotropic etchants cause lateral undercutting; anisotropic KOH or TMAH silicon etching is constrained by crystal planes and produces characteristic angled sidewalls.
 
+## When to use
+
+Use wet etching when features are larger than a few microns and undercut of roughly the etch depth is tolerable — blanket film stripping, PCB and metal patterning, oxide removal — because batch immersion processes dozens of wafers or panels at once for the cost of chemicals, and selectivity between materials can be effectively infinite. KOH or TMAH bulk micromachining is the cheap route to deep cavities, membranes, and V-grooves when the 54.7-degree sidewalls of (100) silicon are acceptable or even wanted. Move to dry plasma etching when the design needs vertical sidewalls, sub-3 um features, tight CD control, or geometry independent of crystal orientation, and to DRIE for deep high-aspect-ratio silicon.
+
 ## Examples
 
 Printed circuit boards, silicon bulk micromachining, glass channels, metal patterning.

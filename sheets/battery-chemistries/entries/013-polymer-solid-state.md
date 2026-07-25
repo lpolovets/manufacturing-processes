@@ -16,6 +16,9 @@ Solid-state cells with a dry polymer electrolyte, classically PEO (polyethylene 
 ## Strengths and weaknesses
 Processable with roll-to-roll polymer-film methods, mechanically forgiving, proven safe fleet record, true lithium-metal anode in production. Weaknesses: must be held hot, burning parasitic energy and constraining applications to always-on fleets; PEO's voltage window limits cathodes to ~4 V (LFP, not NMC); power density is modest. Next-gen polymer and polymer-ceramic composites aim to fix room-temperature conductivity.
 
+## When to use
+Pick LMP for always-on, depot-charged fleet duty — buses, car-share, some stationary roles — where the 60–80 °C operating temperature is amortized over continuous use and a decade of safe lithium-metal fleet history matters to the operator. Avoid it for intermittently used vehicles (the heating overhead eats the economics), anything needing cathodes above ~4 V, or high-power duty; conventional LFP covers those cases until room-temperature polymer-ceramic composites arrive.
+
 ## Examples
 Blue Solutions (Bolloré) buses and former Autolib car-share fleet; Mercedes-Benz eCitaro bus packs; polymer-composite programs at Factorial (Mercedes road tests) and Hydro-Québec.
 

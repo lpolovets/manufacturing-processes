@@ -16,6 +16,10 @@ A chemical reaction converts the surface into a protective compound layer.
 
 Improves corrosion resistance and paint adhesion at low cost. Protection may be limited without a topcoat, and some chemistries create environmental burdens.
 
+## When to use
+
+Use conversion coating as the standard pretreatment under paint, powder coat, or e-coat — zinc phosphate or zirconium on steel bodies and panels, chromate or trivalent chem film on aluminum — and as a standalone finish only for mild indoor exposure or where electrical conductivity must be preserved, as with chem-filmed aluminum electronics chassis. It is cheap, adds no meaningful thickness, and runs at high volume in dip or spray lines. Do not rely on it alone in outdoor or marine service; bare conversion coatings fail salt-spray tests that anodize or galvanizing pass easily, so specify a topcoat or switch processes. Check REACH and customer restrictions before specifying hexavalent chromate.
+
 ## Examples
 
 Automotive bodies, fasteners, appliance panels.

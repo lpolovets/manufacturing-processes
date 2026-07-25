@@ -16,6 +16,9 @@ The canonical flow battery: vanadium ions in sulfuric acid, pumped from tanks th
 ## Strengths and weaknesses
 Effectively unlimited cycle life at full depth of discharge; non-flammable; electrolyte is a recoverable asset; durations of 4–12+ hours scale with tank size. Weaknesses: low energy density means building-scale footprints; round-trip efficiency ~65–80% after pump losses; vanadium is a price-volatile byproduct commodity that can be half the system cost; stacks, membranes (Nafion), and plumbing add O&M lithium doesn't have.
 
+## When to use
+Pick VRFB for utility storage cycled hard every day at durations of roughly 6 hours and beyond, where unlimited full-depth cycling, 20-year field data, and a recoverable electrolyte asset justify the footprint and ~65–80% efficiency — and structure the deal with electrolyte leasing to strip out vanadium price risk. Avoid it below ~4 hours or on space-constrained sites, where LFP wins on efficiency and capex; run the tank-versus-container crossover with current LFP pricing before committing, because that line moves outward every year.
+
 ## Examples
 Dalian's 100 MW/400 MWh system and multi-GWh Chinese pipeline (Rongke Power); Sumitomo Electric installations in Japan; Invinity and CellCube commercial fleets; Australian and US utility pilots.
 

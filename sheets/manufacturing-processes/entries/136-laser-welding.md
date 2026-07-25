@@ -16,6 +16,10 @@ A focused laser melts a narrow joint region, often at high speed.
 
 Provides low heat input, narrow welds, and excellent automation. Joint fit-up must be precise and equipment is expensive.
 
+## When to use
+
+Choose laser welding for high-rate precision joining where heat input must stay low — battery tabs and cans, medical devices, powertrain components, hairpin stators — and where fixturing can hold fit-up gaps around 0.1 mm. The capital only pays at mid-to-high volumes or on genuinely precision work; for poor fit-up, thick multi-pass sections, or field conditions arc welding remains the tool, and for very deep welds in reactive metals electron-beam is the specialist alternative.
+
 ## Examples
 
 Batteries, automotive bodies, medical devices, aerospace assemblies.

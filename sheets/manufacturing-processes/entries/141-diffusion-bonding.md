@@ -16,6 +16,10 @@ Clean surfaces are held under heat and pressure so atoms diffuse across the inte
 
 Creates high-integrity low-distortion joints and complex laminated structures. Slow, expensive, and highly sensitive to surface preparation.
 
+## When to use
+
+Reserve diffusion bonding for joints that must be metallurgically invisible or buried by the thousand inside a part — stacked-plate microchannel heat exchangers and printed-circuit heat exchangers, titanium SPF/DB aerostructures, nuclear hardware — at low volumes where hours at temperature under press or HIP load are acceptable. Surface preparation discipline decides success, so budget for it. For ordinary dissimilar or multi-joint assemblies, brazing achieves most of the benefit at a fraction of the cost and time.
+
 ## Examples
 
 Aerospace heat exchangers, titanium structures, nuclear components.

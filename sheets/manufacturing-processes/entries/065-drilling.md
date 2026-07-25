@@ -16,6 +16,10 @@ A rotating drill creates a round hole axially.
 
 Simple and universal. Deep, small, high-aspect-ratio, or extremely precise holes require specialized tooling or other processes.
 
+## When to use
+
+Drilling is the default for round holes in any machinable material at any volume; question it only at the margins. Treat a drilled hole as roughly plus or minus 0.1 mm on position and IT11-12 on diameter — when size, finish, or location matter, plan a reaming or boring pass after it. Move to gun drilling or fast-hole EDM beyond about 10:1 depth-to-diameter, and to EDM or laser drilling for very small, hard, or oddly angled holes.
+
 ## Examples
 
 Fastener holes, fluid ports, oil passages, mounting holes.

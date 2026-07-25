@@ -16,6 +16,10 @@ Ceramic slurry is poured into a porous mold, which removes liquid and leaves a c
 
 Produces complex hollow ceramics with inexpensive tooling. Slow and subject to drying and firing shrinkage.
 
+## When to use
+
+Slip casting is the pick for hollow or complex ceramic shapes — sanitary ware, tubes, artware — from single pieces to thousands, since plaster molds cost almost nothing. Budget generous tolerances for drying and firing shrinkage and hours-long cast cycles. For simple solid shapes at high volume pressing is far faster, and for small intricate technical ceramics at scale, ceramic injection molding.
+
 ## Examples
 
 Sanitary ware, pottery, ceramic tubes, shell forms.

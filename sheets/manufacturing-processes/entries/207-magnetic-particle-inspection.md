@@ -16,6 +16,10 @@ A ferromagnetic part is magnetized and particles accumulate around flux leakage 
 
 Fast and sensitive to fine surface and near-surface cracks. Only works on ferromagnetic materials.
 
+## When to use
+
+Make MPI the default surface-crack check on carbon and alloy steel: it is faster than penetrant, tolerates thin coatings, and unlike penetrant also reveals flaws just below the surface, which is why it dominates inspection of forgings, weld toes, gear teeth, and in-service items like crane hooks and landing gear. Wet fluorescent benches suit production; portable yokes handle field welds. Magnetize in two perpendicular directions, since indications only form for flaws roughly perpendicular to the flux, and demagnetize parts headed for machining or plating. It is useless on aluminum, austenitic stainless, titanium, and other nonmagnetic materials — use dye penetrant there — and for genuinely internal flaws move to ultrasonic testing.
+
 ## Examples
 
 Gears, steel forgings, rails, landing gear.

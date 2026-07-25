@@ -16,6 +16,10 @@ High-purity semiconductor material is grown into a crystal, sliced into wafers, 
 
 Creates ultra-flat, low-defect substrates essential for semiconductor manufacturing. Crystal growth, contamination, polishing, and defect control require extreme capital and process discipline.
 
+## When to use
+
+Treat this as a sourcing decision: buy polished prime wafers to the diameter, orientation, doping, and flatness spec the device requires, since merchant supply is far cheaper than any in-house growth. Growing and finishing crystal in-house is justified only for substrates that cannot be sourced — novel compound semiconductors, unusual orientations, captive SiC capacity — and demands cleanroom-grade capital and years of process development.
+
 ## Examples
 
 Silicon wafers, silicon-carbide wafers, gallium-arsenide substrates.

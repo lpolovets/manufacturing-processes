@@ -16,6 +16,9 @@ The free force sensor hiding in every motor: torque is proportional to current, 
 ## Strengths and weaknesses
 Zero cost, zero added mass, zero wiring — the sensing is software; improves with better dynamics models and learning; works at every joint simultaneously, not just the wrist. Weaknesses: friction, gear losses, and temperature corrupt the torque-current map — high-ratio transmissions bury external forces under friction noise entirely; model errors (payload, inertia) read as phantom forces; resolution is an order of magnitude below real F/T sensors; and it senses joint torque, not contact location.
 
+## When to use
+Use it everywhere it comes free: collision detection, hand-guiding, and coarse contact estimation on any arm, and genuinely useful force estimation on QDD and other low-gear joints where external loads actually reach the motor — quadruped touchdown detection and cobot safety stops live here at zero BOM cost. Before trusting it further, measure where the friction floor sits for your transmission. Avoid it as the only force sense for delicate low-speed contact (stiction makes estimates confidently wrong exactly there) or behind high-ratio gearboxes that bury the signal; when the task needs real numbers or contact location, pay for a wrist F/T sensor or tactile.
+
 ## Failure modes
 Friction hysteresis and stiction generate force estimates that are confidently wrong at low speeds — exactly where delicate contact happens; unmodeled payloads bias everything; temperature-dependent motor constants drift the calibration mid-shift; gearbox wear changes the friction model over fleet life; and collision detection tuned tight enough to be safe false-triggers on aggressive motion — the eternal sensitivity/uptime trade.
 

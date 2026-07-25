@@ -16,6 +16,10 @@ Molten metal flows under gravity into a reusable metal mold.
 
 Provides better consistency, finish, and mechanical properties than sand casting. Tooling is more expensive, geometry is less flexible, and the process is mainly used for lower-melting alloys.
 
+## When to use
+
+Use permanent-mold casting for aluminum or magnesium parts in roughly the 1,000 to 100,000 per year band, where its finish, tolerances, and mechanical properties beat sand casting and its tooling costs a fraction of a die-cast cell, with full heat-treatability preserved. Below that volume the mold cost is stranded — stay with sand casting. Above it, or for walls under about 3 mm, high-pressure die casting takes over; ferrous alloys are generally out of reach.
+
 ## Examples
 
 Aluminum wheels, pistons, cookware, brackets, housings.

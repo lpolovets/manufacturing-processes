@@ -16,6 +16,10 @@ Molten metal is poured into a plaster or ceramic mold capable of reproducing fin
 
 Offers improved surface quality and detail. Mold production is slower, molds are fragile, and temperature compatibility is limited.
 
+## When to use
+
+Use plaster or ceramic mold casting for prototype and short-run aluminum, zinc, or magnesium parts that need die-cast-like finish and detail before production tooling exists — typically ones to hundreds of pieces, the classic bridge to die casting. The molds are single-use and slow to make, so it never scales. Mold temperature limits rule out ferrous alloys, which belong in investment or sand casting.
+
 ## Examples
 
 Prototype aluminum parts, aerospace castings, tooling components.

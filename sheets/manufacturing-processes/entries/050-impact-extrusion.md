@@ -16,6 +16,10 @@ A metal slug is struck by a punch and flows around the punch or through a die.
 
 Produces thin-walled seamless parts rapidly with little waste. Requires ductile materials and relatively simple geometry.
 
+## When to use
+
+Impact extrusion earns its keep making seamless deep thin-walled cans and tubes in ductile metals — aluminum, zinc, copper — at high volumes: aerosol cans, battery cases, collapsible tubes, where a single blow replaces multiple draw stages. It requires soft alloys and simple axisymmetric geometry. For steels, complex shapes, or shallower parts, deep drawing is the standard alternative; at low volumes, machining or spinning.
+
 ## Examples
 
 Aerosol cans, battery cases, collapsible tubes, aluminum housings.

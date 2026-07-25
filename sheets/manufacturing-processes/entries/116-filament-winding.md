@@ -16,6 +16,10 @@ Resin-impregnated fibers are wound under tension around a mandrel.
 
 Produces strong, lightweight pressure-containing structures with efficient fiber placement. Geometry is largely limited to convex rotational forms.
 
+## When to use
+
+Choose filament winding for pressure-containing or torsion-loaded bodies of revolution — CNG and hydrogen tanks, rocket motor cases, pipes, drive shafts — where winding angle puts fiber exactly along hoop and axial load paths at low material cost from tow. It needs an extractable, collapsible, or sacrificial mandrel and mostly convex geometry, so avoid it for flat, concave, or highly contoured parts; AFP handles those, and layup or RTM covers general shapes. Braiding is the alternative for torsion-dominated tubes needing damage tolerance.
+
 ## Examples
 
 Pressure vessels, rocket cases, hydrogen tanks, pipes, shafts.

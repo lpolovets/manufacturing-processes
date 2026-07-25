@@ -16,6 +16,10 @@ Molten metal is continuously solidified into billets, blooms, slabs, rods, or st
 
 Provides very high throughput, good consistency, and low cost per ton. Requires enormous capital investment, high utilization, continuous process control, and is generally limited to constant cross-sections.
 
+## When to use
+
+Treat this as a feedstock decision rather than a part-making choice: specify continuously cast billet, bloom, slab, or rod whenever buying commodity-scale stock destined for rolling, extrusion, forging, or machining. Operating a caster only makes sense at integrated-mill scale, with hundreds of thousands of tons per year and near-continuous utilization. For discrete shaped parts or short runs of special alloys, go to shape casting or conventional ingot casting instead.
+
 ## Examples
 
 Steel slabs, aluminum billets, copper rod, steel blooms.

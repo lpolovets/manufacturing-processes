@@ -16,6 +16,9 @@ Put a spring between the gearbox and the load — on purpose. The deflection of 
 ## Strengths and weaknesses
 Excellent, sensor-cheap force fidelity; impacts absorbed rather than transmitted; energy storage improves locomotion efficiency; tolerant of the cheap high-ratio gearboxes it wraps. Weaknesses: the spring caps force-control bandwidth — fast force changes must wait for the spring; adds mass, volume, and a resonance to control around; position precision degrades through the compliance; and per-joint engineering complexity that never quite commoditized.
 
+## When to use
+Choose an SEA when the spring earns its mass twice: cyclic joints with real energy exchange (ankles, hips, exoskeleton and prosthetic drives) and human-contact applications where compliance must survive a controller fault, not just be simulated by one. It also rehabilitates cheap high-ratio gearboxes — the spring provides the force sensing and shock protection the gearbox lacks, useful when the BOM can't afford QDD-class motors. Avoid it when force bandwidth matters (fast force changes wait on the spring, typically capping closed-loop force response well below what a QDD joint's current loop delivers) or when position precision is the spec; for general contact-rich joints without an energy-storage story, QDD is the modern default and the one your design must beat.
+
 ## Examples
 Baxter and Sawyer (Rethink Robotics — SEAs as the safety story), NASA's Valkyrie, Agility Robotics' Cassie/Digit lineage (leaf-spring elements), rehabilitation exoskeletons (Lokomat-class) where compliant interaction is the product, ANYmal's early ANYdrive joints.
 

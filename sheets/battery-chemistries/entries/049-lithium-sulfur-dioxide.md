@@ -15,6 +15,9 @@ A military-standard primary: lithium anode with liquid sulfur dioxide cathode di
 ## Strengths and weaknesses
 Outstanding low-temperature, high-rate performance; long shelf life; proven logistics record across decades of military service. Weaknesses: pressurized toxic SO2 requires vented safety designs and makes disposal a regulated headache; consumer use is effectively prohibited; energy density trails thionyl chloride; the BA-5590's dominance is now eroding as rechargeable Li-ion field batteries cut logistics mass.
 
+## When to use
+Pick Li-SO2 for military field equipment that must deliver full-rate power at -40 °C after a decade in storage — radios, sonobuoys, munitions electronics, arctic instrumentation — where BA-5590-class logistics and qualification already exist. It is effectively a defense-only chemistry: consumer use is prohibited and disposal is regulated. For longer unattended life at low drain choose Li-SOCl2 instead, and where battlefield recharging doctrine applies, rechargeable BB-2590 Li-ion packs are the direction of travel.
+
 ## Examples
 BA-5590 and family (Saft America, EaglePicher, Ultralife) powering military radios, jammers, and missiles; sonobuoys; arctic and high-altitude instrumentation.
 

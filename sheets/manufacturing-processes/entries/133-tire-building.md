@@ -16,6 +16,10 @@ Liners, plies, beads, belts, sidewalls, and tread are assembled into a green tir
 
 Integrates many materials into a highly engineered composite. Placement, contamination, cure, and inspection are demanding, and small defects can have severe consequences.
 
+## When to use
+
+Tire building is product-specific rather than one option among several: any pneumatic tire, passenger through aircraft, goes through ply assembly, shaping, and mold vulcanization, and the plant plus segmented mold per size only pay at hundreds of thousands of units per SKU per year. Do not attempt it below such volumes — niche and small-wheel needs are better served by molded solid or polyurethane tires, or by contracting capacity at an existing tire plant.
+
 ## Examples
 
 Passenger, truck, aircraft, and industrial tires.

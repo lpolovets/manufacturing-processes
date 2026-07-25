@@ -16,6 +16,9 @@ The incumbent of incumbents: pump water uphill when power is cheap, run it back 
 ## Strengths and weaknesses
 Proven at gigawatt scale, 70–85% round trip, essentially unlimited cycle life, and the cheapest energy capacity of any mature electricity-in/electricity-out technology. Weaknesses: needs two reservoirs with elevation difference — siting is everything; permitting and construction run 8–15 years; capex is huge and upfront; drought and environmental opposition are real risks; and it is nearly impossible to finance merchant.
 
+## When to use
+Choose PSH when you need bulk 6–20+ hour shifting at hundreds of megawatts to gigawatts, have two-reservoir topography and water rights, and can carry a decade of development on rate-based, state, or otherwise patient capital — the sub-$100/kWh energy capacity and century asset life are unbeatable once built. It is the right backbone for hydro-friendly geographies planning decades ahead, and closed-loop designs unlock sites open-loop permitting would kill. Avoid it for merchant financing, timelines under 8 years, flat or water-scarce geography, or anything below ~6 hours — there, Li-ion deploys in months, and advanced CAES or geomechanical storage offers cavern-class economics without the mountain.
+
 ## Variants
 ### Open-loop
 Connected to a natural water body; most of the existing fleet.

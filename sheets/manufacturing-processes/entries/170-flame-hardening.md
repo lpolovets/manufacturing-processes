@@ -16,6 +16,10 @@ A flame rapidly heats selected steel surfaces before quenching.
 
 Equipment is simple and useful for large parts. Uniformity and control are weaker than with induction hardening.
 
+## When to use
+
+Pick flame hardening for large or one-off medium-carbon steel parts where an induction coil is impractical or unjustifiable — machine-tool ways, big ring gears, rolls, sprockets repaired in a maintenance shop. Tooling is little more than a torch, so it wins at low volumes and on parts too big for a furnace or coil, and case depths of 1-6 mm are achievable. Accept looser control of case depth and hardness uniformity, and keep it away from thin sections that overheat easily. Once volumes climb or case-depth tolerance tightens, induction hardening takes over; for parts needing hardening after finish machining with minimal distortion, nitriding is the better route.
+
 ## Examples
 
 Large gears, rollers, machine ways.

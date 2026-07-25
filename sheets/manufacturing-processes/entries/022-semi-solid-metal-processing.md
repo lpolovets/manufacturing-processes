@@ -16,6 +16,10 @@ Metal is formed while containing both solid and liquid phases. Major variants in
 
 Reduces turbulence and porosity and can produce strong, thin-walled components. Feedstock preparation, alloy compatibility, thermal control, and specialized machinery increase complexity.
 
+## When to use
+
+Consider semi-solid processing for thin-walled, high-integrity aluminum or magnesium parts at high volume — electronics housings, structural brackets — when conventional die-cast porosity would rule out heat treatment, welding, or pressure tightness; thixomolding is the practical entry point for magnesium. The specialized feedstock and machines pay off only at scale with committed process expertise. Otherwise vacuum-assisted HPDC or squeeze casting reach similar integrity on more conventional equipment.
+
 ## Examples
 
 Magnesium electronics housings, automotive structural components, precision aluminum enclosures.

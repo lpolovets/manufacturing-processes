@@ -92,6 +92,7 @@
     }
   ],
   "extraSections": [
+    ["when to use", "When to use"],
     ["examples", "Examples"],
     ["economic profile", "Economic profile"]
   ]

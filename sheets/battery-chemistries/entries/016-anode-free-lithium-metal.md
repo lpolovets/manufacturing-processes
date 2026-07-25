@@ -16,6 +16,9 @@ Cells manufactured with no anode at all — just a bare copper current collector
 ## Strengths and weaknesses
 Theoretical maximum energy density for a given cathode; simplest possible anode-side manufacturing; no lithium metal in the factory. Weaknesses: zero excess lithium means every side reaction permanently consumes capacity — coulombic efficiency must exceed ~99.9% for acceptable life, the hardest efficiency target in battery science; plating uniformity on copper is unforgiving; cycle life remains the fundamental barrier.
 
+## When to use
+Anode-free is an R&D architecture, not a product choice: pursue it only in programs with serious electrolyte-development capability chasing the >99.9% coulombic-efficiency threshold, or when evaluating solid-state ventures whose roadmaps (like QuantumScape's) end here. For any real deployment needing lithium-metal-class density today, use foil-anode lithium-metal cells and accept the manufacturing complexity; for products needing life, stay with silicon-blend or graphite Li-ion.
+
 ## Examples
 QuantumScape's design is anode-free; academic and national-lab programs (Battery500); startup prototypes from Our Next Energy's Gemini range-extender concept and several stealth efforts.
 

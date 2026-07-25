@@ -16,6 +16,10 @@ Two wafers are joined through fusion, anodic, adhesive, or metallic bonding.
 
 Enables sealed cavities, multilayer structures, and complex devices. Surfaces must be extremely flat and clean.
 
+## When to use
+
+Bond wafers when the device fundamentally requires joined substrates: hermetic vacuum cavities for gyros and resonators, SOI material, capping of MEMS before dicing, backside-illuminated image sensor stacks, and 3D die stacking via hybrid bonding. Pick the variant by constraint — fusion bonding for highest strength when both wafers tolerate high anneal temperatures and sub-nanometer roughness is achievable, anodic for glass-to-silicon MEMS sealing at moderate temperature, adhesive or eutectic when surfaces are rough, patterned, or temperature-limited. The flatness and particle requirements are brutal: a single micron-scale particle voids square millimeters, so budget for CMP-grade surfaces and meticulous cleaning. If the need is merely package-level sealing or attachment of a finished die, conventional packaging and die-attach processes are far cheaper than wafer-level bonding.
+
 ## Examples
 
 MEMS sensors, microfluidics, image sensors, 3D integration.

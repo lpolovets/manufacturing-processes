@@ -16,6 +16,10 @@ Solder bumps, copper pillars, or similar interconnects on a die are bonded direc
 
 Enables high density, short electrical paths, and strong thermal performance. Alignment, warpage, underfill, bump reliability, and inspection are difficult.
 
+## When to use
+
+Choose flip-chip when the die needs what wires cannot give: interconnect counts from the high hundreds into the thousands, minimal inductance for high-frequency or high-current paths, and heat extraction through the exposed die back — CPUs, GPUs, RF front ends, chiplet assemblies. It requires wafer bumping, fine-alignment assembly, and underfill development, so for low-pin-count cost-driven devices wire bonding remains the economical default.
+
 ## Examples
 
 CPUs, GPUs, RF devices, image sensors, chiplets.

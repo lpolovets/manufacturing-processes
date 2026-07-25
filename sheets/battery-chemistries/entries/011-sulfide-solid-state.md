@@ -16,6 +16,9 @@ Solid-state cells built on sulfide electrolytes (argyrodites like Li6PS5Cl, LGPS
 ## Strengths and weaknesses
 Highest conductivity of any solid electrolyte class and cold-press processability that resembles existing electrode calendering. Weaknesses: sulfides react with moisture to release toxic H2S, forcing ultra-dry processing end to end; narrow electrochemical stability windows require coated cathode particles; stack-pressure requirements complicate pack design; and lithium-metal interfaces still fail at high rates.
 
+## When to use
+Choose the sulfide route if you are placing a solid-state bet for automotive programs landing around 2027–2030 and can fund ultra-dry processing end to end — it is the only solid electrolyte class with liquid-like conductivity and press-to-densify processing, which is why most of the industry's money sits here. Avoid it for anything shipping in the next few years or for factories that can't guarantee moisture exclusion (H2S risk); today's product needs are met by high-nickel Li-ion or semi-solid designs, and air-stable oxide routes suit smaller-format premium applications.
+
 ## Examples
 Toyota-Idemitsu pilot production, Samsung SDI pilot line cells, Solid Power (BMW, Ford programs), CATL and Chinese national programs targeting ~2027 demonstrations.
 

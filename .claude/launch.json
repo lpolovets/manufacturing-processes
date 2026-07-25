@@ -3,9 +3,10 @@
   "configurations": [
     {
       "name": "site",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8741", "--directory", "site"],
-      "port": 8741
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "python3 -m http.server \"$PORT\" --directory site"],
+      "port": 8741,
+      "autoPort": true
     }
   ]
 }

@@ -16,6 +16,10 @@ Low-melting filler metal bonds components without melting the base materials.
 
 Inexpensive, electrically conductive, and suitable for delicate components. Structural strength and temperature resistance are limited.
 
+## When to use
+
+Solder wherever electrical connection at low process temperature is the goal — it is the interconnect default for all electronics — and for leak-tight copper plumbing. Keep it away from structural loads and from sustained service much above roughly 150°C, where creep and softening set in; brazing is the same capillary process with far higher strength and temperature capability when the parts can take the heat.
+
 ## Examples
 
 Printed circuit boards, plumbing fittings, electrical terminals.

@@ -15,6 +15,9 @@ The sensor closest to the metal: optical or magnetic discs reporting shaft angle
 ## Strengths and weaknesses
 Direct, drift-free, kilohertz-fast position truth with trivial processing; magnetic chip encoders (AS5047-class) made 14-bit absolute feedback nearly free; multiturn absolute types eliminate homing routines. Weaknesses: incremental types lose position at power-off and miscount on noise; resolution and accuracy are different specs (interpolated magnetic encoders wobble within a period); mounting eccentricity dominates real accuracy; through-shaft optical rings are fragile to contamination.
 
+## When to use
+Every powered joint gets one; the decision is type. Magnetic absolute chips (AS5047-class, ~$5, 14-bit) are the default for cost-driven joints and QDD actuators; optical rings (Renishaw, Heidenhain) buy the arcsecond accuracy machine-tool-grade axes need; multiturn absolute types are worth it wherever homing routines at power-on are operationally unacceptable; and dual-encoder joints (motor plus output side) are the right spec for high-torque transmissions with meaningful compliance — increasingly the humanoid standard. Avoid exposed optical discs in dirty, oily, or wet environments (go magnetic or inductive), and avoid incremental-only feedback in fleet products where a missed index becomes a field service call.
+
 ## Failure modes
 Dust, oil, or condensation on optical discs drops counts silently — the classic drifting-joint mystery; magnet misalignment or axial play corrupts magnetic readings; EMI on incremental lines injects phantom counts; index-pulse glitches shift homing by one revolution; connector vibration failures masquerade as controller faults; and differentiated position becomes noisy velocity exactly when torque control needs it clean.
 

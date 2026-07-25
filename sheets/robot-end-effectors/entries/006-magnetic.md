@@ -16,6 +16,9 @@ For ferrous work, the field does the gripping: electropermanent magnets — swit
 ## Strengths and weaknesses
 Holds through power loss (electropermanent), indifferent to oil and dust, single-face access like vacuum but without air, fast switching, precise thin-sheet separation with pole design. Weaknesses: ferrous-only — the entire aluminum, plastic, and stainless world is invisible; thin sheets grab their neighbors without careful field shaping; residual magnetism can annoy downstream processes and swarf sticks to everything; heat degrades magnets; and force depends on contact area and material thickness in ways that surprise.
 
+## When to use
+Pick electropermanent magnets for ferrous sheet, plate, and machined steel — laser-cutter load/unload, press lines, welding fixtures — especially where oil, scale, and dust defeat vacuum seals or where cutting the compressed-air tether pays; power-loss holding is a genuine safety upgrade over both vacuum and electromagnets. Avoid it for anything non-ferrous (aluminum, stainless, plastic — the gripper simply does not see them), for thin stacked sheets without pole designs shaped for single-sheet separation, and upstream of processes that residual magnetism or clinging swarf will contaminate; there vacuum is the fallback.
+
 ## Examples
 Magswitch and SPD/Assfalg electropermanent units on sheet-metal press lines, laser-cutting load/unload cells, Schmalz and Goudsmit magnetic ranges, robotic welding fixtures, steel-service-center automation.
 

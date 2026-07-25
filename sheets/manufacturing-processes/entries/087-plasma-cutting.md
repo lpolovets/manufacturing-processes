@@ -16,6 +16,10 @@ A high-temperature plasma jet melts electrically conductive metal.
 
 Cuts thick metal rapidly and economically. Edge quality and precision are generally inferior to laser or waterjet.
 
+## When to use
+
+Pick plasma for conductive plate in the roughly 6-50 mm range where it is the cheapest fast option — structural steel, heavy-equipment blanks, ship plate — and where a plus or minus 0.5-1 mm edge that gets welded or machined anyway is perfectly acceptable; high-definition plasma tightens this usefully. Capital cost is a fraction of a laser of equal thickness capacity, and handheld units cover field work. Avoid it for thin sheet and precision profiles, where laser is faster and cleaner, for nonconductive materials, and for edges that must go into service as-cut without a heat-affected zone; waterjet handles the cold-cut cases.
+
 ## Examples
 
 Heavy-equipment parts, structural plate, ship components.

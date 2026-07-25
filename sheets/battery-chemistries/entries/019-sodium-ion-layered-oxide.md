@@ -16,6 +16,9 @@ The sodium analog of NMC: layered NaxMO2 cathodes (M = Ni, Fe, Mn, Cu blends) ag
 ## Strengths and weaknesses
 No lithium, cobalt, nickel-supply, or copper-foil exposure; excellent low-temperature power; safe transport at zero volts; drop-in manufacturing. Weaknesses: lower energy density than current LFP; hard carbon anodes are the cost and performance bottleneck (sourcing consistent precursors); layered sodium oxides are moisture-sensitive; and the cost advantage over LFP only materializes at scale and high lithium prices.
 
+## When to use
+Pick layered-oxide sodium-ion for entry-level EVs, two-wheelers, start-stop batteries, and grid storage when you want a hedge against lithium prices, need strong cold-weather power, or value zero-volt shipping and a lithium-free supply chain — and you can source at the scale where the cost advantage actually appears. Avoid it when the design needs current LFP's 190+ Wh/kg or when lithium is cheap and you're buying on today's $/kWh; in both cases LFP remains the default, with sodium held as the option it is.
+
 ## Examples
 CATL Naxtra (mass production for entry EVs and start-stop batteries), BYD sodium program, HiNa Battery vehicles in China; Northvolt validated 160 Wh/kg cells before its collapse.
 

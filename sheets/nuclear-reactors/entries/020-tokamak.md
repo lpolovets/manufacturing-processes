@@ -14,6 +14,9 @@ Fusion's front-runner by every metric: a torus of plasma confined by strong toro
 ## Strengths and weaknesses
 Fifty years of accumulated physics, the best confinement performance, and a mature international knowledge base. Weaknesses: the plasma current invites disruptions — sudden collapses that can damage the machine; steady-state operation requires continuously driving that current; D-T operation means breeding tritium in lithium blankets (never demonstrated at scale) and neutron-degraded first walls replaced robotically; and the engineering gain (electricity out over electricity in, including magnets and systems) remains far below the plasma physics gain headlines.
 
+## When to use
+Back tokamaks when you want fusion exposure with the least plasma-physics risk and the most independent validation — this is where the confinement data, the supply chain, and the capital sit, and SPARC is the field's nearest scheduled Q>1 test. A national program buying one decadal magnetic-fusion effort should default here for the same reason. Diversify elsewhere if you judge the binding risks to be the engineering ones tokamaks carry structurally — disruptions, current drive, tritium breeding — which is the stellarator's case for the endgame plant; for higher-variance, higher-ceiling exposure, the FRC and pulsed camps are the complement.
+
 ## Variants
 ### Conventional aspect ratio
 ITER (first plasma slipping toward mid-2030s), CFS SPARC (Q>1 targeted ~2026–27) and ARC (grid power, early 2030s claim, Virginia site with Dominion).

@@ -16,6 +16,9 @@ The richest sensor per dollar ever made: smartphone volume turned CMOS image sen
 ## Strengths and weaknesses
 Unmatched semantic richness, tiny/cheap/passive, enormous ecosystem of models and tooling, and the sensor of choice for learned end-to-end policies (and for imitation of human video). Weaknesses: no direct depth; utterly dependent on illumination and dynamic range; the interpretation compute is the true cost — a $10 camera can demand a $1,000 GPU; and metric scale is unobservable without motion, stereo, or priors.
 
+## When to use
+Put cameras on essentially everything: they are the only sensor that delivers semantics — reading labels, classifying objects, feeding learned policies — and at $2–20 the sensor cost is never the objection. Choose camera-primary stacks when the task is recognition-heavy, the BOM is tight, and you can fund the real cost, which is GPU compute and data pipelines. Avoid relying on monocular vision as the sole geometric sensor where wrong depth is a safety event — night operation, out-of-distribution scenes, metric-critical manipulation; add stereo, ToF, or LiDAR for measured geometry unless you are deliberately making the camera-only model-progress bet with eyes open.
+
 ## Failure modes
 Glare, low sun, and tunnel-exit dynamic range swings; darkness without illumination; motion blur at control-relevant speeds; lens contamination (the number-one fleet issue); rolling-shutter distortion under vibration; learned depth hallucinates on out-of-distribution scenes — confidently wrong geometry is the modality's signature failure; adversarial and spoofing edge cases.
 

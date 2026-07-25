@@ -16,6 +16,10 @@ Dry reinforcement is placed in a closed mold and resin is injected before curing
 
 Provides finished surfaces on both sides and supports moderate production volumes. Mold sealing, wet-out, void prevention, and flow design are challenging.
 
+## When to use
+
+Choose RTM at roughly one to thirty thousand parts a year when you need both surfaces finished, net molded edges, and repeatable dimensions — automotive structural parts, bicycle frames, aerospace components qualified to it. Below that volume the matched-mold investment and flow-development effort go unamortized, so use infusion or hand layup; for very large parts like hulls and blades infusion is the practical route regardless. At automotive takt times, HP-RTM with presses and fast-cure resins extends the process to minutes-scale cycles.
+
 ## Examples
 
 Automotive structures, aircraft parts, bicycle frames, housings.

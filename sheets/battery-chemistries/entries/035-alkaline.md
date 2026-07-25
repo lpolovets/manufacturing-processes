@@ -15,6 +15,9 @@ The dominant consumer primary battery: powdered zinc anode, electrolytic mangane
 ## Strengths and weaknesses
 Excellent capacity for the price, long shelf life, wide temperature tolerance, safe chemistry with mature global manufacturing. Weaknesses: not rechargeable (rechargeable alkaline variants never overcame cycling failures); voltage sags steadily through discharge; high-drain performance falls well short of lithium primaries; end-of-life leakage still damages devices; single-use economics look worse every year against rechargeables.
 
+## When to use
+Alkaline is the correct default for low-to-moderate-drain replaceable-battery devices — remotes, toys, flashlights, smoke detectors — where a decade of shelf life and universal availability matter more than per-cycle economics. Move off it in two directions: to Li-FeS2 for high-drain or sub-zero duty (cameras, GPS, outdoor sensors), and to low-self-discharge NiMH for anything drained more than every month or two, where rechargeables pay back within the year. Avoid leaving alkaline cells in seldom-used devices for years; end-of-life leakage still kills electronics.
+
 ## Examples
 Duracell and Energizer AA/AAA lines; the default cell for remotes, toys, flashlights, and smoke detectors worldwide.
 

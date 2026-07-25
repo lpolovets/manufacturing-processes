@@ -14,6 +14,9 @@ The oldest fusion idea, rehabilitated: run an enormous current through plasma an
 ## Strengths and weaknesses
 Radically simple, cheap hardware — capacitor banks and electrodes rather than superconductors or megajoule optics; small unit sizes conceivable. Weaknesses: instability suppression must hold at fusion gain, not just at breakeven-adjacent conditions; electrodes sit in brutal proximity to the plasma and must survive millions of pulses; repetition rate and liner/target replacement carry the same rep-rate curse as laser ICF; and the approach's history is a graveyard of pinches that worked right up until they scaled.
 
+## When to use
+Back pulsed-magnetic approaches when you want fusion's cheapest iteration loop: capacitor banks and electrodes ride commodity power-electronics cost curves, so each experiment — and each eventual unit — costs a fraction of superconducting magnets or megajoule optics. The risk profile is the tokamak's inverse: nearly all of it is whether instability suppression and electrode survival hold at gain conditions, almost none is capital cost, which makes this the natural high-variance satellite position in a fusion portfolio. Anyone needing demonstrated confinement scaling or a near-term gain catalyst should hold tokamaks or laser ICF instead.
+
 ## Examples
 Zap Energy (Seattle, sheared-flow Z-pinch, FuZE-Q targeting scientific breakeven-relevant conditions), Pacific Fusion ($900M raised at founding, pulser-driven inertial fusion with NIF-ignition alumni), Sandia's MagLIF program and Z machine (the world's largest pulsed-power facility), UK's First Light Fusion (projectile-driven inertial — a cousin — pivoted to supplying targets and amplifiers).
 

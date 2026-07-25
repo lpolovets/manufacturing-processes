@@ -16,6 +16,9 @@ The architecture that ate legged robotics: a large-diameter, high-pole-count BLD
 ## Strengths and weaknesses
 Excellent transparency and impact tolerance (impacts backdrive the motor instead of shattering gear teeth), force estimated for free, high control bandwidth, mechanically simple. Weaknesses: torque density sits below high-ratio geared joints — QDD limbs run hot holding static loads; the big-diameter motors dominate joint mass and cost; and precision is motor-encoder-limited with the gear's small backlash, adequate for locomotion but short of machining-grade arms.
 
+## When to use
+QDD is the default for contact-rich dynamic joints: legs, dynamic arms, anything that strikes the world and must feel it — impacts backdrive harmlessly, torque is estimated from current with no load cell, and $100–500 buys the whole module off the shelf. Size it for duty cycles dominated by motion, not holding: torque density is real but thermal headroom for standing under gravity all day is not. Avoid it where the joint mostly holds static load (a 50:1+ strain-wave joint runs cooler and smaller) or where the spec is machining-grade repeatability, which its motor-side encoder and residual gear lash can't deliver; there, a harmonic-drive servo axis remains the tool.
+
 ## Examples
 MIT Cheetah/Mini Cheetah (the archetype), Unitree's entire quadruped and humanoid line, Tesla Optimus rotary joints, open-source actuators (MIT-inspired T-Motor AK series, ODrive-based builds), Ghost Robotics.
 

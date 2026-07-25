@@ -16,6 +16,10 @@ Sheets are cut and bonded layer by layer.
 
 Can combine dissimilar materials and embed sensors. Interlayer bond strength and removal of internal waste are limiting.
 
+## When to use
+
+Pick sheet lamination for the jobs its layer-stacking nature uniquely enables: embedding sensors, wiring, or dissimilar-material layers mid-build, and cheap large-format visual models from paper or polymer sheet; ultrasonic metal variants join aluminum and copper foils at low temperature around embedded electronics. Loads must run in-plane — the interlayer bond is the weak axis — and enclosed cavities trap waste sheet you cannot dig out. Avoid it for general functional prototyping or production metal parts, where FFF, powder-bed fusion, or machining are all stronger defaults; this is a niche process chosen for embedding and laminating, not as a general-purpose printer.
+
 ## Examples
 
 Laminated models, embedded-sensor structures, tooling.

@@ -14,6 +14,9 @@ Fast-spectrum physics with a coolant that refuses to burn: molten lead (or lead-
 ## Strengths and weaknesses
 No sodium-style fire risk, no intermediate loop needed, strong natural circulation for passive safety, high-temperature potential. Weaknesses: lead corrodes and erodes structural steels unless oxygen chemistry is controlled within a razor-thin window; the coolant freezing solid is a plant-killing accident mode; pumps and materials operate in territory with almost no civilian operating data; and the sole submarine heritage is as much warning as validation.
 
+## When to use
+Today this is an investment thesis, not a procurement option: back an LFR if you believe corrosion control in lead is an oxygen-chemistry engineering problem that BREST-OD-300 and loop programs will retire, and you want fast-spectrum benefits without pricing sodium-fire mitigation into the plant. The newcleo-style venture is at bottom a European plutonium-disposition play — diligence the fuel-cycle politics as hard as the metallurgy. Anyone who needs a fast reactor on a committed schedule belongs in the sodium camp, which has the operating fleet and the reactor-years.
+
 ## Examples
 Russia's BREST-OD-300 under construction at Seversk (the world's first purpose-built civilian LFR, tied to an on-site closed fuel-cycle complex); newcleo (UK/France/Italy, lead-cooled mini-reactors with MOX ambitions); Westinghouse's LFR concept; Belgium's MYRRHA accelerator-driven lead-bismuth research machine.
 

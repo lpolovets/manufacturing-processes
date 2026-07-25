@@ -16,6 +16,10 @@ Ceramic powder is compacted in a rigid die or through isostatic pressure and the
 
 Produces consistent, high-volume parts. Undercuts, major thickness variation, and density gradients can cause defects.
 
+## When to use
+
+Choose die pressing for simple, prismatic ceramic parts at high volume — tiles, substrates, cutting inserts, seal faces — where uniaxial compaction and sintering give the lowest unit cost; switch to isostatic pressing when uniform density or elongated shapes such as tubes and rods matter. Avoid undercuts, large thickness variation, and delicate features, which press poorly and crack in sintering. Complex hollow shapes belong to slip casting, and fine intricate parts to ceramic injection molding.
+
 ## Examples
 
 Tiles, cutting inserts, electronic substrates, insulators, wear parts.

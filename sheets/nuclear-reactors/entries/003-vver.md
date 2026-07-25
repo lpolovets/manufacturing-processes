@@ -15,6 +15,9 @@ Russia's PWR lineage: horizontal steam generators, hexagonal fuel assemblies, an
 ## Strengths and weaknesses
 Long operating record across 30+ countries' worth of units, genuinely competitive delivered cost, and the only vendor offering full-stack financing-to-fuel service. Weaknesses: buying one creates decades of dependency on a sanctioned state; Western fuel alternatives (Westinghouse's VVER fuel) exist but are recent; and geopolitics now shadows every project — Finland cancelled Hanhikivi, while Hungary's Paks II proceeds.
 
+## When to use
+The VVER is the rational choice for a first-time nuclear nation without investment-grade credit that wants a single counterparty for financing, fuel, operations, and waste — the buyer profile of Egypt, Bangladesh, and Turkey. The decision is geopolitical before it is technical: accept it only if six decades of dependency on Moscow is tolerable and sanctions exposure is manageable. NATO/EU-aligned buyers or anyone hedging Russia risk should price the APR-1400 as the closest Western analogue on delivered cost, and existing VVER fleets should qualify Westinghouse fuel as the dependency mitigation.
+
 ## Examples
 VVER-1200s operating at Novovoronezh and Leningrad; export builds at Akkuyu (Turkey — four units), El Dabaa (Egypt), Rooppur (Bangladesh), Kudankulam (India), Tianwan (China); ~20 units in Rosatom's export book.
 

@@ -16,6 +16,9 @@ Distributed touch: grids of pressure-sensitive taxels — capacitive, resistive/
 ## Strengths and weaknesses
 Contact location and pressure distribution vision cannot provide; slip detection before the object moves; whole-body versions double as safety sensing. Weaknesses: wiring hundreds of taxels through moving joints is the perennial engineering nightmare; durability — skins live at the abrasion interface and die there; calibration drifts with wear and temperature; hysteresis and crosstalk in soft substrates; and no standard product has consolidated the field, so everyone re-invents.
 
+## When to use
+Pick tactile arrays when success is decided by information vision loses at the moment of grasp — slip onset on variable objects, contact location in clutter, grasp verification on deformables — or for whole-body contact sensing on robots that work around people; humanoid fingertips are the canonical case, at hundreds of dollars per finger with consumable-replacement economics. Avoid them in cost- and uptime-driven industrial cells handling known objects: a parallel jaw with current feedback or a wrist F/T sensor delivers the needed signal without a wear surface whose calibration drifts, and with no vendor-fragmented integration project attached.
+
 ## Failure modes
 Wear-through and delamination at contact surfaces (fingertip skins are consumables); creep and hysteresis in elastomer layers corrupt force readings; taxel dropout from flex-cycle wiring fatigue; temperature sensitivity misread as contact; EMI on high-impedance sensing lines; and gradual sensitivity drift that quietly degrades grasp policies trained on fresh sensors.
 

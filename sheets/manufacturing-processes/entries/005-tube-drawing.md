@@ -16,6 +16,10 @@ Tubing is pulled through a die, often over a mandrel, to reduce diameter, wall t
 
 Creates precise, thin-wall tubing with good mechanical properties. Geometry is limited to tube-like products, and high reductions often require multiple drawing and annealing steps.
 
+## When to use
+
+Use tube drawing when off-the-shelf welded or extruded tube cannot meet the required wall tolerance, concentricity, surface finish, or fine diameter — hypodermic sizes, heat-exchanger tube, precision instrumentation lines. Plan on multiple draw-and-anneal passes for large reductions and accept the restriction to tubular geometry. When standard-tolerance tube suffices, buy welded or seamless extruded stock and skip the cost of drawing.
+
 ## Examples
 
 Hypodermic tubing, hydraulic lines, heat-exchanger tubes, precision mechanical tubing.

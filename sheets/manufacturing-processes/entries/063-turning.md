@@ -16,6 +16,10 @@ A rotating workpiece is cut by a stationary or traversing tool.
 
 Accurate and efficient for rotational geometry. Wastes material and is inefficient for non-axisymmetric features.
 
+## When to use
+
+Pick turning as the default for anything rotationally symmetric — shafts, bushings, fittings — from one-off prototypes through mid volumes, with tolerances to plus or minus 0.01 mm routine and live tooling covering incidental flats and cross-holes. Swiss-type and multi-spindle lathes extend it economically to high-volume small parts. Avoid it when the part is fundamentally prismatic (mill it instead) or when volumes reach the point where a net-shape process like cold heading or powder metallurgy makes chips-and-cycle-time uncompetitive.
+
 ## Examples
 
 Shafts, bushings, fittings, pistons, rollers.

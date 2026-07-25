@@ -16,6 +16,9 @@ Store hydrogen inside room-temperature liquids. Liquid organic hydrogen carriers
 ## Strengths and weaknesses
 Fully compatible with today's liquid-fuel logistics; no cryogenics or pressure; indefinite storage. E-fuels monetize as premium products (aviation mandates) rather than competing with grid storage at all. Weaknesses: each chemical hop burns efficiency — LOHC dehydrogenation is endothermic and heat-hungry, and e-fuel chains deliver 10–30% of original electricity as useful work; carrier and catalyst costs add up; and every route needs cheap CO2 or heat integration to approach viability.
 
+## When to use
+Pursue LOHC and e-fuels only where a mandate or premium fuel offtake pays the physics tax — SAF quotas, maritime rules, contracted e-methanol — and underwrite them as commodity-chemicals projects with secured cheap power, CO2 supply, and heat integration for the endothermic steps. LOHC specifically earns its place where hydrogen must move through existing liquid-fuel logistics without cryogenics or pressure. Never deploy any of this as grid storage: 10–30% chain efficiency loses to everything, so for seasonal power use hydrogen caverns, and for bulk seaborne energy ammonia's infrastructure lead is decisive.
+
 ## Examples
 Hydrogenious LOHC (Germany, benzyltoluene), Chiyoda's SPERA methylcyclohexane demo (Brunei–Japan shipping), HIF Global's Haru Oni e-methanol plant (Chile, Porsche offtake), Infinium and Twelve e-fuel plants, EU ReFuelEU aviation mandates as the demand engine.
 

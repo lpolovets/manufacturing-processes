@@ -14,6 +14,9 @@ The tokamak's twisted sibling: instead of driving current through the plasma, th
 ## Strengths and weaknesses
 Intrinsically steady-state, disruption-free, and quiescent — the most reactor-like operating mode in magnetic fusion. Weaknesses: confinement historically trailed tokamaks (W7-X is closing the gap); the coils are the hardest magnets ever manufactured, and maintenance access through their tangle is a genuine plant-design nightmare; and the field sits a machine-generation behind tokamaks — no stellarator has run D-T fuel, ever.
 
+## When to use
+Back stellarators on the thesis that the hard part of fusion is not first gain but running a plant 8,000 hours a year — steady-state, disruption-free operation is exactly what tokamaks must engineer around and stellarators get from geometry. The bet requires two things true: that HTS magnets plus modern optimization close W7-X's confinement gap, and that coil manufacturing and maintenance access yield to the Type One/Proxima generation of designs. Entry prices an order of magnitude below the tokamak camp's are the value case; anyone who needs a near-term Q>1 catalyst should be in tokamaks instead.
+
 ## Examples
 Wendelstein 7-X (Greifswald — record stellarator triple products and 8-minute plasmas, the field's flagship); Type One Energy (Infinity One design, TVA partnership at a retired coal site — the leading private effort); Proxima Fusion (Munich, W7-X heritage, HTS coils); Thea Energy (planar-coil simplification); Japan's LHD heritage.
 

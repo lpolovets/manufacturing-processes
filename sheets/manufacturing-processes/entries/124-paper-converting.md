@@ -16,6 +16,10 @@ Paperboard is cut, creased, folded, glued, laminated, printed, or coated into fi
 
 Inexpensive, fast, and highly scalable. Moisture, strength, and durability are limited.
 
+## When to use
+
+Paper converting is the default for high-volume, low-cost packaging — cartons, corrugated shippers, labels, cups — where steel-rule cutting dies cost little, changeover is fast, and unit costs fall to fractions of a cent at line speeds of hundreds of meters a minute. Avoid it wherever the product must bear sustained load, stay wet, or survive repeated use; coatings and laminations extend moisture life only modestly before molded pulp or plastics take over.
+
 ## Examples
 
 Cartons, corrugated boxes, labels, cups.

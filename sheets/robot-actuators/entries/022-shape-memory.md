@@ -16,6 +16,9 @@ Metal that remembers: nitinol wire, deformed when cool, snaps back to its traine
 ## Strengths and weaknesses
 Extraordinary force per mass, silent and vibration-free, intrinsically compliant, cheap wire, no mechanism at all. Weaknesses: it is a thermal engine and inherits thermal sins — efficiency of ~1–3%, cooling-limited bandwidth (hertz at best, less when insulated), hysteresis that mocks precise control, fatigue that shortens life at high strain, and continuous holding costs continuous heat. SMA twitches beautifully and cycles poorly.
 
+## When to use
+Use SMA where the stroke is sub-millimeter, the duty is light, and silence, mass, or mechanism-free simplicity is decisive: camera modules, micro-valves, deployables and latches that fire rarely, medical mechanisms where a motor won't fit. Keep strain low (well under the 4–5% maximum) and cycles gentle and the wire lasts millions of actuations for pennies. Avoid it for anything continuous, fast, or efficient — 1–3% efficiency, cooling-limited bandwidth of a hertz or so, and heat-to-hold make it wrong for limbs and wrong for sustained duty; at that point a voice coil or micro gearmotor is the honest answer, and any pitch promising limb-scale SMA muscle is fighting thermodynamics.
+
 ## Examples
 Smartphone camera OIS/autofocus (Cambridge Mechatronics — SMA's genuine volume win, billions of units), medical stents and guidewires (superelastic cousins), aerospace deployables and louvers (Boeing's morphing chevrons), micro-grippers, animatronic and soft-robot research.
 

@@ -16,6 +16,10 @@ A rotating multi-edge cutter removes material while the workpiece and tool move 
 
 Highly flexible and can create complex three-dimensional geometry. Wastes material, requires tool access, and can be expensive for high-volume parts or deep internal features.
 
+## When to use
+
+Pick milling for prismatic and freeform parts from prototypes through a few thousand units, whenever geometry is still changing or volumes can't justify tooling — it holds plus or minus 0.01-0.05 mm with no fixed tooling beyond workholding. It is also the standard finishing step after castings, forgings, and metal additive parts. Avoid it as the primary process at high volumes, where casting, molding, or stamping plus finish machining is cheaper, and for deep narrow cavities or sharp internal corners in hardened material, where EDM is the tool of choice.
+
 ## Examples
 
 Brackets, molds, aerospace structures, housings, engine parts.

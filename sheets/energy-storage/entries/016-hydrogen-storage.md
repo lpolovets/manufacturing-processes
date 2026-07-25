@@ -15,6 +15,9 @@ The reservoir half of the hydrogen chain. Salt caverns — solution-mined voids 
 ## Strengths and weaknesses
 Cavern storage is proven, vast, and absurdly cheap per kWh ($0.20–2), with months of hold and no degradation. Weaknesses: salt geology is geographically concentrated (US Gulf Coast, northern Europe); hydrogen embrittles steels and leaks through everything, taxing every pipe and valve; compression to storage pressure eats 5–15% of the energy; liquid hydrogen boils off daily; and above-ground tanks never escape $/kWh figures hundreds of times cavern levels.
 
+## When to use
+Use salt caverns whenever seasonal-scale hydrogen inventory is the goal and the geology exists — Gulf Coast, northern Europe — because at $0.20–2/kWh they are the only reservoir cheap enough to cycle once a year, and securing cavern rights early is where the value concentrates. Above-ground tanks are for mobility, refueling, and small industrial buffering only; never size them for bulk grid energy, where their $/kWh runs hundreds of times cavern levels. Where salt is absent, don't force it: import storability via ammonia or LOHC, test porous-rock storage if local geology permits, or concede the seasonal case to transmission.
+
 ## Examples
 Chevron Phillips Clemens and Air Liquide Spindletop caverns (Texas, decades of operation), Teesside (UK), the ACES Delta project (Utah — 300 GWh-class caverns feeding hydrogen turbines), HyStock (Netherlands); porous-rock storage pilots in Austria and Argentina.
 

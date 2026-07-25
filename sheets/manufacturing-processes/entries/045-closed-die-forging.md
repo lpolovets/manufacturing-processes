@@ -16,6 +16,10 @@ Metal is compressed inside shaped dies that substantially enclose the workpiece.
 
 Produces strong, fatigue-resistant parts with directional grain flow. Dies are expensive, draft and flash are common, and internal cavities are limited.
 
+## When to use
+
+Specify closed-die forging for fatigue- and impact-critical parts — connecting rods, crankshafts, landing gear, hand tools — once volumes reach roughly 10,000 pieces to amortize die cost, since grain flow delivers properties castings cannot match. Design around draft, flash, and the absence of internal cavities, and expect finish machining of critical surfaces. Below tooling-payback volume, machine from bar or use open-die forging; where loads permit, casting is cheaper.
+
 ## Examples
 
 Connecting rods, crankshafts, landing-gear components, hand tools.

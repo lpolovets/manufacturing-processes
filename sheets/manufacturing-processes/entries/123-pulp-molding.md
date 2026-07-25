@@ -16,6 +16,10 @@ Fiber slurry is deposited onto a porous mold, dewatered, dried, and sometimes ho
 
 Uses renewable or recycled fibers and works well for protective packaging. Precision, moisture resistance, and structural performance are limited.
 
+## When to use
+
+Pick pulp molding for high-volume protective and food packaging where sustainability or recycled content is a requirement and tolerances of a millimeter or more are acceptable — egg cartons, cushioning inserts, and, in the hot-pressed thermoformed-fiber grades, smooth premium electronics trays. Tooling is cheap relative to injection molds, so it also suits packaging that changes shape often. Avoid it for parts needing tight dimensions, wet strength, or structural stiffness; thermoformed plastic remains the alternative where those dominate and regulation still permits it.
+
 ## Examples
 
 Egg cartons, food trays, electronics packaging.

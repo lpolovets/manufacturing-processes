@@ -16,6 +16,9 @@ Suction without aiming: a large foam-faced plate riddled with vacuum holes, each
 ## Strengths and weaknesses
 Zero targeting — position tolerance measured in tens of centimeters; handles multiple objects at once (full layer picks); foam seals rough and curved surfaces; robust simplicity. Weaknesses: hungry for air flow (the leak-tolerant design leaks by design); foam faces are consumables that tear and clog; no per-object selectivity without zoned valving (which adds cost back); heavy objects with small footprints exceed the local suction; and delicate single-item work is not its sport.
 
+## When to use
+Pick area grippers for depalletizing and layer picking, rough or curved surfaces (sawn lumber, sacks, mixed cartons), and any cell where positioning tolerance of tens of centimeters or multi-object picks beat aiming — press the mat, lift everything under it. Size the vacuum supply for a design that leaks on purpose. Avoid it for selective single-item picking unless you add zoned valving (which erodes the cost case), for heavy objects with small footprints that exceed local suction, and for delicate individual items; there discrete cups with per-cup sensing are the right tool.
+
 ## Examples
 Schmalz FXP/FMP series (the category standard) on depalletizing cells everywhere, Piab Kenos line, layer-picking systems atop palletizers, woodworking panel handling, bag and sack handling with reinforced foam faces.
 

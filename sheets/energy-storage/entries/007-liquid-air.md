@@ -16,6 +16,9 @@ Liquefy air at -196 °C using off-peak power, store it in insulated tanks at atm
 ## Strengths and weaknesses
 No geology or geography constraints, mature industrial supply chain, tanks add duration cheaply, 30–40 year plant life, and cold/heat integration with industrial neighbors can push effective efficiency higher. Weaknesses: intrinsic round-trip efficiency is the worst of the mechanical class (50–60% best case); liquefaction plants like running steadily, not flexibly; and capex per kW is high — the technology needs long durations and cheap charging power to pencil.
 
+## When to use
+Pick LAES when siting freedom is non-negotiable — no salt, no mountains, brownfield industrial land — for 8–12+ hour duty on a grid with abundant cheap surplus to charge from, ideally with an industrial neighbor to buy the waste cold or supply waste heat; wind-heavy systems like Britain's are the archetype. The mature industrial-gas supply chain makes it the most bankable of the geology-free mechanical options. Avoid it where charging power isn't reliably cheap or duty is under 8 hours: the 50–60% round trip is a permanent tax that Li-ion escapes intraday and advanced CAES beats wherever caverns exist.
+
 ## Examples
 Highview Power: Pilsworth pilot, the 50 MW/300 MWh Carrington plant (UK, under construction with UK IB backing), and gigawatt-hour follow-ons; Sumitomo's investment as the industrial-gas validation.
 

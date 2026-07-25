@@ -16,6 +16,10 @@ Electric current deposits metal ions onto a conductive surface.
 
 Provides decorative, corrosion-resistant, conductive, or wear-resistant surfaces. Bath control, waste treatment, thickness uniformity, and hydrogen embrittlement are concerns.
 
+## When to use
+
+Electroplate when a conductive part needs a thin functional metal layer at low cost per piece: zinc or zinc-nickel at 5-25 um for fastener corrosion protection, nickel-chrome for decorative hardware, hard chrome for wear, and gold, silver, or tin for contacts and solderability. Barrel plating makes it extremely cheap for small parts at high volume; rack plating handles larger geometry. Current-density hot spots mean edges and corners plate thick while recesses starve, so avoid it for uniform coverage of complex shapes or internal passages — that is electroless plating territory. On high-strength steels above about 1000 MPa or 32 HRC, require a post-plate hydrogen embrittlement bake within hours of plating, or choose a mechanical or vapor-deposited coating instead.
+
 ## Examples
 
 Zinc fasteners, copper interconnects, nickel coatings, chrome hardware.

@@ -16,6 +16,10 @@ A laser fuses polymer powder in a bed, with unfused powder supporting the part.
 
 Produces complex functional polymer parts without dedicated supports. Surface finish is grainy, machines are expensive, and powder management is substantial.
 
+## When to use
+
+Pick polymer powder-bed fusion for functional end-use nylon parts — snap fits, ducts, brackets, orthotics — from prototypes into bridge production of hundreds to a few thousand units, since parts nest densely in the bed with no supports and properties are far more isotropic than FFF. It is the standard way to ship real plastic parts before or instead of cutting a mold. Avoid it for smooth cosmetic surfaces and fine crisp detail, where vat photopolymerization wins, and beyond roughly 5,000-10,000 units of a stable design, where injection molding's unit cost is unbeatable; dyeing and vapor smoothing mitigate but don't erase the grainy finish.
+
 ## Examples
 
 Ducts, orthotics, clips, housings, aerospace polymer parts.

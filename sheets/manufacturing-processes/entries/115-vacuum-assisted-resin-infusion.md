@@ -16,6 +16,10 @@ Vacuum draws resin through dry reinforcement under a flexible bag.
 
 Produces very large composite parts with lower tooling cost than closed molding. Leaks, dry spots, infusion timing, and resin-flow design create risk.
 
+## When to use
+
+Default to vacuum infusion for very large composite parts at low-to-mid volume — hulls, wind blades, one-piece decks — where a single-sided tool and room-temperature cure keep tooling cost an order of magnitude below closed molds while beating hand layup on fiber fraction and emissions. Avoid it when both surfaces must be finished or cycle time matters; that is RTM territory. Treat every new part as a flow-design exercise, because a leak or dry spot on a hull-sized infusion scraps an expensive stack of material in one shot.
+
 ## Examples
 
 Wind-turbine blades, boat hulls, large aerospace panels.

@@ -16,6 +16,9 @@ Store energy as circulating current in a superconducting coil — no moving part
 ## Strengths and weaknesses
 The fastest, most cycle-proof storage that exists; 95%+ instantaneous efficiency; ideal for bridging sub-second power quality events. Weaknesses: energy density is dismal and scales with dangerous stored magnetic energy; cryogenics consume standing power that wrecks net efficiency at any real duty cycle; superconductor and magnet costs are extreme; and every historical niche has been progressively absorbed by cheaper flywheels, capacitors, and batteries.
 
+## When to use
+There is almost no commercial case for SMES today: consider it only for sub-second power-quality duty where nothing else responds fast enough — millisecond ride-through at a fab-class critical load, pulsed power for research — and even there, price flywheels and supercapacitors first, since they have absorbed nearly every historical SMES niche at a fraction of the cost. Treat the field as an option on cheap REBCO tape: if fusion-magnet demand collapses HTS costs, revisit for grid inertia and pulse loads. For any energy-holding duty beyond seconds, the cryogenic standing losses disqualify it outright.
+
 ## Examples
 1–10 MJ power-quality units historically deployed at semiconductor fabs and paper mills (American Superconductor lineage), lab-scale HTS-coil demos in Japan, Korea, and China; occasional fusion-adjacent pulsed-power studies.
 

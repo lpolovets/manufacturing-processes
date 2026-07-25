@@ -16,6 +16,9 @@ A heat pump run forward, then backward: charge by pumping heat from a cold store
 ## Strengths and weaknesses
 Sites anywhere, cheap thermal media, decades-long life, and a fully mechanical supply chain. Weaknesses: real round-trip efficiency depends on aggressive turbomachinery performance at temperatures where compressors and expanders are custom; the cycle's complexity (four heat exchangers, two stores, reversible machines) multiplies cost and failure modes; and no plant beyond pilot scale has demonstrated the claimed numbers — the graveyard (including 1414 Degrees' and Stiesdal's struggles) is instructive.
 
+## When to use
+Treat pumped thermal as a pilot-stage bet, not a procurement option: back it only if you're funding geology-free 10–24 hour storage development and can condition capital on measured — not modeled — round trip from an integrated plant, with 55%+ the threshold that makes the arbitrage math work. Its promise is CAES-class $/kWh anywhere, which is worth option money. For capacity you need this decade, buy Li-ion below 8 hours and advanced CAES or LAES beyond it; and if the site's real product could be heat rather than electricity, skip the heat engine entirely and buy solid heat bricks.
+
 ## Examples
 Malta Inc (X/Alphabet spinout, salt-based), Echogen (supercritical CO2 cycle), Stiesdal GridScale (rock), MAN ETES; academic origins in Isentropic Ltd's gravel design (an early cautionary failure).
 

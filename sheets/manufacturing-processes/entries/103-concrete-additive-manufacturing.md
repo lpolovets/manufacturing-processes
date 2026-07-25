@@ -16,6 +16,10 @@ Cementitious material is robotically deposited layer by layer.
 
 Reduces formwork and enables unusual architecture. Reinforcement, building codes, interfaces, surface quality, and curing remain difficult.
 
+## When to use
+
+Pick concrete printing where formwork dominates cost or geometry: curved and non-repeating walls that would need one-off molds, landscaping and marine structures, and demonstration housing in regions where skilled formwork labor is scarce — a wall system can go up in days with a small crew. Structural spans still need conventional reinforcement strategies, and printed surfaces show layer lines unless finished. Avoid it for standard rectilinear buildings, where crews with plywood forms or precast panels remain cheaper and code-approved, and for load paths a local jurisdiction will not certify; treat it today as a complement to, not a replacement for, conventional concrete construction.
+
 ## Examples
 
 Walls, small buildings, landscaping structures, bridge elements.

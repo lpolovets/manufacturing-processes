@@ -16,6 +16,10 @@ A billet is forced through a shaped die to create a continuous product with a co
 
 Produces complex constant cross-sections efficiently and with relatively little waste. The profile must remain constant along its length, and difficult alloys may require high forces, slow speeds, or specialized dies.
 
+## When to use
+
+Pick extrusion for constant-cross-section lengths with complex profiles — above all aluminum, where a die costs only a few thousand dollars and runs from a few hundred kilograms upward are economical. It is the default for heat sinks, frames, and structural profiles that would be wasteful to machine from solid. Avoid it when the section must vary along the length (machine or fabricate instead), and for steels and other high-strength alloys, where hot-rolled standard sections or roll forming are usually cheaper.
+
 ## Examples
 
 Aluminum window frames, heat sinks, tubing, rails, channels, structural profiles.

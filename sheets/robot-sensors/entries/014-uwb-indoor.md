@@ -16,6 +16,9 @@ GPS for indoors, assembled from infrastructure: ultra-wideband radios time nanos
 ## Strengths and weaknesses
 Absolute indoor position with bounded error (no drift), works through non-metal walls and darkness, cheap tags, low compute; excellent for multi-robot coordination and asset tracking. Weaknesses: someone must install, survey, and power the anchors — the infrastructure tax; metal-heavy environments multipath badly; capacity limits with many tags; and it competes with "free" SLAM that improves every year, squeezing the niche from the software side.
 
+## When to use
+Pick UWB when you control the facility and 10–30 cm absolute indoor position with zero drift is worth an anchor install — multi-robot coordination, forklift and asset tracking, drone work indoors — or as a deliberate bridge that ships reliable autonomy now and gets removed as SLAM matures. Tags are $5-class; the survey and anchor maintenance are the real cost. Avoid it in metal-dense environments where multipath bias defeats the accuracy story, in third-party spaces where you cannot install infrastructure, and on robots whose SLAM already meets the accuracy bar for free.
+
 ## Failure modes
 Non-line-of-sight bias: through-body and through-shelf paths arrive late, pushing position errors of decimeters that look statistically healthy; anchor geometry degrades accuracy in corridors (dilution of precision); anchor drift/movement silently corrupts the map; interference in the increasingly crowded UWB bands; battery-dead tags and unsurveyed anchor moves are the operational reality.
 

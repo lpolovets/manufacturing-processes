@@ -16,6 +16,9 @@ Rotary-to-linear conversion with mechanical advantage measured in thousands: a s
 ## Strengths and weaknesses
 Enormous force multiplication, micron-class positioning (ground ball screws), inherent load holding (lead screws self-lock), stiff and simple. Weaknesses: linear-only; speed is capped by screw whip and nut dynamics; lead screws waste 50–70% of input as friction; ball screws hate shock and contamination; and backdrivability ranges from poor (ball) to none (lead) — force control must be sensed and computed, never felt.
 
+## When to use
+Pick a screw when the joint is fundamentally a linear force problem: humanoid knees and ankles, presses, clamps, lifts — kilonewtons from a modest BLDC, micron repeatability from ground ball screws, and (with a lead screw) power-off self-locking for free. Step up to a planetary-roller screw when the same envelope must carry 3–10× the load and shock. Avoid screws where the motion is naturally rotary, where speed matters (whip caps travel rates), or where contact must be felt — backdrivability runs from poor to none, so force control is sensed, never intrinsic; for transparent linear force, a linear motor or cable drive is the alternative, and for backdrivable rotary joints, QDD.
+
 ## Examples
 Every CNC machine axis and injection-molding press; THK, NSK, Hiwin as the incumbent industry; electric vehicle brake and steering actuators; Tesla Optimus and Figure's linear knee/ankle actuators — the humanoid wave's rediscovery that legs are mostly linear force problems; aircraft flap actuators.
 

@@ -16,6 +16,10 @@ Premeasured chopped-fiber resin sheets are compressed and cured in a heated matc
 
 Supports medium-to-high-volume structural composite parts. Fiber orientation is less favorable than continuous-fiber laminates and tooling is expensive.
 
+## When to use
+
+SMC is the composite answer at automotive volumes: pick it for roughly 10,000–100,000+ parts a year where 1–3 minute cures in matched steel dies, molded-in ribs and bosses, and paintable class-A-capable surfaces matter more than peak properties — body panels, battery enclosures, electrical boxes. Below a few thousand parts a year the die cost is unjustifiable, so use RTM or infusion; where continuous-fiber stiffness or strength is genuinely required, prepreg or RTM laminates are the alternative.
+
 ## Examples
 
 Automotive panels, battery enclosures, electrical housings.

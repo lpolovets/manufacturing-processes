@@ -16,6 +16,9 @@ The default motor of modern robotics: permanent magnets on the rotor, electronic
 ## Strengths and weaknesses
 High efficiency (90%+), excellent power density, no wear parts but bearings, torque known from current (free force estimation), and heat generated in the stator where it can actually be removed. Weaknesses: needs position sensing and a three-phase drive — the electronics are the actuator; continuous torque is thermal-limited far below peak; ungeared torque density is modest, which is why transmissions exist; and rare-earth magnets carry China supply-chain exposure.
 
+## When to use
+Make BLDC + FOC the starting assumption for any powered robot joint: continuous duty, efficiency above 90%, torque known from current for sensorless force estimation, and stator heat you can actually sink. Choose the transmission around it — none for transparency, single-stage planetary for QDD limbs, strain-wave for precision arms. Step away only at the edges: a brushed motor or stepper when the axis is worth under ~$20 and never runs hot, a stepper when open-loop positioning suffices, or direct-drive/linear/piezo hardware when the spec is nanometers rather than newton-meters. If you're arguing yourself into anything else for a mainstream joint, the burden of proof is on the alternative.
+
 ## Examples
 T-Motor and Maxon EC frameless kits in robot joints; every drone propulsion motor; Tesla Optimus and Unitree joint modules; ODrive/moteus/VESC open-source FOC drives that made hobby-grade force control possible.
 

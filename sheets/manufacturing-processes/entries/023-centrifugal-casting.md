@@ -16,6 +16,10 @@ A rotating mold forces molten material against the mold wall.
 
 Creates dense cylindrical parts without a central core. Mainly useful for axisymmetric geometry and may require machining of the inner surface.
 
+## When to use
+
+Choose centrifugal casting for axisymmetric hollow parts — pipe, cylinder liners, bushings, large rings — where spinning delivers dense, coreless walls at anywhere from one-off to steady production. Budget for machining the as-cast bore, which collects the lighter impurities. It has no answer for non-round geometry, and for small bushings at high volume, powder metallurgy or drawn tube plus machining is usually cheaper.
+
 ## Examples
 
 Pipes, cylinder liners, bushings, bearing rings.

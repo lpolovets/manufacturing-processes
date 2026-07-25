@@ -16,6 +16,9 @@ No transmission at all: a large-diameter, many-pole motor drives the load direct
 ## Strengths and weaknesses
 Perfect backdrivability and force transparency, sub-arc-second precision with good encoders, silent operation, no wear parts, and unmatched control bandwidth. Weaknesses: torque density is the worst of any electric option — continuous torque at temperature is brutally limiting; holding gravity loads burns constant power; and the motors are expensive per Nm precisely because there's no gear multiplying anything.
 
+## When to use
+Go direct drive when transparency or precision is the product and the axis carries no standing gravity load: haptic interfaces, gimbals, rotary tables, metrology and wafer stages, force-sensitive test rigs — anywhere sub-arc-second resolution, zero backlash, or kilohertz force bandwidth is the spec and the motor can be as big as it needs to be. Avoid it for gravity-loaded limbs and mobile robots: holding torque burns continuous power and torque density is the worst on this sheet, which is exactly the gap QDD closes with a single 6–10:1 stage at a fraction of the motor mass. Budget the encoder alongside the motor — at this precision class it can cost as much.
+
 ## Examples
 Semiconductor wafer stages and rotary tables (the natural home), Kollmorgen/ETEL/Tecnotion frameless lines, the direct-drive SCARA arms of the 1980s (AdeptOne — the historical proof and cautionary tale), haptic devices, gimbal motors on every camera drone.
 

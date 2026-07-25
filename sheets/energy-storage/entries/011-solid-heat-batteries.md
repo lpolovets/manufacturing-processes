@@ -16,6 +16,9 @@ The cheapest joule on the market: resistively heat a pile of refractory brick, c
 ## Strengths and weaknesses
 Storage media cost dollars per tonne (sub-$10/kWh-thermal), no degradation, no supply-chain drama, and industrial heat is half of global final energy — an enormous market lithium cannot serve. Weaknesses: it is heat-out only in most designs (adding a turbine collapses efficiency and economics); discharge temperature declines as the store depletes, which some processes can't tolerate; and the business sells to conservative industrial buyers with gas at marginal cost — adoption is a spreadsheet fight, not a technology fight.
 
+## When to use
+Deploy heat bricks wherever an industrial process burns fuel for 200–1,500 °C heat and cheap surplus electricity is available daily — high-curtailment renewable grids, or anywhere the spark spread against gas-plus-carbon clears; charged nightly, the sub-$10/kWh-thermal medium delivers the cheapest stored energy on this sheet. Size the store for daily cycling and verify the process tolerates the declining discharge temperature as the pile depletes. Avoid it when you need electricity back out (the turbine collapses the economics — that's pumped thermal's unsolved problem), when the process demands constant-temperature delivery (use PCM), or where gas stays cheap and carbon unpriced — there the spreadsheet fight is unwinnable.
+
 ## Examples
 Rondo (brick, cement and biofuel plants), Antora (graphite blocks, also exploring thermophotovoltaic re-electrification), Polar Night Energy (sand, Finland district heat), Kraftblock, Brenmiller; Siemens Gamesa's rock-store ETES pilot was the early proof.
 

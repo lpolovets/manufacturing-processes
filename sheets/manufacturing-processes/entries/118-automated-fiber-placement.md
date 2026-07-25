@@ -16,6 +16,10 @@ Robots place narrow prepreg tows along programmed paths.
 
 Automates large high-performance composite structures and enables optimized fiber direction. Machines are expensive and gaps, overlaps, and tow defects require control.
 
+## When to use
+
+AFP earns its multimillion-dollar machines on large, high-value, contoured structures at aerospace rates — fuselage sections, wing skins, rocket tanks — where steered tows, low scrap, and repeatable placement beat manual prepreg layup once parts reach meters in scale and programs run for years. Do not consider it for small parts, short programs, or modest budgets; hand prepreg layup covers those, and ATL lays material down several times faster where the surface is flat or gently curved.
+
 ## Examples
 
 Fuselages, wings, rocket tanks, large aerospace structures.

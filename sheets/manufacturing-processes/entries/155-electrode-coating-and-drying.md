@@ -16,6 +16,10 @@ Slurry is continuously applied to metal foil, often by slot die, and dried to re
 
 Provides high throughput and precise areal loading. Thickness variation, cracking, edge behavior, dryer length, solvent recovery, and line speed are major constraints.
 
+## When to use
+
+Slot-die coating on continuous roll-to-roll lines is the standard for any serious cell production: choose it whenever areal loading must hold to a percent or two at tens of meters per minute, and accept that dryer length is what line speed actually buys — ovens dominate plant footprint and energy cost, and NMP cathode lines add solvent-recovery capital on top. Below pilot scale, doctor-blade and lab coaters suffice; at giga-scale, dry-electrode coating is the developing alternative that deletes the ovens.
+
 ## Examples
 
 Lithium-ion anode and cathode webs.

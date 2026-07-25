@@ -16,6 +16,10 @@ Liquid polyurethane or similar resin is poured under vacuum into a flexible sili
 
 Useful for prototypes and short production runs without hard tooling. Silicone molds wear quickly and material properties only approximate production polymers.
 
+## When to use
+
+Use vacuum casting for 10–100 production-like polyurethane parts — functional prototypes, pilot builds, marketing samples — delivered in days without hard tooling, with each silicone mold good for roughly 15–25 casts. Treat the material properties as approximations of the production polymer, not equivalents. It is strictly a bridge: beyond a few hundred parts cut a mold and injection mold, while for a handful of pieces 3D printing is cheaper still.
+
 ## Examples
 
 Prototype housings, automotive mockups, medical-device enclosures.

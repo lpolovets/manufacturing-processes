@@ -16,6 +16,9 @@ The anthropomorphic bet: hands with articulated fingers, opposable thumbs, and (
 ## Strengths and weaknesses
 The only effector class that can attempt the full human task distribution, and the substrate for manipulation learning (in-hand reorientation, tool use, imitation from human video). Weaknesses: fingers meet the world first and hardest — hands are the least reliable subsystem of every humanoid; tendons, joints, and tactile surfaces are wear items; research units are lab-fragile by construction; and for any *known* task, simpler tooling (jaws, suction, changers) remains cheaper, faster, and more reliable — dexterity must earn its premium on task generality alone.
 
+## When to use
+Pick a dexterous hand only when task generality is itself the product: humanoid platforms facing open-ended task distributions, manipulation research, and teleoperated data collection for learned policies — with LEAP-class $2k open hardware for research budgets and production-style underactuated hands where fleet reliability matters. Avoid it for any enumerable task set, which is nearly all deployed automation: a parallel jaw, suction, or a tool-changer portfolio beats a hand on cost, cycle time, and MTBF every time the tasks can be listed. Before specifying one, answer honestly what fraction of your tasks needs more than a pinch.
+
 ## Variants
 ### Research-grade instruments
 16–24 actuated DoF, tendon-driven, maximal sensing: Shadow Dexterous Hand (~$100k+, OpenAI's Rubik's-cube work), Wonik Allegro (the decade-long research default), LEAP Hand ($2k open-source — the cost collapse that democratized dexterity research). Maintained like instruments: retensioned, rebuilt, babied.

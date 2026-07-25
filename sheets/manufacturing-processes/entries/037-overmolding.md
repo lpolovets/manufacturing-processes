@@ -16,6 +16,10 @@ A second material is molded over an existing substrate or first molded component
 
 Creates grips, seals, soft-touch areas, insulation, and multi-material components. Adhesion, shrinkage, thermal compatibility, and extra tooling must be controlled.
 
+## When to use
+
+Choose overmolding for soft-touch grips, integrated seals, and two-material parts — toothbrushes, tool handles, gasketed housings — at volumes that justify either two-shot tooling (high volume, best per-part economics) or a transfer process between two single molds (moderate volume). Verify the material pair's adhesion early; incompatible pairs need mechanical interlocks. Below a few tens of thousands of units, separately molded parts joined by assembly or adhesive are usually cheaper.
+
 ## Examples
 
 Tool grips, toothbrushes, sealed electronics, cable connectors.

@@ -16,6 +16,10 @@ An existing hole is enlarged and trued using a single-point tool.
 
 Improves diameter, alignment, straightness, and concentricity. Cannot initiate a hole and can be vibration-prone in deep bores.
 
+## When to use
+
+Pick boring when an existing hole needs its location corrected or its diameter brought to IT6-7 accuracy — bearing seats, cylinder bores, and any diameter too large or too non-standard for a reamer. Unlike reaming, a single-point boring bar cuts a hole concentric to the spindle axis, so it is the fix for drilled holes that wandered. Avoid it for long slender bores where bar overhang exceeds roughly 4-6 diameters without damped bars, and skip it entirely when a drilled-and-reamed hole meets spec at lower cost; final surface refinement below it belongs to honing.
+
 ## Examples
 
 Engine cylinders, bearing seats, valve bodies, machine housings.

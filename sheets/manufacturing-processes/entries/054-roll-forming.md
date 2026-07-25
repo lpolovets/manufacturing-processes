@@ -16,6 +16,10 @@ Continuous sheet passes through successive rolls that gradually bend it into a c
 
 Exceptionally efficient for long, high-volume components. Tooling is costly and variable cross-sections are difficult.
 
+## When to use
+
+Pick roll forming for constant-cross-section profiles produced from coil at high annual volumes — think tens of thousands of linear meters per year or more — especially lengths beyond press-brake capacity or parts needing in-line punching and cutoff. It also handles high-strength and pre-painted stock gently, since bending is distributed over many stands. Avoid it below the volume needed to amortize a roll set (often tens of thousands of dollars per profile), for cross-sections that vary along the length, or for short discrete parts; there, press-brake forming or stamping is the default.
+
 ## Examples
 
 Roofing, door tracks, automotive rails, shelving uprights, gutters.

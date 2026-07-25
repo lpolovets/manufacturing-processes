@@ -16,6 +16,9 @@ The workhorse layered cathode: LiNixMnyCozO2, where the nickel fraction sets ene
 ## Strengths and weaknesses
 The best all-around balance of energy, power, life, and cost among high-energy cathodes, with a huge installed manufacturing base. Weaknesses: nickel-rich versions grow more thermally sensitive and moisture-fussy (dry rooms, gas evolution); cobalt and nickel carry price and supply risk; and LFP undercuts it on cost and cycle life wherever density is not decisive.
 
+## When to use
+Pick NMC when you need high gravimetric energy with a mature, multi-vendor supply base — long-range EVs, power tools, e-mobility, and any pack where weight or range sells the product; go nickel-rich (811, 9-series) only if your factory and BMS can handle the moisture and thermal sensitivity. Avoid it wherever the pack cycles daily and density is not decisive — stationary storage and standard-range vehicles have gone LFP for good reason — and in minimum-cost designs where cobalt and nickel exposure is unacceptable. For small-format consumer devices where volumetric density rules, LCO still edges it out.
+
 ## Variants
 ### NMC 111 / 532
 Balanced ratios; robust and cobalt-heavy. Legacy EV and tool cells.

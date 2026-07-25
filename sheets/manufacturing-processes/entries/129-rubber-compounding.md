@@ -16,6 +16,10 @@ Elastomer is mixed with fillers, curing agents, plasticizers, stabilizers, pigme
 
 Allows extensive tuning of hardness, grip, abrasion, weather resistance, conductivity, and cost. Mixing history, contamination, dispersion, and heat buildup strongly affect quality.
 
+## When to use
+
+Compounding is where a rubber part's properties are actually set, so specify a custom compound whenever hardness, abrasion, weather, chemical, or electrical requirements are real — and buy it from a custom mixer unless annual consumption reaches the hundreds of tonnes that justify in-house Banbury capacity. For undemanding parts, standard off-the-shelf compounds are cheaper and better characterized. Once a recipe and mixing procedure are qualified, lock them; casual substitutions in fillers or cure package are a classic source of field failures.
+
 ## Examples
 
 Tire compounds, seals, hoses, belts, vibration isolators.

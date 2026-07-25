@@ -16,6 +16,9 @@ Touch measured by camera: a soft, opaque elastomer pad deforms against the objec
 ## Strengths and weaknesses
 Micron-scale contact geometry and rich shear/slip signals; leverages commodity cameras and CNN tooling; manufacturable from cheap components. Weaknesses: the gel is a consumable — it tears, wears, and its optical coating scuffs; the camera's standoff makes fingertips thick (packaging fights dexterity); frame-rate and processing latency trail dedicated force sensors; per-sensor photometric calibration; and absolute force calibration is inferential, derived from deformation models.
 
+## When to use
+Pick GelSight-class sensing for dexterity work where fine contact geometry pays: in-hand pose estimation, cable and fastener manipulation, texture and defect inspection by touch, and any learned manipulation stack — since the output is an image, it plugs straight into vision tooling, and $300–500 modules put it in reach of every lab. Avoid it in long-duty industrial cells until gel-tip life matches your maintenance intervals (tips are consumables, and sharp or abrasive parts eat them), and in tight kilohertz force loops where its frame-rate latency destabilizes control — there a conventional F/T sensor or taxel array is the right tool.
+
 ## Failure modes
 Gel wear and tearing on sharp or abrasive parts (fleet operators stock replacement tips); coating scratches read as permanent phantom features; illumination LEDs aging shifts calibration; condensation or oil films alter optics; latency-induced instability in tight force loops; and models trained on one gel batch degrading on the next — manufacturing variance as a failure mode.
 

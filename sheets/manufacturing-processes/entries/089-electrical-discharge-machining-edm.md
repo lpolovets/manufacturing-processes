@@ -16,6 +16,10 @@ Controlled sparks erode conductive material through a dielectric gap.
 
 Machines hard materials, delicate features, and sharp internal geometry without cutting forces. Only works on conductive materials and is relatively slow.
 
+## When to use
+
+Pick EDM when hardness, geometry, or fragility defeats cutting tools: hardened tool steel and carbide after heat treatment, near-sharp internal corners, thin fragile ribs, and deep narrow cavities. Wire EDM holds plus or minus 0.005 mm or better on through profiles and is the standard for punches, dies, and splines in hardened stock; sinker EDM owns blind mold cavities; fast-hole EDM produces turbine cooling holes at high aspect ratio. Avoid it whenever the material is nonconductive or still soft enough to mill — removal rates are low, so machine soft and EDM only what heat treatment or geometry forces, and for high-volume shaped cavities in hard alloys consider electrochemical machining instead.
+
 ## Variants
 
 ### Wire EDM

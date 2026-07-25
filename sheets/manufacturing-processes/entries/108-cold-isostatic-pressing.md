@@ -16,6 +16,10 @@ Powder in a flexible mold is compressed uniformly by high-pressure liquid and th
 
 Creates relatively uniform density in large preforms. Precision is modest and flexible tooling deforms.
 
+## When to use
+
+Choose CIP for large, long, or thick-section powder preforms — ceramic tubes, refractory billets, sputtering targets — where uniaxial die pressing would leave density gradients, and where cheap elastomer tooling suits low-to-medium volumes and frequent shape changes. Plan on green machining or generous sintering allowances, since as-pressed tolerances are loose. For small parts at high volume, automated uniaxial die compaction is the default; when full density in one step is the goal, go to HIP instead.
+
 ## Examples
 
 Ceramic tubes, refractory parts, powder billets, grinding wheels.

@@ -16,6 +16,9 @@ Pressurized oil at 200–350 bar metered by servo valves into cylinders and rota
 ## Strengths and weaknesses
 Unmatched force and power density at the joint, intrinsic overload tolerance (relief valves), stiff force transmission, robust in filth and heat. Weaknesses: the system tax — pump, accumulator, valves, hoses, filters, and heat exchanger — erases the density win at small scale; servo valves cost thousands and demand immaculate fluid; efficiency is dismal (throttling losses; often 10–30% system-level); leaks are endemic; and force control through valve nonlinearity is hard-won.
 
+## When to use
+Use servo-hydraulics when forces reach tens of kilonewtons per axis, the environment is dirty, hot, or shock-laden, and one power plant can amortize across many joints — excavator-class machinery, forging and press automation, high-force test rigs, and autonomy retrofits of machines that are already hydraulic. Below roughly excavator scale the calculus inverts: the pump-valve-hose-cooler tax and 10–30% system efficiency erase the density win, which is why legged robots abandoned it for electric QDD at a tenth the maintenance. For hydraulic-class force without the central plant, an EHA is the modern compromise; for anything a ball screw plus BLDC can push, stay electric.
+
 ## Examples
 Hydraulic Atlas's backflips (retired 2024 — the symbolic end of hydraulic humanoids), every excavator and forestry machine (now targets for robotic retrofit — Gravis, Built Robotics), aircraft actuation, industrial testing rigs (MTS/Instron), die-casting and forging automation.
 

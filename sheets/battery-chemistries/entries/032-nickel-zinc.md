@@ -16,6 +16,9 @@ Nickel positive, zinc negative, alkaline electrolyte: a chemistry with a higher 
 ## Strengths and weaknesses
 High power and good specific energy for an aqueous chemistry; non-flammable water-based electrolyte; fully recyclable, abundant materials; no thermal-runaway fire codes to fight in data centers. Weaknesses: zinc electrode shape change and dendrites still cap deep-cycle life; capacity fades under full-depth cycling; higher self-discharge than lead; a small supplier base with limited field history at scale.
 
+## When to use
+Pick NiZn for short-duration, high-power bridging where fire codes are the binding constraint — data-center UPS is the defining case — and for high-rate starting duty wanting more power per kilogram than lead without lithium's permitting burden. Keep cycling shallow: zinc shape change still caps deep-cycle life. Avoid it for deep daily cycling or long-duration storage, and weigh the thin supplier base against the incumbents — lead where cost rules, lithium UPS products engineered for fire marshals where density does.
+
 ## Examples
 ZincFive data-center UPS strings (the flagship application — short-duration, high-power bridging), aircraft and military starting batteries, motorsport starter packs.
 

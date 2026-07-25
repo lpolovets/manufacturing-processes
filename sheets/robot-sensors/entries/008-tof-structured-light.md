@@ -16,6 +16,9 @@ Active depth per pixel: time-of-flight cameras modulate infrared light and measu
 ## Strengths and weaknesses
 Dense depth with minimal compute (the sensor does the work), excellent short-range precision for grasping and bin-picking, small and cheap thanks to phone volume, works in total darkness. Weaknesses: active IR loses to sunlight outdoors; range limited by illumination power (typically 0.2–10 m); multipath within scenes (corners, shiny bins) bends measurements; frame-rate/resolution trade-offs; and multiple units interfere unless synchronized.
 
+## When to use
+Pick this family as the first answer for indoor depth at 0.2–5 m: manipulation, bin-picking, and AMR obstacle sensing get dense, low-compute depth that works in darkness, and phone-volume ToF modules keep the price in stereo's range with none of stereo's matching compute. Step up to industrial structured-light scanners (Photoneo, Zivid class, $5–15k) when bin-picking needs sub-millimeter registration. Avoid it outdoors — direct sunlight collapses performance, full stop — and distrust it on black foam, transparent packaging, and shiny bins; there stereo takes the outdoor cases and added modalities or polarization tricks take the optically hostile ones.
+
 ## Failure modes
 Direct sunlight swamps the return — outdoor performance collapses; dark and IR-absorbing materials (black foam, some fabrics) go invisible; specular and transparent surfaces mis-range or vanish; multipath in concave corners reports walls closer than reality; inter-camera interference in multi-robot cells; temperature drift shifts phase calibration.
 

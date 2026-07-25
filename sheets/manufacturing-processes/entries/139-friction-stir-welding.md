@@ -16,6 +16,10 @@ A rotating tool plastically stirs material along a seam below the melting point.
 
 Produces strong low-distortion welds, especially in aluminum. Requires rigid fixturing, substantial reaction force, and tool access.
 
+## When to use
+
+FSW is the process of choice for long, straight or gently curved seams in aluminum plate and extrusions — battery trays, rail and ship panels, rocket tank barrels — including the 2xxx and 7xxx alloys fusion welding cannot handle, with distortion low enough to hold machining-grade flatness afterward. It needs rigid backing, clamping that reacts large forces, and tool access along the whole seam, so complex three-dimensional joints and thin sheet at high rate go to laser or resistance welding instead, and steel remains marginal territory because of tool wear.
+
 ## Examples
 
 Aircraft panels, rocket tanks, railcars, ship panels, battery trays.

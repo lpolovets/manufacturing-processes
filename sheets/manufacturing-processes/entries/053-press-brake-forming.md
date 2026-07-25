@@ -16,6 +16,10 @@ Sheet or plate is bent using a programmable punch-and-die press.
 
 Flexible and economical for low-to-medium volume fabrication. Slower than dedicated stamping and subject to springback, operator variation, and tool-access constraints.
 
+## When to use
+
+Use a press brake for bent sheet-metal parts from one-off prototypes to a few tens of thousands per year — enclosures, brackets, chassis — since standard tooling means near-zero tooling cost and same-day turnaround from any fab shop. Design for tool access and bend order, and hold expectations to roughly plus or minus 0.25 mm and a degree on bends. Once annual volume climbs into the high tens of thousands and the design is stable, dedicated stamping dies win on unit cost.
+
 ## Examples
 
 Enclosures, brackets, cabinets, channels, structural panels.

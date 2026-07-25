@@ -16,6 +16,9 @@ The largest battery fleet ever built is parked in driveways: EV packs sum to ter
 ## Strengths and weaknesses
 Near-zero marginal hardware cost for the energy capacity, massive scale arriving automatically with EV adoption, and high round-trip efficiency. Weaknesses: bidirectional chargers, interconnection rules, and metering remain immature and jurisdiction-specific; consumers' cars must be plugged in, charged, and contractually available — behavioral reliability is unproven at scale; automaker warranty and battery-wear anxieties persist (though modern data shows modest impact); and aggregating millions of small assets is a software-and-regulatory grind.
 
+## When to use
+Start V2G with fleets whose parking is predictable and contractual — school buses, delivery depots, corporate lots — in jurisdictions where export interconnection and tariffs already pay for it; the vehicles' idle 95% becomes near-free evening capacity without betting on consumer behavior. For residential programs, deploy V1G smart charging first: it captures most of the value with none of the bidirectional hardware or warranty friction. Avoid underwriting V2G as firm capacity where interconnection rules are immature or driver availability is statistical — grid commitments that must hold on the tenth hot evening still belong to stationary batteries.
+
 ## Examples
 UK's Octopus Power Pack V2G tariff, Nuvve school-bus fleets (predictable parking makes buses the beachhead), GM Energy and Ford home-backup ecosystems, California's emergency load program precedents, Renault/Mobilize V2G in France.
 

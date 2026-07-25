@@ -16,6 +16,9 @@ NiCd's cadmium-free successor: the negative electrode is a hydrogen-absorbing me
 ## Strengths and weaknesses
 Robust against overcharge and over-discharge, benign failure modes, wide temperature window, safe aqueous electrolyte, proven 15-year hybrid fleet life. Weaknesses: half or less of Li-ion's energy density; high self-discharge in standard versions; rare-earth alloy costs (lanthanum, cerium) with Chinese supply concentration; voltage depression under abuse; heat generation on fast charge requires careful management.
 
+## When to use
+Pick NiMH where a safe aqueous chemistry with benign failure modes and proven 15-year life beats energy density: shallow-cycle hybrid duty in cost-focused trims, backup power that must never burn, and AA-format devices where low-self-discharge cells (Eneloop-class) replace disposables. Avoid it for anything weight-, volume-, or range-driven — Li-ion holds twice the energy at falling cost — and don't design new platforms around it; the supply base is in managed decline and follows the installed base, not new demand.
+
 ## Examples
 Toyota hybrids (tens of millions of vehicles; NiMH persists in cost-focused trims), Panasonic Eneloop AAs, medical devices, train and aircraft backup batteries (Saft).
 

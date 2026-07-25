@@ -16,6 +16,10 @@ Solder paste and components pass through a controlled thermal profile until join
 
 Joins many surface-mount components simultaneously. Warpage, oxidation, voids, thermal damage, and profile control are key risks.
 
+## When to use
+
+Reflow is the default soldering step for any surface-mount board — every joint forms in one oven pass, with thermal profiling as the main engineering effort and lead-free peaks around 245–250°C setting what components must survive. Use wave or selective soldering when through-hole connectors dominate the board, hand or hot-air work for prototypes and rework, and vapor phase or vacuum reflow when void-sensitive power or RF parts demand it.
+
 ## Examples
 
 Printed circuit boards, LED assemblies, electronic modules.

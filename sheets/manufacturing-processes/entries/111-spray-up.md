@@ -16,6 +16,10 @@ Chopped fiber and resin are sprayed into an open mold and compacted.
 
 Faster than hand layup for large simple parts. Fiber control and mechanical properties are inferior to continuous-fiber methods.
 
+## When to use
+
+Use spray-up for large, simple, gelcoat-finished glass parts at hundreds to a few thousand a year — tubs, shower stalls, hull liners — where it cuts labor well below hand layup on the same cheap open molds. Treat it as non-structural: chopped fiber at low volume fraction rules it out for load-bearing parts, carbon fiber, or anything with property specs, and open-mold styrene emissions increasingly rule it out under air-quality regulation; step up to infusion or closed molding in those cases.
+
 ## Examples
 
 Bathtubs, boat hulls, shower stalls, RV panels.

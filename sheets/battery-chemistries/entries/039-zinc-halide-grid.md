@@ -16,6 +16,9 @@ Rechargeable zinc batteries for stationary storage that plate and strip zinc met
 ## Strengths and weaknesses
 Non-flammable aqueous electrolyte (trivial permitting versus lithium), abundant zinc and bromine, full depth-of-discharge tolerance, claimed long cycle life without capacity fade mechanisms of intercalation cells. Weaknesses: low round-trip efficiency (~75% or below) versus lithium's ~90%+; heavy and bulky; zinc dendrites and bromine management still gate real-world life; small manufacturing base with unproven bankability at fleet scale.
 
+## When to use
+Consider static zinc-halide for 3–12 hour stationary storage on sites where fire codes or community opposition make lithium siting painful, where full depth-of-discharge tolerance simplifies operation, or where non-Chinese supply is a procurement requirement — and only after pricing in ~75% round-trip efficiency against lithium's 90%+. Avoid it for short-duration or efficiency-critical projects and anywhere bankability decides the financing; LFP containers remain the default, and the crossover duration moves outward every year LFP gets cheaper.
+
 ## Examples
 Eos Znyth/Z3 cube deployments in US utility projects (backed by a DOE loan guarantee); e-Zinc and Salient Energy pursuing adjacent zinc architectures.
 

@@ -16,6 +16,10 @@ Automated equipment positions electronic components onto solder-paste-coated cir
 
 Places thousands of small components per hour with high accuracy. Equipment, programming, feeder systems, and board design are capital- and process-intensive.
 
+## When to use
+
+Pick-and-place is the only realistic way to populate surface-mount boards beyond a handful of prototypes, from small-batch runs on desktop machines to production lines placing tens of thousands of components per hour; programming and feeder setup are the fixed cost that batches amortize. Hand placement remains sensible only for one-off prototypes and rework, and extreme-density bare-die interconnect moves to dedicated flip-chip and advanced-packaging equipment.
+
 ## Examples
 
 Computers, phones, industrial controllers, vehicle electronics.

@@ -16,6 +16,10 @@ Molten polymer is extruded through a flat die onto chilled rolls and wound as a 
 
 Produces high clarity, good thickness control, and high line speed. Usually has less biaxial strength than blown film and requires expensive flat dies and chill-roll systems.
 
+## When to use
+
+Pick cast film when clarity, gloss, and tight thickness control matter — stretch wrap, food and medical packaging — and volumes justify the flat-die and chill-roll investment, since these lines run faster than any other film process. Avoid it for products needing balanced biaxial strength or tear resistance, and for short runs or frequent width changes; blown film covers those better.
+
 ## Examples
 
 Food packaging, stretch wrap, hygiene films, medical packaging.

@@ -16,6 +16,10 @@ Fibers are bonded mechanically, thermally, or chemically without weaving or knit
 
 Provides very high throughput and tunable filtration, absorption, and barrier behavior. Strength and durability may be lower than woven textiles.
 
+## When to use
+
+Choose nonwovens whenever the product is roll goods sold by the square meter and the performance requirement is filtration, absorption, or barrier rather than strength — hygiene products, wipes, masks, insulation, geotextiles. Lines are capital-intensive and pay only at continuous commodity volumes, so avoid the process for durable or load-bearing textiles and for anything without large steady demand; woven or knit fabric covers those cases.
+
 ## Examples
 
 Masks, diapers, wipes, insulation, filters, geotextiles.

@@ -16,6 +16,9 @@ Pumped hydro turned sideways and underground: pump water at high pressure into a
 ## Strengths and weaknesses
 Reuses mature oil-and-gas drilling, siting is far more flexible than PSH, energy capacity scales with fracture volume at low marginal cost, and durations of 10+ hours come naturally. Weaknesses: round-trip efficiency runs below classic PSH (pressure losses in rock); each site's geology must hold pressure without leak-off — a per-site risk resembling geothermal's; induced-seismicity and groundwater questions follow anything that pressurizes the subsurface; and the concept has megawatts, not gigawatts, of field history.
 
+## When to use
+Deploy where flat land sits over competent, pressure-tight sedimentary rock with oilfield services nearby, for 10+ hour daily-to-multi-day shifting targeting cavern-class $20–50/kWh without mountains or salt — and budget for per-site geological derisking (test wells, pressure holds) before committing capacity. It suits utilities in Texas-like geographies wanting PSH economics on commodity drilling timelines. Avoid it where induced-seismicity or groundwater politics are hot, where the geology hasn't been proven to hold pressure, or for sub-8-hour duty — Li-ion owns that band, and where salt caverns exist, advanced CAES carries far more operating history.
+
 ## Examples
 Quidnet's Texas pilots and its 300 MWh CPS Energy (San Antonio) offtake — the sector's flagship deal; Hunt Energy backing.
 

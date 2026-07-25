@@ -16,6 +16,9 @@ A conversion chemistry: a lithium-metal anode against a sulfur-carbon cathode, w
 ## Strengths and weaknesses
 Exceptional gravimetric energy and dirt-cheap, abundant cathode material with a clean supply chain. Weaknesses: poor volumetric energy density (sulfur cathodes are fluffy); cycle life historically ~100–300; the shuttle effect and lithium-metal anode combine two hard problems in one cell; rate capability is modest. Recent carbon-scaffold and sparse-electrolyte designs are pushing life toward usable ranges.
 
+## When to use
+Pick Li-S where weight dominates and volume is free — drones, HAPS, defense aviation — with mission life inside 100–300 cycles, or where a nickel- and cobalt-free supply chain is itself a requirement. Avoid it wherever volumetric density matters (phones, most EV packaging) or life must run to thousands of cycles; high-nickel Li-ion or silicon-anode cells serve the volume-constrained high-energy case, and the LFP-undercutting cost story only pays off if cycle life closes.
+
 ## Examples
 Lyten (Stellantis investment, defense and drone cells), Theion, Zeta Energy (Stellantis development deal); historic Sion Power/Airbus Zephyr HAPS flights ran on Li-S.
 

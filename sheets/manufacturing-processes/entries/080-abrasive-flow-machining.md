@@ -16,6 +16,10 @@ Viscous abrasive media is forced through or across complex geometry.
 
 Reaches internal passages inaccessible to conventional tools. Material removal can be difficult to localize.
 
+## When to use
+
+Pick abrasive-flow machining to deburr, radius, and polish internal geometry no tool can reach — cross-drilled intersections, turbine cooling passages, extrusion dies, fuel injector interiors, and the rough as-built channels of metal additive parts. It is a batch process well suited to families of similar parts once fixtures and media are dialed in. Avoid it when removal must be confined to one spot or a tight tolerance held, since the media polishes everything it flows past, and for accessible external surfaces, where ordinary polishing or vibratory finishing costs far less.
+
 ## Examples
 
 Turbine passages, extrusion dies, fuel components, manifolds.

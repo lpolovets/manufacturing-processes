@@ -16,6 +16,10 @@ High-pressure water, often carrying abrasive particles, cuts material without me
 
 Cuts nearly any material and avoids heat-affected zones. Slower than laser on thin sheet, produces wet abrasive waste, and can create taper.
 
+## When to use
+
+Pick waterjet when heat is the enemy or the material is off-limits to thermal cutting — titanium and hardened plate up to 150-200 mm, composites and laminates that delaminate under a laser, glass, stone, and pre-hardened parts cut without tempering the edge. Expect roughly plus or minus 0.1-0.25 mm, a 1 mm kerf, and edge taper unless the machine compensates. Avoid it for thin mild steel and stainless at volume, where laser cutting is several times faster and cheaper, and for fine features and tight tolerances in conductive metals, where wire EDM takes over.
+
 ## Examples
 
 Titanium plate, composites, stone, armor, glass, gaskets.

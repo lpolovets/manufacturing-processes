@@ -16,6 +16,9 @@ Storage's accounting twin: shifting when energy is consumed is indistinguishable
 ## Strengths and weaknesses
 Lowest capital cost of any flexibility resource — the assets already exist; deploys in months; and thermal inertia in buildings and industrial processes is a vast, unmonetized battery. Weaknesses: capacity is statistical, not guaranteed — performance during the tenth consecutive hot evening is the perennial doubt; customer fatigue erodes participation; measurement and baselining invite gaming; and depth is bounded — demand can shift hours, rarely days.
 
+## When to use
+Procure demand flexibility before any physical storage: at $10–50/kW-year it is the cheapest first tranche of peak capacity on any system, deploys in months, and every storage business case should be built net of it. Use it for hour-scale peak shaving, emergency capacity, and shaping load around renewable output, with derated capacity credit that reflects statistical rather than guaranteed delivery. Do not lean on it for firm multi-hour commitments under sustained stress — the tenth consecutive hot evening is where enrolled megawatts evaporate — or for anything beyond hours of depth; multi-day gaps belong to batteries, iron-air, and other physical LDES.
+
 ## Examples
 Tesla and Sunrun VPPs in California (ERCOT and CAISO emergency events), Octopus's Kraken platform, EnelX/CPower commercial-industrial DR, Texas's residential VPP pilots, Google Nest Renew's rise and retirement.
 

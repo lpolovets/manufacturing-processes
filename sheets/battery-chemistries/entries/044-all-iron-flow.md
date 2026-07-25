@@ -16,6 +16,9 @@ A flow battery built entirely from iron salts in water: ferrous/ferric redox on 
 ## Strengths and weaknesses
 Dirt-cheap, non-toxic, non-flammable electrolyte; no critical minerals whatsoever; long cycle life with electrolyte rebalancing; easy permitting and shipping. Weaknesses: low efficiency (~70%) and low energy density even by flow standards; hydrogen side reactions require proton management subsystems; plating limits duration scaling; young field-data record versus vanadium's decades.
 
+## When to use
+Pick all-iron flow for long-duration stationary projects where electrolyte cost, toxicity, and permitting friction dominate the decision — sites that would fight lithium fire codes or vanadium price exposure — and where ~70% efficiency and generous footprint are priced in. Underwrite the vendor as hard as the chemistry: balance-of-plant, not electrolyte, drives system cost, and ESS's financial distress shows the survival risk. For bankable flow storage today use VRFB; for durations under ~6 hours, LFP.
+
 ## Examples
 ESS Inc. Energy Warehouse and Energy Center products (SB Energy and utility deployments, though the company's 2025 financial distress underscores sector risk); academic all-iron programs (Case Western lineage).
 

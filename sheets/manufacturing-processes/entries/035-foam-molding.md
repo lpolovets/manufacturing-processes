@@ -16,6 +16,10 @@ Polymer expands inside a mold through gas, steam, or chemical blowing.
 
 Produces lightweight, insulating, impact-absorbing structures. Surface finish, structural consistency, and recyclability may be limited.
 
+## When to use
+
+Choose foam molding when the requirement is lightness, thermal insulation, or controlled energy absorption — helmet liners, protective packaging, automotive absorbers — at medium volumes and up, with EPS or EPP steam-chest molding as the standard route. Structural-foam variants stiffen large parts while cutting weight and clamp tonnage. Avoid it where fine cosmetic surfaces, tight tolerances, or easy recyclability are required; solid injection molding is the alternative.
+
 ## Examples
 
 Helmets, protective packaging, insulation, automotive energy absorbers.

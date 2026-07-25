@@ -16,6 +16,9 @@ The "5-volt spinel" LiNi0.5Mn1.5O4: a cobalt-free spinel cathode operating near 
 ## Strengths and weaknesses
 Cobalt-free, low material cost, high power, high voltage that reduces cell count. Weaknesses: electrolyte decomposition and transition-metal dissolution at 4.7 V destroy cycle life with standard electrolytes; needs high-voltage electrolytes, coatings, or (eventually) solid electrolytes to be viable. Manufacturing readiness lags all the mainstream cathodes.
 
+## When to use
+Choose LNMO only for development programs that control their own electrolyte roadmap — 48-V automotive, power tools, or solid-state pairings that can exploit the 4.7 V plateau — and that can wait for high-voltage electrolytes to mature. It is not a chemistry to design a near-term product around: with standard carbonate electrolytes cycle life collapses, so any application needing proven life today should use NMC for energy or LFP for cost.
+
 ## Examples
 Development programs and pilot cells (Haldor Topsoe/Topsoe Battery Materials, SVOLT, BASF programs); targeted at power tools, 48-V automotive systems, and eventual EV use.
 

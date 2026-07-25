@@ -16,6 +16,10 @@ Multiple fibers or yarns are intertwined diagonally around a core or path.
 
 Produces flexible, damage-tolerant tubular or structural reinforcement. Variable geometry and fiber-path control can be difficult.
 
+## When to use
+
+Braid for tubular, torsion-tolerant, damage-tolerant structures produced by the continuous meter — ropes, hose and cable reinforcement, catheter shafts and stents, and ±45-dominated composite tubes braided over cores or mandrels. Avoid it for flat broad goods (weave instead), for hoop-pressure-dominated vessels where filament winding places fiber more efficiently, and for parts needing precise fiber angles that vary sharply along the length, which braiders control only within limits.
+
 ## Examples
 
 Ropes, hose reinforcement, vascular stents, composite tubes.

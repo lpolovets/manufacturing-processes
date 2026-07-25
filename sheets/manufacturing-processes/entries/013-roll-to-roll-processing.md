@@ -16,6 +16,10 @@ Flexible material moves continuously between rolls while being printed, coated, 
 
 Provides enormous throughput and low unit cost for flexible products. Tension control, registration, defect propagation, coating uniformity, and line yield are difficult.
 
+## When to use
+
+Choose roll-to-roll when the product is thin, flexible, and needed in enormous areas — coated films, battery electrodes, tapes, flexible electronics — because nothing matches its area throughput and unit cost once a line is dialed in. It demands volume and process maturity: defects propagate down the web, so avoid it for low volumes, rigid substrates, or processes still in development, where sheet-fed or batch coating keeps scrap and capital contained.
+
 ## Examples
 
 Battery electrodes, flexible electronics, packaging films, solar films, adhesive tape.

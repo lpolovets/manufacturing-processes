@@ -16,6 +16,9 @@ Cameras that abandon frames: each pixel independently fires an event the microse
 ## Strengths and weaknesses
 Microsecond temporal resolution and latency, extreme dynamic range, no blur at any speed, low power and bandwidth in static scenes. Weaknesses: no absolute intensity — a stationary camera watching a stationary scene sees nothing; algorithms and tooling remain research-grade; resolution and cost trail conventional sensors; texture and semantics are weak without a companion frame camera; and the killer app has stayed perpetually adjacent.
 
+## When to use
+Pick an event camera only when a conventional sensor's physics is the binding constraint: microsecond latency for aggressive flight or high-speed tracking, 120 dB dynamic range for welding-arc or tunnel-mouth scenes, or milliwatt always-on sensing in wearables and IoT — and only if the team can carry research-grade tooling and train on thin datasets. Avoid it for mainstream perception; a global-shutter frame camera at a few hundred fps solves most "too fast" problems with mature tooling, and hybrid frame-plus-event chips are the sane middle path when you genuinely need both.
+
 ## Failure modes
 Static scenes are invisible until something moves (hybrid frame+event chips address this); flickering lights (LEDs, fluorescents) flood the stream with useless events; event noise in low light; per-pixel threshold mismatch needs calibration; and downstream algorithms trained on limited event datasets generalize unpredictably — the ecosystem itself is the failure mode.
 

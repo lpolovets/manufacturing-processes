@@ -16,6 +16,10 @@ Flat glass is heated until it softens and conforms to a mold or bends under grav
 
 Produces curved glass without cutting and reassembly. Cycle times are long, optical distortion can occur, and shape complexity is limited.
 
+## When to use
+
+Use slumping and bending to curve flat float glass — architectural panels, curved glazing, lighting shades — at one-off to medium volumes, since molds are cheap and the feedstock is commodity sheet. Accept long kiln cycles, gentle curvature only, and some optical distortion on demanding contours. Deep or complex three-dimensional shapes call for pressing or blowing instead.
+
 ## Examples
 
 Architectural panels, automotive glazing, lighting components.

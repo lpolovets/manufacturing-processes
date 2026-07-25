@@ -15,6 +15,9 @@ The original dry cell (Leclanché, 1866; dry form 1886): a zinc can serving as b
 ## Strengths and weaknesses
 Rock-bottom cost, simple manufacturing buildable almost anywhere, adequate for clocks and remotes. Weaknesses: low capacity that collapses under high drain; poor cold performance; the zinc can thins as it discharges, making end-of-life leakage notorious; short shelf life versus alkaline; "heavy duty" zinc-chloride versions only partially close the gap.
 
+## When to use
+Specify zinc-carbon only when the absolute lowest unit price is the requirement and the load is a trickle — clocks, remotes, bundled "batteries included" packaging, price-sensitive developing markets. Avoid it for anything with meaningful drain, cold exposure, long deployment, or a device worth protecting from leakage; alkaline erases every one of those weaknesses for pennies more, which is why it should be the default everywhere the price gap doesn't decide the sale.
+
 ## Examples
 Bargain AA/AAA/D cells and lantern batteries (Panasonic, Toshiba, and countless regional brands); devices bundled with "batteries included."
 
