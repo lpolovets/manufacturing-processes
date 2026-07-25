@@ -2,6 +2,7 @@
 const state = { q:"", parts:new Set(), mats:new Set(), vols:new Set(), tools:new Set() };
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 
 // Precompute search haystack
 P.forEach(x => {
@@ -54,7 +55,7 @@ function cardHTML(x){
   }
   if(x.ex) body += '<span class="lab">Examples</span><p class="ex" style="margin-top:2px">'+esc(x.ex)+'</p>';
   if(x.ec) body += '<span class="lab">Economic profile</span><p class="ex" style="margin-top:2px">'+esc(x.ec)+'</p>';
-  return '<div class="card" style="--pc:'+part.color+'" data-n="'+x.n+'">'+
+  return '<div class="card" id="'+slug(x.name)+'" style="--pc:'+part.color+'" data-n="'+x.n+'">'+
     '<button class="chead" aria-expanded="false">'+
       '<span class="cnum">'+String(x.n).padStart(3,"0")+'</span>'+
       '<span class="cname">'+esc(x.name)+'</span>'+
@@ -153,6 +154,10 @@ $("list").addEventListener("click", e=>{
   const card = h.parentElement;
   const open = card.classList.toggle("open");
   h.setAttribute("aria-expanded", open ? "true" : "false");
+  try{
+    if(open) history.replaceState(null,"","#"+card.id);
+    else if(location.hash==="#"+card.id) history.replaceState(null,"",location.pathname+location.search);
+  }catch(err){}
 });
 $("expandAll").addEventListener("click", ()=>{
   document.querySelectorAll("#list .card").forEach(c=>{c.classList.add("open");c.querySelector(".chead").setAttribute("aria-expanded","true");});
@@ -191,3 +196,20 @@ tabs.forEach(([tid,vid])=>{
 });
 
 render();
+
+// ----- deep links: open the process named in the URL hash -----
+try{
+  if(location.pathname.endsWith("/index.html"))
+    history.replaceState(null,"",location.pathname.slice(0,-10)+location.search+location.hash);
+}catch(e){}
+function openFromHash(){
+  const id = decodeURIComponent(location.hash.slice(1));
+  if(!id) return;
+  const card = document.getElementById(id);
+  if(!card || !card.classList.contains("card")) return;
+  card.classList.add("open");
+  card.querySelector(".chead").setAttribute("aria-expanded","true");
+  card.scrollIntoView({block:"start"});
+}
+openFromHash();
+window.addEventListener("hashchange", openFromHash);
