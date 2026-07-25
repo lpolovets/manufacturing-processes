@@ -1,0 +1,23 @@
+---
+number: 12
+name: Pumped Thermal (Carnot Battery)
+part: 3
+group: Thermal
+roles: [shift, firm]
+duration: [hrs, days]
+rte: med
+cost: low
+maturity: rd
+---
+
+## Description
+A heat pump run forward, then backward: charge by pumping heat from a cold store into a hot store (salt, rock, or gravel), discharge by running the temperature difference through a heat engine. Because a heat pump moves 2–3 units of heat per unit of electricity, the punishing heat-engine loss on discharge is partially bought back on charge — theoretical round trips of 60–70% from equipment that is all standard turbomachinery and tanks.
+
+## Strengths and weaknesses
+Sites anywhere, cheap thermal media, decades-long life, and a fully mechanical supply chain. Weaknesses: real round-trip efficiency depends on aggressive turbomachinery performance at temperatures where compressors and expanders are custom; the cycle's complexity (four heat exchangers, two stores, reversible machines) multiplies cost and failure modes; and no plant beyond pilot scale has demonstrated the claimed numbers — the graveyard (including 1414 Degrees' and Stiesdal's struggles) is instructive.
+
+## Examples
+Malta Inc (X/Alphabet spinout, salt-based), Echogen (supercritical CO2 cycle), Stiesdal GridScale (rock), MAN ETES; academic origins in Isentropic Ltd's gravel design (an early cautionary failure).
+
+## Economic profile
+On paper the best of both worlds — cavern-free siting with CAES-class $/kWh. In practice the efficiency-versus-capex knife edge is brutal: every compromise in turbomachinery drops RTE toward values where cheap thermal media can't save the arbitrage math. A category where the diligence question is always the measured, not modeled, round trip.

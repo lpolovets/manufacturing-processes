@@ -1,0 +1,97 @@
+{
+  "slug": "energy-storage",
+  "docTitle": "Energy Storage Reference",
+  "shortTitle": "Energy Storage",
+  "blurb": "Beyond batteries — pumped hydro, compressed air, thermal, hydrogen, gravity, and long-duration storage, mapped on the duration-versus-cost axis.",
+  "title": "Energy Storage: A Practical Reference",
+  "lede": "Storage is bought by the hour: the technologies that win at minutes lose badly at weeks, and the killer axis is discharge duration versus cost per stored kWh. This guide catalogs {{N_ENTRIES}} technologies across seven classes, from pumped hydro to green hydrogen and virtual storage.",
+  "unit": ["technology", "technologies"],
+  "groupLabel": "Class",
+  "explorerTab": "Technology explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search technologies, durations, trade-offs…",
+  "stats": [
+    { "count": "entries", "label": "technologies" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Gravity & Water", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Compressed Air & Kinetic", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Thermal", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Hydrogen & Chemical Carriers", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Electrochemical (Grid View)", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Electrical", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Virtual & Distributed", "color": "var(--p7)" }
+  ],
+  "facets": [
+    {
+      "id": "role",
+      "key": "roles",
+      "label": "Role",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Grid or energy-system services the technology mainly sells. Most projects stack several.",
+      "order": ["anc", "shift", "firm", "seas", "heat", "fuel"],
+      "options": {
+        "anc": "Frequency & ancillary",
+        "shift": "Intraday shifting",
+        "firm": "Multi-day firming",
+        "seas": "Seasonal",
+        "heat": "Industrial heat",
+        "fuel": "Fuel & feedstock"
+      }
+    },
+    {
+      "id": "dur",
+      "key": "duration",
+      "label": "Duration",
+      "type": "range",
+      "color": "--fb",
+      "required": true,
+      "tip": "Economic discharge duration at rated power: Minutes <1 h · Hours 1–10 h · Days 10–100 h · Weeks+ 100 h and beyond. Most technologies span a band; tanks and caverns stretch it.",
+      "order": ["min", "hrs", "days", "wks"],
+      "options": { "min": "Minutes", "hrs": "Hours", "days": "Days", "wks": "Weeks+" },
+      "chipLabels": { "min": "Minutes (<1 h)", "hrs": "Hours (1–10 h)", "days": "Days (10–100 h)", "wks": "Weeks+ (100 h+)" }
+    },
+    {
+      "id": "rte",
+      "key": "rte",
+      "label": "Efficiency",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "RTE",
+      "tip": "Directional round-trip efficiency, electricity in to electricity out. For heat-output technologies the tag reflects power-to-heat delivery instead — see each entry. Untagged where round-trip framing doesn't apply.",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "<50%", "med": "50–70%", "high": "70–85%", "vhigh": "85%+" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "$/kWh",
+      "tip": "Directional installed cost per kWh of energy capacity (the number that matters for long duration — power-conversion $/kW is separate and covered in each entry). Thermal entries that sell heat are costed per thermal kWh.",
+      "order": ["vlow", "low", "med", "high"],
+      "options": { "vlow": "<$20", "low": "$20–100", "med": "$100–300", "high": "$300+" }
+    },
+    {
+      "id": "mtr",
+      "key": "maturity",
+      "label": "Maturity",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Deployed at scale = GW-class installed base · Commercial = bankable projects at smaller scale · Pilot = demonstration or first-of-a-kind commercial · R&D = lab and startup stage.",
+      "order": ["mature", "comm", "pilot", "rd"],
+      "options": { "mature": "Deployed at scale", "comm": "Commercial", "pilot": "Pilot / early", "rd": "R&D" }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}

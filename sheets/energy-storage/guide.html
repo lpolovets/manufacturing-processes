@@ -1,0 +1,80 @@
+    <h2>How to choose a storage technology</h2>
+    <p class="muted">Storage is not one market — it is several markets that happen to share a word. A frequency-regulation asset cycles thousands of times a year for seconds at a time; a seasonal store may cycle once. The single most important axis is <b>discharge duration versus cost per stored kWh</b>: as duration grows, the cost of the energy reservoir dominates the cost of the power equipment, and the winning technologies change completely.</p>
+
+    <h3>The duration–cost logic</h3>
+    <p>Every storage system has two price tags: <b>$/kW</b> for the power-conversion equipment (turbines, inverters, stacks) and <b>$/kWh</b> for the energy reservoir (reservoir, cavern, tank, electrode). Lithium-ion couples the two — every added hour means buying more cells — so its cost per usable kWh is nearly flat with duration. Technologies that decouple them (pumped hydro, flow batteries, hydrogen caverns, thermal tanks) pay a high fixed $/kW but add hours almost for free. The crossover typically sits somewhere between 4 and 12 hours and moves outward every year lithium gets cheaper; below it, nothing beats Li-ion economics today.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Round-trip efficiency</td><td>Every point of loss is energy bought and not resold; at 45% RTE the spread between charge and discharge prices must more than double the losses.</td></tr>
+        <tr><td>Response time</td><td>Milliseconds (flywheels, batteries) versus minutes (CAES, thermal plants) decides which markets an asset can even bid into.</td></tr>
+        <tr><td>Cycle & calendar life</td><td>Mechanical and thermal systems ride out decades and tens of thousands of cycles; electrochemical systems degrade with both use and time.</td></tr>
+        <tr><td>Siting & geology</td><td>Pumped hydro needs elevation and water; CAES and hydrogen need salt caverns or suitable rock; batteries and thermal bricks go anywhere — geography is a real moat and a real constraint.</td></tr>
+        <tr><td>Self-discharge / standby loss</td><td>Flywheels and molten salt bleed energy hourly; caverns and bricks hold for months. Standby loss caps practical duration.</td></tr>
+        <tr><td>Energy vs power decoupling</td><td>Whether adding an hour means adding a tank (cheap) or an entire additional system (expensive) defines the technology's natural duration.</td></tr>
+        <tr><td>Footprint & density</td><td>Building-scale flow tanks or 100-hour iron-air fields need land near interconnection — often the scarcer resource.</td></tr>
+        <tr><td>Heat as a product</td><td>Half of final energy demand is heat. Technologies that deliver heat directly (bricks, molten salt) skip the punishing heat-to-power conversion loss entirely.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>LCOS ($/MWh delivered)</td><td>Levelized cost of storage — capex, efficiency losses, cycling, and lifetime rolled into cost per discharged MWh at a stated duty cycle. The only fair cross-technology comparison, and exquisitely sensitive to assumed cycles per year.</td></tr>
+        <tr><td>$/kW vs $/kWh split</td><td>Ask for both numbers separately; a single blended figure hides which duration the technology actually wants to serve.</td></tr>
+        <tr><td>Revenue stacking</td><td>Real projects stack arbitrage, capacity payments, ancillary services, and deferral; a technology locked out of fast markets forfeits the richest per-MWh revenues.</td></tr>
+        <tr><td>Utilization</td><td>Seasonal assets cycle once or twice a year — capital sits idle, so only ultra-cheap reservoirs (caverns, not cells) can carry that duty.</td></tr>
+        <tr><td>Li-ion's learning curve</td><td>The incumbent's cost falls ~15–20% per volume doubling on someone else's (EV) volume. Every LDES pitch must beat where lithium will be at the challenger's own maturity date.</td></tr>
+        <tr><td>Bankability & field data</td><td>Project finance wants 10+ years of fielded performance; pumped hydro and Li-ion have it, most LDES does not — hence government offtakes and insurance wraps as bridges.</td></tr>
+        <tr><td>Market structure</td><td>Multi-day and seasonal value barely clears in today's energy-only markets; these technologies are effectively long options on future market reform and renewables saturation.</td></tr>
+        <tr><td>Balance of plant</td><td>For flow, CAES, and thermal systems the tanks and turbomachinery — not the storage medium — dominate installed cost; "cheap molecule" pitches must survive a BOP audit.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Duration bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Minutes (&lt;1 h)</div><div class="bv">Flywheels, supercaps, SMES — power quality and frequency, paid in $/kW</div></div>
+      <div class="band"><div class="bt">Hours (1–10 h)</div><div class="bv">Li-ion's kingdom; pumped hydro, CAES, molten salt compete at the top end</div></div>
+      <div class="band"><div class="bt">Days (10–100 h)</div><div class="bv">Iron-air, flow, adiabatic CAES, thermal bricks, pumped thermal — the LDES battleground</div></div>
+      <div class="band"><div class="bt">Weeks+ (100 h+)</div><div class="bv">Hydrogen and ammonia in caverns — only near-free reservoirs survive seasonal utilization</div></div>
+    </div>
+
+    <h3>Cost-per-kWh bands (energy capacity)</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">&lt;$20</div><div class="bv">Caverns, reservoirs, bricks, iron — media measured in $/tonne</div></div>
+      <div class="band"><div class="bt">$20–100</div><div class="bv">Pumped hydro, CAES, flow tanks at scale, iron-air targets</div></div>
+      <div class="band"><div class="bt">$100–300</div><div class="bv">Li-ion systems, most FOAK LDES as actually built today</div></div>
+      <div class="band"><div class="bt">$300+</div><div class="bv">Flywheels, supercaps — power devices mispriced as energy devices</div></div>
+    </div>
+    <p class="muted">Directional installed costs per kWh of capacity, not vendor targets. First-of-a-kind projects routinely land 2–5× above the mature-technology figures their decks quote.</p>
+
+    <h2>Why lithium-ion owns the middle</h2>
+    <p>Li-ion arrived at grid scale on the back of EV factory volume no storage-only technology can match, and it keeps swallowing the market from the short-duration end outward: first frequency response, then 1-hour, then 4-hour, now 8-hour projects. Challengers survive only where lithium is structurally weak — energy capacity cost at long duration, decades-long asset life, fire-averse siting, or direct heat delivery. A challenger that competes with lithium at 4 hours is competing with the learning curve itself; the serious LDES theses all live at 10+ hours or in heat.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Never compare storage technologies on a single number. The correct question is: at this duty cycle — this duration, this many cycles per year, this market stack — what is the delivered cost per MWh, and how confident is the number at fleet scale? A technology can be simultaneously the cheapest at 100 hours and hopeless at 2; most "storage bake-offs" fail by asking one technology to fight on another's duration.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What duration and cycle count does the application actually need — and does the technology's natural duration match it?</li>
+      <li>Does round-trip efficiency survive the real price spread, including standby losses at the intended utilization?</li>
+      <li>Are the siting requirements (geology, water, land, interconnection) available where the demand is?</li>
+      <li>What is the degradation and maintenance story over the full project life — cells fade, turbomachinery wears, salts freeze?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What are $/kW and $/kWh separately, today and at claimed scale — and what part of the roadmap is engineering versus hope?</li>
+      <li>Does the LCOS beat where Li-ion will be at the project's COD date, at the duration in question?</li>
+      <li>Is there a revenue mechanism that actually pays for the claimed duration, or does the model assume future market reform?</li>
+      <li>What fraction of system cost is the storage medium versus balance of plant — and which of those does the company differentiate?</li>
+      <li>Who finances the first 10 projects before bankable field data exists?</li>
+      <li>Is the moat technology, geology, or merely being early?</li>
+    </ul>
+
+    <p class="muted">Durable storage advantages usually come from geology and siting rights, manufacturing scale, decades-long field data, or delivering a service lithium physically cannot — rarely from a better molecule alone.</p>

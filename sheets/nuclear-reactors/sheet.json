@@ -1,0 +1,93 @@
+{
+  "slug": "nuclear-reactors",
+  "docTitle": "Nuclear Reactors Reference",
+  "shortTitle": "Nuclear Reactors",
+  "blurb": "Fission and fusion designs — light-water workhorses, SMRs, molten salt, fast reactors, microreactors, and every major fusion approach — with capex, fuel-cycle, regulatory, and timeline context.",
+  "title": "Nuclear Reactor Types: A Practical Reference",
+  "lede": "Every reactor is a bet on a coolant, a fuel cycle, a regulator, and a decade. This guide catalogs {{N_ENTRIES}} designs across seven classes — from the light-water fleet that makes 9% of world electricity to the fusion approaches racing toward first power — with the capex, fuel, and timeline context that decides which bets pay.",
+  "unit": ["design", "designs"],
+  "groupLabel": "Class",
+  "explorerTab": "Design explorer",
+  "guideTab": "Selection guide",
+  "searchPlaceholder": "Search designs, coolants, fuel cycles…",
+  "stats": [
+    { "count": "entries", "label": "designs" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Light-Water Reactors", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Heavy-Water & Graphite", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "High-Temperature Gas", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Fast-Spectrum", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Molten Salt & Advanced Fuels", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Micro & Special-Purpose", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Fusion", "color": "var(--p7)" }
+  ],
+  "facets": [
+    {
+      "id": "fuel",
+      "key": "fuel",
+      "label": "Fuel",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Fuel cycle(s) the design runs on. LEU <5% enrichment · HALEU 5–20% (the supply-chain chokepoint for most advanced designs) · MOX/Pu = plutonium-bearing · D-T = deuterium-tritium fusion · Advanced fusion = D-D, D-He3, p-B11.",
+      "order": ["natu", "leu", "haleu", "heu", "mox", "th", "dt", "adv"],
+      "options": {
+        "natu": "Natural U",
+        "leu": "LEU",
+        "haleu": "HALEU",
+        "heu": "HEU",
+        "mox": "MOX / Pu",
+        "th": "Thorium",
+        "dt": "D-T fusion",
+        "adv": "Advanced fusion"
+      }
+    },
+    {
+      "id": "capex",
+      "key": "capex",
+      "label": "Capex",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "$/kW",
+      "tip": "Directional overnight capital cost per kW for recent or credibly projected builds. Western FOAK projects have landed 2–3× above these figures; Chinese, Korean, and Russian builds anchor the low end. Untagged where no meaningful estimate exists.",
+      "order": ["low", "med", "high", "vhigh"],
+      "options": { "low": "<$3k", "med": "$3–7k", "high": "$7–12k", "vhigh": "$12k+" }
+    },
+    {
+      "id": "time",
+      "key": "timeline",
+      "label": "Timeline",
+      "type": "single",
+      "color": "--fb",
+      "required": true,
+      "tip": "When meaningful new deployment is credible: Deployed = operating fleet today · ~2030 = first units this decade · 2030s / 2040s+ = realistic first commercial power · Legacy = no new builds expected.",
+      "order": ["now", "near", "mid", "far", "legacy"],
+      "options": { "now": "Deployed", "near": "~2030", "mid": "2030s", "far": "2040s+", "legacy": "Legacy" }
+    },
+    {
+      "id": "reg",
+      "key": "regulatory",
+      "label": "Regulatory",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Licensing posture of the leading examples: Licensed & proven = operating under mature frameworks · Under construction = approved and building · In licensing = applications filed or construction permits in hand · Pre-licensing = design stage, no formal application · Retired = historic.",
+      "order": ["proven", "building", "licensing", "pre", "retired"],
+      "options": {
+        "proven": "Licensed & proven",
+        "building": "Under construction",
+        "licensing": "In licensing",
+        "pre": "Pre-licensing",
+        "retired": "Retired"
+      }
+    }
+  ],
+  "extraSections": [
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"]
+  ]
+}
