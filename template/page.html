@@ -59,12 +59,12 @@ nav.tabs button:hover{color:var(--ink)}
 
 /* ---------- part tiles ---------- */
 .parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(136px,1fr));gap:8px;margin:22px 0 6px}
-.ptile{text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px 12px 9px;border-top:3px solid var(--pc,var(--line));transition:background .12s}
+.ptile{display:flex;flex-direction:column;align-items:flex-start;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px 12px 9px;border-top:3px solid var(--pc,var(--line));transition:background .12s}
 .ptile:hover{background:var(--surface2)}
 .ptile[aria-pressed="true"]{background:var(--surface2);border-color:var(--pc);box-shadow:inset 0 0 0 1px var(--pc)}
 .ptile .pn{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--pc);text-transform:uppercase}
-.ptile .pt{font-size:12.5px;font-weight:600;line-height:1.25;margin:3px 0 4px;min-height:2.4em}
-.ptile .pc{font-family:var(--mono);font-size:11px;color:var(--ink2);font-variant-numeric:tabular-nums}
+.ptile .pt{font-size:12.5px;font-weight:600;line-height:1.25;margin:3px 0 4px}
+.ptile .pc{font-family:var(--mono);font-size:11px;color:var(--ink2);font-variant-numeric:tabular-nums;margin-top:auto;padding-top:4px}
 
 /* ---------- filter panel ---------- */
 .filters{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin:14px 0 8px;box-shadow:var(--shadow)}
@@ -77,8 +77,9 @@ nav.tabs button:hover{color:var(--ink)}
 .clearbtn{font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--accent);padding:6px 10px;border:1px solid var(--line2);border-radius:6px}
 .clearbtn:hover{border-color:var(--accent)}
 .facets{display:flex;flex-direction:column;gap:8px;margin-top:12px}
-.facet{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
-.facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:74px;flex:none}
+.facet{display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap}
+#facet-mat,#facet-vol,#facet-tool{display:flex;flex-wrap:wrap;gap:7px;flex:1;min-width:0}
+.facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:74px;flex:none;padding-top:5px}
 .fchip{font-family:var(--mono);font-size:11.5px;padding:3px 9px 4px;border-radius:99px;background:var(--chip-bg);border:1px solid transparent;color:var(--ink2)}
 .fchip:hover{color:var(--ink);border-color:var(--line2)}
 .fchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
