@@ -38,6 +38,20 @@ function cardHTML(x){
     body += '<span class="lab">Variants</span><div class="variants">'+
       x.v.map(v=>'<div class="variant"><b>'+esc(v.t)+'</b><p>'+esc(v.d)+'</p></div>').join("")+'</div>';
   }
+  if(x.vid){
+    body += '<span class="lab">Videos</span>';
+    if(EMBED_OK){
+      body += '<div class="vids">'+x.vid.map(v=>
+        '<div class="vid"><button class="vplay" data-vid="'+v.id+'" aria-label="Play video'+(v.t?': '+esc(v.t):'')+'">'+
+        '<img src="https://i.ytimg.com/vi/'+v.id+'/hqdefault.jpg" alt="" loading="lazy">'+
+        '<span class="vbtn" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18"><path d="M5.5 3.5v11l9-5.5z" fill="currentColor"/></svg></span>'+
+        '</button>'+(v.t?'<span class="vt">'+esc(v.t)+'</span>':'')+'</div>').join('')+'</div>';
+    } else {
+      body += '<p class="ex" style="margin-top:2px">'+x.vid.map(v=>
+        '<a href="https://www.youtube.com/watch?v='+v.id+'" target="_blank" rel="noopener">&#9656; '+
+        (v.t?esc(v.t):'Watch on YouTube')+'</a>').join(' &nbsp;·&nbsp; ')+'</p>';
+    }
+  }
   if(x.ex) body += '<span class="lab">Examples</span><p class="ex" style="margin-top:2px">'+esc(x.ex)+'</p>';
   if(x.ec) body += '<span class="lab">Economic profile</span><p class="ex" style="margin-top:2px">'+esc(x.ec)+'</p>';
   return '<div class="card" style="--pc:'+part.color+'" data-n="'+x.n+'">'+
@@ -125,6 +139,16 @@ $("clearAll").addEventListener("click", ()=>{
 
 // ----- expand / collapse -----
 $("list").addEventListener("click", e=>{
+  const play = e.target.closest(".vplay");
+  if(play){
+    const id = play.dataset.vid;
+    const frame = document.createElement("iframe");
+    frame.src = "https://www.youtube-nocookie.com/embed/"+id+"?autoplay=1";
+    frame.allow = "autoplay; encrypted-media; picture-in-picture";
+    frame.allowFullscreen = true;
+    play.replaceWith(frame);
+    return;
+  }
   const h = e.target.closest(".chead"); if(!h) return;
   const card = h.parentElement;
   const open = card.classList.toggle("open");

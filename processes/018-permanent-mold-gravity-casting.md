@@ -19,3 +19,8 @@ Provides better consistency, finish, and mechanical properties than sand casting
 ## Examples
 
 Aluminum wheels, pistons, cookware, brackets, housings.
+
+## Videos
+
+- https://www.youtube.com/watch?v=sf-MWmL9Z38 — Permanent mold aluminum casting in 2 minutes (Batesville Products, 2 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=Q0xJMKH2Vxc — Permanent mold gravity casting animation (ForceBeyond, 1 minute, 10k+ views)

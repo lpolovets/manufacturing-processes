@@ -40,6 +40,10 @@ What it is good and bad at.
 
 Variant description.
 
+## Videos             <- optional, up to 3
+
+- https://www.youtube.com/watch?v=VIDEO_ID — Short label
+
 ## Examples           <- optional
 
 Typical parts.

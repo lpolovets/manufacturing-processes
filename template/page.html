@@ -112,6 +112,16 @@ nav.tabs button:hover{color:var(--ink)}
 .cbody p{max-width:72ch;margin:12px 0 0}
 .cbody .lab{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);display:block;margin:14px 0 2px}
 .cbody .ex{color:var(--ink2)}
+.vids{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px}
+.vid{width:480px;max-width:100%}
+.vplay{position:relative;display:block;width:100%;aspect-ratio:16/9;border:1px solid var(--line);border-radius:6px;overflow:hidden;padding:0;cursor:pointer;background:#000}
+.vplay img{width:100%;height:100%;object-fit:cover;display:block;opacity:.92;transition:opacity .15s}
+.vplay:hover img{opacity:1}
+.vbtn{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+.vbtn svg{background:rgba(20,24,28,.72);color:#fff;border-radius:50%;padding:10px;width:20px;height:20px;transition:transform .15s}
+.vplay:hover .vbtn svg{transform:scale(1.08)}
+.vid iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:6px;display:block}
+.vt{display:block;font-size:12px;color:var(--ink2);margin-top:5px;line-height:1.35}
 .variants{margin-top:6px;display:grid;gap:8px}
 .variant{background:var(--bg);border:1px solid var(--line);border-radius:5px;padding:9px 12px}
 .variant b{font-size:13px}

@@ -74,6 +74,19 @@ function parseProcess(file, src) {
     sw: sections['strengths and weaknesses'],
     mat: mats, vol: vols, tool: tool,
   };
+  if (sections['videos']) {
+    entry.vid = sections['videos'].split('\n').map(s => s.trim()).filter(s => s.startsWith('-')).map(line => {
+      const lm = line.match(/^-\s*(\S+)(?:\s+[—–-]\s+(.*))?$/);
+      if (!lm) fail('bad Videos line: ' + line);
+      const idm = lm[1].match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{11})/);
+      if (!idm) fail('Videos line is not a YouTube watch URL: ' + line);
+      const v = { id: idm[1] };
+      if (lm[2]) v.t = lm[2].trim();
+      return v;
+    });
+    if (entry.vid.length > 3) fail('at most 3 videos per process');
+    if (!entry.vid.length) delete entry.vid;
+  }
   if (sections['examples']) entry.ex = sections['examples'];
   if (sections['economic profile']) entry.ec = sections['economic profile'];
   if (sections['variants']) {
@@ -109,6 +122,7 @@ let page = fs.readFileSync(path.join(ROOT, 'template', 'page.html'), 'utf8')
   .replace(/{{REPO_URL}}/g, repoUrl);
 
 const dataJs = [
+  'const EMBED_OK = ' + String(!ARTIFACT) + ';',
   'const PARTS = ' + JSON.stringify(taxonomy.parts) + ';',
   'const MATS = ' + JSON.stringify(taxonomy.materials) + ';',
   'const VOLS = ' + JSON.stringify(taxonomy.volumes) + ';',

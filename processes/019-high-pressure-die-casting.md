@@ -19,3 +19,9 @@ Produces thin walls, fine detail, excellent repeatability, and short cycles. Too
 ## Examples
 
 Transmission housings, electronics enclosures, appliance components, structural aluminum castings.
+
+## Videos
+
+- https://www.youtube.com/watch?v=iSyBsdJkQu8 — The high-pressure die casting process (RCM Industries, 2 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=xbynUVj3hAE — How die casting aluminum works: How It's Made (Factories, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=EAbH168XGkM — High-pressure die casting production line (GF Casting Solutions, 4 minutes, 10k+ views)
