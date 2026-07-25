@@ -152,6 +152,8 @@ if (ARTIFACT) {
   // lives in a subdirectory so its URL is /reference/manufacturing-processes/.
   const SUBDIR = 'manufacturing-processes';
   html = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' +
+    '<script>(function(){var t;try{t=localStorage.getItem("theme")}catch(e){}' +
+    'document.documentElement.setAttribute("data-theme",t||"dark");})();</' + 'script>\n' +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>' + title + '</title>\n</head>\n<body>\n' + page +
     '<script>\n' + dataJs + '\n' + appJs + '</script>\n</body>\n</html>\n';

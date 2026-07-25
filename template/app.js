@@ -161,6 +161,23 @@ $("collapseAll").addEventListener("click", ()=>{
   document.querySelectorAll("#list .card").forEach(c=>{c.classList.remove("open");c.querySelector(".chead").setAttribute("aria-expanded","false");});
 });
 
+// ----- theme toggle (website flavor only; the artifact viewer has its own) -----
+if(EMBED_OK){
+  const nav = document.querySelector("nav.tabs");
+  const tb = document.createElement("button");
+  tb.className = "themebtn";
+  tb.setAttribute("aria-label", "Toggle light/dark theme");
+  tb.innerHTML = '<svg class="i-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M19.1 4.9l-1.8 1.8M6.7 17.3l-1.8 1.8"/></svg>'+
+    '<svg class="i-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 1 1 9.5 3.5a7 7 0 0 0 11 11z"/></svg>'+
+    '<span class="tl-light">Light</span><span class="tl-dark">Dark</span>';
+  tb.addEventListener("click", ()=>{
+    const next = document.documentElement.getAttribute("data-theme")==="dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    try{ localStorage.setItem("theme", next); }catch(e){}
+  });
+  nav.appendChild(tb);
+}
+
 // ----- tabs -----
 const tabs = [["tab-explorer","view-explorer"],["tab-guide","view-guide"]];
 tabs.forEach(([tid,vid])=>{

@@ -55,8 +55,17 @@ h1{font-size:clamp(26px,4vw,38px);line-height:1.12;letter-spacing:-.015em;margin
 
 /* ---------- tabs ---------- */
 nav.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line2);display:flex;gap:4px;padding-top:10px}
-nav.tabs button{font-family:var(--mono);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;padding:9px 14px 11px;color:var(--ink2);border-bottom:2px solid transparent;margin-bottom:-1px}
+nav.tabs button:not(.themebtn){font-family:var(--mono);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;padding:9px 14px 11px;color:var(--ink2);border-bottom:2px solid transparent;margin-bottom:-1px}
 nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.themebtn{margin-left:auto;align-self:center;flex:none;height:28px;background:var(--surface2);border:1px solid var(--line2);border-radius:7px;display:flex;align-items:center;gap:6px;color:var(--ink2);padding:0 10px;font-family:var(--mono);font-size:11px;letter-spacing:.05em}
+.themebtn .tl-light{display:none}
+:root[data-theme="dark"] .themebtn .tl-light{display:inline}
+:root[data-theme="dark"] .themebtn .tl-dark{display:none}
+.themebtn:hover{color:var(--ink)}
+.themebtn svg{width:15px;height:15px;flex:none}
+.themebtn .i-sun{display:none}
+:root[data-theme="dark"] .themebtn .i-sun{display:block}
+:root[data-theme="dark"] .themebtn .i-moon{display:none}
 nav.tabs button:hover{color:var(--ink)}
 
 /* ---------- part tiles ---------- */
@@ -81,8 +90,13 @@ nav.tabs button:hover{color:var(--ink)}
 .facets{display:flex;flex-direction:column;gap:8px;margin-top:12px}
 .facet{display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap}
 #facet-mat,#facet-vol,#facet-tool{display:flex;flex-wrap:wrap;gap:7px;flex:1;min-width:0}
-@media (max-width:640px){.facet{flex-direction:column;gap:6px}.facet .flabel{width:auto;padding-top:0}.facets{gap:14px}}
-.facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:74px;flex:none;padding-top:5px}
+@media (max-width:640px){.facet{flex-direction:column;gap:6px}.facet .flabel{width:auto;padding-top:0}.facets{gap:14px}nav.tabs button:not(.themebtn){padding:9px 8px 11px;font-size:11.5px}}
+.facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);width:92px;flex:none;padding-top:5px;display:inline-flex;align-items:center;gap:5px}
+.tipwrap{position:relative;display:inline-flex}
+.tip{width:14px;height:14px;border-radius:50%;border:1px solid currentColor;font-size:9px;line-height:1;display:inline-flex;align-items:center;justify-content:center;color:inherit;opacity:.7;cursor:help;font-family:var(--mono)}
+.tipwrap:hover .tip,.tip:focus-visible{opacity:1}
+.tipbody{display:none;position:absolute;left:-6px;top:calc(100% + 8px);z-index:40;width:min(280px,78vw);background:var(--surface);border:1px solid var(--line2);border-radius:6px;box-shadow:var(--shadow);padding:9px 11px;font-family:var(--sans);font-size:12px;line-height:1.5;color:var(--ink2);text-transform:none;letter-spacing:normal;font-weight:400}
+.tipwrap:hover .tipbody,.tipwrap:focus-within .tipbody{display:block}
 .fchip{font-family:var(--mono);font-size:11.5px;padding:3px 9px 4px;border-radius:99px;background:var(--chip-bg);border:1px solid transparent;color:var(--ink2)}
 .fchip:hover{color:var(--ink)}
 .fchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
@@ -195,11 +209,10 @@ footer.site{margin-top:60px;padding-top:16px;border-top:1px solid var(--line);fo
         <button class="clearbtn" id="clearAll">Reset filters</button>
       </div>
       <div class="facets">
-        <div class="facet" data-f="mat"><span class="flabel">Material</span><span id="facet-mat"></span></div>
-        <div class="facet" data-f="vol"><span class="flabel">Volume</span><span id="facet-vol"></span></div>
-        <div class="facet" data-f="tool"><span class="flabel">Tooling</span><span id="facet-tool"></span></div>
+        <div class="facet" data-f="mat"><span class="flabel">Material<span class="tipwrap"><button type="button" class="tip" aria-label="About these tags">i</button><span class="tipbody" role="tooltip">Material tags are directional estimates added for filtering — typical cases, not universal limits.</span></span></span><span id="facet-mat"></span></div>
+        <div class="facet" data-f="vol"><span class="flabel">Volume<span class="tipwrap"><button type="button" class="tip" aria-label="About these tags">i</button><span class="tipbody" role="tooltip">Directional volume bands: Prototype 1–10 · Low 10–1,000 · Medium 1k–100k · High 100k+ · Continuous (tons, meters, wafers, cells).</span></span></span><span id="facet-vol"></span></div>
+        <div class="facet" data-f="tool"><span class="flabel">Tooling<span class="tipwrap"><button type="button" class="tip" aria-label="About these tags">i</button><span class="tipbody" role="tooltip">Directional tooling &amp; NRE bands: Minimal &lt;$5k · Low $5–50k · Moderate $50–250k · High $250k–1M · Very high &gt;$1M. Size, material, and qualification can shift real costs by orders of magnitude.</span></span></span><span id="facet-tool"></span></div>
       </div>
-      <p class="fnote">Material, volume, and tooling tags are directional estimates added for filtering — typical cases, not universal limits. Volume bands: Prototype 1–10 · Low 10–1k · Medium 1k–100k · High 100k+ · Continuous (tons, meters, wafers, cells). Tooling &amp; NRE bands: Minimal &lt;$5k · Low $5–50k · Moderate $50–250k · High $250k–1M · Very high &gt;$1M.</p>
     </div>
 
     <div class="listtools">
