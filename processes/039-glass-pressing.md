@@ -19,3 +19,9 @@ Repeatable and efficient for relatively thick glass components. Undercuts, thin 
 ## Examples
 
 Lenses, dishes, insulators, headlamp optics, tiles.
+
+## Videos
+
+- https://www.youtube.com/watch?v=ZI_ulwcPyms — How It's Made-Pressed Glass (bighoov1, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=pEd2Oni88uY — Glass Block Manufacturing (Steve McCollum, 5 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=TiLaRZ8okms — JCL Press Machine for Glass Tableware Production (JCL Engineering Pte Ltd, 2 minutes, 10k+ views)

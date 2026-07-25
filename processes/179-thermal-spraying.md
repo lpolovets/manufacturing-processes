@@ -19,3 +19,9 @@ Applies thick wear-, heat-, or corrosion-resistant coatings without heating the 
 ## Examples
 
 Turbine coatings, hydraulic rods, engine cylinders, repaired shafts.
+
+## Videos
+
+- https://www.youtube.com/watch?v=-mcWhRg5w2A — Curtiss-Wright Surface Technologies: Thermal Spray Coatings Process (UPDATED) (Curtiss-Wright Surface Technologies, 6 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=1uTLLPBPVOk — What is plasma spray coating? (Smart Thermal Spray, 4 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=8FyKOB0mgRc — Thermal spray coatings: plasma process (ThermalSprayGuy, 2 minutes, 10k+ views)

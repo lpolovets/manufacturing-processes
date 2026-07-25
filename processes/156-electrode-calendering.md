@@ -19,3 +19,8 @@ Improves particle contact, adhesion, and energy density. Excessive compression r
 ## Examples
 
 Densified anode and cathode webs.
+
+## Videos
+
+- https://www.youtube.com/watch?v=Stjcse7Bcqk — Battery cell production at Volkswagen Salzgitter, production steps “slitting… (AutoMotoTV, 1 minute, 10k+ views)
+- https://www.youtube.com/watch?v=bk8N1yK60vg — Desk Top Calendering Machine Lithium On Battery Electrodes Pressing… (Electrodes and More, 3 minutes, 5k+ views)

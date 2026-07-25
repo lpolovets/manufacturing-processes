@@ -19,3 +19,9 @@ Provides high strength in thin or complex glass with relatively little optical d
 ## Examples
 
 Smartphone glass, watches, avionics displays, medical devices.
+
+## Videos
+
+- https://www.youtube.com/watch?v=y02AXdec1sE — How to chemically strengthen glass (eg Gorilla Glass) (Applied Science, 8 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=MXDFdWWddy4 — How Gorilla Glass Works? Ion Exchange Process!!! (Technical Guruji, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=jbUa8NYNO3k — Toughening of Glass: Ion-Exchange (Introduction to Materials Science and Engineering, 5 minutes, 10k+ views)

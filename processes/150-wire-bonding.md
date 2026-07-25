@@ -19,3 +19,9 @@ Mature, flexible, inexpensive, and well understood. Adds electrical inductance a
 ## Examples
 
 Analog ICs, sensors, LEDs, MEMS, power devices.
+
+## Videos
+
+- https://www.youtube.com/watch?v=tp_Yv0cyvFw — Wirebonding Overview Animation (Semitracks Inc., 4 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=mvZ1dJuvenw — Wire Bonding Basics - Manual Wedge Bonding ICs (Sam Zeloof, 13 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=Xt0So1S76L0 — WIRE BONDING (PART 1) (WATCH LEARN  'N PLAY, 16 minutes, 50k+ views)

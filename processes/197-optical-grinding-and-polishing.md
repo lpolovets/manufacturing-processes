@@ -19,3 +19,9 @@ Supports many glass and crystal materials and can reach excellent figure and fin
 ## Examples
 
 Lenses, telescope mirrors, prisms, windows.
+
+## Videos
+
+- https://www.youtube.com/watch?v=3KGRSevErXo — Lens Grinding and Polishing (Avantier Inc., 3 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=QOyYxXuIAng — Lens Grinding & Polishing (Shanghai Optics, 1 minute, 10k+ views)
+- https://www.youtube.com/watch?v=_z-OW6v_V74 — Grinding and Polishing a Telescope Mirror (Australian Astronomy with Logan Nicholson, 11 minutes, 1k+ views)

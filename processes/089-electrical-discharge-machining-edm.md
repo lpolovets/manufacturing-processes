@@ -37,3 +37,9 @@ Creates precise starter and high-aspect-ratio holes.
 ## Examples
 
 Molds, dies, turbine cooling holes, punches, medical tools.
+
+## Videos
+
+- https://www.youtube.com/watch?v=kh4DSOtef4k — ELECTRIC DISCHARGE MACHINING PROCESS (Animation): How electric discharge… (ADTW Study, 6 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=L1D5DLWWMp8 — Electrical Discharge Machining (Tooling U-SME, 2 minutes, 500k+ views)
+- https://www.youtube.com/watch?v=j1wM6i-goEg — Introduction to Electrical Discharge Machining | Learn to Burn (Practical Machinist, 16 minutes, 100k+ views)

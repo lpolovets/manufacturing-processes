@@ -19,3 +19,9 @@ Produces durable, thick, low-solvent finishes with good material utilization. Cu
 ## Examples
 
 Appliances, outdoor furniture, wheels, enclosures.
+
+## Videos
+
+- https://www.youtube.com/watch?v=l3VF6C1_RGg — What is Powder Coating and How Does it Work? (Protolabs, 6 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=wSBAT3jKJLk — How to Powder Coat - The COMPLETE Beginners Guide To Powder Coating - Eastwood (Eastwood Company, 12 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=c0UJZmP3Uwo — Powder Coat Process (John Denney, 2 minutes, 100k+ views)

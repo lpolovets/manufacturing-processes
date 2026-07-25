@@ -19,3 +19,9 @@ Inexpensive, high-throughput, and chemically selective. Isotropic etchants cause
 ## Examples
 
 Printed circuit boards, silicon bulk micromachining, glass channels, metal patterning.
+
+## Videos
+
+- https://www.youtube.com/watch?v=UKf0offCyw0 — Etch Processes for Microsystems - Part I (Support Center for Microsystems Education, 16 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=zkdQddMZSyM — The Etching Process (PhotofabricationEng, 3 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=lGHN6nVTfPA — Wet Etching Explained: How It Really Works in a Chip Manufacturing (Exploring Science & Technology, 13 minutes, under 1k views)

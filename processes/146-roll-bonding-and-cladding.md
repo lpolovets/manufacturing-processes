@@ -19,3 +19,8 @@ Efficiently combines corrosion resistance, conductivity, strength, and cost prop
 ## Examples
 
 Stainless-clad steel, copper-aluminum strip, cookware, battery materials.
+
+## Videos
+
+- https://www.youtube.com/watch?v=C-P6uxdyGA4 — How Clad becomes Clad - by Wickeder Group (Wickeder Group, 2 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=LPV-g_vdhtI — How it's made hot rolled Stainless steel clad plates (sheng fu, 7 minutes, 1k+ views)

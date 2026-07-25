@@ -19,3 +19,9 @@ Reveals internal voids, inclusions, assembly errors, and some cracks. Radiation 
 ## Examples
 
 Castings, welds, batteries, electronics, aerospace assemblies.
+
+## Videos
+
+- https://www.youtube.com/watch?v=7oR_l8nXdmo — Radiographic Testing (NDT) (NDT Channel, 7 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=pNgDlpLUCVc — The principles of radiography in Non-Destructive Testing (NDT) | Waterpedia (Waterpedia, 3 minutes, 5k+ views)
+- https://www.youtube.com/watch?v=IIoFfl9Ywo8 — Radiographic Testing (RT) by Gamma Ray - Non Destructive Testing (NDT) |… (Xpert Engineering Solution Sdn Bhd, 2 minutes, 5k+ views)

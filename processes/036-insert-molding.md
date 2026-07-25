@@ -19,3 +19,8 @@ Consolidates assembly and creates integrated threaded, electrical, or structural
 ## Examples
 
 Threaded housings, electrical connectors, sensor bodies, surgical handles.
+
+## Videos
+
+- https://www.youtube.com/watch?v=z6J07KPoDDk — INSERT MOLDING vs OVERMOLDING | Two-Shot Injection Molding EXPLAINED -… (Star Rapid, 7 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=c4mwoX1Qiv0 — Overmolding vs Insert Molding | Plastic Parts Molding Process (RAPID DIRECT, 6 minutes, 5k+ views)

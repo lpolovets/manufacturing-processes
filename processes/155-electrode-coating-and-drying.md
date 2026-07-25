@@ -19,3 +19,9 @@ Provides high throughput and precise areal loading. Thickness variation, crackin
 ## Examples
 
 Lithium-ion anode and cathode webs.
+
+## Videos
+
+- https://www.youtube.com/watch?v=f1sIlDsMdcA — [Battery Report] How Batteries are Made: Electrode Manufacturing – Coating (LG Energy Solution Global, 2 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=WQiEStr4GRM — Slot-die Coating for Battery Electrodes Explained (infinityPV, 2 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=Xchyq5lVmJg — Coating and drying for battery manufacturing at UKBIC (UKBIC, 2 minutes, under 1k views)

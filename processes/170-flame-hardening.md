@@ -19,3 +19,9 @@ Equipment is simple and useful for large parts. Uniformity and control are weake
 ## Examples
 
 Large gears, rollers, machine ways.
+
+## Videos
+
+- https://www.youtube.com/watch?v=qGKiXz1I1-8 — Principle Of Flame Hardening (LEARN AND GROW, 3 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=unreucBhlcw — Flame Hardening (markserbu, 7 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=RL338wkBqc8 — Surface hardening of steel | flame, induction, laser beam, case hardening and… (tec-science, 13 minutes, 5k+ views)

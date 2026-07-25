@@ -19,3 +19,9 @@ Offers high throughput using renewable feedstocks. Water, energy, drying, fiber 
 ## Examples
 
 Paper, paperboard, tissue, packaging stock.
+
+## Videos
+
+- https://www.youtube.com/watch?v=E4C3X26dxbM — The Paper Making Process (Sappi Tube, 13 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=jQJOarYaEfo — How PAPER Is Made | Paper Factory (Wondastic Tech, 9 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=XVYw3QS1Ab0 — The process of paper making (NBC 26, 5 minutes, 10k+ views)

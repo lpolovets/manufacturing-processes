@@ -19,3 +19,9 @@ Improves appearance, friction, cleanliness, and coating performance. Can be labo
 ## Examples
 
 Medical tools, cookware, molds, automotive trim.
+
+## Videos
+
+- https://www.youtube.com/watch?v=rz7HRhiDXFw — Polishing 101: How to Buff and Polish Metal (Christ Centered Ironworks, 16 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=k1Ng9RhSstE — Buffing Machine For Metal Polishing | How it's made Channel (KNP Tech TV, 2 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=RjbTyTTRLzc — Metal Polishing Compounds & Buffing Wheels EXPLAINED (Maverick Abrasives, 9 minutes, 10k+ views)

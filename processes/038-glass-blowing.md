@@ -19,3 +19,9 @@ Readily creates seamless hollow objects. Dimensional precision, thick structural
 ## Examples
 
 Bottles, laboratory glassware, lighting globes, vessels.
+
+## Videos
+
+- https://www.youtube.com/watch?v=EkDhkDMck7o — How Glass is Made in Factories | HOW IT'S MADE (How It's Made, 9 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=GCtqKRXoTnU — Making a Handblown Glass Bottle, Full Glassblowing Demonstrations (GlassGoof, 18 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=Cf4hmktnSMo — From Grit to Glass - How Glass Bottles Are Made (O.BerkCompany, 2 minutes, 100k+ views)

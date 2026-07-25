@@ -19,3 +19,9 @@ Determines dispersion, rheology, coating quality, and electrochemical performanc
 ## Examples
 
 Anode and cathode slurries for lithium-ion cells.
+
+## Videos
+
+- https://www.youtube.com/watch?v=C63ER1YnkEI — [Battery Report] the First Step of Electrode Manufacturing, Mixing Active… (LG에너지솔루션 [LG Energy Solution], 2 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=KsK4-20Z3RQ — The Production of Electrode Battery Slurry (Bühler Group, 5 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=AY9h8P_usqU — EV Battery Manufacturing: Electrode Slurry Mixing and Processing (Silverson Machines, 2 minutes, 10k+ views)

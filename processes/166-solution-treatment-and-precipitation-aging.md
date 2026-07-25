@@ -19,3 +19,9 @@ Can greatly increase yield strength, creep resistance, or elevated-temperature c
 ## Examples
 
 Aluminum aircraft structures, nickel-superalloy turbine components, titanium aerospace parts, copper-alloy springs.
+
+## Videos
+
+- https://www.youtube.com/watch?v=_jAdcz3VjBQ — Heat Treatment Precipitation Hardening of Aluminum Alloys (Imdadul Islam, 16 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=jqFivPMvifc — Materials - Aging and overaging in precipitation hardening alloys (High School Engineering Teacher and Cabinetmaker, 4 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=75nQqNb0gDs — How Ageing Makes Aluminium Strong (Aluminium Guide Videos, 3 minutes, under 1k views)

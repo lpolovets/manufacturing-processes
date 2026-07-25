@@ -19,3 +19,9 @@ Provides very high throughput and tunable filtration, absorption, and barrier be
 ## Examples
 
 Masks, diapers, wipes, insulation, filters, geotextiles.
+
+## Videos
+
+- https://www.youtube.com/watch?v=5r0BM78Itog — Nonwovens: All you need to know in 6 minutes (Textile with Alberto, 7 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=6PVDmztbxQE — Spunbond Non woven Fabric Production Process - Woozon Healthcare -… (MILKON, 3 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=9yXeV9VtRGE — Non-woven Fabric Manufacturing Process (Md Rasel Haque, 8 minutes, 5k+ views)

@@ -19,3 +19,9 @@ Improves corrosion resistance without materially changing dimensions. Cannot com
 ## Examples
 
 Medical tools, food equipment, pharmaceutical vessels.
+
+## Videos
+
+- https://www.youtube.com/watch?v=FF5rr2p5-1k — The Passivation of Stainless Steel (New England Electropolishing, 4 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=SqU0M6KSaLs — FZE 2020 - What is Stainless Steel Passivation? #Passivation #Stainless steel (FZE Manufacturing Solutions, LLC, 2 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=5S374hGs71c — Proto Tech Tip - Passivation for Stainless Steel (Protocase Inc, 3 minutes, 10k+ views)

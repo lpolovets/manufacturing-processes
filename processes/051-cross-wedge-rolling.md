@@ -19,3 +19,8 @@ Produces stepped shafts quickly with low waste and favorable grain flow. Tooling
 ## Examples
 
 Axles, transmission shafts, stepped pins, connecting-rod preforms.
+
+## Videos
+
+- https://www.youtube.com/watch?v=SxjbL6TW6GY — LASCO Umformtechnik – Preforming with a cross-wedge roll - EN (LASCO Umformtechnik GmbH, 6 minutes, 5k+ views)
+- https://www.youtube.com/watch?v=K79PqsC5eUM — Industrial applications of cross wedge and skew rolling | J. Bartnicki,… (TRANSVALOR S.A., 18 minutes, 1k+ views)

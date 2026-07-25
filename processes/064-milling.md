@@ -19,3 +19,9 @@ Highly flexible and can create complex three-dimensional geometry. Wastes materi
 ## Examples
 
 Brackets, molds, aerospace structures, housings, engine parts.
+
+## Videos
+
+- https://www.youtube.com/watch?v=2jc3HkrHh9s — MILLING MACHINE OPERATIONS | Milling Processes (SOUMEN SIR, 7 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=AxHexqN0Hr0 — Milling Processes Overview (Mike Braddock, 1 minute, 100k+ views)
+- https://www.youtube.com/watch?v=NQcuYXBEUts — How Milling Machines Work (Manufacturing IE-Purdue, 2 minutes, 10k+ views)

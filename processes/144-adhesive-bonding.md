@@ -19,3 +19,8 @@ Joins dissimilar materials, spreads load, seals joints, and avoids thermal disto
 ## Examples
 
 Aircraft panels, automotive structures, composites, electronics.
+
+## Videos
+
+- https://www.youtube.com/watch?v=VFn83lMJ7Cg — SAMPE Explains: Adhesive Bonding (SAMPE, 7 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=dWAvPH8aACs — Adhesive Bonding as an Aerospace Joining Method (Calvin Rans, 6 minutes, 10k+ views)

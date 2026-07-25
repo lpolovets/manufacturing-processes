@@ -19,3 +19,9 @@ Inexpensive, electrically conductive, and suitable for delicate components. Stru
 ## Examples
 
 Printed circuit boards, plumbing fittings, electrical terminals.
+
+## Videos
+
+- https://www.youtube.com/watch?v=Qps9woUGkvI — Soldering Tutorial for Beginners: Five Easy Steps (oneTesla, 4 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=6rmErwU5E-k — Soldering Crash Course: Basic Techniques, Tips and Advice! (wermy, 16 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=57-HK3sAuZE — How Does Solder Work? Understanding Soldering (The Brass and Woodwind Shop, 3 minutes, 5k+ views)

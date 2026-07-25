@@ -19,3 +19,9 @@ Fast and material-efficient. Tension, alignment, wrinkling, telescoping, and con
 ## Examples
 
 Cylindrical and wound prismatic cells.
+
+## Videos
+
+- https://www.youtube.com/watch?v=nhPjYpuFDoo — MSK-112A-EA Precision Automatic Winder for Electrode Assembly of Cylindrical… (MTI Corp, 2 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=I_6nHrsCN6Y — Semi Auto Winding Machine (Energy Tech Solution, 2 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=yPl6wH2Zg9I — Manual Winding Machine for Pouch Cell and Cylindrical Cell Winding (TOB NEW ENERGY, 2 minutes, 1k+ views)

@@ -23,3 +23,9 @@ Steel slabs, aluminum billets, copper rod, steel blooms.
 ## Economic profile
 
 Extremely high capex; commodity-scale throughput; economics dominated by utilization, energy, raw-material spread, and yield.
+
+## Videos
+
+- https://www.youtube.com/watch?v=d-72gc6I-_E — Steelmaking: Continuous Casting (CorusBCSATraining, 1 minute, 100k+ views)
+- https://www.youtube.com/watch?v=ZtXKdYYAVdA — continuous casting | continuous casting process | continuous casting… (Modi Mechanical Engineering Tutorials, 8 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=l_DUJWsSulI — Continuous Casting: How Massive Steel Slabs Are Made From Liquid Metal! (AlJazari, 4 minutes, 10k+ views)

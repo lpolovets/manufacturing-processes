@@ -19,3 +19,9 @@ Joins otherwise incompatible metals across large areas without bulk melting. Req
 ## Examples
 
 Titanium-clad steel, aluminum-steel transitions, corrosion-resistant plate.
+
+## Videos
+
+- https://www.youtube.com/watch?v=u9_bqafUJfA — Explosion Welding Process (NobelClad, 4 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=XMSaX-3tOUw — The Process of Explosion Welding | Clad for Industrial Infrastructure (NobelClad, 2 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=4N7v8pA7ghc — EXPLOSION WELDING WORKING ANIMATION (Crianza Engineers, 2 minutes, 10k+ views)

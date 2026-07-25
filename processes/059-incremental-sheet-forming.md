@@ -19,3 +19,9 @@ Avoids expensive tooling and is valuable for prototypes and custom parts. Slow, 
 ## Examples
 
 Custom medical implants, prototype body panels, low-volume enclosures.
+
+## Videos
+
+- https://www.youtube.com/watch?v=0xOANlj_O88 — Incremental Sheet Forming (ISF) Machine (Eurecat, 3 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=eOwEgEDOaak — Forming Titanium Sheet - SPIF vs. Stamping (Russell Makes, 6 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=jQRwOyeBF8s — Incremental Sheet Forming: real-time experiments for manufacturing a variable… (Learn with Crazy Engineers, 10 minutes, 1k+ views)

@@ -45,3 +45,9 @@ Heating or cooling temporarily changes dimensions before assembly. Strong concen
 ## Examples
 
 Aircraft structures, machinery, consumer products, electronics.
+
+## Videos
+
+- https://www.youtube.com/watch?v=XLzTB4KLCxU — The Incredible Strength of Bolted Joints (The Efficient Engineer, 18 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=_nbMCYGIxq8 — How the blind rivet works (FAR Fastening Systems, 5 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=3hpNHzm88TM — Lesson: Mechanical Fasteners (Mr. Dillman's Tech Channel, 13 minutes, 10k+ views)

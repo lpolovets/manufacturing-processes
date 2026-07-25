@@ -19,3 +19,7 @@ Produces intricate small ceramic components at scale. Tooling, debinding, sinter
 ## Examples
 
 Dental brackets, watch parts, medical instruments, electronic insulators.
+
+## Videos
+
+- https://www.youtube.com/watch?v=0hI7wVDa9Ww — Ceramic Injection Moulding Process - Morgan Advanced Materials (MorganAdvancedMaterials, 2 minutes, 50k+ views)

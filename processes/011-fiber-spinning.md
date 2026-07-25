@@ -37,3 +37,9 @@ An electric field draws very fine fibers from a polymer solution or melt. Create
 ## Examples
 
 Polyester, nylon, rayon, spandex, filtration media, battery separators.
+
+## Videos
+
+- https://www.youtube.com/watch?v=fNdsOraykNI — Polyester Yarn Manufacturing Process (Textile Vlog, 4 minutes, 500k+ views)
+- https://www.youtube.com/watch?v=cn6K1m7yH0I — Polymer melt spinning (Eric Devaux, 1 minute, 100k+ views)
+- https://www.youtube.com/watch?v=rVFdIehtZsk — Polyester Yarn Production | Polyester Textured Yarn Manufacturing Process |… (Salud Style - To Be the Best Yarn Manufacturer, 5 minutes, 100k+ views)

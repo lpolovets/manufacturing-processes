@@ -19,3 +19,9 @@ Creates precise, thin-wall tubing with good mechanical properties. Geometry is l
 ## Examples
 
 Hypodermic tubing, hydraulic lines, heat-exchanger tubes, precision mechanical tubing.
+
+## Videos
+
+- https://www.youtube.com/watch?v=MtkgKwD-lGQ — Tube drawing process and different method explained 3D animaiton (Engineer Know, 2 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=9W6gDAgwa8k — Tube Drawing Process (LEARN AND GROW, 1 minute, 100k+ views)
+- https://www.youtube.com/watch?v=FKlCJg-sbO4 — Drawn Over Mandrel Steel Tubing (PlymouthTubeCo, 3 minutes, 100k+ views)

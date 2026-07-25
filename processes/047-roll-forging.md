@@ -19,3 +19,7 @@ Efficient for elongated parts and forging preforms. Geometry must be compatible 
 ## Examples
 
 Axles, spring blanks, connecting-rod preforms, tool blanks.
+
+## Videos
+
+- https://www.youtube.com/watch?v=LuGNhEwZs0s — Roll forging process (ROLL PEDIA, 5 minutes, 10k+ views)

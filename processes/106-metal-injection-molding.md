@@ -19,3 +19,9 @@ Produces intricate small metal parts at scale. Tooling and development are expen
 ## Examples
 
 Surgical tools, watch parts, small gears, electronics hardware.
+
+## Videos
+
+- https://www.youtube.com/watch?v=MmLYj3GZsx8 — An Overview of Metal Injection Molding (MIM) (MPIF Videos, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=adV0XowK8h0 — Metal Injection Molding | What Is MIM? | Benefits of MIM (OptiMIM | Metal Injection Molding, 3 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=trFHb298RpQ — The Metal Injection Moulding Process (Plastic Innovations, 4 minutes, 10k+ views)

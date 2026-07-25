@@ -19,3 +19,9 @@ Improves mechanical and environmental protection. Cure stress, moisture absorpti
 ## Examples
 
 IC packages, controllers, MEMS, power electronics.
+
+## Videos
+
+- https://www.youtube.com/watch?v=ilWnFWhcS7Q — Semiconductor Packaging - Introduction to Molding Process (WATCH LEARN  'N PLAY, 11 minutes, 5k+ views)
+- https://www.youtube.com/watch?v=A65r9EziuQ8 — MOLD LEAD FRAME (EPOXY MOLD COMPOUND)_MICROELECTRONIC, ADTEC TAIPING (ADTEC Taiping TV, 5 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=rhMDTpu_1x8 — 3 Types of Potting and Encapsulation Method (Prostech, 2 minutes, 5k+ views)

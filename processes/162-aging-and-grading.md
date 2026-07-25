@@ -19,3 +19,8 @@ Identifies latent defects and allows cells to be matched into packs. Consumes ti
 ## Examples
 
 Cell binning and pack matching.
+
+## Videos
+
+- https://www.youtube.com/watch?v=72NSY4IDuqU — Efficient Battery Cell Grading Machine for 32-60mm Diameter Cells | Semco… (Semco Infratech Pvt. Ltd., 8 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=4gPYaI4ASdk — Battery Cell Formation & Test Solutions | Chroma (Chroma ATE, 4 minutes, 1k+ views)

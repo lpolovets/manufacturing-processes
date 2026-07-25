@@ -19,3 +19,9 @@ Removes hard conductive materials rapidly without burrs, tool wear, or thermal d
 ## Examples
 
 Turbine blades, blisks, fuel-system parts, aerospace passages.
+
+## Videos
+
+- https://www.youtube.com/watch?v=b1nX7WVIN7U — ELECTROCHEMICAL MACHINE (ECM): Construction and working of electrochemical… (ADTW Study, 6 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=qP3D-Ev6Ukc — What is Electro-Chemical Machining Process??? ||Engineer's Academy|| (Engineer's Academy, 11 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=Ej-GWNPYFVM — How Electrochemical Machining Works (Manufacturing IE-Purdue, 1 minute, 100k+ views)

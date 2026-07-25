@@ -19,3 +19,9 @@ Fast and suitable for soft, delicate, or densely featured parts. Reflectivity, t
 ## Examples
 
 Electronics, molded plastic, additive parts, stamped components, optics.
+
+## Videos
+
+- https://www.youtube.com/watch?v=F1eWql_sVHE — What is Structured-Light 3D Scanning? (Holocreators GmbH, 4 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=k6z2gSmc_ww — How it Works: GOM ATOS Q 3D Scanner (TriMech, 10 minutes, 5k+ views)
+- https://www.youtube.com/watch?v=P2PHFePETFA — ATOS Q - Our Favorite Professional Portable 3D Scanner (ZEISS Industrial Quality Solutions USA, 5 minutes, 5k+ views)

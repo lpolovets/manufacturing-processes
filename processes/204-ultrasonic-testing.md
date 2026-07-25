@@ -19,3 +19,9 @@ Detects cracks, lack of fusion, delamination, and wall loss without radiation. G
 ## Examples
 
 Welds, forgings, composites, pressure vessels, rails.
+
+## Videos
+
+- https://www.youtube.com/watch?v=UM6XKvXWVFA — Ultrasonic Testing (MaterialsScience2000, 8 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=TejAVtFN9RI — How To: Ultrasonic Non Destructive Test (Douglas Baxter (Doug), 5 minutes, 5k+ views)
+- https://www.youtube.com/watch?v=7VrtjUxmMJ8 — Ultrasonic Testing - How Does Ultrasonic Testing Work - UT Testing Metal (Michlin Metals Inc, 3 minutes, 1k+ views)

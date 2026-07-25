@@ -41,3 +41,9 @@ A wire welds beneath granular flux. Very high deposition rates but mainly suits 
 ## Examples
 
 Structures, vehicles, pipelines, pressure vessels, heavy equipment.
+
+## Videos
+
+- https://www.youtube.com/watch?v=TeBX6cKKHWY — How Arc Welding Works (Edison Tech Center, 2 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=3_K9-kB6HRk — STICK WELDING BASICS - ARC WELDING EXPLAINED (Longevity Welding, 8 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=hAF96uyd5dE — Stick WELDING Basics: How to ARC Weld 101 (DIY PRO, 9 minutes, 100k+ views)

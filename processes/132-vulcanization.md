@@ -19,3 +19,8 @@ Creates resilience, durability, and dimensional stability. Vulcanized rubber can
 ## Examples
 
 Tires, seals, hoses, bushings, belts.
+
+## Videos
+
+- https://www.youtube.com/watch?v=nmaIvXm-cws — Vulcanisation of Rubber | Polymer (myhometuition, 6 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=sFjGQxUTVJE — Vulcanization of Rubber | 12th Std | Chemistry | Science | CBSE Board | Home… (Home Revise, 2 minutes, 100k+ views)

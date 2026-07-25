@@ -23,3 +23,9 @@ Pipe, medical tubing, window profiles, wire insulation, plastic sheet, packaging
 ## Economic profile
 
 Moderate-to-high capex; excellent economics at scale; startup scrap and line utilization matter greatly.
+
+## Videos
+
+- https://www.youtube.com/watch?v=NSCX6K1eecI — How Does Plastic Extrusion Work? (RAPID DIRECT, 6 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=QP5bVSu9JYw — Plastic Moulding Working Animation (Extrusion, Blow, Vacuum Forming,… (Shubham Kola, 3 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=AR2XBU3Nt4k — Plastic Extrusion Process Explained | Types, Working, and Applications (Mechanical Design Adda, 9 minutes, 1k+ views)

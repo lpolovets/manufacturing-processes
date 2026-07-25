@@ -19,3 +19,9 @@ Conserves valuable material, enables curved structures, and improves dimensional
 ## Examples
 
 Plywood, furniture surfaces, laminated beams, curved chairs.
+
+## Videos
+
+- https://www.youtube.com/watch?v=EhzyhkLmLoo — How It's Made: Laminated Veneer Lumber (LVL) (WoodSolutions, 6 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=AdYDsIhy2VU — How wood veneer is made... (CabinetParts.com, 15 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=x0CTFPufMpw — How Laminated Veneer Lumber is Made | This Old House (This Old House, 7 minutes, 50k+ views)

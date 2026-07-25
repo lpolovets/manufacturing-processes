@@ -19,3 +19,9 @@ Creates dense material and closes internal porosity in cast or printed parts. Eq
 ## Examples
 
 Turbine disks, aerospace castings, powder-superalloy billets, additive parts.
+
+## Videos
+
+- https://www.youtube.com/watch?v=xPqvquxw9BE — Hot Isostatic Pressing by Quintus Technologies (Quintus Technologies, 3 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=bqP1erqgCnk — Hot Isostatic Pressing (HIP) (MPIF Videos, 8 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=uiFh0G9uyvg — Hot Isostatic Pressing PF for harsh environments (Bodycote, 2 minutes, under 1k views)

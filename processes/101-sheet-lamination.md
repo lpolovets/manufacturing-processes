@@ -19,3 +19,9 @@ Can combine dissimilar materials and embed sensors. Interlayer bond strength and
 ## Examples
 
 Laminated models, embedded-sensor structures, tooling.
+
+## Videos
+
+- https://www.youtube.com/watch?v=m0b3WIS2nqw — Laminated Object Manufacturing(LOM) (LEARN AND GROW, 4 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=GUvnz0borAI — Laminated Object Manufacturing (Institut für Kunststofftechnik, Universität Stuttgart, 3 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=GGrp-uOopjI — Sheet Lamination 3D Printing: An Additive Manufacturing Process Explained (LynxE - Your New Learning Experience, 5 minutes, 10k+ views)

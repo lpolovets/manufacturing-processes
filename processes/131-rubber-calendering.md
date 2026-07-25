@@ -19,3 +19,9 @@ Produces controlled thickness and reinforced laminates. Equipment is large and t
 ## Examples
 
 Tire plies, belts, roofing membranes, flooring.
+
+## Videos
+
+- https://www.youtube.com/watch?v=uPqBpjGPXKo — Passaic Rubber Company - Calendering Rubber (Passaic Rubber, 3 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=Fzak32h6SQI — An overview of calendering (or rolling) like processes (MIT Thin-film, 2 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=4SLsMKKQl4k — 3 Roll Calender Machine for Rubber (Santec Group (Unit -1 ) (Santec Exim Pvt Ltd) - DELHI, 2 minutes, 1k+ views)

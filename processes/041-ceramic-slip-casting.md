@@ -19,3 +19,9 @@ Produces complex hollow ceramics with inexpensive tooling. Slow and subject to d
 ## Examples
 
 Sanitary ware, pottery, ceramic tubes, shell forms.
+
+## Videos
+
+- https://www.youtube.com/watch?v=bad5hq9lQAE — Ceramic Pottery Slip Casting Process | Glazed Ceramics Teapot Making Factory (Skill Spotter, 10 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=MTwczjQE7zo — Learn Slip Casting in 3 Minutes with this Step-by-Step Tutorial (Outpost Pottery, 3 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=oo2YDhfKjd8 — Slip Casting: Back to Basics (Pottery by Kent, 6 minutes, 10k+ views)

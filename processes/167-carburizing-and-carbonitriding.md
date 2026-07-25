@@ -19,3 +19,9 @@ Creates a hard wear-resistant case over a tough core. Treatment is slow and may 
 ## Examples
 
 Gears, pins, camshafts, transmission components.
+
+## Videos
+
+- https://www.youtube.com/watch?v=pYQuqNFG2ro — Vacuum Carburizing and Heat treating (Mtvac, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=xf2U2d6Yoe8 — Carburizing Process | Gas Carburizing | Pack Carburizing | Liquid Carburizing… (Engineering Explained Wing, 3 minutes, 1k+ views)
+- https://www.youtube.com/watch?v=fuHz9ERC8f8 — Carburizing process (TriboNet, 3 minutes, 1k+ views)

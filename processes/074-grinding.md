@@ -19,3 +19,9 @@ Works on hardened materials and achieves excellent tolerances and finishes. Heat
 ## Examples
 
 Bearing races, shafts, cutting tools, dies, engine components.
+
+## Videos
+
+- https://www.youtube.com/watch?v=OH_gLodSObE — SURFACE GRINDING part 1, basic principals, wheel dressing, prepping for first… (THATLAZYMACHINIST, 18 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=t0Hs5pj3Byg — PART 1 CYLINDRICAL GRINDER 101, components, grinding cutting action,, wheel… (THATLAZYMACHINIST, 19 minutes, 50k+ views)
+- https://www.youtube.com/watch?v=thWTlIADwso — What is Cylindrical Grinding? || THORS Cylindrical Grinding Process Strategy… (THORS eLearning Solutions, 4 minutes, 10k+ views)

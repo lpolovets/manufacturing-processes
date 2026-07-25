@@ -23,3 +23,9 @@ Aluminum window frames, heat sinks, tubing, rails, channels, structural profiles
 ## Economic profile
 
 Moderate-to-high tooling and press cost; attractive at medium to very high length volumes.
+
+## Videos
+
+- https://www.youtube.com/watch?v=ELgtjeJyFw8 — How are Aluminum Extrusions Made? (RAPID DIRECT, 7 minutes, 1m+ views)
+- https://www.youtube.com/watch?v=P8BWQBP4Vhk — Extrusion 101: Aluminum Extrusion Process Explained by ILSCO Extrusions Inc. (ILSCO Extrusions Inc, 8 minutes, 500k+ views)
+- https://www.youtube.com/watch?v=YcGcMBnQ0I4 — Aluminium Extrusion Process Animation - AMS (Lightroom 3D, 3 minutes, 100k+ views)

@@ -19,3 +19,9 @@ Provides high throughput and excellent longitudinal properties. Cross-section ca
 ## Examples
 
 Beams, ladder rails, rods, cable trays, window frames.
+
+## Videos
+
+- https://www.youtube.com/watch?v=4MoHNZB5b_Y — The Pultrusion Process (Strongwell MC, 2 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=aXq1hrzne2k — Pultrusion (Tooling U-SME, 2 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=o9FvUWSOeNc — ⚙️ Pultrusion, how it works - Epsilon Composite (Epsilon Composite, 3 minutes, 50k+ views)

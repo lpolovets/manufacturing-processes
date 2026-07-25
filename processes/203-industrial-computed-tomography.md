@@ -19,3 +19,9 @@ Reveals internal passages, porosity, inclusions, wall thickness, and assembled i
 ## Examples
 
 Additive parts, castings, batteries, turbine blades, composites.
+
+## Videos
+
+- https://www.youtube.com/watch?v=-eesZBRW4u0 — CT 101: Introduction to Industrial CT (Lumafield, 7 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=Na0aFTM2x0U — What is industrial CT? (Lumafield, 7 minutes, under 1k views)
+- https://www.youtube.com/watch?v=AygGBKPGcm4 — Setting up a CT scan with the Lumafield Neptune (Lumafield, 5 minutes, 1k+ views)

@@ -19,3 +19,9 @@ Produces high clarity, good thickness control, and high line speed. Usually has 
 ## Examples
 
 Food packaging, stretch wrap, hygiene films, medical packaging.
+
+## Videos
+
+- https://www.youtube.com/watch?v=jcLfQkkkf_g — CO-EXTRUSION CAST LINE FOR STRETCH FILM (AMUT, 5 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=ggqtl02N_-U — Cast Film Extrusion Line (Ocean Extrusion, 5 minutes, 10k+ views)
+- https://www.youtube.com/watch?v=fjxzZZES45A — What is cast film extrusion process? (CHALVO, 2 minutes, 1k+ views)

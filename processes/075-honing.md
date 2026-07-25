@@ -19,3 +19,9 @@ Corrects bore geometry and creates a functional crosshatch surface. Removal rate
 ## Examples
 
 Engine cylinders, hydraulic cylinders, valve bores, barrels.
+
+## Videos
+
+- https://www.youtube.com/watch?v=-l-T08cZqb4 — What is honing and how does it work? (KADIA Honing & Deburring, 2 minutes, 100k+ views)
+- https://www.youtube.com/watch?v=f7JuMGsyDAg — How to Hone Engine Cylinders The Right Way (Supercheap Auto, 3 minutes, 500k+ views)
+- https://www.youtube.com/watch?v=0WDzcoeneBc — Honing machine and process (Mechanical engineer rocks, 2 minutes, 50k+ views)
