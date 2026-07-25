@@ -1,5 +1,5 @@
 ---
-number: 13
+number: 12
 name: Spindles & Finishing Tools
 part: 5
 group: Process tools

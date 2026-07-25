@@ -119,6 +119,16 @@ function loadSheet(dir) {
   const files = fs.readdirSync(edir).filter(f => f.endsWith('.md') && !f.startsWith('_'));
   const rel = path.relative(ROOT, edir);
   const entries = files.map(f => parseEntry(sheet, rel + '/' + f, fs.readFileSync(path.join(edir, f), 'utf8')));
+  // optional per-entry illustration: sheets/<slug>/images/<zero-padded number>.<ext>
+  const idir = path.join(dir, 'images');
+  if (fs.existsSync(idir)) {
+    for (const e of entries) {
+      for (const ext of ['jpg', 'png', 'webp']) {
+        const img = String(e.n).padStart(3, '0') + '.' + ext;
+        if (fs.existsSync(path.join(idir, img))) { e.img = 'images/' + img; break; }
+      }
+    }
+  }
   entries.sort((a, b) => a.n - b.n);
   const seen = new Set();
   for (const x of entries) {
@@ -222,6 +232,8 @@ if (ARTIFACT_SLUG) {
     const out = path.join(ROOT, 'site', sheet.slug);
     fs.mkdirSync(out, { recursive: true });
     fs.writeFileSync(path.join(out, 'index.html'), html);
+    const idir = path.join(sheetsDir, sheet.slug, 'images');
+    if (fs.existsSync(idir)) fs.cpSync(idir, path.join(out, 'images'), { recursive: true });
     fs.writeFileSync(path.join(out, 'data.json'), JSON.stringify({ sheet: { ...sheet, guide: undefined }, entries }, null, 1));
     console.log('site/' + sheet.slug + '/index.html:', entries.length, 'entries,', html.length, 'bytes (+ data.json)');
   }

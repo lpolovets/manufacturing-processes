@@ -1,5 +1,5 @@
 ---
-number: 12
+number: 11
 name: Welding & Cutting Torches
 part: 5
 group: Process tools

@@ -1,5 +1,5 @@
 ---
-number: 17
+number: 16
 name: Compliance Devices (RCC & Active)
 part: 6
 group: Infrastructure

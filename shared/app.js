@@ -60,7 +60,9 @@ function facetTags(x){
 
 function cardHTML(x){
   const part = SHEET.parts[x.p-1];
-  let body = '<p>'+fmt(x.d)+'</p>';
+  let body = '';
+  if(x.img && EMBED_OK) body += '<img class="cimg" src="'+x.img+'" alt="'+esc(x.name)+' illustration" loading="lazy">';
+  body += '<p>'+fmt(x.d)+'</p>';
   body += '<span class="lab">Strengths &amp; weaknesses</span><p style="margin-top:2px">'+fmt(x.sw)+'</p>';
   if(x.v){
     body += '<span class="lab">Variants</span><div class="variants">'+

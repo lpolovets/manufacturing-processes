@@ -1,5 +1,5 @@
 ---
-number: 16
+number: 15
 name: Automatic Tool Changers
 part: 6
 group: Infrastructure
