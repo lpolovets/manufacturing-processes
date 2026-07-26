@@ -25,7 +25,7 @@ ITER (first plasma slipping toward mid-2030s), CFS SPARC (Q>1 targeted ~2026–2
 A cored-apple geometry that gets higher plasma pressure per unit of field: Tokamak Energy's ST40 (99M °C), UK's STEP program (2040 target).
 
 ## Examples
-JET (retired 2024 after record D-T runs), KSTAR and EAST long-pulse records, CFS assembling SPARC in Devens with ~$2B+ raised — private fusion's flagship.
+JET (retired 2024 after record D-T runs), KSTAR and EAST long-pulse records, CFS assembling SPARC in Devens with ~$2B+ raised, the flagship private fusion program.
 
 ## Economic profile
 Tokamaks attract most of fusion's capital. CFS alone holds a large share of all private fusion funding, plus a signed 200 MW Google offtake. The bet decomposes into three things that all have to work in sequence: SPARC's Q>1, tritium self-sufficiency, and an availability-and-maintenance story competitive with anything on the grid. Even bulls should model first commercial electricity no earlier than the early-to-mid 2030s and fleet relevance in the 2040s.

@@ -26,7 +26,7 @@ Artimus Robotics (HASEL commercialization), Toyota Research and academic humanoi
 Venture capital keeps circling this category, because the materials are cheap, manufacturing is film converting, and the performance envelope genuinely resembles muscle. The unresolved questions are lifetime under load and the HV-electronics bill of materials. A reasonable posture is to watch for the first boring industrial design win (valves, haptics, pumps). Muscles for humanoids come after the boring win, not before.
 
 ## Suppliers
-[Artimus Robotics](https://www.artimusrobotics.com/) — HASEL actuator commercialization · [ESTAT Actuation](https://www.estat.tech/) — electroadhesive clutches for the same electrostatic toolbox
+[Artimus Robotics](https://www.artimusrobotics.com/) — HASEL actuator commercialization · [ESTAT Actuation](https://www.estat.tech/) — electroadhesive clutches built on the same electrostatic principle
 
 ## Further reading
 

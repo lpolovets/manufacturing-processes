@@ -23,7 +23,7 @@ Pick FMCW only when its physics is decisive: per-point velocity for separating m
 FMCW shares fog and rain attenuation with all optical sensing, though coherent gain helps. Rough surfaces produce speckle noise. Doppler ambiguity requires careful chirp design. Laser coherence degrades with temperature and aging. Ecosystem risk counts as a failure mode too: there are few vendors and the silicon is young, which matters for any program betting on it.
 
 ## Examples
-Aeva (Daimler Trucks design-in — the flagship), Mobileye's internal FMCW program (wound down 2024, a cautionary datapoint), Scantinel, SiLC; academic silicon-photonic beam-steering demos pointing at the chip-scale endgame.
+Aeva (Daimler Trucks design-in, the flagship program), Mobileye's internal FMCW program (wound down in 2024), Scantinel, SiLC; academic silicon-photonic beam-steering demos aiming at chip-scale units.
 
 ## Economic profile
 The bet is that LiDAR ends up as a silicon-photonics chip. If that happens, FMCW's extra physics comes nearly free and ToF incumbents face a discontinuity. Until that integration matures, units stay expensive and design-ins stay scarce; Aeva's truck win is the category's existence proof. Watch silicon-photonics fab partnerships rather than demo videos.

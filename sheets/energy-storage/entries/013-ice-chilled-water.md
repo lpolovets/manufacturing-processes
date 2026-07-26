@@ -20,7 +20,7 @@ The technology is mature and cheap: it uses standard HVAC equipment, tanks last 
 Install ice or chilled-water storage in any building or district system with a large afternoon cooling peak, meaningful time-of-use or demand-charge spreads, and room for tanks. New construction and district cooling usually pencil best, because the tank can displace chiller capacity rather than add to it. Wherever cooling drives the peak, this is the default first move before batteries. Skip it if rate structures are flat, cooling load is small, or floor space is worth more than the demand savings. And remember that it only shifts cooling; if you need general load shifting or backup, use a behind-the-meter battery instead.
 
 ## Examples
-Thousands of Calmac/Trane ice-tank buildings, Chicago and Gulf-region district cooling plants, Ice Energy's residential "Ice Bear" (bankrupt — the small-scale cautionary tale), Singapore's Marina Bay district system.
+Thousands of Calmac/Trane ice-tank buildings, Chicago and Gulf-region district cooling plants, Ice Energy's residential "Ice Bear" (bankrupt), Singapore's Marina Bay district system.
 
 ## Economic profile
 When a building needs cooling anyway, this is among the cheapest peak-shifting storage available: tens of $/kWh-equivalent, with utility-grade reliability. The market is limited by cooling demand and rate design, not by the technology. As air conditioning drives grid peaks higher, this old idea keeps getting rediscovered.

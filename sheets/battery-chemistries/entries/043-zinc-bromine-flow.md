@@ -20,7 +20,7 @@ The reactants are cheap and abundant, energy density is better than vanadium flo
 Consider zinc-bromine only where its cheaper reactants and roughly double vanadium's energy density genuinely change the project economics, which usually means remote or off-grid installations that tolerate scheduled full-strip discharges and hands-on maintenance, and where single-vendor risk is acceptable (Redflow's 2024 administration is the cautionary datapoint). Avoid it for bankability-critical fleet deployments or any site that wants fire-and-forget operation. VRFB is the proven flow choice and LFP is the default battery, so price both first.
 
 ## Examples
-Redflow (Australia; entered administration 2024 — a cautionary datapoint) residential-to-utility zinc-bromine modules; Primus Power's no-membrane design; historic ZBB/Ensync systems.
+Redflow (Australia; entered administration 2024) residential-to-utility zinc-bromine modules; Primus Power's no-membrane design; historic ZBB/Ensync systems.
 
 ## Economic profile
 Zinc-bromine has been commercialized several times and stalled each time. The materials-cost promise is real, but complexity-driven O&M and single-vendor risk have kept bankability out of reach. Its success probably depends on mechanical simplification (fewer moving parts) rather than further electrochemical work.

@@ -20,7 +20,7 @@ LAES has no geology or geography constraints, uses a mature industrial supply ch
 Pick LAES when you need siting freedom (no salt, no mountains, brownfield industrial land works fine) for 8–12+ hour duty on a grid with abundant cheap surplus to charge from, ideally with an industrial neighbor to buy the waste cold or supply waste heat. Wind-heavy systems like Britain's are the archetype. The mature industrial-gas supply chain makes it the most bankable of the geology-free mechanical options. Avoid it where charging power isn't reliably cheap or duty is under 8 hours: you pay the 50–60% round trip on every cycle, while Li-ion does better intraday and advanced CAES does better wherever caverns exist.
 
 ## Examples
-Highview Power: Pilsworth pilot, the 50 MW/300 MWh Carrington plant (UK, under construction with UK IB backing), and gigawatt-hour follow-ons; Sumitomo's investment as the industrial-gas validation.
+Highview Power: Pilsworth pilot, the 50 MW/300 MWh Carrington plant (UK, under construction with UK IB backing), and gigawatt-hour follow-ons; Sumitomo (industrial gases) as an investor.
 
 ## Economic profile
 Tank capacity costs tens of $/kWh; the expensive parts are the liquefier and power island ($/kW). LAES therefore wants 8–12+ hour duty with abundant cheap surplus power, which is exactly the profile of wind-heavy grids like Britain's. You accept the efficiency penalty in exchange for siting freedom and a mature supply chain.

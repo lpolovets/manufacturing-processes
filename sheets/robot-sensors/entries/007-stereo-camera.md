@@ -23,7 +23,7 @@ Pick stereo for outdoor depth in sunlight at roughly 0.5–15 m (drones, sidewal
 Texture-poor surfaces such as white walls and shiny tables yield holes or garbage without the projector, and the projector itself washes out in direct sunlight. Repetitive patterns like fences and gratings cause false matches that report wrong depth with high confidence. Thermal or mechanical flex of the baseline mis-scales the world until you recalibrate, with no obvious symptom in the meantime. Specular and transparent objects break the Lambertian assumption that the whole method depends on.
 
 ## Examples
-Intel RealSense D400 series (the research default, surviving Intel's wind-down scare), Stereolabs ZED (outdoor/long baseline), Luxonis OAK-D (with on-board neural compute), Skydio's navigation cameras (the high-water mark of stereo-only autonomous flight), Subaru EyeSight (automotive stereo's persistence).
+Intel RealSense D400 series (the research default, surviving Intel's wind-down scare), Stereolabs ZED (outdoor/long baseline), Luxonis OAK-D (with on-board neural compute), Skydio's navigation cameras (the strongest example of stereo-only autonomous flight), Subaru EyeSight (automotive stereo's persistence).
 
 ## Economic profile
 $200–500 modules made stereo the default lab and startup depth sensor. Its commercial position is squeezed from two sides: ToF modules from underneath (cheaper, better indoors, phone volume) and learned monocular depth from above (free with the camera you already have). Sunlight performance and metric reliability keep stereo the outdoor workhorse. Skydio-class results show how far the modality stretches with enough software.

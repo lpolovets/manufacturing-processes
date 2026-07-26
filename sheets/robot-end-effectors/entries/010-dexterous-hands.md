@@ -27,7 +27,7 @@ Pick a dexterous hand only when task generality is itself the product: humanoid 
 6–16 DoF, underactuated and compliance-protected, engineered for manufacture, service-swap, and consumable fingertips: Tesla Optimus's tendon-driven hands, Figure's iterations, Sanctuary's hydraulic fingers, 1X's compliant design. These ship attached to robots rather than being sold as hands, though a component-supplier tier is now forming.
 
 ## Examples
-OpenAI's cube manipulation (Shadow), academic in-hand-reorientation and tool-use research on Allegro/LEAP, teleoperated data collection for manipulation foundation models, Optimus/Figure demos folding laundry and sorting objects — the public benchmarks of the production camp.
+OpenAI's cube manipulation (Shadow), academic in-hand-reorientation and tool-use research on Allegro/LEAP, teleoperated data collection for manipulation foundation models, Optimus/Figure demos folding laundry and sorting objects (the production camp's public benchmarks).
 
 ## Economic profile
 Two economies share one anatomy. The first is a tiny research-instrument market (~$10–50M/yr) that matters far more than its size suggests, because it is the R&D bench and the training-data source for the production wave. The second is a potential tens-of-millions-of-units component market if general-purpose humanoids ship, with razor-blade fingertip economics. One open question prices both: what fraction of deployed humanoid tasks actually needs more than a pinch? If the answer is "most," hands become the strategic component of the era. If it's "few," humanoids ship with two-finger grippers and the premium collapses.

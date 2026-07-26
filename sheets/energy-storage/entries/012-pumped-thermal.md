@@ -20,7 +20,7 @@ It sites anywhere, uses cheap thermal media, lasts decades, and runs on a fully 
 Treat pumped thermal as a pilot-stage bet, not a procurement option. Back it only if you're funding geology-free 10–24 hour storage development and can condition capital on measured (not modeled) round trip from an integrated plant; 55%+ is the threshold that makes the arbitrage math work. Its promise is CAES-class $/kWh anywhere, which is worth option money. For capacity you need this decade, buy Li-ion below 8 hours and advanced CAES or LAES beyond it. And if the site's real product could be heat rather than electricity, skip the heat engine entirely and buy solid heat bricks.
 
 ## Examples
-Malta Inc (X/Alphabet spinout, salt-based), Echogen (supercritical CO2 cycle), Stiesdal GridScale (rock), MAN ETES; academic origins in Isentropic Ltd's gravel design (an early cautionary failure).
+Malta Inc (X/Alphabet spinout, salt-based), Echogen (supercritical CO2 cycle), Stiesdal GridScale (rock), MAN ETES; academic origins in Isentropic Ltd's gravel design (an early venture that failed).
 
 ## Economic profile
 On paper it's the best of both worlds: cavern-free siting with CAES-class $/kWh. In practice the efficiency-versus-capex trade-off is very tight, because every compromise in turbomachinery drops RTE toward values where cheap thermal media can't save the arbitrage math. In this category, the diligence question is always the measured round trip, not the modeled one.

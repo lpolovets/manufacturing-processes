@@ -20,7 +20,7 @@ These fuels are fully compatible with today's liquid-fuel logistics, need no cry
 Pursue LOHC and e-fuels only where a mandate or premium fuel offtake pays for the poor efficiency: SAF quotas, maritime rules, contracted e-methanol. Underwrite them as commodity-chemicals projects with secured cheap power, CO2 supply, and heat integration for the endothermic steps. LOHC specifically makes sense when hydrogen has to move through existing liquid-fuel logistics without cryogenics or pressure. Don't deploy any of this as grid storage: at 10–30% chain efficiency it loses to every alternative. If you need seasonal power, use hydrogen caverns; if you need bulk seaborne energy, ammonia's infrastructure head start makes it the better choice.
 
 ## Examples
-Hydrogenious LOHC (Germany, benzyltoluene), Chiyoda's SPERA methylcyclohexane demo (Brunei–Japan shipping), HIF Global's Haru Oni e-methanol plant (Chile, Porsche offtake), Infinium and Twelve e-fuel plants, EU ReFuelEU aviation mandates as the demand engine.
+Hydrogenious LOHC (Germany, benzyltoluene), Chiyoda's SPERA methylcyclohexane demo (Brunei–Japan shipping), HIF Global's Haru Oni e-methanol plant (Chile, Porsche offtake), Infinium and Twelve e-fuel plants, EU ReFuelEU aviation mandates as the source of demand.
 
 ## Economic profile
 As electricity storage these chains don't work; the efficiency losses are too high. As regulated fuels they are viable exactly where mandates or carbon prices force them (SAF quotas, maritime rules). Investment lens: these are commodity-chemicals businesses, and the "storage" framing makes the round trip look better than it is. Underwrite the fuel offtake, not the arbitrage.

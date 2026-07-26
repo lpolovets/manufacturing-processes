@@ -20,7 +20,7 @@ The strengths are near-zero marginal hardware cost for the energy capacity, mass
 Start V2G with fleets whose parking is predictable and contractual (school buses, delivery depots, corporate lots), in jurisdictions where export interconnection and tariffs already pay for it. The vehicles sit idle 95% of the time, so you get near-free evening capacity without betting on consumer behavior. For residential programs, deploy V1G smart charging first: it captures most of the value with none of the bidirectional hardware or warranty friction. Avoid underwriting V2G as firm capacity where interconnection rules are immature or driver availability is statistical. Grid commitments that must hold on the tenth hot evening still belong to stationary batteries.
 
 ## Examples
-UK's Octopus Power Pack V2G tariff, Nuvve school-bus fleets (predictable parking makes buses the beachhead), GM Energy and Ford home-backup ecosystems, California's emergency load program precedents, Renault/Mobilize V2G in France.
+UK's Octopus Power Pack V2G tariff, Nuvve school-bus fleets (predictable parking makes buses the easiest fleet to start with), GM Energy and Ford home-backup ecosystems, California's emergency load program precedents, Renault/Mobilize V2G in France.
 
 ## Economic profile
 The economics look great in theory (free capacity, paid twice), and the bottleneck is entirely institutional: interconnection, market access rules, and consumer trust. School buses, depots, and fleet vehicles with predictable schedules pencil first. For grid planning, even V1G smart charging captures most of the value at a fraction of the friction.

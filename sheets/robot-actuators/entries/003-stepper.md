@@ -20,7 +20,7 @@ Steppers are very cheap, simple to control, hold full torque at standstill, and 
 Pick a stepper when the load is light and predictable, speeds stay in the low hundreds of RPM, and the whole axis has to land under roughly $30. That covers instrument stages, syringe pumps, tool positioners, and printer-class motion where full holding torque at standstill is useful. If a missed step would matter but the budget still can't reach a servo, use a closed-loop variant with an encoder. Avoid steppers wherever the load can vary or collide, because lost steps fail silently, and wherever watts or heat matter, because the motor draws full current doing nothing. Above that line, use a BLDC servo axis. For powered limbs, a stepper was never a candidate.
 
 ## Examples
-Every FDM 3D printer axis (NEMA 17 as a de facto standard), syringe pumps and lab robots, pick-and-place machines, telescope mounts; hybrid closed-loop steppers (ClearPath, cheap Chinese servo-steppers) eating the low-end servo market.
+Every FDM 3D printer axis (NEMA 17 as a de facto standard), syringe pumps and lab robots, pick-and-place machines, telescope mounts; hybrid closed-loop steppers (ClearPath, cheap Chinese servo-steppers) taking share from the low-end servo market.
 
 ## Economic profile
 Steppers are the cheapest precision positioning per axis available, at $5–20 for the motor and $2 for the driver, with a large commodity ecosystem behind them. In robotics proper they're confined to instrument axes and tooling, but they set the cost floor for everything above them: any servo axis has to justify its premium against a $15 stepper that already does open-loop positioning.

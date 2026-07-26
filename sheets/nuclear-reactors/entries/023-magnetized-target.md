@@ -18,7 +18,7 @@ Plant integration is unusually clean, because the liquid-metal liner solves firs
 Back MTF if your read is that engineering, rather than physics, is what kills fusion projects. Here the plant-killer problems (first-wall damage, tritium breeding, heat capture) are all solved at once by the liquid-metal liner, which leaves a single concentrated physics question: whether the target plasma survives compression. That inversion suits investors who prefer one binary technical risk over a long chain of engineering problems that all have to go right. Size the position for a category that is one or two balance sheets deep. If you want diversified, physics-validated fusion exposure, you belong in tokamaks.
 
 ## Examples
-General Fusion (Vancouver, 20+ years, Bezos-backed; its LM26 machine demonstrated plasma compression milestones in 2025 amid deep funding difficulties — the field's bellwether and its warning), Helion arguably borrows MTF physics in pulsed form, historic LANL FRX-L and Soviet MAGO programs.
+General Fusion (Vancouver, 20+ years, Bezos-backed; its LM26 machine demonstrated plasma compression milestones in 2025 amid deep funding difficulties), Helion arguably borrows MTF physics in pulsed form, historic LANL FRX-L and Soviet MAGO programs.
 
 ## Economic profile
 On paper this is the cheapest path to a fusion *plant* rather than a fusion *experiment*, because everything expensive about tokamaks and lasers is replaced by pistons and pumps. In practice the category's fortunes track one company's balance sheet. For diligence, price the plasma-compression physics as the whole risk, because the engineering story, uniquely in fusion, is already plausible.

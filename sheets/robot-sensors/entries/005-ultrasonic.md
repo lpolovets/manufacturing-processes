@@ -23,7 +23,7 @@ Pick ultrasonic for last-centimeter work and transparent obstacles: docking, par
 Specular surfaces at oblique angles bounce echoes away, so a smooth wall at 45° reads as empty space. Sound-absorbent obstacles such as clothing and foam return nothing. Ultrasonic cleaners, air nozzles, and other robots' pingers inject phantom echoes. Rain and wind noise degrade outdoor use. Contamination on the transducer face, like mud or ice, kills sensitivity without any warning.
 
 ## Examples
-Automotive park-assist rings (billions of units — Bosch, Murata), HC-SR04 modules on every Arduino robot, Tesla's ultrasonic suite (removed 2022 in the camera-only purge — the counterexample), drone landing altimeters, tank-level industrial sensors.
+Automotive park-assist rings (billions of units — Bosch, Murata), HC-SR04 modules on every Arduino robot, Tesla's ultrasonic suite (removed in 2022 when Tesla went camera-only), drone landing altimeters, tank-level industrial sensors.
 
 ## Economic profile
 Ultrasonic is a solved, commoditized technology at $1–20 per unit, and its niche looks permanent, because the glass-detection and last-centimeter problems don't yield to cameras. Tesla's removal and partial walk-back of parking performance illustrates the trade. In robot BOMs it persists as the cheap safety net nobody brags about, which is the right role for it.

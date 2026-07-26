@@ -6,7 +6,7 @@
   "category": "Energy",
   "question": "Which reactor design fits this program?",
   "title": "Nuclear Reactor Types: A Practical Reference",
-  "lede": "Every reactor is a bet on a coolant, a fuel cycle, a regulator, and a decade. This guide catalogs {{N_ENTRIES}} designs across seven classes — from the light-water fleet that makes 9% of world electricity to the fusion approaches racing toward first power — with the capex, fuel, and timeline context that decides which bets pay.",
+  "lede": "Every reactor is a bet on a coolant, a fuel cycle, a regulator, and a decade. This guide catalogs {{N_ENTRIES}} designs across seven classes, from the light-water fleet that makes 9% of world electricity to the fusion approaches chasing first power, with the capex, fuel, and timeline context that decides which of those bets are worth making.",
   "unit": ["design", "designs"],
   "groupLabel": "Class",
   "explorerTab": "Design explorer",
@@ -25,14 +25,14 @@
     { "id": 4, "roman": "IV", "name": "Fast-Spectrum", "blurb": "burn and breed fuel with fast neutrons", "color": "var(--p4)" },
     { "id": 5, "roman": "V", "name": "Molten Salt & Advanced Fuels", "blurb": "liquid fuel and exotic cycles", "color": "var(--p5)" },
     { "id": 6, "roman": "VI", "name": "Micro & Special-Purpose", "blurb": "container-scale power for remote loads", "color": "var(--p6)" },
-    { "id": 7, "roman": "VII", "name": "Fusion", "blurb": "the long bet: energy from fusing nuclei", "color": "var(--p7)" }
+    { "id": 7, "roman": "VII", "name": "Fusion", "blurb": "energy from fusing nuclei instead of splitting them", "color": "var(--p7)" }
   ],
   "groupBlurbs": {
     "Light-water": "the workhorse fleet behind most nuclear power",
     "Heavy-water": "natural-uranium fuel with online refueling",
     "Graphite-moderated": "early designs that ran on natural uranium",
     "High-temperature gas": "meltdown-proof cores that sell process heat",
-    "Fast-spectrum": "close the fuel cycle and eat spent fuel",
+    "Fast-spectrum": "close the fuel cycle and burn spent fuel",
     "Molten salt": "liquid fuel at low pressure and high heat",
     "Micro & special-purpose": "compact power for remote and mobile loads",
     "Fusion": "power from fusing nuclei, still pre-commercial"

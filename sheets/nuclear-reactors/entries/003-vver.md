@@ -19,7 +19,7 @@ The VVER has a long operating record across 30+ countries' worth of units, genui
 The VVER is the rational choice if you're a first-time nuclear nation without investment-grade credit and you want a single counterparty for financing, fuel, operations, and waste. That's the buyer profile of Egypt, Bangladesh, and Turkey. Treat the decision as geopolitical before technical: only accept it if six decades of dependency on Moscow is tolerable and sanctions exposure is manageable. If you're a NATO/EU-aligned buyer, or you're otherwise hedging Russia risk, price the APR-1400 as the closest Western analogue on delivered cost. If you already run a VVER fleet, qualifying Westinghouse fuel is the way to reduce the dependency.
 
 ## Examples
-VVER-1200s operating at Novovoronezh and Leningrad; export builds at Akkuyu (Turkey — four units), El Dabaa (Egypt), Rooppur (Bangladesh), Kudankulam (India), Tianwan (China); ~20 units in Rosatom's export book.
+VVER-1200s operating at Novovoronezh and Leningrad; export builds at Akkuyu (Turkey, four units), El Dabaa (Egypt), Rooppur (Bangladesh), Kudankulam (India), Tianwan (China); ~20 units in Rosatom's export book.
 
 ## Economic profile
 Quoted export prices run ~$5–6k/kW with state financing at concessional rates, a package Western vendors structurally cannot match. Rosatom's real product is geopolitical lock-in: 60-year relationships covering fuel, service, and spent-fuel return. For market analysis, treat the VVER as the pricing floor and the diplomatic competitor that every Western SMR export campaign is really up against.

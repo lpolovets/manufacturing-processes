@@ -6,7 +6,7 @@
   "category": "Energy",
   "question": "How should this energy be stored?",
   "title": "Energy Storage: A Practical Reference",
-  "lede": "Storage is bought by the hour: the technologies that win at minutes lose badly at weeks, and the killer axis is discharge duration versus cost per stored kWh. This guide catalogs {{N_ENTRIES}} technologies across seven classes, from pumped hydro to green hydrogen and virtual storage.",
+  "lede": "Storage is bought by the hour: the technologies that win at minutes lose badly at weeks, and the axis that decides most of it is discharge duration versus cost per stored kWh. This guide catalogs {{N_ENTRIES}} technologies across seven classes, from pumped hydro to green hydrogen and virtual storage.",
   "unit": ["technology", "technologies"],
   "groupLabel": "Class",
   "explorerTab": "Technology explorer",
@@ -34,7 +34,7 @@
     "Thermal": "store heat cheaply for buildings, industry, power",
     "Hydrogen & carriers": "turn power into molecules for weeks or seasons",
     "Electrochemical": "batteries shifting grid power by the hour",
-    "Electrical": "instant power for seconds, endless cycles",
+    "Electrical": "instant power for seconds, near-unlimited cycles",
     "Virtual & distributed": "software turning demand and EVs into storage"
   },
   "facets": [

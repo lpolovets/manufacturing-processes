@@ -20,7 +20,7 @@ They work on porous and non-ferrous surfaces, use nearly zero energy (electrosta
 Reach for these only where vacuum and magnets are physically disqualified: limp porous textiles and composite plies that leak air, perforated sheet, and in-vacuum handling of wafers or space hardware where there is no atmosphere to press with. Near-zero power and silence are a bonus in those settings. Prototype against your actual materials and humidity before committing, because holding pressure is a fraction of vacuum's. For mainstream picking of sealable surfaces, vacuum wins on force, speed, and track record. Treat any general-gripping pitch built on these mechanisms with the skepticism the category's commercial history has earned.
 
 ## Examples
-Grabit's electroadhesive sheet handlers (Nike shoe-upper stacking — the famous win, and a company that faded), gecko grippers on Stanford/JPL space-debris demos and ISS experiments, OnRobot's briefly-sold Gecko line, textile and composite-ply handling pilots.
+Grabit's electroadhesive sheet handlers (Nike shoe-upper stacking, the best-known win; the company later faded), gecko grippers on Stanford/JPL space-debris demos and ISS experiments, OnRobot's briefly-sold Gecko line, textile and composite-ply handling pilots.
 
 ## Economic profile
 The category has been promising for a long time and commercially fitful. Each mechanism owns real niches (limp textiles, in-vacuum handling), but those niches are individually small, and the flagship vendors have repeatedly stalled. The apparel-automation prize (sewing's limp-fabric problem) keeps venture interest alive. The right posture is to back application-specific bets where vacuum physically cannot compete, and to discount general-gripping stories.

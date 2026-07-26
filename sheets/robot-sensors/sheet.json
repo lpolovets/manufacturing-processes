@@ -6,7 +6,7 @@
   "category": "Robotics and Manufacturing",
   "question": "How should this robot perceive the world?",
   "title": "Robot Sensors: A Practical Reference",
-  "lede": "A robot is only as honest as its sensors, and every sensor lies in its own characteristic way. This guide catalogs {{N_ENTRIES}} sensing technologies across six classes — with range, cost, compute burden, and, for each one, the failure modes that actually bite in the field.",
+  "lede": "A robot only knows what its sensors tell it, and every sensor is wrong in its own characteristic way. This guide covers {{N_ENTRIES}} sensing technologies across six classes, with range, cost, compute burden, and the failure modes that actually cause trouble in the field.",
   "unit": ["sensor type", "sensor types"],
   "groupLabel": "Class",
   "explorerTab": "Sensor explorer",

@@ -5,13 +5,13 @@
     <div class="tblwrap"><table>
       <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
       <tbody>
-        <tr><td>Torque/force density</td><td>Nm/kg at the joint sets what a limb can lift including itself; legged robots live and die by it. Continuous (thermal) ratings matter more than peak numbers.</td></tr>
-        <tr><td>Backdrivability &amp; impedance</td><td>Whether the world can push back determines contact safety, force control quality, and survival of impacts. Reflected inertia scales with gear ratio squared — the hidden killer.</td></tr>
+        <tr><td>Torque/force density</td><td>Nm/kg at the joint sets what a limb can lift including itself, and legged robots are especially sensitive to it. Continuous (thermal) ratings matter more than peak numbers.</td></tr>
+        <tr><td>Backdrivability &amp; impedance</td><td>Whether the world can push back determines contact safety, force control quality, and survival of impacts. Reflected inertia scales with the square of the gear ratio, which is easy to miss.</td></tr>
         <tr><td>Precision &amp; backlash</td><td>Transmission backlash, compliance, and cogging set achievable accuracy; zero-backlash transmissions (harmonic, cycloidal preloaded) buy precision with friction and cost.</td></tr>
-        <tr><td>Bandwidth</td><td>Control-loop speed — how fast force or position commands become reality. Fluid lines, elastic elements, and heavy rotors all eat bandwidth.</td></tr>
-        <tr><td>Efficiency &amp; heat</td><td>Motors are torque-limited by heat, not magnetics; gearing multiplies torque but adds 10–30% loss per stage. Battery-powered robots budget every watt.</td></tr>
+        <tr><td>Bandwidth</td><td>Control-loop speed: how fast a force or position command turns into motion. Fluid lines, elastic elements, and heavy rotors all reduce it.</td></tr>
+        <tr><td>Efficiency &amp; heat</td><td>Heat, rather than magnetics, is what limits continuous motor torque; gearing multiplies torque but adds 10–30% loss per stage. Battery-powered robots budget every watt.</td></tr>
         <tr><td>Power-to-weight of the whole system</td><td>Hydraulics look far better than they are until the pump, valves, and hoses are weighed; pneumatics until the compressor is. Always compare at system level.</td></tr>
-        <tr><td>Robustness</td><td>Shock loads, dust, thermal cycling, and overload behavior — gearboxes strip, harmonic drives ratchet, direct drive shrugs.</td></tr>
+        <tr><td>Robustness</td><td>Shock loads, dust, thermal cycling, and overload behavior vary by design: gearboxes strip, harmonic drives ratchet, direct drive usually survives.</td></tr>
         <tr><td>Controllability</td><td>Smooth torque (BLDC with FOC) versus discrete steps (steppers) versus valve nonlinearity (fluids) determines the control effort needed for a given motion quality.</td></tr>
       </tbody>
     </table></div>
@@ -21,11 +21,11 @@
       <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
       <tbody>
         <tr><td>Cost per axis at volume</td><td>A humanoid has 30–50 actuated degrees of freedom; a $500 difference per axis is a $20k difference per robot. Actuators are typically the largest single cost block in a robot's BOM.</td></tr>
-        <tr><td>Supply concentration</td><td>Precision strain-wave and cycloidal gearing is dominated by two Japanese firms (Harmonic Drive, Nabtesco); rare-earth magnets by China. Both are strategic chokepoints the humanoid wave is straining.</td></tr>
-        <tr><td>Drive electronics</td><td>Modern actuator economics are increasingly silicon economics: FOC controllers, GaN stages, and integrated encoders ride semiconductor cost curves that mechanical parts don't.</td></tr>
-        <tr><td>Integration level</td><td>Buying motor, gear, encoder, and drive separately versus an integrated smart-joint module trades cost against engineering time — the module market is where robotics BOMs are consolidating.</td></tr>
+        <tr><td>Supply concentration</td><td>Precision strain-wave and cycloidal gearing is dominated by two Japanese firms (Harmonic Drive, Nabtesco); rare-earth magnets by China. Both are strategic chokepoints, and humanoid demand is adding pressure to them.</td></tr>
+        <tr><td>Drive electronics</td><td>More of an actuator's cost is moving into silicon: FOC controllers, GaN stages, and integrated encoders get cheaper on semiconductor cost curves, while mechanical parts don't.</td></tr>
+        <tr><td>Integration level</td><td>Buying motor, gear, encoder, and drive separately versus an integrated smart-joint module trades cost against engineering time. Robotics BOMs are increasingly consolidating into the module layer.</td></tr>
         <tr><td>Wear &amp; service life</td><td>Gear replacement intervals and lubrication schedules dominate lifetime cost in industrial fleets; direct drive and fluid systems shift the maintenance elsewhere.</td></tr>
-        <tr><td>Volume trajectory</td><td>EV traction motors industrialized the BLDC supply chain; drone ESCs commoditized small FOC drives; humanoids are now doing the same to QDD modules and mini strain-wave gears — costs are falling an order of magnitude where volume arrives.</td></tr>
+        <tr><td>Volume trajectory</td><td>EV traction motors industrialized the BLDC supply chain; drone ESCs commoditized small FOC drives; humanoids are now doing the same to QDD modules and mini strain-wave gears. Costs fall roughly an order of magnitude wherever that volume arrives.</td></tr>
       </tbody>
     </table></div>
 

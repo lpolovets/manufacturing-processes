@@ -26,7 +26,7 @@ Harmonic Drive Systems (the namesake, ~half the world market), every UR cobot jo
 This is a textbook precision-manufacturing moat. The know-how in flexspline tooth grinding and material fatigue supported a near-monopoly for decades at $500–2,000+ per unit. Humanoid demand (a dozen or more units per robot) has started a real supply race, with Chinese units now at about a third of incumbent prices and quality closing. Compare fatigue-life data rather than catalog specs, because that's where cheap units still differ.
 
 ## Suppliers
-[Harmonic Drive](https://www.harmonicdrive.net/) — the strain-wave originator · [Leaderdrive](https://www.leaderdrive.com/) — Chinese strain-wave challenger scaling with the humanoid wave
+[Harmonic Drive](https://www.harmonicdrive.net/) — the strain-wave originator · [Leaderdrive](https://www.leaderdrive.com/) — Chinese strain-wave supplier scaling with humanoid demand
 
 ## Further reading
 

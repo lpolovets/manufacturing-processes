@@ -19,7 +19,7 @@ Energy density and shelf life are unmatched, the cells run from -55 to +85 °C, 
 Pick Li-SOCl2 for decades-long unattended service at microamp-to-milliamp drains across -55 to +85 °C (utility meters, IoT sensors, downhole tools, ordnance electronics), where sub-1%/year self-discharge is the whole point. If the device pulses, pair bobbin cells with a supercapacitor or specify spiral construction, and design for the voltage delay after dormancy. Avoid it for consumer-handled products, high-rate loads, or anything with a disposal path that can't handle toxic, corrosive cells. If you need decade-scale duty in a consumer-safe cell, use Li-MnO2 instead.
 
 ## Examples
-Utility meters (the giant volume application — Saft, Tadiran, EVE), toll transponders, downhole oil-and-gas tools, military ordnance electronics, IoT sensors expected to outlive their installers.
+Utility meters (the giant volume application — Saft, Tadiran, EVE), toll transponders, downhole oil-and-gas tools, military ordnance electronics, long-lived IoT sensors.
 
 ## Economic profile
 This is a quietly excellent business. Design-ins are sticky, replacement cycles run 20 years, safety-driven qualification keeps competitors out, and the customer base (metering, defense) doesn't care about $/kWh. EVE Energy's rise on Chinese smart-meter volume shows the scale hiding in "boring" primaries.

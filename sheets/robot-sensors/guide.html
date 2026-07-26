@@ -12,7 +12,7 @@
         <tr><td>Drift &amp; absolute reference</td><td>Dead-reckoning sensors (IMU, odometry) drift without bound; absolute sensors (GNSS, landmarks, encoders' index marks) anchor them. Every stack needs both kinds.</td></tr>
         <tr><td>Calibration burden</td><td>Extrinsics between sensors decay with vibration and temperature; a suite that needs frequent recalibration is a fleet-maintenance liability.</td></tr>
         <tr><td>Active vs passive</td><td>Active sensors (LiDAR, radar, ToF) bring their own illumination and interfere with each other at scale; passive sensors (cameras) depend on the world's lighting.</td></tr>
-        <tr><td>Safety rating</td><td>Functional-safety-rated sensing (certified safety laser scanners, category-rated encoders) is a different product category with different prices — and is what actually permits humans nearby.</td></tr>
+        <tr><td>Safety rating</td><td>Functional-safety-rated sensing (certified safety laser scanners, category-rated encoders) is a separate product category at higher prices, and it's what actually lets humans work nearby.</td></tr>
       </tbody>
     </table></div>
 
@@ -20,18 +20,18 @@
     <div class="tblwrap"><table>
       <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
       <tbody>
-        <tr><td>Volume riding</td><td>Sensor costs are set by whoever buys the most: smartphones commoditized cameras and MEMS IMUs, cars are doing it to radar and LiDAR. Pick modalities with a volume driver behind them.</td></tr>
-        <tr><td>Sensor cost vs compute cost</td><td>The industry's recurring trade: cheap sensor + heavy compute (cameras) versus expensive sensor + light compute (LiDAR). GPU price curves and model efficiency keep moving the answer.</td></tr>
-        <tr><td>Camera-only vs fusion ideology</td><td>Tesla's camera-only bet against the industry's fusion consensus is the field's defining argument — it is an economics claim (sensors are cost, software is leverage) as much as a technical one.</td></tr>
-        <tr><td>Supplier concentration</td><td>Automotive-grade LiDAR is consolidating fast (Hesai, RoboSense at volume); safety scanners are a SICK/Keyence duopoly-adjacent market; high-grade IMUs are export-controlled.</td></tr>
-        <tr><td>Degradation &amp; fleet maintenance</td><td>Dirty lenses, scratched windows, and vibration-loosened mounts dominate real-world sensor downtime — cleaning and self-diagnosis are product features, not afterthoughts.</td></tr>
-        <tr><td>Data as the product</td><td>Sensor choice determines what training data a fleet collects; a modality decision today shapes the learning moat five years out.</td></tr>
+        <tr><td>Volume riding</td><td>Sensor prices follow the biggest buyer. Smartphones made cameras and MEMS IMUs cheap; automotive volume is doing the same to radar and LiDAR. Prefer modalities with a volume driver behind them.</td></tr>
+        <tr><td>Sensor cost vs compute cost</td><td>Cheap sensor plus heavy compute (cameras) versus expensive sensor plus light compute (LiDAR). GPU prices and model efficiency keep moving the answer, so the choice gets re-argued every few years.</td></tr>
+        <tr><td>Camera-only vs fusion ideology</td><td>Tesla bets on cameras alone; most of the industry fuses several modalities. The disagreement is about economics (sensors cost money on every unit, software is written once) as much as about physics.</td></tr>
+        <tr><td>Supplier concentration</td><td>Automotive-grade LiDAR is consolidating fast (Hesai, RoboSense at volume); safety scanners are dominated by SICK and Keyence; high-grade IMUs are export-controlled.</td></tr>
+        <tr><td>Degradation &amp; fleet maintenance</td><td>Dirty lenses, scratched windows, and vibration-loosened mounts cause most real-world sensor downtime, so design in cleaning and self-diagnosis early.</td></tr>
+        <tr><td>Data as the product</td><td>Sensor choice determines what training data a fleet collects, so a modality picked today decides what five years of logs are good for.</td></tr>
       </tbody>
     </table></div>
 
     <h3>Range bands</h3>
     <div class="bands">
-      <div class="band"><div class="bt">Contact</div><div class="bv">Force-torque, tactile, current sensing — manipulation's ground truth</div></div>
+      <div class="band"><div class="bt">Contact</div><div class="bv">Force-torque, tactile, current sensing — what manipulation runs on</div></div>
       <div class="band"><div class="bt">Near (&lt;1 m)</div><div class="bv">Ultrasonic, ToF cameras, proximity — docking and grasping</div></div>
       <div class="band"><div class="bt">Mid (1–30 m)</div><div class="bv">Stereo, indoor LiDAR, UWB — the indoor-robot envelope</div></div>
       <div class="band"><div class="bt">Far (30–300 m)</div><div class="bv">Automotive LiDAR, radar, telephoto cameras — highway speeds</div></div>
@@ -43,7 +43,7 @@
       <div class="band"><div class="bt">Trivial</div><div class="bv">Encoders, IMUs, ultrasonic — a register read and a filter</div></div>
       <div class="band"><div class="bt">Moderate</div><div class="bv">Radar DSP, ToF depth, GNSS solutions</div></div>
       <div class="band"><div class="bt">Heavy</div><div class="bv">Point-cloud registration, stereo matching, SLAM</div></div>
-      <div class="band"><div class="bt">Extreme</div><div class="bv">Learned perception on camera streams — where the watts and dollars live</div></div>
+      <div class="band"><div class="bt">Extreme</div><div class="bv">Learned perception on camera streams — most of the watts and dollars</div></div>
     </div>
 
     <h2>The fusion imperative</h2>

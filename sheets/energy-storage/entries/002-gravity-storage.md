@@ -20,7 +20,7 @@ Solid gravity offers high efficiency, no cycle fade, no exotic materials, and wo
 Consider solid gravity only where an existing deep shaft or structure supplies the height for free (decommissioned mines with 500+ m drops) and the buyer specifically needs chemistry-free storage with zero fade and cold-weather indifference. Greenfield block towers are almost never the answer: realized FOAK costs sit above Li-ion, fleet-scale mechanical reliability is unproven, and an LFP container wins every intraday application. If you need cheap bulk capacity at real scale, go to pumped hydro or CAES. Treat gravity as a site-specific reuse play, not a category bet.
 
 ## Examples
-Energy Vault's EVx towers (Rudong, China — the first commercial-scale build, and Energy Vault's own pivot toward batteries is telling), Gravitricity mine-shaft pilots (UK/Czech), various Chinese EPC-led block towers.
+Energy Vault's EVx towers (Rudong, China — the first commercial-scale build; Energy Vault has since pivoted toward batteries), Gravitricity mine-shaft pilots (UK/Czech), various Chinese EPC-led block towers.
 
 ## Economic profile
 Vendors claim $150–300/kWh with long life and zero augmentation; realized FOAK numbers land well above Li-ion. The bet only works if structure and machinery costs fall faster than lithium's learning curve, and the category is currently losing that race. Mine-shaft reuse in specific geographies is the most defensible niche.

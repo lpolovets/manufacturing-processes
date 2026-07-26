@@ -23,7 +23,7 @@ Pick thermal when the job is finding warm things where light fails: pedestrian d
 Thermal crossover at dawn and dusk erases the contrast between targets and background. Reflective metal surfaces show the sky's temperature rather than their own. Glass blocks the view entirely. Sun-heated clutter creates false positives for any "warm object" logic. Uniformity drift requires periodic shutter-based recalibration, which blinds the camera for a moment each time. Low resolution merges adjacent objects at range.
 
 ## Examples
-FLIR (Teledyne) Lepton/Boson modules — the category's Intel; automotive night vision (Autoliv/Veoneer systems in premium cars), AEB-pedestrian research after high-profile nighttime failures, firefighting and SAR drones (DJI thermal payloads), battery-plant and substation monitoring robots.
+FLIR (Teledyne) Lepton/Boson modules, the dominant supplier; automotive night vision (Autoliv/Veoneer systems in premium cars), AEB-pedestrian research after high-profile nighttime failures, firefighting and SAR drones (DJI thermal payloads), battery-plant and substation monitoring robots.
 
 ## Economic profile
 Leptons brought entry thermal to ~$200, but automotive-grade resolution is still a $1k+ story driven by germanium optics and regulation. A genuine volume driver (NHTSA's pedestrian-AEB night requirements pushing thermal into mainstream cars) could finally bring those costs down. In robotics it is a specialist that earns its slot wherever robots share darkness with living things.

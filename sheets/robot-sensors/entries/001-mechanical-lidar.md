@@ -23,7 +23,7 @@ Pick spinning LiDAR when you need 360° geometry from a single mast-mounted unit
 Rain, snow, fog, and dust both return spurious points and absorb signal. Glass and mirrors either read as invisible or place the surface somewhere else entirely. Retroreflectors bloom and ghost. Wet black asphalt absorbs returns. Multiple LiDARs interfere with each other once you run them at scale. Bearing wear ends in dead sectors or total loss, usually gradually but sometimes all at once.
 
 ## Examples
-Velodyne HDL-64 (the icon, retired), Ouster OS-series digital LiDAR, RoboSense and Hesai mechanical lines on countless robotaxis, delivery robots, and mining trucks; survey and mapping backpacks.
+Velodyne HDL-64 (the iconic early unit, now retired), Ouster OS-series digital LiDAR, RoboSense and Hesai mechanical lines on countless robotaxis, delivery robots, and mining trucks; survey and mapping backpacks.
 
 ## Economic profile
 Prices went from $75k (HDL-64) to sub-$1k (Chinese 32-beam units) in fifteen years, one of the steepest cost declines in robotics, driven by Hesai/RoboSense automotive volume. Mechanical spinning units increasingly serve robotics and mapping while automotive design-ins shift to solid-state. What keeps the spinning form factor alive is 360° coverage per dollar, which nothing has beaten yet.

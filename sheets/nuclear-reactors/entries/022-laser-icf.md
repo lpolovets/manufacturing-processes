@@ -18,7 +18,7 @@ This is the only approach with demonstrated ignition, it needs no magnets and no
 Back laser inertial fusion if you weight demonstrated ignition above all else and you believe diode-pumped laser efficiency and cents-per-unit target manufacturing can each improve by the required factor of ~100. The bet rides on those two cost curves rather than on plasma physics. The defense overlap is a genuine de-risker, since stockpile-stewardship revenue can carry ventures across the long gap to power. If you like the inertial physics but not the laser economics, pulsed-magnetic drivers (Pacific Fusion) run the same wager on capacitors at a tenth the driver cost. If you need power-plant engineering plausibility now, look at MTF or the tokamak camp.
 
 ## Examples
-NIF (LLNL — ignition, repeatedly), Xcimer Energy (Denver, excimer lasers at 10× NIF energy for cheap direct drive), Focused Energy (Texas/Darmstadt, proton fast ignition), Germany's Marvel Fusion, historic Laser Mégajoule (France) and Omega (Rochester).
+NIF (LLNL, ignition achieved repeatedly), Xcimer Energy (Denver, excimer lasers at 10× NIF energy for cheap direct drive), Focused Energy (Texas/Darmstadt, proton fast ignition), Germany's Marvel Fusion, historic Laser Mégajoule (France) and Omega (Rochester).
 
 ## Economic profile
 Ignition transformed the field's credibility and fundraising overnight, but every link in the commercial chain (diode-pumped lasers at ~10% efficiency, mass-produced targets, chamber survivability) is its own venture-scale program. The near-term revenue is defense work. Inertial fusion expertise is stockpile-stewardship expertise, and several startups quietly monetize that overlap while the power plant slips into the 2040s.

@@ -30,7 +30,7 @@ Two artificial reservoirs off-river. Permitting is far easier, and most new US p
 Doubly-fed or ternary machines enabling regulation while pumping.
 
 ## Examples
-Bath County (3 GW, Virginia — long the world's largest), Fengning (3.6 GW, China), Dinorwig (UK fast-response), dozens of GW under construction in China; Australia's Snowy 2.0 as the cautionary cost-overrun tale.
+Bath County (3 GW, Virginia — long the world's largest), Fengning (3.6 GW, China), Dinorwig (UK fast-response), dozens of GW under construction in China; Australia's Snowy 2.0 as the well-known cost-overrun case.
 
 ## Economic profile
 Capex runs $1,500–4,000/kW but often only $20–80/kWh at 10+ hour durations, which is the long-duration benchmark every other technology gets measured against. A multi-decade asset life amortizes almost anything, but only where geology, water, and patient capital coexist. China builds it state-directed, while Western merchant markets struggle to finance 10-year construction.

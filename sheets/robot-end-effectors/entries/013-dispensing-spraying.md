@@ -20,7 +20,7 @@ The consistency is impossible to reach manually. Electrostatic rotary atomizers 
 Automate fluids wherever bead or coating consistency at volume is the product: paint lines (where 80–95% transfer efficiency against ~40% by hand pays for the robot in material alone), body-shop sealing, EV battery TIM and fire-barrier dosing, and conformal coating. The same holds for any application that removes humans from isocyanate and solvent exposure. Spec closed-loop metering when viscosity or dose tolerance is tight. If your work is low-volume and high-mix, purge cycles and per-material requalification will dominate the economics. Treat every material change as an engineering event with its own validation rather than as a parameter tweak.
 
 ## Examples
-Dürr, ABB, and Fanuc paint-shop ecosystems (every automotive paint line on earth), Graco and Nordson dispensing valves, SCA/Atlas Copco sealing systems in body shops, EV battery TIM and fire-barrier dispensing cells (the current growth engine), conformal coating in electronics.
+Dürr, ABB, and Fanuc paint-shop ecosystems (every automotive paint line on earth), Graco and Nordson dispensing valves, SCA/Atlas Copco sealing systems in body shops, EV battery TIM and fire-barrier dispensing cells (the current growth area), conformal coating in electronics.
 
 ## Economic profile
 Automotive painting is one of robotics' oldest solved markets, an oligopoly with decades of process moat. The new money is in EV batteries: every pack needs meters of precisely-dosed adhesives, gap fillers, and thermal materials, so dispensing benefits from electrification roughly in proportion to cell production itself. Materials suppliers (Henkel, Sika) and equipment vendors jointly own the recipe lock-in.

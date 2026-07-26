@@ -23,7 +23,7 @@ Pick an event camera only when a conventional sensor's physics is the binding co
 Static scenes are invisible until something moves, though hybrid frame+event chips address this. Flickering lights such as LEDs and fluorescents flood the stream with useless events. Low light adds event noise. Per-pixel threshold mismatch requires calibration. Downstream algorithms trained on limited event datasets generalize unpredictably, so the ecosystem is a failure mode in its own right.
 
 ## Examples
-iniVation DVS and Prophesee-Sony IMX636/GenX320 (the commercial standard-bearers), high-speed tracking and vibration-monitoring industrial pilots, drone obstacle-avoidance research (UZH's aggressive-flight demos), Samsung's SmartThings motion sensing, automotive in-cabin monitoring evaluations.
+iniVation DVS and Prophesee-Sony IMX636/GenX320 (the commercial leaders), high-speed tracking and vibration-monitoring industrial pilots, drone obstacle-avoidance research (UZH's aggressive-flight demos), Samsung's SmartThings motion sensing, automotive in-cabin monitoring evaluations.
 
 ## Economic profile
 Sony's fab partnership with Prophesee signaled real intent, but a decade of "emerging" status reflects the missing volume driver: every proposed use has an adequate conventional alternative. The plausible break-in points are always-on low-power vision (wearables, IoT) and hybrid sensors where events augment frames. Price follows volume, and volume is still waiting on the app.

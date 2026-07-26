@@ -57,6 +57,9 @@ These are the AI tics currently scattered through the guides. Remove on sight:
 
 ## Scope notes
 
-- Table cells and band labels can stay telegraphic — this guide is about prose (paragraphs, Description / Strengths / When-to-use sections, callouts, ledes, "Pick it when" cells).
+- **This guide applies to every piece of text a reader sees**, not just paragraphs: entry sections, `## Examples`, `## Suppliers` descriptors, guide/h2h table cells, band labels, and the `lede` / `question` / `blurb` / `groupBlurbs` strings in `sheet.json`.
+- **Table cells and band labels may stay compressed, but not AI-flavored.** Compression is a length budget, not a license for flourishes. A cell can drop articles and use fragments; it may not use aphorisms ("wins compound, losses persist"), dramatic vocabulary ("the silent spec killer", "kill list"), or em-dash punchlines. Prefer a plain clause: state the fact, then the consequence.
+- Don't pad a short cell into a sentence just to comply. If it already reads plain, leave it.
+- **Citation titles are not ours**: `## Further reading` link titles and `## Videos` titles are external publication names. Never reword them.
 - Keep the technical density. The fix is tone, not dumbing down — Leo's writing is information-dense, it's just plainly worded.
 - These are reference sheets, not blog posts, so first-person asides ("I recently spoke with...") mostly don't apply. Borrow the sentence-level style, not the personal-essay framing. Direct "you" address is fine and encouraged in when-to-use guidance.

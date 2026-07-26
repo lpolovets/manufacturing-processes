@@ -20,7 +20,7 @@ Pneumatics is very cheap and fast (full stroke in tens of milliseconds), intrins
 Use pneumatics for binary motion against mechanical stops at high cycle rates: clamp, eject, sort, gripper open and close. It fits wherever plant air already exists and the axis has to cost tens of dollars, survive washdown, or sit in an explosive atmosphere. Compressibility helps at the gripper, where it gives intrinsic compliance and overload safety, and hurts everywhere else. Avoid pneumatics for mid-stroke position or force control, for anything untethered (the compressor is part of the system), and on energy-audited lines where 10–20% wall-to-work efficiency draws scrutiny. If the motion needs a trajectory rather than two endpoints, a servo-electric gripper or axis is the upgrade.
 
 ## Examples
-SMC and Festo's entire catalogs (a $10B+ duopoly-adjacent industry), every injection-molding sprue picker and packaging line, gripper open/close on countless robot arms, soft-robotics research (air is the native power of soft actuators — see McKibben entry).
+SMC and Festo's entire catalogs (a $10B+ duopoly-adjacent industry), every injection-molding sprue picker and packaging line, gripper open/close on countless robot arms, soft-robotics research (air is the usual power source for soft actuators; see the McKibben entry).
 
 ## Economic profile
 Pneumatics has the lowest cost per motion in automation, and the compressor's inefficiency is hidden in the plant utility bill. Robotics uses pneumatics at the periphery (grippers, tooling) rather than in joints. One trend worth watching: as factories electrify end-of-arm tooling for controllability, cheap servo grippers are taking share from pneumatic grippers, and both SMC and Festo now sell electric axes defensively.
