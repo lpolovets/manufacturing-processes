@@ -18,7 +18,7 @@ Flexible and suitable for custom or low-volume threads. Removes material and gen
 
 ## When to use
 
-Pick thread machining for internal threads, custom or large-diameter forms, hard or pre-hardened materials, threads next to shoulders, and any low-volume or prototype work — a tap, single-point tool, or thread mill needs no dedicated tooling and handles odd pitches freely. Thread milling is the safe choice in expensive parts, since a broken tap in a finished component is often scrap. Avoid it for mass-produced external fasteners and fatigue-critical studs, where thread rolling is faster, wastes no material, and leaves compressive residual stress that machined threads lack.
+Pick thread machining for internal threads, custom or large-diameter forms, hard or pre-hardened materials, threads next to shoulders, and any low-volume or prototype work. A tap, single-point tool, or thread mill needs no dedicated tooling and handles odd pitches freely. Thread milling is the safe choice in expensive parts, since a broken tap in a finished component often means scrap. Avoid it for mass-produced external fasteners and fatigue-critical studs. There, thread rolling is faster, wastes no material, and leaves compressive residual stress that machined threads lack.
 
 ## Examples
 

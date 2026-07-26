@@ -18,7 +18,7 @@ Provides high throughput and precise areal loading. Thickness variation, crackin
 
 ## When to use
 
-Slot-die coating on continuous roll-to-roll lines is the standard for any serious cell production: choose it whenever areal loading must hold to a percent or two at tens of meters per minute, and accept that dryer length is what line speed actually buys — ovens dominate plant footprint and energy cost, and NMP cathode lines add solvent-recovery capital on top. Below pilot scale, doctor-blade and lab coaters suffice; at giga-scale, dry-electrode coating is the developing alternative that deletes the ovens.
+Slot-die coating on continuous roll-to-roll lines is the standard for any serious cell production. Choose it whenever areal loading has to hold to a percent or two at tens of meters per minute. Line speed is bought with dryer length, so ovens dominate plant footprint and energy cost, and NMP cathode lines add solvent-recovery capital on top. Below pilot scale, doctor-blade and lab coaters are enough. At giga-scale, dry-electrode coating is the developing alternative that removes the ovens.
 
 ## Examples
 

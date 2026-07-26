@@ -18,7 +18,7 @@ Produces intricate shapes, thin walls, fine details, and high-performance alloy 
 
 ## When to use
 
-Choose investment casting for complex, thin-walled (down to about 1.5 mm), fine-finish parts in hard-to-machine alloys — superalloys, titanium, stainless — at tens to tens of thousands of pieces, typically under about 50 kg. It buys near-net shape and detail that would otherwise demand extensive machining. Skip it for simple geometry or large parts, where sand casting is far cheaper, and for high-volume aluminum, where die casting wins on cycle time.
+Choose investment casting for complex, thin-walled (down to about 1.5 mm), fine-finish parts in hard-to-machine alloys (superalloys, titanium, stainless) at tens to tens of thousands of pieces, typically under about 50 kg. You get a near-net shape with detail that would otherwise take a lot of machining. Skip it for simple geometry or large parts, where sand casting is much cheaper, and for high-volume aluminum, where die casting has much shorter cycle times.
 
 ## Examples
 

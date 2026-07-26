@@ -18,7 +18,7 @@ Produces repeated profiles extremely quickly and accurately. Broaches are expens
 
 ## When to use
 
-Pick broaching for internal keyways, splines, and polygonal holes at volumes of thousands per year and up, where a single stroke of a few seconds finishes the full profile and the multi-thousand-dollar broach amortizes quickly. It is the standard answer for production splines and firtree slots. Avoid it for blind holes, profiles the tool cannot pass straight through, and low volumes or one-offs, where wire EDM, gear shaping, or slotting does the job without dedicated tooling.
+Pick broaching for internal keyways, splines, and polygonal holes at volumes of thousands per year and up. A single stroke of a few seconds finishes the full profile, so the multi-thousand-dollar broach amortizes quickly. It is the standard answer for production splines and firtree slots. Avoid it for blind holes and for profiles the tool cannot pass straight through. If you only need a few parts, wire EDM, gear shaping, or slotting will do the job without dedicated tooling.
 
 ## Examples
 

@@ -11,22 +11,22 @@ cost: low
 ---
 
 ## Description
-GPS for indoors, assembled from infrastructure: ultra-wideband radios time nanosecond pulses between tags and fixed anchors, delivering 10–30 cm positioning through walls and clutter where GNSS cannot reach. Phone adoption (Apple U1/U2, Android peers) commoditized the silicon. The broader family includes visual fiducials (AprilTags/QR floors), BLE beacons (meters-grade), and magnetic-signature maps — all trading infrastructure installation for localization that pure SLAM must otherwise earn with compute.
+UWB is essentially GPS for indoors, built out of installed infrastructure. Ultra-wideband radios time nanosecond pulses between tags and fixed anchors, which gives 10–30 cm positioning through walls and clutter where GNSS can't reach. Phone adoption (Apple U1/U2, Android peers) commoditized the silicon. The broader family also includes visual fiducials (AprilTags/QR floors), BLE beacons (meters-grade), and magnetic-signature maps. All of them trade an infrastructure install for localization that pure SLAM would otherwise have to earn with compute.
 
 ## Strengths and weaknesses
-Absolute indoor position with bounded error (no drift), works through non-metal walls and darkness, cheap tags, low compute; excellent for multi-robot coordination and asset tracking. Weaknesses: someone must install, survey, and power the anchors — the infrastructure tax; metal-heavy environments multipath badly; capacity limits with many tags; and it competes with "free" SLAM that improves every year, squeezing the niche from the software side.
+UWB gives absolute indoor position with bounded error and no drift, works through non-metal walls and in darkness, uses cheap tags, and needs little compute. It's a good fit for multi-robot coordination and asset tracking. The main weakness is the infrastructure tax: someone has to install, survey, and power the anchors. Metal-heavy environments produce bad multipath, there are capacity limits once you have many tags, and it competes with "free" SLAM that improves every year, which squeezes the niche from the software side.
 
 ## When to use
-Pick UWB when you control the facility and 10–30 cm absolute indoor position with zero drift is worth an anchor install — multi-robot coordination, forklift and asset tracking, drone work indoors — or as a deliberate bridge that ships reliable autonomy now and gets removed as SLAM matures. Tags are $5-class; the survey and anchor maintenance are the real cost. Avoid it in metal-dense environments where multipath bias defeats the accuracy story, in third-party spaces where you cannot install infrastructure, and on robots whose SLAM already meets the accuracy bar for free.
+Pick UWB when you control the facility and 10–30 cm absolute indoor position with zero drift is worth an anchor install: multi-robot coordination, forklift and asset tracking, indoor drone work. It also works as a deliberate bridge, where you ship reliable autonomy with anchors now and remove them as SLAM matures. Tags are $5-class, so the survey and anchor maintenance are the real cost. Skip it in metal-dense environments, where multipath bias eats the accuracy advantage, and in third-party spaces where you can't install infrastructure. If your SLAM already meets the accuracy bar, use that instead and save the install.
 
 ## Failure modes
-Non-line-of-sight bias: through-body and through-shelf paths arrive late, pushing position errors of decimeters that look statistically healthy; anchor geometry degrades accuracy in corridors (dilution of precision); anchor drift/movement silently corrupts the map; interference in the increasingly crowded UWB bands; battery-dead tags and unsurveyed anchor moves are the operational reality.
+Non-line-of-sight paths cause bias: signals through bodies and through shelving arrive late, producing position errors of decimeters that still look statistically healthy. Anchor geometry degrades accuracy in corridors through dilution of precision. If an anchor drifts or gets moved, it corrupts the map without any obvious symptom. The UWB bands are getting crowded, so interference is a growing problem. Day to day, most of the trouble is dead tag batteries and anchor moves nobody surveyed.
 
 ## Examples
 Qorvo/Decawave DW3000 modules (the standard), Apple AirTag's finding network, warehouse forklift tracking (Zebra, Sewio), robot soccer and drone-swarm labs, Amazon's fulfillment-center positioning, automotive keyless entry (UWB's actual volume driver).
 
 ## Economic profile
-Phone and car-key volume made chips a $5 part; the business is systems and installation, which caps margins and scale. Strategically it is the pragmatic bridge: teams ship reliable autonomy with anchors now, then remove them as SLAM matures — a sequencing worth respecting in any warehouse-robotics diligence.
+Phone and car-key volume made the chips a $5 part, so the business is systems and installation, which caps margins and scale. Strategically, UWB is a pragmatic bridge: teams ship reliable autonomy with anchors now, then remove them as SLAM matures. That sequencing is worth taking seriously in any warehouse-robotics diligence.
 
 ## Further reading
 

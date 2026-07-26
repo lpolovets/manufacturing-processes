@@ -18,7 +18,7 @@ Provides deeper fatigue enhancement than shot peening. Equipment and processing 
 
 ## When to use
 
-Reserve laser peening for high-value, fatigue- or FOD-critical components where the 1-2+ mm deep compressive layer — several times deeper than shot peening — measurably extends life or crack tolerance: turbine blade leading edges, aircraft structural details, nuclear and stress-corrosion-critical welds. It also leaves a smoother surface and better-retained stresses at elevated temperature, which matters for engine hardware. The cost per treated area is orders of magnitude above shot peening, so it only pencils out where failure cost is extreme or where shot peening has already proven insufficient; for routine springs, gears, and general fatigue enhancement, stay with controlled shot peening.
+Reserve laser peening for high-value, fatigue- or FOD-critical components where the 1-2+ mm deep compressive layer (several times deeper than shot peening) measurably extends life or crack tolerance: turbine blade leading edges, aircraft structural details, nuclear and stress-corrosion-critical welds. It also leaves a smoother surface and holds its residual stresses better at elevated temperature, which matters for engine hardware. The cost per treated area is orders of magnitude above shot peening, so it only makes economic sense where the cost of failure is extreme or where shot peening has already proven insufficient. For routine springs, gears, and general fatigue enhancement, use controlled shot peening instead.
 
 ## Examples
 

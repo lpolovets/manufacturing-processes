@@ -18,7 +18,7 @@ Produces strong low-distortion welds, especially in aluminum. Requires rigid fix
 
 ## When to use
 
-FSW is the process of choice for long, straight or gently curved seams in aluminum plate and extrusions — battery trays, rail and ship panels, rocket tank barrels — including the 2xxx and 7xxx alloys fusion welding cannot handle, with distortion low enough to hold machining-grade flatness afterward. It needs rigid backing, clamping that reacts large forces, and tool access along the whole seam, so complex three-dimensional joints and thin sheet at high rate go to laser or resistance welding instead, and steel remains marginal territory because of tool wear.
+FSW is the process of choice for long, straight or gently curved seams in aluminum plate and extrusions (battery trays, rail and ship panels, rocket tank barrels), including the 2xxx and 7xxx alloys fusion welding cannot handle. Distortion stays low enough to hold machining-grade flatness afterward. It needs rigid backing, clamping that can react large forces, and tool access along the whole seam. If the joints are complex and three-dimensional, or you are running thin sheet at high rate, use laser or resistance welding instead. Steel is still marginal for FSW because of tool wear.
 
 ## Examples
 

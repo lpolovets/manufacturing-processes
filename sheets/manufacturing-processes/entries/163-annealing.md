@@ -14,11 +14,11 @@ Material is heated and cooled under controlled conditions to soften it, relieve 
 
 ## Strengths and weaknesses
 
-Improves ductility, machinability, and dimensional stability. May reduce strength and can cause oxidation or distortion.
+Annealing improves ductility, machinability, and dimensional stability. It may reduce strength and can cause oxidation or distortion.
 
 ## When to use
 
-Anneal when accumulated cold work is about to cause cracking — between wire-drawing or deep-drawing passes, before severe forming of sheet, and after welding or heavy machining when residual stress would distort a later precision operation. Use full annealing to maximize softness and machinability of high-carbon and alloy steels, and cheaper stress-relief or process anneals below the transformation temperature when you only need stress removal without a strength penalty. Avoid it on parts whose final strength comes from work hardening or prior heat treatment, since it erases both; for steel that just needs uniform, moderately tough structure at lower furnace time, normalize instead. Use protective atmosphere or vacuum when scale and decarburization on finished surfaces are unacceptable.
+Anneal when accumulated cold work is about to cause cracking: between wire-drawing or deep-drawing passes, before severe forming of sheet, and after welding or heavy machining when residual stress would distort a later precision operation. Use full annealing to maximize softness and machinability of high-carbon and alloy steels. If you only need stress removal without a strength penalty, the cheaper stress-relief or process anneals below the transformation temperature will do. Avoid annealing on parts whose final strength comes from work hardening or prior heat treatment, since it erases both. If the steel just needs a uniform, moderately tough structure at lower furnace time, normalize instead. Use a protective atmosphere or vacuum when scale and decarburization on finished surfaces are unacceptable.
 
 ## Examples
 

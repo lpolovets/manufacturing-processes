@@ -18,7 +18,7 @@ Creates grips, seals, soft-touch areas, insulation, and multi-material component
 
 ## When to use
 
-Choose overmolding for soft-touch grips, integrated seals, and two-material parts — toothbrushes, tool handles, gasketed housings — at volumes that justify either two-shot tooling (high volume, best per-part economics) or a transfer process between two single molds (moderate volume). Verify the material pair's adhesion early; incompatible pairs need mechanical interlocks. Below a few tens of thousands of units, separately molded parts joined by assembly or adhesive are usually cheaper.
+Choose overmolding for soft-touch grips, integrated seals, and two-material parts (toothbrushes, tool handles, gasketed housings) at volumes that justify either two-shot tooling (high volume, best per-part economics) or a transfer process between two single molds (moderate volume). Check the adhesion of the material pair early, because an incompatible pair needs mechanical interlocks. Below a few tens of thousands of units, molding the parts separately and joining them by assembly or adhesive is usually cheaper.
 
 ## Examples
 

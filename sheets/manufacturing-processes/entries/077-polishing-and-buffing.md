@@ -18,7 +18,7 @@ Improves appearance, friction, cleanliness, and coating performance. Can be labo
 
 ## When to use
 
-Pick polishing and buffing when the requirement is cosmetic or functional surface quality rather than dimension — mirror trim, cookware, mold cavities that must release cleanly, and surfaces being prepared for plating. Budget real labor hours unless volume justifies robotic cells or the parts are small enough for mass finishing. Avoid it on tight-tolerance features and crisp edges, which it rounds; for internal passages or large batches of stainless parts, electropolishing achieves the finish chemically, and vibratory finishing handles bulk deburring far more cheaply.
+Pick polishing and buffing when you need cosmetic or functional surface quality rather than dimensional control: mirror trim, cookware, mold cavities that must release cleanly, and surfaces being prepared for plating. Budget real labor hours unless volume justifies robotic cells, or the parts are small enough for mass finishing. Avoid it on tight-tolerance features and crisp edges, because it rounds them. If you need to finish internal passages or large batches of stainless parts, electropolishing does the same job chemically. If you just need bulk deburring, vibratory finishing is much cheaper.
 
 ## Examples
 

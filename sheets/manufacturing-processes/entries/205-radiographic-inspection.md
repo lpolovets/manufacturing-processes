@@ -18,7 +18,7 @@ Reveals internal voids, inclusions, assembly errors, and some cracks. Radiation 
 
 ## When to use
 
-Use radiography for volumetric defects that displace material — gas porosity, shrinkage, and inclusions in castings, missing or misplaced components in assemblies and electronics — and for code-mandated weld inspection where a permanent film or digital image is required. Gamma sources cover field work on pipelines and structures without power; digital detectors enable high-throughput inline inspection of castings and PCBs. Its blind spot is planar: cracks and lack of fusion oriented off the beam axis simply do not show, so fatigue-critical crack detection belongs to ultrasonic or surface methods. It needs two-sided access, exclusion zones, and licensed operators, and thick dense sections demand high-energy sources; when 2D projections cannot resolve overlapping features, step up to CT.
+Use radiography for volumetric defects that displace material (gas porosity, shrinkage, and inclusions in castings, missing or misplaced components in assemblies and electronics) and for code-mandated weld inspection where a permanent film or digital image is required. Gamma sources cover field work on pipelines and structures without power, and digital detectors enable high-throughput inline inspection of castings and PCBs. The main blind spot is planar defects: cracks and lack of fusion oriented off the beam axis simply do not show, so use ultrasonic or surface methods for fatigue-critical crack detection. Radiography needs two-sided access, exclusion zones, and licensed operators, and thick dense sections demand high-energy sources. If 2D projections cannot resolve overlapping features, step up to CT.
 
 ## Examples
 

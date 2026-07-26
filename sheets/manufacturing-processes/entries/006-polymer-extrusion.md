@@ -14,11 +14,11 @@ Molten polymer is continuously forced through a die to produce a profile, pipe, 
 
 ## Strengths and weaknesses
 
-Among the highest-throughput and lowest-cost polymer processes. Geometry must remain substantially constant along the production direction, and quality depends on melt rheology, cooling, line stability, die swell, and feedstock consistency.
+Extrusion is one of the highest-throughput and lowest-cost polymer processes. Geometry has to stay substantially constant along the production direction, and quality depends on melt rheology, cooling, line stability, die swell, and feedstock consistency.
 
 ## When to use
 
-Make extrusion the default for any thermoplastic product that is long and constant in section — pipe, profile, sheet, tubing, wire insulation — at medium volumes and above, where cost per meter is unmatched. Startup scrap and die tuning make short runs painful, so avoid it for small lots or discrete three-dimensional parts, which belong in injection molding. If the cross-section must change along the length, extrusion is out entirely.
+Make extrusion your default for any thermoplastic product that is long and constant in section (pipe, profile, sheet, tubing, wire insulation) at medium volumes and above. Nothing else matches its cost per meter. Startup scrap and die tuning make short runs expensive, so if you have a small lot or a discrete three-dimensional part, use injection molding instead. If the cross-section has to change along the length, extrusion is out entirely.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Pipe, medical tubing, window profiles, wire insulation, plastic sheet, packaging
 
 ## Economic profile
 
-Moderate-to-high capex; excellent economics at scale; startup scrap and line utilization matter greatly.
+Capex is moderate to high and the economics are excellent at scale. Startup scrap and line utilization matter a lot.
 
 ## Videos
 

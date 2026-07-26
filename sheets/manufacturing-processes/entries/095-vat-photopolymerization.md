@@ -18,7 +18,7 @@ Creates excellent detail and smooth surfaces. Resins may be brittle, UV-sensitiv
 
 ## When to use
 
-Pick vat photopolymerization when detail and surface finish drive the job — features down to 25-100 micrometers, near-injection-molded smoothness — for dental models and aligner molds, jewelry and investment-casting patterns, hearing-aid shells, microfluidics, and master patterns for silicone molding. Desktop machines make it the best-looking prototype per dollar. Avoid it for load-bearing parts in service: most resins are brittle, creep, and degrade under UV and heat, so functional end-use parts belong to powder-bed fusion or machining, and anything beyond low volumes to injection molding.
+Pick vat photopolymerization when detail and surface finish drive the job. It resolves features down to 25-100 micrometers with near-injection-molded smoothness, which suits dental models and aligner molds, jewelry and investment-casting patterns, hearing-aid shells, microfluidics, and master patterns for silicone molding. Desktop machines make it the best-looking prototype per dollar. Avoid it for load-bearing parts in service, because most resins are brittle, creep, and degrade under UV and heat. If you need functional end-use parts, use powder-bed fusion or machining; beyond low volumes, use injection molding.
 
 ## Examples
 

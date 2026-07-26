@@ -18,7 +18,7 @@ Handles inserts and more complex geometry than compression molding. Creates runn
 
 ## When to use
 
-Use transfer molding when a thermoset or rubber part needs delicate inserts held in a closed cavity or finer geometry than compression molding can fill — semiconductor encapsulation and insert-heavy connectors are the canonical cases. Accept the cured runner scrap and costlier tooling that come with it. For simple insert-free shapes stay with compression molding; at very high volumes with complex geometry, thermoset injection molding takes over.
+Use transfer molding when a thermoset or rubber part needs delicate inserts held in a closed cavity, or finer geometry than compression molding can fill. Semiconductor encapsulation and insert-heavy connectors are the usual cases. In exchange you accept cured runner scrap and more expensive tooling. If the shape is simple and has no inserts, stay with compression molding. At very high volumes with complex geometry, thermoset injection molding is usually the better fit.
 
 ## Examples
 

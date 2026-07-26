@@ -18,7 +18,7 @@ Conserves valuable material, enables curved structures, and improves dimensional
 
 ## When to use
 
-Choose veneering to put premium species on stable, economical substrates, and lamination to build curved parts that solid wood cannot hold or engineered structural members (LVL, glulam) with better consistency and span than sawn lumber. Bent lamination over a simple form is the standard route to curves at moderate volume. Avoid deep compound curves, which need molded plywood pressing or a different material entirely, and match the adhesive class to moisture and heat exposure — delamination is the characteristic failure mode.
+Use veneering to put premium species on stable, economical substrates. Use lamination to build curved parts that solid wood cannot hold, or engineered structural members (LVL, glulam) with better consistency and span than sawn lumber. Bent lamination over a simple form is the standard route to curves at moderate volume. Avoid deep compound curves, which need molded plywood pressing or a different material entirely. Match the adhesive class to the moisture and heat the part will see, because delamination is the characteristic failure mode.
 
 ## Examples
 

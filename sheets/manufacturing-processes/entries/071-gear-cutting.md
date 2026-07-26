@@ -18,21 +18,21 @@ Mature, accurate, and productive for external and internal gears. Each variant t
 
 ## When to use
 
-Pick hobbing as the default for external spur and helical gears at production volumes; use shaping where a hob cannot run — internal gears, teeth close to a shoulder — and skiving when internal gears are needed at scale on rigid modern machines. Cut gears typically reach AGMA 8-10 as-machined; plan gear grinding or honing after hardening when the drawing calls for better. Avoid dedicated gear cutting for low-load or low-precision gears at very high volume, where powder metallurgy, cold forming, or plastic molding produces the tooth form without cutting, and for one-off prototypes where five-axis milling of the flanks is now practical.
+Pick hobbing as the default for external spur and helical gears at production volumes. Use shaping where a hob cannot run (internal gears, teeth close to a shoulder), and skiving when you need internal gears at scale and have rigid modern machines. Cut gears typically reach AGMA 8-10 as-machined, so if the drawing calls for better, plan on gear grinding or honing after hardening. Avoid dedicated gear cutting for low-load or low-precision gears at very high volume, where powder metallurgy, cold forming, or plastic molding produces the tooth form without cutting. For one-off prototypes, five-axis milling of the flanks is now practical.
 
 ## Variants
 
 ### Hobbing
 
-A rotating hob progressively generates external gear teeth. Highly productive but poorly suited to internal gears or teeth near shoulders.
+A rotating hob progressively generates external gear teeth. It is highly productive, but it works poorly on internal gears or teeth near shoulders.
 
 ### Gear shaping
 
-A reciprocating gear-shaped cutter produces internal or external teeth. More flexible than hobbing but usually slower.
+A reciprocating gear-shaped cutter produces internal or external teeth. It is more flexible than hobbing, but usually slower.
 
 ### Gear skiving
 
-A continuously rotating cutter and workpiece interact at crossed axes to generate internal or external gears rapidly. High productivity but requires rigid, accurate machines and careful process control.
+A continuously rotating cutter and workpiece interact at crossed axes to generate internal or external gears rapidly. Productivity is high, but it requires rigid, accurate machines and careful process control.
 
 ## Examples
 

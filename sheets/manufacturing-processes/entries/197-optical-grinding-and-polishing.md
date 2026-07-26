@@ -18,7 +18,7 @@ Supports many glass and crystal materials and can reach excellent figure and fin
 
 ## When to use
 
-This is the default route for spherical lenses, flats, prisms, and windows in any glass or crystal from prototype through medium volume: tooling is modest, nearly every optical material is workable, and lambda/10 figure with angstrom-level roughness is routine in a competent shop. Choose it whenever material choice matters more than geometry — CNC generation plus pitch or pad polishing handles the vast majority of catalog optics. It struggles economically with aspheres and freeforms, where sub-aperture CNC polishing helps but deterministic MRF finishing is the usual endgame, and it cannot compete at consumer volumes, where precision glass molding or polymer injection molding make optics for cents. For infrared crystals and metal mirrors, single-point diamond turning is often faster to a finished asphere.
+This is the default route for spherical lenses, flats, prisms, and windows in any glass or crystal from prototype through medium volume: tooling is modest, nearly every optical material is workable, and lambda/10 figure with angstrom-level roughness is routine in a competent shop. Choose it whenever material choice matters more than geometry, since CNC generation plus pitch or pad polishing handles the vast majority of catalog optics. It gets expensive for aspheres and freeforms, where sub-aperture CNC polishing helps but deterministic MRF finishing is usually the final step. It also cannot compete at consumer volumes, where precision glass molding or polymer injection molding make optics for cents. For infrared crystals and metal mirrors, single-point diamond turning is often faster to a finished asphere.
 
 ## Examples
 

@@ -14,11 +14,11 @@ Continuous sheet passes through successive rolls that gradually bend it into a c
 
 ## Strengths and weaknesses
 
-Exceptionally efficient for long, high-volume components. Tooling is costly and variable cross-sections are difficult.
+It's very efficient for long, high-volume components. Tooling is expensive, and variable cross-sections are difficult.
 
 ## When to use
 
-Pick roll forming for constant-cross-section profiles produced from coil at high annual volumes — think tens of thousands of linear meters per year or more — especially lengths beyond press-brake capacity or parts needing in-line punching and cutoff. It also handles high-strength and pre-painted stock gently, since bending is distributed over many stands. Avoid it below the volume needed to amortize a roll set (often tens of thousands of dollars per profile), for cross-sections that vary along the length, or for short discrete parts; there, press-brake forming or stamping is the default.
+Pick roll forming for constant-cross-section profiles produced from coil at high annual volumes (tens of thousands of linear meters per year or more). It's especially good for lengths beyond press-brake capacity and for parts that need in-line punching and cutoff. It also handles high-strength and pre-painted stock gently, because the bending is distributed over many stands. Avoid it below the volume needed to amortize a roll set (often tens of thousands of dollars per profile), for cross-sections that vary along the length, or for short discrete parts. In those cases, press-brake forming or stamping is the default.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Requires no filler and is highly automatable. Mainly suits sheet, often needs tw
 
 ## When to use
 
-Resistance spot welding is the automatic choice for lap-joined steel sheet at automotive volumes — sub-second cycles, no filler or shielding gas, easy robotization, thousands of welds per body — and seam welding extends it to liquid-tight containers. It needs two-sided access and overlapping flanges, so single-sided joints, thick sections, and butt joints push you to arc or laser welding; laser also takes over when flange width must shrink or the joint must be invisible.
+Resistance spot welding is the automatic choice for lap-joined steel sheet at automotive volumes. Cycles run under a second, no filler or shielding gas is needed, robots handle it easily, and a single car body takes thousands of welds. Seam welding extends the same idea to liquid-tight containers. The process needs two-sided access and overlapping flanges, so if you have single-sided joints, thick sections, or butt joints, use arc or laser welding instead. Laser is also the answer when flange width has to shrink or the joint has to be invisible.
 
 ## Variants
 

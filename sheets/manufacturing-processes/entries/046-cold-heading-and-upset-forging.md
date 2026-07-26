@@ -18,7 +18,7 @@ Extremely fast, chipless, and produces strong parts with good grain flow. Geomet
 
 ## When to use
 
-Cold heading is the automatic choice for fasteners and similar headed axisymmetric parts in ductile metals at hundreds of pieces per minute — economics demand runs in the hundreds of thousands to millions. The chipless process strengthens the material and wastes almost nothing, beating machining decisively at volume. Below tens of thousands of pieces, or for low-ductility alloys and features the dies cannot reach, screw-machine turning is the fallback.
+Cold heading is the automatic choice for fasteners and similar headed axisymmetric parts in ductile metals, running at hundreds of pieces per minute. The economics need runs in the hundreds of thousands to millions. The process is chipless, so it strengthens the material and wastes almost nothing, which is why it beats machining at volume. Below tens of thousands of pieces, or for low-ductility alloys and features the dies cannot reach, screw-machine turning is the fallback.
 
 ## Examples
 

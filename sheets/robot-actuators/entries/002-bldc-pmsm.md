@@ -11,19 +11,19 @@ cost: low
 ---
 
 ## Description
-The default motor of modern robotics: permanent magnets on the rotor, electronically commutated windings on the stator, controlled by field-oriented control (FOC) that delivers smooth, precisely known torque at any speed including stall. Drone ESCs commoditized the electronics; EVs industrialized the magnets and windings. Outrunner geometries (large-diameter, pancake-thin) maximize torque per mass and are the heart of every quasi-direct-drive robot joint.
+This is the default motor of modern robotics. Permanent magnets sit on the rotor, the stator windings are commutated electronically, and field-oriented control (FOC) delivers smooth, precisely known torque at any speed including stall. Drone ESCs commoditized the electronics, and EVs industrialized the magnets and windings. Outrunner geometries (large-diameter and pancake-thin) maximize torque per mass, which is why they're used in essentially every quasi-direct-drive robot joint.
 
 ## Strengths and weaknesses
-High efficiency (90%+), excellent power density, no wear parts but bearings, torque known from current (free force estimation), and heat generated in the stator where it can actually be removed. Weaknesses: needs position sensing and a three-phase drive — the electronics are the actuator; continuous torque is thermal-limited far below peak; ungeared torque density is modest, which is why transmissions exist; and rare-earth magnets carry China supply-chain exposure.
+Efficiency is high (90%+), power density is good, and the only wear parts are the bearings. Torque is known from current, so you get force estimation for free, and the heat is generated in the stator where you can actually remove it. On the weakness side, it needs position sensing and a three-phase drive, so the electronics are part of the actuator rather than an accessory. Continuous torque is thermally limited far below peak, ungeared torque density is modest (which is why transmissions exist), and rare-earth magnets carry China supply-chain exposure.
 
 ## When to use
-Make BLDC + FOC the starting assumption for any powered robot joint: continuous duty, efficiency above 90%, torque known from current for sensorless force estimation, and stator heat you can actually sink. Choose the transmission around it — none for transparency, single-stage planetary for QDD limbs, strain-wave for precision arms. Step away only at the edges: a brushed motor or stepper when the axis is worth under ~$20 and never runs hot, a stepper when open-loop positioning suffices, or direct-drive/linear/piezo hardware when the spec is nanometers rather than newton-meters. If you're arguing yourself into anything else for a mainstream joint, the burden of proof is on the alternative.
+Make BLDC + FOC your starting assumption for any powered robot joint. It handles continuous duty, runs above 90% efficiency, gives you torque from current for sensorless force estimation, and puts the heat in the stator where you can sink it. Then choose the transmission around it: none for transparency, a single-stage planetary for QDD limbs, a strain-wave gear for precision arms. Step away only at the edges. If the axis is worth under roughly $20 and never runs hot, use a brushed motor or a stepper. If open-loop positioning is good enough, use a stepper. If the spec is in nanometers rather than newton-meters, look at direct-drive, linear, or piezo hardware instead. For a mainstream joint, anything other than BLDC needs a specific reason.
 
 ## Examples
 T-Motor and Maxon EC frameless kits in robot joints; every drone propulsion motor; Tesla Optimus and Unitree joint modules; ODrive/moteus/VESC open-source FOC drives that made hobby-grade force control possible.
 
 ## Economic profile
-Frameless torque motors that cost $500+ from Western catalogs ship for $50–150 from Chinese suppliers at volume, and humanoid demand is compressing prices further. The motor is becoming a commodity; margin migrates to the integrated module (motor + gear + encoder + drive) and the FOC silicon. Magnet supply is the strategic watch item.
+Frameless torque motors that cost $500+ from Western catalogs ship for $50–150 from Chinese suppliers at volume, and humanoid demand is pushing prices down further. The motor itself is becoming a commodity, so the margin is moving to the integrated module (motor + gear + encoder + drive) and to the FOC silicon. Magnet supply is the thing to watch.
 
 ## Suppliers
 [T-Motor](https://store.tmotor.com/) — high-torque outrunners and robot-joint motors · [mjbots](https://mjbots.com/) — open FOC drives and moteus servo modules

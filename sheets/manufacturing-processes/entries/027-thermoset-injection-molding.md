@@ -18,7 +18,7 @@ Provides heat resistance, dimensional stability, and electrical insulation. Cycl
 
 ## When to use
 
-Specify thermoset injection molding for parts that must hold shape and insulate at temperatures and arc conditions thermoplastics cannot sustain — connectors, breaker bodies, appliance handles — at medium-to-high volumes on BMC, phenolic, or epoxy compounds. If a glass-filled high-temperature thermoplastic meets the spec, prefer standard injection molding for its faster cycles and remeltable scrap. Runners and rejects here are unrecyclable waste, so design gating accordingly.
+Use thermoset injection molding for parts that have to hold their shape and keep insulating at temperatures and arc conditions thermoplastics can't sustain (connectors, breaker bodies, appliance handles), at medium-to-high volumes on BMC, phenolic, or epoxy compounds. If a glass-filled high-temperature thermoplastic meets the spec, use standard injection molding instead, since cycles are faster and the scrap can be remelted. Runners and rejects here can't be recycled, so design your gating to keep them small.
 
 ## Examples
 

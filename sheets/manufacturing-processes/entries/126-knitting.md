@@ -18,7 +18,7 @@ Creates stretchable, conformable textiles and seamless structures. Dimensional s
 
 ## When to use
 
-Knit when the product must stretch, conform, or come off the machine as a net-shape three-dimensional piece — apparel, shoe uppers, compression and medical textiles, covers for complex forms — with circular and flatbed machines covering high volumes economically and 3D knitting eliminating cut-and-sew waste. Choose weaving instead when dimensional stability and strength under sustained load matter more than drape, since knits stretch, distort, and can run under tension.
+Knit when the product must stretch, conform, or come off the machine as a net-shape three-dimensional piece: apparel, shoe uppers, compression and medical textiles, covers for complex forms. Circular and flatbed machines cover high volumes economically, and 3D knitting eliminates cut-and-sew waste. Knits stretch, distort, and can run under tension, so if dimensional stability and strength under sustained load matter more than drape, use weaving instead.
 
 ## Examples
 

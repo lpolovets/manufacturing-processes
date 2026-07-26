@@ -18,7 +18,7 @@ Creates tapered or stepped axisymmetric parts with good finish and strengthened 
 
 ## When to use
 
-Choose rotary swaging for tapering, pointing, or stepping round bars and tubes — cable fittings, tapered shafts, tube-end reductions — at medium-to-high volumes, where cheap dies, chipless material savings, and a work-hardened burnished surface beat turning. It also attaches end fittings by swaging directly over them. Anything non-axisymmetric is out of scope, and for one-offs or complex internal profiles, CNC turning is the simpler answer.
+Choose rotary swaging for tapering, pointing, or stepping round bars and tubes (cable fittings, tapered shafts, tube-end reductions) at medium-to-high volumes. The dies are cheap, the process is chipless so it saves material, and the surface comes out work-hardened and burnished, which is what makes it beat turning here. It also attaches end fittings by swaging directly over them. Anything non-axisymmetric is out of scope, and for one-offs or complex internal profiles CNC turning is the simpler answer.
 
 ## Examples
 

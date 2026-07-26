@@ -11,19 +11,19 @@ maturity: mass
 ---
 
 ## Description
-The 165-year-old incumbent: lead dioxide positive, sponge-lead negative, sulfuric-acid electrolyte in an open (vented) container. Still manufactured at colossal scale because nothing matches its cost per starting-amp: the chemistry delivers enormous burst current, tolerates abuse, charges with trivial electronics, and is recycled at rates above 95% — the most successfully recycled product in industrial history. Water loss from electrolysis requires periodic topping-up in classic designs.
+This is the 165-year-old incumbent: a lead dioxide positive, a sponge-lead negative, and sulfuric-acid electrolyte in an open (vented) container. It's still manufactured at enormous scale because nothing matches its cost per starting-amp. The chemistry delivers very high burst current, tolerates abuse, charges with trivial electronics, and is recycled at rates above 95%, which makes it the most successfully recycled product in industrial history. Electrolysis loses water, so classic designs need periodic topping-up.
 
 ## Strengths and weaknesses
-Lowest upfront $/kWh of any rechargeable battery; unmatched cold-cranking power per dollar; a closed-loop recycling economy; total supply-chain independence from critical minerals. Weaknesses: dreadful specific energy; sulfation kills deep-cycled or idle batteries; hydrogen venting requires ventilation; lead toxicity concentrates harm wherever informal recycling operates; cycle life at deep discharge is poor.
+It has the lowest upfront $/kWh of any rechargeable battery, the best cold-cranking power per dollar, a closed-loop recycling economy, and no exposure to critical minerals. The weaknesses: specific energy is terrible, sulfation kills batteries that get deep-cycled or left idle, hydrogen venting means the space needs ventilation, and cycle life at deep discharge is poor. Lead is toxic, and the harm concentrates wherever informal recycling operates.
 
 ## When to use
-Pick flooded lead-acid for engine starting and for cost-floor traction or off-grid duty — forklifts, golf carts, budget solar — where someone can top up the water, ventilation exists for hydrogen, and upfront $/kWh outranks everything. Keep it above ~50% state of charge and never leave it discharged, or sulfation collects the discount. Avoid it for sealed or unattended installations (AGM there) and for daily deep cycling, where LFP's cycle-life economics have decisively won.
+Pick flooded lead-acid for engine starting, and for cost-floor traction or off-grid duty such as forklifts, golf carts, and budget solar, where someone can top up the water, ventilation exists for the hydrogen, and upfront $/kWh matters more than anything else. Keep it above ~50% state of charge and never leave it sitting discharged, because sulfation will cost you more than the price saved. Avoid it for sealed or unattended installations (use AGM there) and for daily deep cycling, where LFP's cycle-life economics clearly win.
 
 ## Examples
 Automotive SLI batteries (Clarios, Exide, GS Yuasa — hundreds of millions yearly); golf carts and floor scrubbers (deep-cycle variants); traction batteries for forklifts; off-grid solar in cost-constrained markets.
 
 ## Economic profile
-A mature, consolidated, cash-generative industry with fully depreciated plants and a captive recycling loop feeding cheap secondary lead. EV transition erodes the SLI base slowly (12-V batteries persist in EVs, though lithium and LFP 12-V units are encroaching). Margins live in brands, distribution, and recycling — not chemistry.
+The industry is mature, consolidated, and cash-generative, with fully depreciated plants and a captive recycling loop that supplies cheap secondary lead. The EV transition erodes the SLI base slowly (EVs still carry 12-V batteries, though lithium and LFP 12-V units are taking share). Margins come from brands, distribution, and recycling rather than from the chemistry itself.
 
 ## Further reading
 

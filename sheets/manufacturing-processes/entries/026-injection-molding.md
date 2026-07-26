@@ -18,7 +18,7 @@ Produces complex parts rapidly with excellent repeatability and very low unit co
 
 ## When to use
 
-Injection molding is the default for thermoplastic parts once lifetime volume clears roughly 5,000–10,000 units and the design obeys molding rules — uniform walls, draft, manageable undercuts — delivering ±0.05–0.1 mm repeatability at cents per part. Below that volume mold cost dominates: use machining, 3D printing, or vacuum casting instead. For very large parts look to RIM, thermoforming, or rotomolding, and freeze the design before cutting steel, since mold changes are expensive.
+Injection molding is the default for thermoplastic parts once lifetime volume clears roughly 5,000–10,000 units and the design follows the molding rules (uniform walls, draft, manageable undercuts). At that point you get ±0.05–0.1 mm repeatability at cents per part. Below that volume the mold cost dominates, so use machining, 3D printing, or vacuum casting instead. For very large parts, look at RIM, thermoforming, or rotomolding. Freeze the design before you cut steel, because mold changes are expensive.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Electronics housings, bottle caps, medical disposables, toys, clips, appliance p
 
 ## Economic profile
 
-High tooling cost; usually best for thousands to millions of parts.
+Tooling costs are high, so the process usually makes sense for thousands to millions of parts.
 
 ## Videos
 

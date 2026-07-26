@@ -18,7 +18,7 @@ Produces thin walls, fine detail, excellent repeatability, and short cycles. Too
 
 ## When to use
 
-Choose HPDC for aluminum, magnesium, or zinc parts at tens of thousands per year and up with thin walls (1–3 mm), fine detail, and near-net finish, where seconds-long cycles make unit cost unbeatable. Do not specify it where welding, solution heat treatment, or pressure tightness is required unless paying for vacuum-assisted variants, since entrapped gas is inherent. At lower volumes or for higher-integrity structural parts, drop back to permanent-mold or low-pressure die casting.
+Choose HPDC for aluminum, magnesium, or zinc parts at tens of thousands per year and up, with thin walls (1–3 mm), fine detail, and near-net finish. Cycles run in seconds, so unit cost is usually lower than any other casting route at those volumes. Don't specify it if you need welding, solution heat treatment, or pressure tightness, unless you pay for a vacuum-assisted variant, because some entrapped gas comes with the process. At lower volumes, or for structural parts that need higher integrity, fall back to permanent-mold or low-pressure die casting.
 
 ## Examples
 

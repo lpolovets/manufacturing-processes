@@ -14,11 +14,11 @@ Steel is heated above a transformation temperature and air-cooled to refine grai
 
 ## Strengths and weaknesses
 
-Improves uniformity and toughness. Property control is less precise than through quenching and tempering.
+Normalizing improves uniformity and toughness. Property control is less precise than with quenching and tempering.
 
 ## When to use
 
-Normalize carbon and low-alloy steel forgings, castings, and hot-worked stock when the goal is a uniform, refined grain structure and predictable response to later machining or hardening — it is faster and cheaper than full annealing because parts air-cool outside the furnace. It is the right call for structural components where moderate strength and good toughness suffice and a quench would risk distortion or cracking in heavy or complex sections. When the application needs a specific hardness or strength class, or fatigue performance beyond what a pearlitic structure delivers, go to quenching and tempering; when maximum softness for machining is the goal, full annealing serves better.
+Normalize carbon and low-alloy steel forgings, castings, and hot-worked stock when you want a uniform, refined grain structure and a predictable response to later machining or hardening. It is faster and cheaper than full annealing because parts air-cool outside the furnace. It is also the right call for structural components where moderate strength and good toughness are enough and a quench would risk distortion or cracking in heavy or complex sections. If the application needs a specific hardness or strength class, or fatigue performance beyond what a pearlitic structure delivers, use quenching and tempering. If you want maximum softness for machining, use full annealing.
 
 ## Examples
 

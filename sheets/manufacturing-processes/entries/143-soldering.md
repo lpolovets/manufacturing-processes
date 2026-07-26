@@ -18,7 +18,7 @@ Inexpensive, electrically conductive, and suitable for delicate components. Stru
 
 ## When to use
 
-Solder wherever electrical connection at low process temperature is the goal — it is the interconnect default for all electronics — and for leak-tight copper plumbing. Keep it away from structural loads and from sustained service much above roughly 150°C, where creep and softening set in; brazing is the same capillary process with far higher strength and temperature capability when the parts can take the heat.
+Solder wherever you need an electrical connection made at low process temperature (it is the interconnect default for all electronics), and for leak-tight copper plumbing. Keep it away from structural loads and from sustained service much above roughly 150°C, where creep and softening set in. Brazing is the same capillary process with far higher strength and temperature capability, so use it instead when the parts can take the heat.
 
 ## Examples
 

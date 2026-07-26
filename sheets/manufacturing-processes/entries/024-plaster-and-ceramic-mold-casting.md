@@ -18,7 +18,7 @@ Offers improved surface quality and detail. Mold production is slower, molds are
 
 ## When to use
 
-Use plaster or ceramic mold casting for prototype and short-run aluminum, zinc, or magnesium parts that need die-cast-like finish and detail before production tooling exists — typically ones to hundreds of pieces, the classic bridge to die casting. The molds are single-use and slow to make, so it never scales. Mold temperature limits rule out ferrous alloys, which belong in investment or sand casting.
+Use plaster or ceramic mold casting for prototype and short-run aluminum, zinc, or magnesium parts that need die-cast-like finish and detail before production tooling exists. Typical runs are ones to hundreds of pieces, and it's the usual bridge to die casting. The molds are single-use and slow to make, so the process doesn't scale to higher volumes. Mold temperature limits also rule out ferrous alloys, which should go to investment or sand casting.
 
 ## Examples
 

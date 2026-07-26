@@ -18,7 +18,7 @@ Improves mechanical and environmental protection. Cure stress, moisture absorpti
 
 ## When to use
 
-Every packaged die needs protection; choose the method by environment and volume. Transfer-molded epoxy compound is the high-volume default for ICs, glob-top the cheap answer for chip-on-board, and underfill effectively mandatory under flip-chip dies. Reserve hermetic metal or ceramic packages for aerospace, implantable, and other applications where molded plastic's moisture uptake and delamination risk are unacceptable — at an order-of-magnitude cost premium.
+Every packaged die needs protection, so choose the method by environment and volume. Transfer-molded epoxy compound is the high-volume default for ICs, glob top is the cheap answer for chip-on-board, and underfill is effectively mandatory under flip-chip dies. Reserve hermetic metal or ceramic packages for aerospace, implantable, and other applications where molded plastic's moisture uptake and delamination risk are unacceptable; they cost roughly an order of magnitude more.
 
 ## Examples
 

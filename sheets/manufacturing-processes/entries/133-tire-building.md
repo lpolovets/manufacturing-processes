@@ -18,7 +18,7 @@ Integrates many materials into a highly engineered composite. Placement, contami
 
 ## When to use
 
-Tire building is product-specific rather than one option among several: any pneumatic tire, passenger through aircraft, goes through ply assembly, shaping, and mold vulcanization, and the plant plus segmented mold per size only pay at hundreds of thousands of units per SKU per year. Do not attempt it below such volumes — niche and small-wheel needs are better served by molded solid or polyurethane tires, or by contracting capacity at an existing tire plant.
+Tire building is product-specific: every pneumatic tire, from passenger to aircraft, goes through ply assembly, shaping, and mold vulcanization. The plant plus a segmented mold for each size only pay off at hundreds of thousands of units per SKU per year. Below that, don't try to run it yourself. Niche and small-wheel needs are usually better served by molded solid or polyurethane tires, or by contracting capacity at an existing tire plant.
 
 ## Examples
 

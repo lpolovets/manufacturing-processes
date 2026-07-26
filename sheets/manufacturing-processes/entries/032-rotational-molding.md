@@ -18,7 +18,7 @@ Excellent for large hollow parts and low-to-medium volumes because tooling is re
 
 ## When to use
 
-Pick rotomolding for large seamless hollow parts — tanks, kayaks, bins from tens of liters to several cubic meters — at dozens to a few thousand units per year, where its cheap cast-aluminum or fabricated tooling beats every alternative. Accept cycles of 30–60 minutes, loose tolerances, and a material menu led by polyethylene. At high volumes or for small containers blow molding wins; for precision or structural detail, injection molding.
+Pick rotomolding for large seamless hollow parts (tanks, kayaks, bins from tens of liters to several cubic meters) at dozens to a few thousand units per year, where its cheap cast-aluminum or fabricated tooling costs far less than the alternatives. In exchange you get cycles of 30–60 minutes, loose tolerances, and a short list of materials led by polyethylene. At high volumes, or for small containers, use blow molding instead. If you need precision or structural detail, use injection molding.
 
 ## Examples
 

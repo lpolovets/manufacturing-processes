@@ -18,7 +18,7 @@ Provides low heat input, narrow welds, and excellent automation. Joint fit-up mu
 
 ## When to use
 
-Choose laser welding for high-rate precision joining where heat input must stay low — battery tabs and cans, medical devices, powertrain components, hairpin stators — and where fixturing can hold fit-up gaps around 0.1 mm. The capital only pays at mid-to-high volumes or on genuinely precision work; for poor fit-up, thick multi-pass sections, or field conditions arc welding remains the tool, and for very deep welds in reactive metals electron-beam is the specialist alternative.
+Choose laser welding for high-rate precision joining where heat input must stay low (battery tabs and cans, medical devices, powertrain components, hairpin stators) and where fixturing can hold fit-up gaps around 0.1 mm. The equipment cost only pays off at mid-to-high volumes or on genuinely precision work. If you have poor fit-up, thick multi-pass sections, or field conditions, arc welding is still the right tool. If you need very deep welds in reactive metals, electron-beam welding is the specialist alternative.
 
 ## Examples
 

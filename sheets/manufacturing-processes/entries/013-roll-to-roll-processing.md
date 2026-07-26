@@ -14,11 +14,11 @@ Flexible material moves continuously between rolls while being printed, coated, 
 
 ## Strengths and weaknesses
 
-Provides enormous throughput and low unit cost for flexible products. Tension control, registration, defect propagation, coating uniformity, and line yield are difficult.
+Throughput is very high and unit cost is low for flexible products. The difficult parts are tension control, registration, defect propagation, coating uniformity, and line yield.
 
 ## When to use
 
-Choose roll-to-roll when the product is thin, flexible, and needed in enormous areas — coated films, battery electrodes, tapes, flexible electronics — because nothing matches its area throughput and unit cost once a line is dialed in. It demands volume and process maturity: defects propagate down the web, so avoid it for low volumes, rigid substrates, or processes still in development, where sheet-fed or batch coating keeps scrap and capital contained.
+Choose roll-to-roll when your product is thin, flexible, and needed in very large areas (coated films, battery electrodes, tapes, flexible electronics). Once a line is dialed in, nothing matches its area throughput and unit cost. It does require volume and a mature process, because a defect propagates down the whole web. If you have low volumes, a rigid substrate, or a process still in development, use sheet-fed or batch coating instead to keep scrap and capital contained.
 
 ## Examples
 

@@ -14,11 +14,11 @@ A foam pattern is embedded in sand and vaporized by molten metal as the cavity f
 
 ## Strengths and weaknesses
 
-Enables complex near-net-shape castings with fewer cores and parting lines. Foam quality, gas evolution, pattern handling, and repeatability are challenging.
+It produces complex near-net-shape castings with fewer cores and parting lines. The hard parts are foam quality, gas evolution as the foam vaporizes, pattern handling, and getting repeatable results.
 
 ## When to use
 
-Consider lost foam at automotive-scale volumes for complex castings that would otherwise need many sand cores — blocks, heads, manifolds — since one foam pattern consolidates internal passages and eliminates parting lines and draft. It only pays when volumes amortize the foam-pattern tooling and the process is thoroughly debugged. Avoid it for short runs or shops without tight pattern-quality control; conventional cored sand casting is the fallback.
+Consider lost foam at automotive-scale volumes for complex castings that would otherwise need many sand cores (blocks, heads, manifolds), because one foam pattern consolidates the internal passages and removes parting lines and draft. It only pays off if your volumes cover the foam-pattern tooling and you've thoroughly debugged the process. Avoid it for short runs, or if your shop can't hold tight pattern-quality control. The usual fallback is conventional cored sand casting.
 
 ## Examples
 

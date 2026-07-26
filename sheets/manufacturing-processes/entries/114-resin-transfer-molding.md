@@ -14,11 +14,11 @@ Dry reinforcement is placed in a closed mold and resin is injected before curing
 
 ## Strengths and weaknesses
 
-Provides finished surfaces on both sides and supports moderate production volumes. Mold sealing, wet-out, void prevention, and flow design are challenging.
+RTM gives you finished surfaces on both sides and supports moderate production volumes. Mold sealing, wet-out, void prevention, and flow design are all hard to get right.
 
 ## When to use
 
-Choose RTM at roughly one to thirty thousand parts a year when you need both surfaces finished, net molded edges, and repeatable dimensions — automotive structural parts, bicycle frames, aerospace components qualified to it. Below that volume the matched-mold investment and flow-development effort go unamortized, so use infusion or hand layup; for very large parts like hulls and blades infusion is the practical route regardless. At automotive takt times, HP-RTM with presses and fast-cure resins extends the process to minutes-scale cycles.
+Choose RTM at roughly one to thirty thousand parts a year when you need both surfaces finished, net molded edges, and repeatable dimensions. Automotive structural parts, bicycle frames, and aerospace components qualified to it are the usual cases. Below that volume the matched-mold investment and flow-development effort go unamortized, so use infusion or hand layup instead. For very large parts like hulls and blades, infusion is the practical route regardless of volume. At automotive takt times, HP-RTM with presses and fast-cure resins extends the process to minutes-scale cycles.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Highly efficient for hollow containers. Wall thickness can vary, fine structural
 
 ## When to use
 
-Blow molding is the choice for hollow thermoplastic containers at six-figure volumes and up: stretch blow for PET beverage bottles, extrusion blow for handled and irregular containers like detergent bottles and fuel tanks, injection blow for small precise-neck vials. Below tens of thousands of units, or for very large tanks at modest volume, rotational molding's cheap tooling wins. Parts needing tight wall control or structural detail belong in injection molding.
+Blow molding is the right choice for hollow thermoplastic containers at six-figure volumes and up: stretch blow for PET beverage bottles, extrusion blow for handled and irregular containers like detergent bottles and fuel tanks, injection blow for small precise-neck vials. Below tens of thousands of units, or for very large tanks at modest volume, rotational molding is usually cheaper because its tooling costs so much less. If the part needs tight wall control or structural detail, use injection molding instead.
 
 ## Examples
 

@@ -14,11 +14,11 @@ Anode, separator, and cathode webs are wound into a compact jelly roll.
 
 ## Strengths and weaknesses
 
-Fast and material-efficient. Tension, alignment, wrinkling, telescoping, and contamination must be controlled.
+Winding is fast and material-efficient. Tension, alignment, wrinkling, telescoping, and contamination must be controlled.
 
 ## When to use
 
-Wind whenever the format allows it: it is the fastest, cheapest, most mature assembly route, the only practical one for cylindrical cells, and winders comfortably outpace stacking machines per unit of capital. Accept its limits — curvature stress on the electrodes, corner strain in flattened prismatic rolls, and poor fit to thick or fragile electrodes. For large pouch and prismatic formats where packaging efficiency and uniform stack pressure drive performance, and for solid-state and lithium-metal designs, stacking is the alternative.
+Wind whenever the format allows it. It is the fastest, cheapest, and most mature assembly route, it is the only practical one for cylindrical cells, and winders comfortably outpace stacking machines per unit of capital. You do have to live with its limits: winding puts curvature stress on the electrodes, it puts corner strain into flattened prismatic rolls, and it fits thick or fragile electrodes poorly. If you are building large pouch or prismatic formats where packaging efficiency and uniform stack pressure drive performance, or solid-state and lithium-metal designs, use stacking instead.
 
 ## Examples
 

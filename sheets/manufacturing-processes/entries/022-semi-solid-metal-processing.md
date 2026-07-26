@@ -18,7 +18,7 @@ Reduces turbulence and porosity and can produce strong, thin-walled components. 
 
 ## When to use
 
-Consider semi-solid processing for thin-walled, high-integrity aluminum or magnesium parts at high volume — electronics housings, structural brackets — when conventional die-cast porosity would rule out heat treatment, welding, or pressure tightness; thixomolding is the practical entry point for magnesium. The specialized feedstock and machines pay off only at scale with committed process expertise. Otherwise vacuum-assisted HPDC or squeeze casting reach similar integrity on more conventional equipment.
+Consider semi-solid processing for thin-walled, high-integrity aluminum or magnesium parts at high volume (electronics housings, structural brackets), when conventional die-cast porosity would rule out heat treatment, welding, or pressure tightness. For magnesium, thixomolding is the practical entry point. The specialized feedstock and machines only pay off at scale, and only if you have real process expertise on staff. If you don't, vacuum-assisted HPDC or squeeze casting get you similar integrity on more conventional equipment.
 
 ## Examples
 

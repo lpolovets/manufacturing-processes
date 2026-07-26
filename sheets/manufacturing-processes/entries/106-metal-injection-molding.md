@@ -14,11 +14,11 @@ Fine metal powder mixed with binder is injection-molded, debound, and sintered.
 
 ## Strengths and weaknesses
 
-Produces intricate small metal parts at scale. Tooling and development are expensive, sintering causes large shrinkage, and part size is limited.
+MIM produces intricate small metal parts at scale. Tooling and development are expensive, sintering causes large shrinkage, and part size is limited.
 
 ## When to use
 
-Pick MIM for small, genuinely complex metal parts — ideally under about 100 grams and 6 mm wall thickness — at tens of thousands of pieces per year and up, where injection-molding freedom (undercuts, thin walls, fine features) meets near-wrought density in stainless, low-alloy steel, or titanium; surgical instruments, firearm components, and watch parts are the classic wins. Plan for tooling and development in the tens of thousands of dollars, months of qualification, and roughly 15-20 percent sintering shrinkage held to about plus or minus 0.3-0.5 percent. Avoid it for simple shapes (press-and-sinter or screw machining is cheaper), large or thick parts (casting), and low volumes or evolving designs, where CNC machining or metal additive gets parts without the tooling commitment.
+Pick MIM for small, genuinely complex metal parts (ideally under about 100 grams and 6 mm wall thickness) at tens of thousands of pieces per year and up. You get injection-molding geometric freedom, meaning undercuts, thin walls, and fine features, along with near-wrought density in stainless, low-alloy steel, or titanium. Surgical instruments, firearm components, and watch parts are the classic wins. Plan for tooling and development in the tens of thousands of dollars, months of qualification, and roughly 15-20 percent sintering shrinkage held to about plus or minus 0.3-0.5 percent. For simple shapes, press-and-sinter or screw machining is cheaper. For large or thick parts, use casting. If volumes are low or the design is still changing, CNC machining or metal additive gets you parts without the tooling commitment.
 
 ## Examples
 

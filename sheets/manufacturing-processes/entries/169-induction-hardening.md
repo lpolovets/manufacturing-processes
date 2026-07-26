@@ -14,11 +14,11 @@ Electromagnetic induction rapidly heats selected surface regions before quenchin
 
 ## Strengths and weaknesses
 
-Fast, local, and controllable. Coil design is geometry-specific and materials must be conductive and hardenable.
+Induction hardening is fast, local, and controllable. Coil design is geometry-specific, and the material has to be conductive and hardenable.
 
 ## When to use
 
-Use induction hardening for medium- and high-volume production of medium-carbon steel parts (roughly 0.4-0.5 percent C or hardenable alloy grades) where a specific surface — a journal, tooth flank, or raceway — needs 55-62 HRC while the rest of the part stays tough and soft for machining. Cycle times of seconds, in-line integration, and precise case-depth control from frequency selection make it the volume-production answer for shafts and axles. The coil and process development cost only pays off on repeating geometry, so for one-offs, very large parts, or field work use flame hardening; for complex 3D surfaces that a coil cannot couple to uniformly, or for low-carbon steels, go to carburizing.
+Use induction hardening for medium- and high-volume production of medium-carbon steel parts (roughly 0.4-0.5 percent C or hardenable alloy grades) where a specific surface, such as a journal, tooth flank, or raceway, needs 55-62 HRC while the rest of the part stays tough and soft for machining. It is the usual choice for shafts and axles at volume, because cycle times run in seconds, the equipment integrates in-line, and frequency selection gives precise control over case depth. The coil and process development cost only pays off on repeating geometry, so use flame hardening for one-offs, very large parts, or field work. For complex 3D surfaces that a coil cannot couple to uniformly, or for low-carbon steels, use carburizing.
 
 ## Examples
 

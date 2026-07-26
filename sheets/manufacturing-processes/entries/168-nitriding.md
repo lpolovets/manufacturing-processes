@@ -14,11 +14,11 @@ Nitrogen diffuses into the surface and forms hard nitrides.
 
 ## Strengths and weaknesses
 
-Provides wear and fatigue resistance with relatively low distortion and often no quench. Case depth is limited and alloy compatibility matters.
+Nitriding provides wear and fatigue resistance with relatively low distortion and often no quench. Case depth is limited, and alloy compatibility matters.
 
 ## When to use
 
-Nitride when the part must be hardened after finish machining: the process runs around 500-550 C with no quench, so precision gears, crankshafts, and mold cavities come out essentially at size. It requires steels with nitride-forming alloying — Cr-Mo grades, Nitralloy, tool steels, some stainless — and delivers very high surface hardness with excellent fatigue and scuffing resistance, but the diffusion case is shallow, typically under 0.5 mm even after long cycles. Avoid it where heavy Hertzian contact or impact needs a deep supporting case; carburizing is the right choice there. Plain low-carbon steels respond poorly, and long furnace times make it expensive for deep cases.
+Nitride when the part has to be hardened after finish machining. The process runs around 500-550 C with no quench, so precision gears, crankshafts, and mold cavities come out essentially at size. It requires steels with nitride-forming alloying (Cr-Mo grades, Nitralloy, tool steels, some stainless), and it delivers very high surface hardness with excellent fatigue and scuffing resistance. The diffusion case is shallow, though, typically under 0.5 mm even after long cycles. If heavy Hertzian contact or impact needs a deep supporting case, carburize instead. Plain low-carbon steels respond poorly, and long furnace times make nitriding expensive for deep cases.
 
 ## Examples
 

@@ -11,22 +11,22 @@ cost: high
 ---
 
 ## Description
-The wrist's sense of effort: a machined flexure instrumented with strain gauges (or capacitive/optical gaps) resolving the full contact wrench — three forces, three torques — at kilohertz rates. Mounted between arm and tool, it turns position-controlled robots into force-controlled ones: polishing with constant pressure, inserting pins that would otherwise jam, teaching by hand-guiding, and detecting collisions by their signature.
+A six-axis F/T sensor is a machined flexure instrumented with strain gauges (or capacitive/optical gaps) that resolves the full contact wrench, three forces and three torques, at kilohertz rates. Mounted between the arm and the tool, it turns a position-controlled robot into a force-controlled one. That enables polishing at constant pressure, inserting pins that would otherwise jam, teaching by hand-guiding, and detecting collisions by their force signature.
 
 ## Strengths and weaknesses
-Complete, calibrated contact truth at the tool; the enabling sensor for assembly, finishing, and teleoperation with force feedback; drop-in integration on standard wrist flanges. Weaknesses: precision flexures are expensive ($2–15k traditional); overload during crashes is a warranty event — the sensor protecting the process is itself fragile; thermal drift demands zeroing rituals; the added compliance and mass sit exactly where dynamics hate them; and cheap versions historically weren't, in every sense.
+You get complete, calibrated contact measurements right at the tool, which is what makes assembly, finishing, and force-feedback teleoperation work, and the sensors drop straight onto standard wrist flanges. The weaknesses: precision flexures are expensive (traditionally $2–15k), and overload during a crash is a warranty event, so the sensor that protects the process is itself fragile. Thermal drift means you have to re-zero regularly, the added compliance and mass sit right where the dynamics are most sensitive to them, and cheap versions have historically been a false economy.
 
 ## When to use
-Pick a wrist F/T sensor when the process needs calibrated wrench truth: precision insertion beyond what compliance devices capture, polishing and finishing at specified pressure, teleoperation with force feedback, and product test stands — sub-$1k entrants have dropped the ante from the traditional $2–15k. Spec overload protection if the cell can crash, and budget the zeroing ritual into cycle plans. Avoid it where coarse contact detection is enough — current-based sensing is free and every cobot ships it — or where the arm's built-in joint-torque sensing (iiwa, Franka class) already covers the fidelity you need; reserve the dedicated sensor for tasks where force accuracy visibly pays.
+Pick a wrist F/T sensor when the process needs calibrated wrench data: precision insertion beyond what passive compliance devices handle, polishing and finishing at a specified pressure, teleoperation with force feedback, and product test stands. Sub-$1k entrants have brought the entry price down from the traditional $2–15k. Spec overload protection if the cell can crash, and budget the re-zeroing into cycle plans. If coarse contact detection is enough, use current-based sensing instead (it's free and every cobot ships it). If the arm has built-in joint-torque sensing (iiwa, Franka class) that already meets your fidelity needs, use that. Save the dedicated sensor for tasks where force accuracy visibly pays.
 
 ## Failure modes
-Overload from collisions (the classic: the sensor dies protecting the experiment); thermal drift misread as force — gauges are thermometers with side jobs; cable fatigue at a constantly-moving wrist; gravity/payload compensation errors masquerade as phantom contact forces; capacitive types sensitive to temperature and humidity; slow zero-drift silently corrupting long tasks.
+Collisions overload the sensor, which is the most common way these die. Thermal drift gets misread as force, since strain gauges respond to temperature as well as strain. Cables fatigue at a wrist that moves constantly. Errors in gravity and payload compensation show up as phantom contact forces. Capacitive types are sensitive to temperature and humidity. Slow zero-drift corrupts long tasks without any obvious symptom.
 
 ## Examples
 ATI (the industrial standard, now Novanta), Robotiq FT-300, Bota Systems and Wacoh compact units, built-in joint-torque sensing on Kuka iiwa and Franka arms (the integrated alternative), Apple-supplier assembly lines full of them.
 
 ## Economic profile
-A profitable niche being squeezed from two directions: integrated joint-torque sensing (every cobot now ships some version) and current-based sensorless estimation (free but crude). New entrants (Bota, Chinese vendors) have pulled entry prices under $1k. The bull case is humanoids doing contact-rich work — potentially two wrists' worth per robot at volume pricing; the bear case is "good enough" proprioception eating the mid-market.
+This is a profitable niche getting squeezed from two directions: integrated joint-torque sensing (every cobot now ships some version) and current-based sensorless estimation (free but crude). New entrants (Bota, Chinese vendors) have pulled entry prices under $1k. The bull case is humanoids doing contact-rich work, which could mean two wrists' worth of sensors per robot at volume pricing. The bear case is that "good enough" proprioception takes over the mid-market.
 
 ## Further reading
 

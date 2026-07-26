@@ -14,11 +14,11 @@ Sheet is held under tension and stretched around a die.
 
 ## Strengths and weaknesses
 
-Creates large smooth curves with reduced wrinkling. Inefficient for small intricate parts and causes edge waste and thinning.
+It produces large smooth curves with little wrinkling. It's inefficient for small intricate parts, and it causes edge waste and thinning.
 
 ## When to use
 
-Pick stretch forming for large, gently contoured panels — meter-scale skins with shallow compound curvature — at tens to a few thousand pieces, where a single form die and a wrinkle-free class-A surface beat the cost of matched stamping dies. Budget for the gripped edge trim (often 50-150 mm per side) and check that thinning stays within skin gauge allowances. Avoid it for sharp features, deep draws, or small parts; stamping handles those at volume, and incremental sheet forming covers die-less one-offs.
+Pick stretch forming for large, gently contoured panels (meter-scale skins with shallow compound curvature) at tens to a few thousand pieces. At those volumes a single form die plus a wrinkle-free class-A surface costs less than matched stamping dies. Budget for the gripped edge trim, often 50-150 mm per side, and check that thinning stays within skin gauge allowances. Avoid it for sharp features, deep draws, or small parts. Stamping handles those at volume, and incremental sheet forming covers die-less one-offs.
 
 ## Examples
 

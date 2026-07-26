@@ -18,7 +18,7 @@ Improves corrosion resistance, wear, paint adhesion, insulation, and appearance.
 
 ## When to use
 
-Anodize is the default finish for machined and extruded aluminum exposed to handling or weather: Type II sulfuric for corrosion protection and dyed cosmetics, Type III hardcoat at 25-75 um for wear surfaces, and chromic or thin-film types for fatigue-sensitive aerospace parts. Account for growth of roughly half the coating thickness on toleranced features and mask threads and bearing bores. Avoid it where electrical grounding or EMI bonding is needed — the oxide is an insulator, so use a chromate conversion coating there — and derate fatigue-critical parts or specify a thin coating, since hardcoat in particular knocks down fatigue strength. Highly loaded 2xxx alloys and castings with high silicon anodize poorly and look blotchy when dyed.
+Anodizing is the default finish for machined and extruded aluminum exposed to handling or weather: Type II sulfuric for corrosion protection and dyed cosmetics, Type III hardcoat at 25-75 um for wear surfaces, and chromic or thin-film types for fatigue-sensitive aerospace parts. Account for growth of roughly half the coating thickness on toleranced features, and mask threads and bearing bores. Avoid anodizing where electrical grounding or EMI bonding is needed, since the oxide is an insulator; use a chromate conversion coating there instead. Derate fatigue-critical parts or specify a thin coating, because hardcoat in particular reduces fatigue strength. Highly loaded 2xxx alloys and castings with high silicon anodize poorly and look blotchy when dyed.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Coats complex geometry more uniformly than electroplating and can coat activated
 
 ## When to use
 
-Choose electroless nickel when thickness uniformity on complex geometry is the requirement — internal passages, threads, deep recesses, and valve bodies plate to within a few microns everywhere, which no electroplating bath can match — or when the substrate is a nonconductor like ABS or a printed circuit board that must be metallized. High-phosphorus EN also brings excellent corrosion resistance and, after a 400 C bake, hardness approaching hard chrome. The bath costs several times more per micron than electrolytic nickel and plates slowly, so for simple external geometry at volume, plain electroplating is cheaper; for thick wear coatings on accessible surfaces, hard chrome or thermal spray usually wins.
+Choose electroless nickel when thickness uniformity on complex geometry is the requirement. Internal passages, threads, deep recesses, and valve bodies plate to within a few microns everywhere, which no electroplating bath can match. It works on nonconductors too, like ABS or a printed circuit board that must be metallized. High-phosphorus EN also brings excellent corrosion resistance and, after a 400 C bake, hardness approaching hard chrome. The bath costs several times more per micron than electrolytic nickel and plates slowly, so for simple external geometry at volume, plain electroplating is cheaper. For thick wear coatings on accessible surfaces, hard chrome or thermal spray is usually the better choice.
 
 ## Examples
 

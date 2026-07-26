@@ -14,11 +14,11 @@ Base resin is mixed with fillers, fibers, pigments, flame retardants, plasticize
 
 ## Strengths and weaknesses
 
-Allows material properties to be tailored for a specific application. Dispersion, heat history, moisture, contamination, and batch consistency are critical.
+Compounding lets you tune material properties for a specific application. The things that determine whether it works are dispersion, heat history, moisture, contamination, and batch consistency.
 
 ## When to use
 
-Commission custom compounding when no stock resin meets the property targets — filled, reinforced, flame-retardant, conductive, or precisely matched color grades — and annual usage justifies a dedicated formulation, typically tons rather than kilograms. For simple coloring, masterbatch let-down at the molding machine is cheaper; at modest volumes, an existing commercial compound beats developing your own.
+Commission custom compounding when no stock resin hits your property targets (filled, reinforced, flame-retardant, conductive, or precisely matched color grades) and your annual usage justifies a dedicated formulation, which typically means tons rather than kilograms. If you only need color, masterbatch let-down at the molding machine is cheaper. At modest volumes, an existing commercial compound usually beats developing your own.
 
 ## Examples
 

@@ -14,29 +14,29 @@ Polymer is converted into continuous filaments by extrusion through spinnerets, 
 
 ## Strengths and weaknesses
 
-Melt spinning is fast, solvent-free, and economical; solution routes extend spinning to materials that cannot be melted; electrospinning reaches micro- and nanoscale fibers. Solvent recovery, environmental controls, and throughput limits constrain the non-melt variants.
+Melt spinning is fast, solvent-free, and cheap. Solution-based spinning extends the process to materials that cannot be melted, and electrospinning reaches micro- and nanoscale fibers. The variants that use solvent are constrained by solvent recovery, environmental controls, and low throughput.
 
 ## When to use
 
-Default to melt spinning for any fiber whose polymer melts cleanly — polyester, nylon, polypropylene — since it delivers the lowest cost at commodity scale. Reserve wet or dry spinning for polymers that degrade before melting (cellulosics, acrylics, spandex) and accept the solvent-recovery burden that comes with them. Use electrospinning only where micro- or nanoscale diameters and extreme surface area justify very low throughput — filtration media, scaffolds, separators — never for bulk textile fiber.
+Default to melt spinning for any fiber whose polymer melts cleanly (polyester, nylon, polypropylene), because it is the cheapest option at commodity scale. If the polymer degrades before it melts, as cellulosics, acrylics, and spandex do, use wet or dry spinning and plan for the solvent-recovery costs that come with them. Use electrospinning only when micro- or nanoscale diameters and very high surface area are worth the very low throughput, as in filtration media, scaffolds, and separators. It is not a way to make bulk textile fiber.
 
 ## Variants
 
 ### Melt spinning
 
-Molten polymer is extruded through spinnerets into filaments that cool and solidify. Fast, solvent-free, and economical, but only works for polymers that can be melted without degrading. Examples: polyester, nylon, polypropylene fibers.
+Molten polymer is extruded through spinnerets into filaments that cool and solidify. It is fast, solvent-free, and cheap, but it only works for polymers that can be melted without degrading. Examples: polyester, nylon, polypropylene fibers.
 
 ### Wet spinning
 
-Polymer solution is extruded into a coagulation bath, where the polymer precipitates into fibers. Works for materials that cannot be melt-spun; solvent recovery, washing, environmental controls, and slower line speeds add cost. Examples: rayon, acrylic, specialty cellulose fibers.
+Polymer solution is extruded into a coagulation bath, where the polymer precipitates into fibers. It works for materials that cannot be melt-spun, but solvent recovery, washing, environmental controls, and slower line speeds all add cost. Examples: rayon, acrylic, specialty cellulose fibers.
 
 ### Dry spinning
 
-Polymer solution is extruded into heated gas so solvent evaporates and leaves a filament. Avoids a liquid coagulation bath but requires careful solvent recovery and explosion control. Examples: spandex, acetate fibers.
+Polymer solution is extruded into heated gas so solvent evaporates and leaves a filament. It avoids a liquid coagulation bath, but it needs careful solvent recovery and explosion control. Examples: spandex, acetate fibers.
 
 ### Electrospinning
 
-An electric field draws very fine fibers from a polymer solution or melt. Creates micro- and nanoscale fibers with enormous surface area; throughput and scale-up remain difficult. Examples: filtration media, tissue scaffolds, battery separators, wound dressings.
+An electric field draws very fine fibers from a polymer solution or melt. The fibers are micro- and nanoscale with very high surface area, but throughput and scale-up are still difficult. Examples: filtration media, tissue scaffolds, battery separators, wound dressings.
 
 ## Examples
 

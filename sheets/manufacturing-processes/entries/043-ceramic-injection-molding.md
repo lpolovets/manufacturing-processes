@@ -18,7 +18,7 @@ Produces intricate small ceramic components at scale. Tooling, debinding, sinter
 
 ## When to use
 
-Use CIM for small, intricate technical ceramics — dental brackets, watch cases, nozzles, typically under about 100 g with sections below roughly 10 mm for clean debinding — at volumes of tens of thousands and up that amortize hard tooling and process development. Sintering shrinkage near 20 percent must be dialed in per geometry. At lower volumes or larger sizes, press-and-sinter or green machining of pressed blanks is the practical route.
+Use CIM for small, intricate technical ceramics (dental brackets, watch cases, nozzles), typically under about 100 g with sections below roughly 10 mm so that debinding stays clean. Volumes of tens of thousands and up are what amortize the hard tooling and the process development. Sintering shrinkage runs near 20 percent, and you have to dial it in for each geometry. If your volumes are lower or your parts are larger, press-and-sinter or green machining of pressed blanks is the practical route.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Produces high-quality conformal coatings. Processes may require high temperature
 
 ## When to use
 
-Choose CVD when the film must be conformal over topography or must be a material best formed from gas-phase chemistry: polysilicon, silicon nitride, oxide interlayers, tungsten plugs, SiC, and diamond coatings. Batch furnace LPCVD coats hundreds of wafers uniformly and cheaply; PECVD trades some film quality for deposition at 200-400 C when metallized or temperature-limited substrates rule out the 600-900 C thermal processes. Plan for toxic and pyrophoric precursor handling as a facility-level commitment. When the substrate cannot tolerate even plasma-assisted temperatures or the film is a simple metal, sputtered PVD is easier; when conformality requirements reach extreme aspect ratios or thickness control must be sub-nanometer, step up to ALD and accept its slow rate.
+Choose CVD when the film must be conformal over topography or must be a material best formed from gas-phase chemistry: polysilicon, silicon nitride, oxide interlayers, tungsten plugs, SiC, and diamond coatings. Batch furnace LPCVD coats hundreds of wafers uniformly and cheaply; PECVD trades some film quality for deposition at 200-400 C when metallized or temperature-limited substrates rule out the 600-900 C thermal processes. Handling toxic and pyrophoric precursors is a facility-level commitment, so plan for it. If the substrate cannot tolerate even plasma-assisted temperatures, or the film is a simple metal, sputtered PVD is easier. If conformality requirements reach extreme aspect ratios or thickness control has to be sub-nanometer, use ALD instead and accept its slow deposition rate.
 
 ## Examples
 

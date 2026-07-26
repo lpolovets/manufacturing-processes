@@ -14,11 +14,11 @@ Alternating electrode and separator sheets are aligned and stacked.
 
 ## Strengths and weaknesses
 
-Supports rectangular formats and uniform compression. Mechanically complex and alignment-sensitive.
+Stacking supports rectangular formats and uniform compression. The machinery is mechanically complex and sensitive to alignment.
 
 ## When to use
 
-Stack when the format is rectangular and performance justifies slower, costlier machinery: pouch and large prismatic EV cells gain packaging efficiency, uniform pressure, and better swelling tolerance from flat stacks, and solid-state and lithium-metal designs with fragile layers essentially require them. Z-folding the separator is the common compromise between speed and alignment. For cylindrical cells, or wherever assembly cost per amp-hour dominates, winding remains the faster default.
+Stack when the format is rectangular and the performance gain justifies slower, costlier machinery. Pouch and large prismatic EV cells get packaging efficiency, uniform pressure, and better swelling tolerance from flat stacks, and solid-state and lithium-metal designs with fragile layers essentially require them. Z-folding the separator is the common compromise between speed and alignment. If you are making cylindrical cells, or assembly cost per amp-hour dominates, winding is the faster default.
 
 ## Examples
 

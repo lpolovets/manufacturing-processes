@@ -18,7 +18,7 @@ Inexpensive, high-throughput, and chemically selective. Isotropic etchants cause
 
 ## When to use
 
-Use wet etching when features are larger than a few microns and undercut of roughly the etch depth is tolerable — blanket film stripping, PCB and metal patterning, oxide removal — because batch immersion processes dozens of wafers or panels at once for the cost of chemicals, and selectivity between materials can be effectively infinite. KOH or TMAH bulk micromachining is the cheap route to deep cavities, membranes, and V-grooves when the 54.7-degree sidewalls of (100) silicon are acceptable or even wanted. Move to dry plasma etching when the design needs vertical sidewalls, sub-3 um features, tight CD control, or geometry independent of crystal orientation, and to DRIE for deep high-aspect-ratio silicon.
+Use wet etching when features are larger than a few microns and undercut of roughly the etch depth is tolerable (blanket film stripping, PCB and metal patterning, oxide removal). It is cheap because batch immersion processes dozens of wafers or panels at once for the cost of chemicals, and selectivity between materials can be effectively infinite. KOH or TMAH bulk micromachining is the cheap route to deep cavities, membranes, and V-grooves when the 54.7-degree sidewalls of (100) silicon are acceptable or even wanted. If the design needs vertical sidewalls, sub-3 um features, tight CD control, or geometry independent of crystal orientation, move to dry plasma etching, and to DRIE for deep high-aspect-ratio silicon.
 
 ## Examples
 

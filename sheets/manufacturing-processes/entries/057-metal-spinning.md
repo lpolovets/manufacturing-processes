@@ -14,11 +14,11 @@ A rotating sheet blank is progressively formed over a mandrel using a roller.
 
 ## Strengths and weaknesses
 
-Tooling is inexpensive and well suited to prototypes and low-volume axisymmetric parts. Production is slower than stamping and geometry must be rotationally symmetric.
+Tooling is inexpensive, which suits prototypes and low-volume axisymmetric parts. Production is slower than stamping, and the geometry has to be rotationally symmetric.
 
 ## When to use
 
-Pick spinning for round hollow shapes — cones, domes, hemispheres, flanged shells — from one-offs up to a few thousand pieces per year, where a mandrel costing hundreds to a few thousand dollars replaces a deep-draw die costing fifty times that. It scales from cookware diameters to multi-meter tank heads and handles thicknesses conventional presses struggle with. Avoid it for anything non-axisymmetric or for sustained volumes above roughly 5,000-10,000 pieces per year, where deep drawing or stamping wins on cycle time and consistency.
+Pick spinning for round hollow shapes (cones, domes, hemispheres, flanged shells) from one-offs up to a few thousand pieces per year. A mandrel costs hundreds to a few thousand dollars and replaces a deep-draw die costing fifty times that. It scales from cookware diameters to multi-meter tank heads, and it handles thicknesses that conventional presses struggle with. Avoid it for anything non-axisymmetric. If you need sustained volumes above roughly 5,000-10,000 pieces per year, deep drawing or stamping is better on cycle time and consistency.
 
 ## Examples
 

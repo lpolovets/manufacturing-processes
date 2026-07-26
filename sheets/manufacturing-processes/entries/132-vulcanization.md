@@ -18,7 +18,7 @@ Creates resilience, durability, and dimensional stability. Vulcanized rubber can
 
 ## When to use
 
-Choose vulcanized thermoset rubber wherever compression set, heat resistance, and dynamic fatigue life matter — seals, tires, engine mounts, anything loaded continuously or running hot. Within it, sulfur cure is the general-purpose system for dynamic service, while peroxide and specialty cures buy higher temperature capability and lower set. When parts are lightly loaded and recyclability or fast injection-molding cycles dominate, thermoplastic elastomers avoid the cure step and the scrap penalty entirely.
+Choose vulcanized thermoset rubber wherever compression set, heat resistance, and dynamic fatigue life matter: seals, tires, engine mounts, and anything loaded continuously or running hot. Sulfur cure is the general-purpose system for dynamic service, while peroxide and specialty cures give higher temperature capability and lower compression set. If parts are lightly loaded and you care more about recyclability or fast injection-molding cycles, thermoplastic elastomers skip the cure step and the scrap that comes with it.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Provides very high throughput and tunable filtration, absorption, and barrier be
 
 ## When to use
 
-Choose nonwovens whenever the product is roll goods sold by the square meter and the performance requirement is filtration, absorption, or barrier rather than strength — hygiene products, wipes, masks, insulation, geotextiles. Lines are capital-intensive and pay only at continuous commodity volumes, so avoid the process for durable or load-bearing textiles and for anything without large steady demand; woven or knit fabric covers those cases.
+Choose nonwovens when the product is roll goods sold by the square meter and the performance requirement is filtration, absorption, or barrier rather than strength (hygiene products, wipes, masks, insulation, geotextiles). Lines are capital-intensive and pay off only at continuous commodity volumes. Avoid the process for durable or load-bearing textiles and for anything without large steady demand; woven or knit fabric covers those cases.
 
 ## Examples
 

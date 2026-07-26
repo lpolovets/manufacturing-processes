@@ -10,19 +10,19 @@ maturity: mass
 ---
 
 ## Description
-Button cells with a silver oxide cathode and zinc anode in alkaline electrolyte: the precision timepiece battery. Silver oxide's gift is an almost perfectly flat 1.55 V discharge curve — voltage barely moves from first use to exhaustion — plus high volumetric energy in tiny packages and years of dependable shelf life. That stability is why quartz watches and precision instruments standardized on it despite silver's cost.
+Button cells with a silver oxide cathode and a zinc anode in alkaline electrolyte. This is the watch battery. Its main advantage is an almost perfectly flat 1.55 V discharge curve, where voltage barely moves from first use to exhaustion. It also packs high volumetric energy into tiny packages and holds a dependable shelf life for years. That voltage stability is why quartz watches and precision instruments standardized on it despite silver's cost.
 
 ## Strengths and weaknesses
-Flat, predictable voltage ideal for timing circuits; high energy per unit volume; excellent leakage resistance and shelf life; benign chemistry at button scale. Weaknesses: silver makes it the most expensive common button cell per unit of energy; sizes are limited to small formats (silver cost forbids large cells); capacity is modest against lithium coin cells for higher-drain electronics.
+The flat, predictable voltage suits timing circuits, energy per unit volume is high, leakage resistance and shelf life are excellent, and the chemistry is benign at button scale. The weaknesses: silver makes it the most expensive common button cell per unit of energy, sizes stay limited to small formats because silver cost rules out large cells, and capacity is modest against lithium coin cells for higher-drain electronics.
 
 ## When to use
-Pick silver-oxide when a small device's circuit depends on voltage stability — watches, calipers, glucose meters, precision timing — where the flat 1.55 V curve from first use to exhaustion is the feature being bought. Avoid it for higher-drain or larger devices, where silver pricing makes it uneconomic; a 3 V Li-MnO2 coin cell delivers more capacity per dollar wherever the electronics can regulate, and zinc-air wins for continuous microamp drain in air-breathing devices like hearing aids.
+Pick silver-oxide when a small device's circuit depends on voltage stability (watches, calipers, glucose meters, precision timing), because the flat 1.55 V curve from first use to exhaustion is the feature you're paying for. Avoid it for higher-drain or larger devices, where silver pricing makes it uneconomic. If the electronics can regulate voltage, a 3 V Li-MnO2 coin cell delivers more capacity per dollar. If the device breathes air and draws a continuous microamp load, like a hearing aid, use zinc-air instead.
 
 ## Examples
 Watch batteries (SR-series from Murata, Renata, Energizer), hearing-aid-adjacent instruments, calipers and precision gauges, glucose meters and small medical sensors.
 
 ## Economic profile
-A stable, high-margin micro-market keyed to silver prices and dominated by a few Japanese and Swiss producers. Larger silver-zinc cells share the electrochemistry but live in aerospace (see Silver-Zinc entry). No growth story — just a durable annuity on the installed base of small devices needing stable voltage.
+This is a stable, high-margin micro-market. Prices track silver, and a few Japanese and Swiss producers dominate it. Larger silver-zinc cells share the electrochemistry but live in aerospace (see the Silver-Zinc entry). There's no growth story here, just steady revenue from the installed base of small devices that need stable voltage.
 
 ## Further reading
 

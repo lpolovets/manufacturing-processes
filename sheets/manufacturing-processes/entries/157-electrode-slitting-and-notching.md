@@ -14,11 +14,11 @@ Coated rolls are cut into narrow strips and shaped to create tabs or cell-specif
 
 ## Strengths and weaknesses
 
-High-throughput but sensitive to burrs, dust, edge cracks, and registration. Small defects can cause internal shorts.
+Throughput is high, but the process is sensitive to burrs, dust, edge cracks, and registration. Small defects can cause internal shorts.
 
 ## When to use
 
-Slitting and notching are mandatory between coating and cell assembly; the decision is cutting technology. Mechanical slitting is cheapest and standard for plain strip at fixed widths, but blades wear and burrs grow with them; choose laser notching when tab geometries change often or formats are complex, accepting heat-affected edges and fume extraction in exchange for tool-free flexibility. Either way, burr height and particle cleanliness are the specs that matter, because edge defects become internal shorts.
+Slitting and notching are mandatory between coating and cell assembly, so the real decision is which cutting technology to use. Mechanical slitting is cheapest and is the standard choice for plain strip at fixed widths, but blades wear and burrs grow as they wear. If tab geometries change often or the formats are complex, use laser notching instead: you get tool-free flexibility, and in exchange you accept heat-affected edges and the need for fume extraction. Either way, burr height and particle cleanliness are the specs that matter, because edge defects become internal shorts.
 
 ## Examples
 

@@ -14,11 +14,11 @@ Prepreg is vacuum-bagged and cured in an oven rather than a pressurized autoclav
 
 ## Strengths and weaknesses
 
-Lowers capital cost and part-size constraints. Void control and laminate quality are more difficult.
+Skipping the autoclave lowers capital cost and loosens part-size constraints. Void control and laminate quality get harder.
 
 ## When to use
 
-Pick OOA prepreg when you want near-autoclave laminate quality without owning an autoclave, or when the part is simply too large for one — drone and motorsport structures, aerospace secondary structure, and large one-offs cured in an oven under vacuum bag alone. It demands disciplined debulking and bagging to keep voids down, so avoid it for certified primary structure where sub-1% void content must be guaranteed; there the autoclave remains the default. For parts without prepreg-level property requirements, vacuum infusion is cheaper still.
+Pick OOA prepreg when you want near-autoclave laminate quality without owning an autoclave, or when the part is simply too large to fit in one. Typical work includes drone and motorsport structures, aerospace secondary structure, and large one-offs cured in an oven under vacuum bag alone. Keeping voids down takes disciplined debulking and bagging, so if you need certified primary structure with guaranteed sub-1% void content, use an autoclave instead. If the part has no prepreg-level property requirements, vacuum infusion is cheaper still.
 
 ## Examples
 

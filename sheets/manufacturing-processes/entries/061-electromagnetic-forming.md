@@ -14,11 +14,11 @@ A pulsed magnetic field induces forces in conductive metal and rapidly deforms i
 
 ## Strengths and weaknesses
 
-Clean, fast, and contactless. Mainly works on conductive materials and requires high-voltage equipment.
+It's clean, fast, and contactless. It mainly works on conductive materials, and it requires high-voltage equipment.
 
 ## When to use
 
-Pick electromagnetic forming for high-conductivity alloys — aluminum and copper above roughly 1-2 mm skin depth equivalents — in fast, repeatable crimping, flanging, and joining operations at medium to high volume, particularly dissimilar-material joints (aluminum to steel, metal to composite) where welding is off the table. Cycle times of a second or less and no tool contact make it attractive for cosmetic surfaces. Avoid it for steels and other poor conductors without a driver sheet, for large-area panel forming, and for shops unwilling to maintain pulsed high-voltage capacitor banks; mechanical crimping or conventional press forming is the fallback.
+Pick electromagnetic forming for high-conductivity alloys (aluminum and copper above roughly 1-2 mm skin depth equivalents) in fast, repeatable crimping, flanging, and joining operations at medium to high volume. It's especially useful for dissimilar-material joints such as aluminum to steel or metal to composite, where you can't weld. Cycle times run a second or less, and because no tool touches the part it works well on cosmetic surfaces. Avoid it for steels and other poor conductors unless you add a driver sheet, for large-area panel forming, and in shops that aren't willing to maintain pulsed high-voltage capacitor banks. The fallback is mechanical crimping or conventional press forming.
 
 ## Examples
 

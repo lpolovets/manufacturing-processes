@@ -14,11 +14,11 @@ Powder is consolidated using pressure and rapid electrical heating.
 
 ## Strengths and weaknesses
 
-Enables fast densification and fine microstructures. Size, tooling geometry, equipment cost, and scale-up remain limiting.
+SPS densifies powder quickly and keeps microstructures fine. Size, tooling geometry, equipment cost, and scale-up are all still limiting.
 
 ## When to use
 
-Reserve SPS for research and pilot quantities of materials that conventional sintering ruins or cannot densify — nanostructured and transparent ceramics, thermoelectrics, ultra-hard composites — where minutes at temperature preserve fine grains that hours in a furnace would coarsen. Expect part geometry limited to graphite-die pucks, disks, and simple cylinders up to a few hundred millimeters. For production volumes or complex shapes, switch to conventional press-and-sinter, hot pressing, or HIP.
+Reserve SPS for research and pilot quantities of materials that conventional sintering degrades or cannot densify, such as nanostructured and transparent ceramics, thermoelectrics, and ultra-hard composites. It works because minutes at temperature preserve fine grains that hours in a furnace would coarsen. Expect part geometry limited to graphite-die pucks, disks, and simple cylinders up to a few hundred millimeters. If you need production volumes or complex shapes, switch to conventional press-and-sinter, hot pressing, or HIP.
 
 ## Examples
 

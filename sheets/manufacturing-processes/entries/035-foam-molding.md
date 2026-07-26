@@ -18,7 +18,7 @@ Produces lightweight, insulating, impact-absorbing structures. Surface finish, s
 
 ## When to use
 
-Choose foam molding when the requirement is lightness, thermal insulation, or controlled energy absorption — helmet liners, protective packaging, automotive absorbers — at medium volumes and up, with EPS or EPP steam-chest molding as the standard route. Structural-foam variants stiffen large parts while cutting weight and clamp tonnage. Avoid it where fine cosmetic surfaces, tight tolerances, or easy recyclability are required; solid injection molding is the alternative.
+Choose foam molding when you need lightness, thermal insulation, or controlled energy absorption (helmet liners, protective packaging, automotive absorbers) at medium volumes and up. EPS or EPP steam-chest molding is the standard route. Structural-foam variants stiffen large parts while cutting weight and clamp tonnage. Avoid foam molding when you need fine cosmetic surfaces, tight tolerances, or easy recyclability; use solid injection molding instead.
 
 ## Examples
 

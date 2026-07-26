@@ -14,11 +14,11 @@ Molten polymer is extruded through a flat die onto chilled rolls and wound as a 
 
 ## Strengths and weaknesses
 
-Produces high clarity, good thickness control, and high line speed. Usually has less biaxial strength than blown film and requires expensive flat dies and chill-roll systems.
+Cast film has high clarity, good thickness control, and high line speed. It usually has less biaxial strength than blown film, and it needs expensive flat dies and chill-roll systems.
 
 ## When to use
 
-Pick cast film when clarity, gloss, and tight thickness control matter — stretch wrap, food and medical packaging — and volumes justify the flat-die and chill-roll investment, since these lines run faster than any other film process. Avoid it for products needing balanced biaxial strength or tear resistance, and for short runs or frequent width changes; blown film covers those better.
+Pick cast film when clarity, gloss, and tight thickness control matter (stretch wrap, food packaging, medical packaging) and your volumes justify the flat-die and chill-roll investment. These lines run faster than any other film process. If you need balanced biaxial strength or tear resistance, or you have short runs and frequent width changes, blown film handles those better.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Fast and suitable for soft, delicate, or densely featured parts. Reflectivity, t
 
 ## When to use
 
-Choose optical measurement when speed and coverage beat ultimate point accuracy: structured-light and laser scanners capture millions of points in seconds for full-surface comparison against CAD, which suits stamped, molded, and additive parts, soft or flexible components a touch probe would deflect, and inline 100 percent inspection at production rate. Vision systems and interferometers own small 2D features and surface topography respectively. Expect tens-of-microns practical accuracy from scanners rather than the microns of a CMM, and plan matte spray or exposure tuning for shiny, transparent, or dark surfaces. When a datum-referenced GD&T callout at single-digit-micron tolerance must be certified, or deep bores and undercuts block line of sight, fall back to a tactile CMM or industrial CT.
+Choose optical measurement when speed and coverage matter more than ultimate point accuracy. Structured-light and laser scanners capture millions of points in seconds for full-surface comparison against CAD, which suits stamped, molded, and additive parts, soft or flexible components a touch probe would deflect, and inline 100 percent inspection at production rate. Vision systems are the usual choice for small 2D features, and interferometers for surface topography. Expect tens-of-microns practical accuracy from scanners rather than the microns of a CMM, and plan on matte spray or exposure tuning for shiny, transparent, or dark surfaces. If a datum-referenced GD&T callout at single-digit-micron tolerance must be certified, or deep bores and undercuts block line of sight, fall back to a tactile CMM or industrial CT.
 
 ## Examples
 

@@ -14,11 +14,11 @@ High-purity semiconductor material is grown into a crystal, sliced into wafers, 
 
 ## Strengths and weaknesses
 
-Creates ultra-flat, low-defect substrates essential for semiconductor manufacturing. Crystal growth, contamination, polishing, and defect control require extreme capital and process discipline.
+It produces the ultra-flat, low-defect substrates that semiconductor manufacturing depends on. The downside is that crystal growth, contamination control, polishing, and defect control all require very high capital spending and tight process discipline.
 
 ## When to use
 
-Treat this as a sourcing decision: buy polished prime wafers to the diameter, orientation, doping, and flatness spec the device requires, since merchant supply is far cheaper than any in-house growth. Growing and finishing crystal in-house is justified only for substrates that cannot be sourced — novel compound semiconductors, unusual orientations, captive SiC capacity — and demands cleanroom-grade capital and years of process development.
+Treat this as a sourcing decision. In almost all cases you should buy polished prime wafers to the diameter, orientation, doping, and flatness spec your device requires, because merchant supply is far cheaper than growing your own. Growing and finishing crystal in-house only makes sense for substrates you can't source at all (novel compound semiconductors, unusual orientations, captive SiC capacity), and it takes cleanroom-grade capital plus years of process development.
 
 ## Examples
 

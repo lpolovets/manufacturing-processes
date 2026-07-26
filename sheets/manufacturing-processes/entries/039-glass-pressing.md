@@ -18,7 +18,7 @@ Repeatable and efficient for relatively thick glass components. Undercuts, thin 
 
 ## When to use
 
-Choose pressing for open, relatively thick glass shapes at medium-to-high volume — lenses, insulators, dishes, headlamp optics — wherever a plunger can reach every surface and repeatability matters more than delicacy. It cannot make narrow-necked hollowware, thin uniform walls, or undercuts; those need blowing. For precision optics, plan on grinding and polishing downstream unless investing in precision molding.
+Choose pressing for open, relatively thick glass shapes at medium-to-high volume (lenses, insulators, dishes, headlamp optics), wherever a plunger can reach every surface and repeatability matters more than delicacy. Pressing can't make narrow-necked hollowware, thin uniform walls, or undercuts; those need blowing. For precision optics, plan on grinding and polishing downstream unless you invest in precision molding.
 
 ## Examples
 

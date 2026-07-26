@@ -18,7 +18,7 @@ Produces very large, strong parts with favorable grain flow and relatively modes
 
 ## When to use
 
-Open-die forging is for very large or very low-volume parts that must be metallurgically sound — turbine shafts, vessel rings, rotors from hundreds of kilograms to hundreds of tons — where no closed die could exist. Treat the forging as a rough envelope and plan substantial machining allowances. For thousands of identical net-shape parts move to closed-die forging; where strength requirements allow, a large casting is cheaper still.
+Open-die forging is for very large or very low-volume parts that have to be metallurgically sound (turbine shafts, vessel rings, rotors from hundreds of kilograms to hundreds of tons), where no closed die could exist. Treat the forging as a rough envelope and plan substantial machining allowances. If you need thousands of identical net-shape parts, move to closed-die forging. If your strength requirements allow it, a large casting is cheaper still.
 
 ## Examples
 

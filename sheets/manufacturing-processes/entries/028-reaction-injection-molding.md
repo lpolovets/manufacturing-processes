@@ -18,7 +18,7 @@ Accommodates large parts, thick sections, and lower-cost tooling because mold pr
 
 ## When to use
 
-Choose RIM for large, lightweight polyurethane parts — machine covers, fascias, panels at sizes where thermoplastic molds become prohibitive — at hundreds to roughly 10,000 units per year, since low cavity pressure allows inexpensive aluminum or even composite tooling. Avoid it for small parts, tight tolerances, or six-figure volumes, where thermoplastic injection molding is faster and cheaper per part, and plan on painting to cover its weaker as-molded surface.
+Choose RIM for large, lightweight polyurethane parts (machine covers, fascias, panels at sizes where thermoplastic molds get too expensive) at hundreds to roughly 10,000 units per year. Cavity pressure is low, so the tooling can be inexpensive aluminum or even composite. Avoid RIM for small parts, tight tolerances, or six-figure volumes; thermoplastic injection molding is faster and cheaper per part there. Plan on painting the parts, because the as-molded surface isn't very good.
 
 ## Examples
 

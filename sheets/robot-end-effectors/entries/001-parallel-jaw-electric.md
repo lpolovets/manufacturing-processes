@@ -11,19 +11,19 @@ cost: med
 ---
 
 ## Description
-The default robot hand: two fingers translating in parallel, driven by a servo through a screw or rack, with programmable stroke, speed, and grip force. Electric actuation turned the humble two-jaw gripper into a smart device — grip-by-wire force control, part-detection from motor current, position feedback confirming which object was grasped. With task-specific fingertips bolted on, it handles the overwhelming majority of industrial handling that isn't suction's.
+This is the default robot hand. Two fingers translate in parallel, driven by a servo through a screw or a rack, with programmable stroke, speed, and grip force. Electric actuation adds things a plain two-jaw gripper can't do: force control in software, part detection from motor current, and position feedback that tells you which object was grasped. With task-specific fingertips bolted on, it handles the overwhelming majority of industrial handling that doesn't go to suction.
 
 ## Strengths and weaknesses
-Programmable force and stroke covers part families without retooling; self-locking screws hold parts through power loss; clean (no air) for labs and electronics; current-based grip detection is free process feedback. Weaknesses: two rigid contact lines demand reasonable object geometry and pose accuracy; wide flat objects and soft produce fight it; speed trails pneumatics; and per-unit cost runs 5–20× the pneumatic equivalent it often replaces.
+Programmable force and stroke cover a whole part family without retooling. Self-locking screws hold the part through a power loss. There is no air line, which matters in labs and electronics, and current-based grip detection gives you process feedback for free. On the weak side, two rigid contact lines need reasonable object geometry and pose accuracy, so wide flat objects and soft produce are a poor fit. Speed trails pneumatics, and per-unit cost runs 5–20× the pneumatic equivalent it often replaces.
 
 ## When to use
-Make it the first candidate for discrete rigid parts when part families vary, grip force must be controlled, or the environment bans compressed air — labs, electronics, cobot cells, machine tending with SKU churn — since programmable stroke and force cover variety without finger changeovers, and current-based grip detection comes free. Avoid it on high-cycle single-part duty where a pneumatic gripper at a tenth the price cycles faster and outlasts it, and on wide flat panels, limp goods, and soft produce, where suction or soft fingers are the right reach.
+Make it your first candidate for discrete rigid parts when part families vary, when grip force has to be controlled, or when the cell can't use compressed air (labs, electronics, cobot cells, machine tending with SKU churn). Programmable stroke and force cover the variety without finger changeovers, and current-based grip detection comes free. If you're running high-cycle single-part duty, a pneumatic gripper costs a tenth as much, cycles faster, and outlasts it. For wide flat panels, limp goods, and soft produce, use suction or soft fingers instead.
 
 ## Examples
 Schunk EGP/EGU lines, Robotiq 2F-85/140 (the cobot-era standard), OnRobot RG series, Zimmer electric ranges; Chinese entrants (DH Robotics, Hitbot) compressing prices; nearly every cobot demo ever filmed.
 
 ## Economic profile
-A $500–5k product line at the heart of the cobot accessory boom, with plug-and-play ecosystem certification (UR+) as the distribution moat. Chinese vendors have halved street prices in five years. The strategic role is default-choice status: integrators reach for a parallel-jaw first and justify anything else — which makes its ecosystem position more valuable than any spec.
+These are $500–5k products, and they sit at the heart of the cobot accessory boom. Distribution runs through plug-and-play ecosystem certification (UR+), which is the main moat. Chinese vendors have halved street prices in five years. The strategic position is default-choice status: integrators reach for a parallel-jaw gripper first and have to justify anything else, so a vendor's ecosystem position is worth more than its specs.
 
 ## Further reading
 

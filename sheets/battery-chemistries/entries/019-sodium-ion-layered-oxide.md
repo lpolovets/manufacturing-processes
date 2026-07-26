@@ -11,19 +11,19 @@ maturity: mass
 ---
 
 ## Description
-The sodium analog of NMC: layered NaxMO2 cathodes (M = Ni, Fe, Mn, Cu blends) against hard-carbon anodes, in cells that assemble on standard Li-ion lines. Sodium is effectively unlimited and cheap, the aluminum anode current collector replaces copper, and cells tolerate zero-volt storage for shipping. Energy density has climbed to ~140–175 Wh/kg — LFP territory of a few years ago — with strong cold-temperature performance.
+This is the sodium analog of NMC: layered NaxMO2 cathodes (M = Ni, Fe, Mn, Cu blends) against hard-carbon anodes, in cells that assemble on standard Li-ion lines. Sodium is effectively unlimited and cheap, an aluminum anode current collector replaces copper, and the cells tolerate zero-volt storage for shipping. Energy density has climbed to ~140–175 Wh/kg (about where LFP was a few years ago), and cold-temperature performance is strong.
 
 ## Strengths and weaknesses
-No lithium, cobalt, nickel-supply, or copper-foil exposure; excellent low-temperature power; safe transport at zero volts; drop-in manufacturing. Weaknesses: lower energy density than current LFP; hard carbon anodes are the cost and performance bottleneck (sourcing consistent precursors); layered sodium oxides are moisture-sensitive; and the cost advantage over LFP only materializes at scale and high lithium prices.
+There's no exposure to lithium, cobalt, nickel supply, or copper foil, low-temperature power is excellent, transport at zero volts is safe, and manufacturing is close to drop-in. The weaknesses: energy density is lower than current LFP, hard carbon anodes are the cost and performance bottleneck (consistent precursors are hard to source), layered sodium oxides are moisture-sensitive, and the cost advantage over LFP only shows up at scale and at high lithium prices.
 
 ## When to use
-Pick layered-oxide sodium-ion for entry-level EVs, two-wheelers, start-stop batteries, and grid storage when you want a hedge against lithium prices, need strong cold-weather power, or value zero-volt shipping and a lithium-free supply chain — and you can source at the scale where the cost advantage actually appears. Avoid it when the design needs current LFP's 190+ Wh/kg or when lithium is cheap and you're buying on today's $/kWh; in both cases LFP remains the default, with sodium held as the option it is.
+Pick layered-oxide sodium-ion for entry-level EVs, two-wheelers, start-stop batteries, and grid storage when you want a hedge against lithium prices, need strong cold-weather power, or value zero-volt shipping and a lithium-free supply chain. You also need to buy at the scale where the cost advantage actually appears. Avoid it if your design needs current LFP's 190+ Wh/kg, or if lithium is cheap and you're buying on today's $/kWh. In both of those cases LFP is the default and sodium is worth holding as an option.
 
 ## Examples
 CATL Naxtra (mass production for entry EVs and start-stop batteries), BYD sodium program, HiNa Battery vehicles in China; Northvolt validated 160 Wh/kg cells before its collapse.
 
 ## Economic profile
-The strategic hedge against lithium price spikes: bill-of-materials can undercut LFP when lithium is expensive, but loses when lithium is cheap — sodium's economics are an option on lithium volatility. China holds nearly the entire supply chain. Grid storage and two-wheelers absorb early volume; EV traction follows energy-density gains.
+Its main economic role is as a hedge against lithium price spikes. Bill-of-materials can undercut LFP when lithium is expensive and loses when lithium is cheap, so buying sodium is effectively buying an option on lithium volatility. China holds nearly the entire supply chain. Grid storage and two-wheelers absorb early volume, and EV traction follows energy-density gains.
 
 ## Further reading
 

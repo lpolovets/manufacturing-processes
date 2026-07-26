@@ -10,19 +10,19 @@ maturity: comm
 ---
 
 ## Description
-A military-standard primary: lithium anode with liquid sulfur dioxide cathode dissolved under pressure in an organic solvent. Li-SO2's specialty is power in the cold — full-rate discharge at -40 °C and below, where nearly every other chemistry chokes — combined with high energy density, a decade of storage, and rugged spiral-wound construction. It became NATO's default field battery for radios and portable equipment.
+Li-SO2 is a military-standard primary: a lithium anode with a liquid sulfur dioxide cathode dissolved under pressure in an organic solvent. Its specialty is power in the cold, with full-rate discharge at -40 °C and below, where nearly every other chemistry falls off badly. It also gets you high energy density, a decade of storage, and rugged spiral-wound construction. It became NATO's default field battery for radios and portable equipment.
 
 ## Strengths and weaknesses
-Outstanding low-temperature, high-rate performance; long shelf life; proven logistics record across decades of military service. Weaknesses: pressurized toxic SO2 requires vented safety designs and makes disposal a regulated headache; consumer use is effectively prohibited; energy density trails thionyl chloride; the BA-5590's dominance is now eroding as rechargeable Li-ion field batteries cut logistics mass.
+Low-temperature, high-rate performance is outstanding, shelf life is long, and the logistics record is proven across decades of military service. Weaknesses: pressurized toxic SO2 requires vented safety designs and makes disposal a regulated headache; consumer use is effectively prohibited; energy density trails thionyl chloride; and the BA-5590's dominance is now eroding as rechargeable Li-ion field batteries cut logistics mass.
 
 ## When to use
-Pick Li-SO2 for military field equipment that must deliver full-rate power at -40 °C after a decade in storage — radios, sonobuoys, munitions electronics, arctic instrumentation — where BA-5590-class logistics and qualification already exist. It is effectively a defense-only chemistry: consumer use is prohibited and disposal is regulated. For longer unattended life at low drain choose Li-SOCl2 instead, and where battlefield recharging doctrine applies, rechargeable BB-2590 Li-ion packs are the direction of travel.
+Pick Li-SO2 for military field equipment that must deliver full-rate power at -40 °C after a decade in storage (radios, sonobuoys, munitions electronics, arctic instrumentation), where BA-5590-class logistics and qualification already exist. It is effectively a defense-only chemistry, since consumer use is prohibited and disposal is regulated. If you need longer unattended life at low drain, choose Li-SOCl2 instead, and where battlefield recharging doctrine applies, rechargeable BB-2590 Li-ion packs are the direction of travel.
 
 ## Examples
 BA-5590 and family (Saft America, EaglePicher, Ultralife) powering military radios, jammers, and missiles; sonobuoys; arctic and high-altitude instrumentation.
 
 ## Economic profile
-A defense-procurement annuity with qualification moats and captive customers, gradually ceding ground to rechargeable BB-2590 equivalents as militaries chase battlefield-recharging doctrine. Producers are the same specialty houses that serve the rest of the military primary market — consolidation, not growth.
+Li-SO2 is a defense-procurement annuity with qualification moats and captive customers. It is gradually ceding ground to rechargeable BB-2590 equivalents as militaries move toward battlefield-recharging doctrine. Producers are the same specialty houses that serve the rest of the military primary market, so expect consolidation rather than growth.
 
 ## Further reading
 

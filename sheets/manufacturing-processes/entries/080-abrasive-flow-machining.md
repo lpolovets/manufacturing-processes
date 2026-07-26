@@ -18,7 +18,7 @@ Reaches internal passages inaccessible to conventional tools. Material removal c
 
 ## When to use
 
-Pick abrasive-flow machining to deburr, radius, and polish internal geometry no tool can reach — cross-drilled intersections, turbine cooling passages, extrusion dies, fuel injector interiors, and the rough as-built channels of metal additive parts. It is a batch process well suited to families of similar parts once fixtures and media are dialed in. Avoid it when removal must be confined to one spot or a tight tolerance held, since the media polishes everything it flows past, and for accessible external surfaces, where ordinary polishing or vibratory finishing costs far less.
+Use abrasive-flow machining to deburr, radius, and polish internal geometry that no tool can reach: cross-drilled intersections, turbine cooling passages, extrusion dies, fuel injector interiors, and the rough as-built channels of metal additive parts. It's a batch process, so it works well on families of similar parts once the fixtures and media are dialed in. Avoid it if removal has to be confined to one spot or a tight tolerance has to be held, because the media polishes everything it flows past. If the surface is external and accessible, ordinary polishing or vibratory finishing costs far less.
 
 ## Examples
 

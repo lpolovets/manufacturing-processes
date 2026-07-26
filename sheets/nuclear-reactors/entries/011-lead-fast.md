@@ -9,19 +9,19 @@ regulatory: building
 ---
 
 ## Description
-Fast-spectrum physics with a coolant that refuses to burn: molten lead (or lead-bismuth eutectic) is chemically inert with air and water, boils at 1,749 °C, and shields gamma radiation so well that the vessel needs less biological shielding. The Soviet Alfa-class submarines ran lead-bismuth reactors in the 1970s — the only LFRs ever operated — proving the concept while cataloguing its miseries: coolant freezing at 327 °C, polonium-210 activation, and corrosion that ate steel.
+The LFR gives you fast-spectrum physics with a coolant that doesn't burn. Molten lead (or lead-bismuth eutectic) is chemically inert with air and water, boils at 1,749 °C, and shields gamma radiation well enough that the vessel needs less biological shielding. The Soviet Alfa-class submarines ran lead-bismuth reactors in the 1970s, the only LFRs ever operated. They proved the concept and also documented its problems: coolant freezing at 327 °C, polonium-210 activation, and corrosion of the steel.
 
 ## Strengths and weaknesses
-No sodium-style fire risk, no intermediate loop needed, strong natural circulation for passive safety, high-temperature potential. Weaknesses: lead corrodes and erodes structural steels unless oxygen chemistry is controlled within a razor-thin window; the coolant freezing solid is a plant-killing accident mode; pumps and materials operate in territory with almost no civilian operating data; and the sole submarine heritage is as much warning as validation.
+There's no sodium-style fire risk, no intermediate loop is needed, natural circulation is strong enough for passive safety, and the temperature potential is high. Weaknesses: lead corrodes and erodes structural steels unless oxygen chemistry is held in a very narrow window; the coolant freezing solid can destroy the plant; pumps and materials run in territory with almost no civilian operating data; and the submarine heritage is the only heritage there is, which is as much a warning as a validation.
 
 ## When to use
-Today this is an investment thesis, not a procurement option: back an LFR if you believe corrosion control in lead is an oxygen-chemistry engineering problem that BREST-OD-300 and loop programs will retire, and you want fast-spectrum benefits without pricing sodium-fire mitigation into the plant. The newcleo-style venture is at bottom a European plutonium-disposition play — diligence the fuel-cycle politics as hard as the metallurgy. Anyone who needs a fast reactor on a committed schedule belongs in the sodium camp, which has the operating fleet and the reactor-years.
+Right now this is an investment thesis rather than something you can buy. Back an LFR if you believe corrosion control in lead is an oxygen-chemistry engineering problem that BREST-OD-300 and loop programs will solve, and you want fast-spectrum benefits without paying for sodium-fire mitigation in the plant. A newcleo-style venture is fundamentally a European plutonium-disposition play, so diligence the fuel-cycle politics as hard as the metallurgy. If you need a fast reactor on a committed schedule, go with sodium instead, since it has the operating fleet and the reactor-years.
 
 ## Examples
 Russia's BREST-OD-300 under construction at Seversk (the world's first purpose-built civilian LFR, tied to an on-site closed fuel-cycle complex); newcleo (UK/France/Italy, lead-cooled mini-reactors with MOX ambitions); Westinghouse's LFR concept; Belgium's MYRRHA accelerator-driven lead-bismuth research machine.
 
 ## Economic profile
-The pitch is SFR benefits minus sodium's fire insurance premium, at the cost of materials risk that only reactor-years can retire. BREST's completion will be the field's proof point. Private ventures (newcleo raising near-billion sums) are effectively selling European plutonium-disposition policy plus lead physics — a fuel-cycle business wearing a reactor costume.
+The pitch is SFR benefits without paying for sodium fire protection, in exchange for materials risk that only reactor-years can settle. BREST's completion will be the field's proof point. Private ventures (newcleo has raised close to a billion) are effectively selling European plutonium-disposition policy plus lead physics, so they're fuel-cycle businesses more than reactor businesses.
 
 ## Further reading
 

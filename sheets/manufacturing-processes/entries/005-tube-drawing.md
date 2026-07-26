@@ -14,11 +14,11 @@ Tubing is pulled through a die, often over a mandrel, to reduce diameter, wall t
 
 ## Strengths and weaknesses
 
-Creates precise, thin-wall tubing with good mechanical properties. Geometry is limited to tube-like products, and high reductions often require multiple drawing and annealing steps.
+Drawing makes precise, thin-wall tubing with good mechanical properties. Geometry is limited to tube-like products, and large reductions often take several drawing and annealing steps.
 
 ## When to use
 
-Use tube drawing when off-the-shelf welded or extruded tube cannot meet the required wall tolerance, concentricity, surface finish, or fine diameter — hypodermic sizes, heat-exchanger tube, precision instrumentation lines. Plan on multiple draw-and-anneal passes for large reductions and accept the restriction to tubular geometry. When standard-tolerance tube suffices, buy welded or seamless extruded stock and skip the cost of drawing.
+Use tube drawing when off-the-shelf welded or extruded tube can't meet your wall tolerance, concentricity, surface finish, or fine diameter (hypodermic sizes, heat-exchanger tube, precision instrumentation lines). For large reductions, plan on multiple draw-and-anneal passes, and remember that you are restricted to tubular geometry. If standard-tolerance tube is good enough, buy welded or seamless extruded stock and skip the cost of drawing.
 
 ## Examples
 

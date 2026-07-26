@@ -18,7 +18,7 @@ Mature, flexible, inexpensive, and well understood. Adds electrical inductance a
 
 ## When to use
 
-Wire bonding is the default die-to-package interconnect for cost-sensitive and moderate-pin-count devices — analog, sensors, LEDs, MEMS — and heavy aluminum wire remains standard in power modules; it needs no wafer bumping and accommodates routing changes with a program edit rather than a mask. Move to flip-chip when pin counts run into the high hundreds, when interconnect inductance limits high-frequency or high-current performance, or when package height is critical.
+Wire bonding is the default die-to-package interconnect for cost-sensitive and moderate-pin-count devices (analog, sensors, LEDs, MEMS), and heavy aluminum wire is still standard in power modules. It needs no wafer bumping, and a routing change takes a program edit rather than a new mask. Move to flip-chip when pin counts run into the high hundreds, when interconnect inductance limits high-frequency or high-current performance, or when package height is critical.
 
 ## Examples
 

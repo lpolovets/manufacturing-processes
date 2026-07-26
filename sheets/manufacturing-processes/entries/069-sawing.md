@@ -18,7 +18,7 @@ Versatile and inexpensive for material preparation. Accuracy and finish are gene
 
 ## When to use
 
-Pick sawing for cutoff and stock preparation — billets, bar, tube, structural sections, lumber — at any volume, since cost per cut is lower than any other separation method and kerf loss is small. Treat sawn length as roughly plus or minus 0.5-1 mm and leave facing stock when the end matters. Avoid relying on it for finished surfaces or profiles; for accurate sheet and plate contours go to laser, waterjet, or plasma, and for precise faces follow the saw with machining.
+Pick sawing for cutoff and stock preparation (billets, bar, tube, structural sections, lumber) at any volume. Cost per cut is lower than any other separation method and kerf loss is small. Treat sawn length as roughly plus or minus 0.5-1 mm, and leave facing stock when the end matters. Don't rely on it for finished surfaces or profiles. If you need accurate sheet and plate contours, use laser, waterjet, or plasma. If you need precise faces, follow the saw with machining.
 
 ## Examples
 

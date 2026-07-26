@@ -18,7 +18,7 @@ Produces strong, fatigue-resistant parts with directional grain flow. Dies are e
 
 ## When to use
 
-Specify closed-die forging for fatigue- and impact-critical parts — connecting rods, crankshafts, landing gear, hand tools — once volumes reach roughly 10,000 pieces to amortize die cost, since grain flow delivers properties castings cannot match. Design around draft, flash, and the absence of internal cavities, and expect finish machining of critical surfaces. Below tooling-payback volume, machine from bar or use open-die forging; where loads permit, casting is cheaper.
+Specify closed-die forging for fatigue- and impact-critical parts (connecting rods, crankshafts, landing gear, hand tools) once volumes reach roughly 10,000 pieces, which is about where die cost is amortized. The directional grain flow gives properties castings cannot match. Design around draft, flash, and the absence of internal cavities, and expect to finish machine the critical surfaces. Below tooling-payback volume, machine from bar or use open-die forging. If the loads permit it, casting is cheaper.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Produces flexible, damage-tolerant tubular or structural reinforcement. Variable
 
 ## When to use
 
-Braid for tubular, torsion-tolerant, damage-tolerant structures produced by the continuous meter — ropes, hose and cable reinforcement, catheter shafts and stents, and ±45-dominated composite tubes braided over cores or mandrels. Avoid it for flat broad goods (weave instead), for hoop-pressure-dominated vessels where filament winding places fiber more efficiently, and for parts needing precise fiber angles that vary sharply along the length, which braiders control only within limits.
+Braid for tubular, torsion-tolerant, damage-tolerant structures produced by the continuous meter: ropes, hose and cable reinforcement, catheter shafts and stents, and ±45-dominated composite tubes braided over cores or mandrels. For flat broad goods, weave instead. For hoop-pressure-dominated vessels, filament winding places fiber more efficiently. Braiders control fiber angle only within limits, so avoid braiding for parts that need precise fiber angles varying sharply along the length.
 
 ## Examples
 

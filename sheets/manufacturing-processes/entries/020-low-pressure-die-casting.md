@@ -18,7 +18,7 @@ Creates calmer filling and generally lower porosity than high-pressure die casti
 
 ## When to use
 
-Pick LPDC for structural aluminum parts that need better metallurgical integrity than HPDC and full heat-treatability — wheels, suspension components, cylinder heads — at volumes in the tens of thousands where minutes-long cycles are acceptable. Avoid it for very thin walls or when cycle time dominates cost; HPDC wins there. For short runs the die cost pushes the choice back to permanent-mold gravity or sand casting.
+Pick LPDC for structural aluminum parts that need better metallurgical integrity than HPDC and full heat-treatability (wheels, suspension components, cylinder heads), at volumes in the tens of thousands where a cycle time measured in minutes is acceptable. Avoid it for very thin walls, or when cycle time is the main cost driver, since HPDC is better on both. For short runs the die cost is hard to justify, so go back to permanent-mold gravity or sand casting.
 
 ## Examples
 

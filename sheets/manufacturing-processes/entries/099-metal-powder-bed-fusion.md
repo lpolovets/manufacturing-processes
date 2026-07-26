@@ -18,7 +18,7 @@ Creates internal channels, lattices, consolidated assemblies, and complex metal 
 
 ## When to use
 
-Pick metal powder-bed fusion when geometry earns it: conformal cooling channels, internal passages, lattices, and part consolidation in high-value low-volume hardware — rocket injectors, implants, heat exchangers, aerospace brackets — typically ones to hundreds of units where the design could not be machined or cast at all, or where lead time on castings and forgings is the bottleneck. Budget the full chain: stress relief, support removal, HIP or heat treatment, finish machining of interfaces, and inspection often cost more than the print. Avoid it for geometry a lathe or mill handles directly, for parts larger than roughly 400-800 mm build envelopes, and for volumes in the thousands, where casting plus machining or MIM is far cheaper.
+Pick metal powder-bed fusion when geometry earns it: conformal cooling channels, internal passages, lattices, and part consolidation in high-value low-volume hardware (rocket injectors, implants, heat exchangers, aerospace brackets). That typically means ones to hundreds of units where the design could not be machined or cast at all, or where lead time on castings and forgings is the bottleneck. Budget the full chain: stress relief, support removal, HIP or heat treatment, finish machining of interfaces, and inspection often cost more than the print. Avoid it for geometry a lathe or mill handles directly, for parts larger than roughly 400-800 mm build envelopes, and for volumes in the thousands, where casting plus machining or MIM is far cheaper.
 
 ## Examples
 

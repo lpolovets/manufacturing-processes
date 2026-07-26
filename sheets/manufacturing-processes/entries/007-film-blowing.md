@@ -14,11 +14,11 @@ Molten polymer exits an annular die as a tube, is inflated into a bubble, cooled
 
 ## Strengths and weaknesses
 
-Efficient for thin, flexible films and can create multilayer structures. Bubble stability, thickness uniformity, cooling, and orientation control are difficult.
+Film blowing is efficient for thin, flexible films, and it can produce multilayer structures. The hard parts are keeping the bubble stable and controlling thickness uniformity, cooling, and orientation.
 
 ## When to use
 
-Choose blown film for thin flexible packaging that needs balanced machine- and transverse-direction strength, tube or bag formats, and easy width changes — grocery bags, liners, agricultural film, most polyethylene film generally. Avoid it when optical clarity, tight gauge uniformity, or maximum line speed drives the spec; cast film wins there.
+Choose blown film for thin flexible packaging that needs balanced machine- and transverse-direction strength, tube or bag formats, and easy width changes (grocery bags, liners, agricultural film, and most polyethylene film generally). If optical clarity, tight gauge uniformity, or maximum line speed drives your spec, use cast film instead.
 
 ## Examples
 

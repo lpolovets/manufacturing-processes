@@ -18,7 +18,7 @@ Uses renewable or recycled fibers and works well for protective packaging. Preci
 
 ## When to use
 
-Pick pulp molding for high-volume protective and food packaging where sustainability or recycled content is a requirement and tolerances of a millimeter or more are acceptable — egg cartons, cushioning inserts, and, in the hot-pressed thermoformed-fiber grades, smooth premium electronics trays. Tooling is cheap relative to injection molds, so it also suits packaging that changes shape often. Avoid it for parts needing tight dimensions, wet strength, or structural stiffness; thermoformed plastic remains the alternative where those dominate and regulation still permits it.
+Pick pulp molding for high-volume protective and food packaging where sustainability or recycled content is a requirement and tolerances of a millimeter or more are acceptable: egg cartons, cushioning inserts, and, in the hot-pressed thermoformed-fiber grades, smooth premium electronics trays. Tooling is cheap relative to injection molds, so it also suits packaging that changes shape often. Avoid it for parts needing tight dimensions, wet strength, or structural stiffness. Where those dominate and regulation still permits it, thermoformed plastic is the alternative.
 
 ## Examples
 

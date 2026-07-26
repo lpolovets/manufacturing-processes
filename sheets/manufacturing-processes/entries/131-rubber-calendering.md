@@ -18,7 +18,7 @@ Produces controlled thickness and reinforced laminates. Equipment is large and t
 
 ## When to use
 
-Calender when you need wide, thickness-controlled rubber sheet or rubber-coated fabric in continuous quantity — tire plies, conveyor belting, roofing membrane — holding gauge tolerances of a few percent across meters of width. The multi-roll capital only pays at plant-scale volumes, so for narrow profiles use extrusion, and for moderate sheet quantities extrusion through a sheet die or press-cured sheet is the economical route.
+Calender when you need wide, thickness-controlled rubber sheet or rubber-coated fabric in continuous quantity (tire plies, conveyor belting, roofing membrane), holding gauge tolerances of a few percent across meters of width. The multi-roll line only pays for itself at plant-scale volumes. If you need narrow profiles, use extrusion instead. If you need moderate quantities of sheet, extrusion through a sheet die or press-cured sheet is usually the cheaper route.
 
 ## Examples
 

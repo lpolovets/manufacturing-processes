@@ -18,7 +18,7 @@ Efficiently creates long constant-cross-section products. Die swell, temperature
 
 ## When to use
 
-Extrude any elastomer product that is a constant cross-section sold by the meter — seals, tubing, hose bodies, tread stock — where dies cost hundreds rather than tens of thousands of dollars and continuous cure lines (salt bath, microwave, hot air) sustain high throughput. For discrete three-dimensional rubber parts, or profiles whose tolerances are tighter than die swell allows, move to compression, transfer, or injection molding.
+Extrude any elastomer product that is a constant cross-section sold by the meter (seals, tubing, hose bodies, tread stock). Dies cost hundreds rather than tens of thousands of dollars, and continuous cure lines (salt bath, microwave, hot air) sustain high throughput. If the part is a discrete three-dimensional shape, or its tolerances are tighter than die swell allows, use compression, transfer, or injection molding instead.
 
 ## Examples
 

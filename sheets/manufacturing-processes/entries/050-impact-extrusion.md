@@ -18,7 +18,7 @@ Produces thin-walled seamless parts rapidly with little waste. Requires ductile 
 
 ## When to use
 
-Impact extrusion earns its keep making seamless deep thin-walled cans and tubes in ductile metals — aluminum, zinc, copper — at high volumes: aerosol cans, battery cases, collapsible tubes, where a single blow replaces multiple draw stages. It requires soft alloys and simple axisymmetric geometry. For steels, complex shapes, or shallower parts, deep drawing is the standard alternative; at low volumes, machining or spinning.
+Impact extrusion makes seamless deep thin-walled cans and tubes in ductile metals (aluminum, zinc, copper) at high volumes: aerosol cans, battery cases, collapsible tubes. A single blow replaces multiple draw stages. It requires soft alloys and simple axisymmetric geometry. For steels, complex shapes, or shallower parts, deep drawing is the standard alternative. At low volumes, machine or spin the part instead.
 
 ## Examples
 

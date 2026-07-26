@@ -18,7 +18,7 @@ Provides exceptional precision across many materials. Extremely slow, expensive,
 
 ## When to use
 
-Pick FIB when the feature is measured in nanometers to a few micrometers and nothing else can address it: semiconductor circuit edit and failure analysis, TEM lamella preparation, nanoscale prototyping, and trimming thin-film devices. Broad ion-beam milling suits gentle large-area material removal such as cross-section polishing. This is laboratory and one-off territory — removal rates are cubic micrometers per second — so never plan it as a production removal step; anything visible to the naked eye belongs to laser micromachining, lithography-plus-etch, or conventional precision machining.
+Pick FIB when the feature is measured in nanometers to a few micrometers and nothing else can address it: semiconductor circuit edit and failure analysis, TEM lamella preparation, nanoscale prototyping, and trimming thin-film devices. Broad ion-beam milling suits gentle large-area material removal such as cross-section polishing. Removal rates are cubic micrometers per second, so treat this as laboratory and one-off work and never plan it as a production removal step. If the feature is visible to the naked eye, use laser micromachining, lithography-plus-etch, or conventional precision machining instead.
 
 ## Examples
 

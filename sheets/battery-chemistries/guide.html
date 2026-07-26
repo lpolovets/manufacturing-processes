@@ -1,5 +1,5 @@
     <h2>How to choose a battery chemistry</h2>
-    <p class="muted">There is no best battery — only a best fit. Every chemistry is a bundle of trade-offs among energy, power, cycle life, calendar life, safety, temperature range, and cost, and the application defines which of those dominate. A drone, a pacemaker, a grid container, and a torpedo all want radically different batteries.</p>
+    <p class="muted">There's no best battery chemistry. Each one is a bundle of trade-offs among energy, power, cycle life, calendar life, safety, temperature range, and cost, and the application determines which of those trade-offs dominate. A drone, a pacemaker, a grid container, and a torpedo all want very different batteries.</p>
 
     <h3>Engineering factors</h3>
     <div class="tblwrap"><table>
@@ -14,7 +14,7 @@
         <tr><td>Temperature range</td><td>Low-temperature power fade and high-temperature degradation eliminate chemistries for cold climates, downhole, engine bays, and space.</td></tr>
         <tr><td>Voltage &amp; discharge curve</td><td>Cell voltage sets series count and electronics; flat curves (LFP) complicate state-of-charge estimation, sloped ones (NMC) ease it.</td></tr>
         <tr><td>Self-discharge &amp; shelf life</td><td>Reserve, medical, and IoT applications may need 10–20 year shelf life that only primary chemistries deliver.</td></tr>
-        <tr><td>Round-trip efficiency</td><td>Every point of loss is bought twice in grid storage — charged in and never sold back out.</td></tr>
+        <tr><td>Round-trip efficiency</td><td>In grid storage you pay for every point of loss twice: you buy that energy going in, and you never sell it back out.</td></tr>
       </tbody>
     </table></div>
 
@@ -31,7 +31,7 @@
         <tr><td>Qualification cycles</td><td>Automotive design-ins run 3–5 years; aerospace and medical longer. Revenue lags technical success by years.</td></tr>
         <tr><td>Safety certification &amp; transport</td><td>UN 38.3, UL, and shipping rules for lithium cells add cost and constrain logistics; some chemistries (aqueous, solid-state) promise relief.</td></tr>
         <tr><td>Recycling &amp; second life</td><td>Nickel and cobalt carry recoverable value; LFP and sodium recycle for less than the recovery cost, shifting end-of-life economics.</td></tr>
-        <tr><td>Switching cost</td><td>A pack, BMS, and factory tuned for one chemistry rarely accepts another without requalification — wins compound, losses persist.</td></tr>
+        <tr><td>Switching cost</td><td>A pack, BMS, and factory tuned for one chemistry rarely accepts another without requalification, so a design-in win usually persists for years, and so does a loss.</td></tr>
       </tbody>
     </table></div>
 
@@ -71,19 +71,19 @@
       <div class="band"><div class="bt">2,000–5,000</div><div class="bv">LFP, Na-ion, Na-S — EV and daily-cycled storage</div></div>
       <div class="band"><div class="bt">5,000+</div><div class="bv">LTO, flow batteries, NiFe, Ni-H2 — infrastructure-grade</div></div>
     </div>
-    <p class="muted">These are directional categories, not datasheet values. Depth of discharge, rate, temperature, and cutoff definitions move real numbers by large factors, and vendor claims are usually measured under the gentlest defensible conditions.</p>
+    <p class="muted">Treat these as directional categories rather than datasheet values. Depth of discharge, rate, temperature, and cutoff definitions move the real numbers by large factors, and vendor claims are usually measured under the gentlest defensible conditions.</p>
 
     <h2>Why lithium-ion keeps winning</h2>
-    <p>Since 1991, lithium-ion cell prices have fallen roughly two orders of magnitude while energy density tripled — a learning curve powered by consumer electronics, then EVs, now grid storage. Any challenger chemistry must intercept where Li-ion will be after another decade of ~15–20% cost decline per volume doubling, using a supply chain and manufacturing base that do not yet exist. This is why most successful "beyond Li-ion" efforts either reuse Li-ion factories (LFP, LMFP, sodium-ion) or retreat to niches Li-ion serves poorly: very long duration, extreme temperature, extreme cycle life, absolute safety, or ultra-low cost per cycle.</p>
+    <p>Since 1991, lithium-ion cell prices have fallen roughly two orders of magnitude and energy density has tripled. That learning curve was paid for first by consumer electronics, then by EVs, and now by grid storage. A challenger chemistry has to intercept where Li-ion will be after another decade of ~15–20% cost decline per volume doubling, and it has to do that using a supply chain and manufacturing base that don't exist yet. That's why most successful "beyond Li-ion" efforts do one of two things: reuse Li-ion factories (LFP, LMFP, sodium-ion), or aim at niches Li-ion serves poorly, such as very long duration, extreme temperature, extreme cycle life, absolute safety, or ultra-low cost per cycle.</p>
 
     <h2>Core takeaway</h2>
     <div class="callout">
-      <p>Chemistries should not be compared by single headline numbers. A cell that wins on Wh/kg may lose on $/kWh-cycle, safety certification, cold-weather power, or the simple existence of a supply chain. The right comparison is the application's full merit function — energy, power, life, safety, temperature, and cost, weighted the way the use case actually weights them — evaluated at the volume and date the product will ship.</p>
+      <p>Don't compare chemistries on single headline numbers. A cell that wins on Wh/kg may lose on $/kWh-cycle, safety certification, cold-weather power, or the simple existence of a supply chain. Compare them on the application's full merit function instead (energy, power, life, safety, temperature, and cost, each weighted the way the use case actually weights it), and evaluate that function at the volume and date the product will ship.</p>
     </div>
 
     <h3>Key questions for engineering decisions</h3>
     <ul class="qlist">
-      <li>Does the chemistry meet the energy and power budget in the real operating envelope — including cold, heat, and end of life?</li>
+      <li>Does the chemistry meet the energy and power budget in the real operating envelope, including cold, heat, and end of life?</li>
       <li>Do cycle and calendar life cover the product's warranty at the actual depth of discharge and duty cycle?</li>
       <li>Can the pack meet safety and certification requirements without erasing the cell's advantages?</li>
       <li>Is the supply chain for cells and materials real at the required volume and date?</li>
@@ -93,10 +93,10 @@
     <ul class="qlist">
       <li>What does the technology cost per kWh-cycle at maturity, and does that beat where incumbent Li-ion will be by then?</li>
       <li>Is the claimed advantage measured at cell level under realistic conditions, or extrapolated from lab coin cells?</li>
-      <li>Can it be made on existing Li-ion lines, or does it need a new manufacturing ecosystem — and who funds that?</li>
+      <li>Can it be made on existing Li-ion lines? If it needs a new manufacturing ecosystem, who pays for that?</li>
       <li>What is the real first-pass yield, and how long is the qualification path to first meaningful revenue?</li>
       <li>Which niche does it win outright, and is that niche big enough to fund the climb down the cost curve?</li>
       <li>Does the company control genuinely differentiated chemistry or process know-how, or only a head start on engineering?</li>
     </ul>
 
-    <p class="muted">A battery advantage is rarely just "better chemistry." Durable advantages usually combine materials know-how, manufacturing yield, scale, supply-chain position, qualification wins, and field data — which is why chemistry transitions take decades and why incumbents so often absorb innovations rather than being displaced by them.</p>
+    <p class="muted">A battery advantage is rarely just "better chemistry." Durable advantages usually combine materials know-how, manufacturing yield, scale, supply-chain position, qualification wins, and field data. That's a lot of things to get right at once, which is why chemistry transitions take decades and why incumbents usually absorb innovations instead of being displaced by them.</p>

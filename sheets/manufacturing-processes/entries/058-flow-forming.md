@@ -14,11 +14,11 @@ Rollers compress a rotating cylindrical preform over a mandrel, reducing wall th
 
 ## Strengths and weaknesses
 
-Creates strong, precise, thin-walled axisymmetric parts. Equipment is specialized and geometry is restricted.
+It produces strong, precise, thin-walled axisymmetric parts. The equipment is specialized, and the geometry you can make is restricted.
 
 ## When to use
 
-Pick flow forming for seamless thin-walled cylinders and cones where wall accuracy of a few hundredths of a millimeter and cold-worked strength matter — rocket and motor cases, high-pressure cylinders, premium wheels — at hundreds to low tens of thousands of pieces. The 20-50 percent strength gain from cold work often lets you thin walls and drop weight versus machined or drawn equivalents. Avoid it for non-rotational geometry, very short simple tubes cheaper to draw, or one-offs that don't justify mandrel and machine setup; conventional tube drawing or spinning covers those.
+Pick flow forming for seamless thin-walled cylinders and cones at hundreds to low tens of thousands of pieces, when you need wall accuracy of a few hundredths of a millimeter and cold-worked strength. Typical parts are rocket and motor cases, high-pressure cylinders, and premium wheels. The 20-50 percent strength gain from cold work often lets you thin the walls and drop weight compared with machined or drawn equivalents. Avoid it for non-rotational geometry, for very short simple tubes that are cheaper to draw, and for one-offs that don't justify the mandrel and machine setup. Conventional tube drawing or spinning covers those cases.
 
 ## Examples
 

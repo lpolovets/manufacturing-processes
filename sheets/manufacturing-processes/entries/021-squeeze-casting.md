@@ -18,7 +18,7 @@ Produces dense, strong parts with low porosity. Equipment, dies, and process dev
 
 ## When to use
 
-Reserve squeeze casting for safety- and fatigue-critical aluminum parts — suspension arms, knuckles, pistons — that need forging-like density and full heat-treat response in a geometry too complex or costly to forge. Volumes must be high enough to amortize dies and the process development its narrow operating window demands. If ordinary casting integrity suffices, use LPDC; if the shape is forgeable, closed-die forging often reaches the same properties for less.
+Reserve squeeze casting for safety- and fatigue-critical aluminum parts (suspension arms, knuckles, pistons) that need forging-like density and full heat-treat response in a geometry that's too complex or too costly to forge. Your volumes need to be high enough to cover the dies plus the process development that the narrow operating window requires. If ordinary casting integrity is good enough, use LPDC. If the shape can be forged, closed-die forging often gets you the same properties for less money.
 
 ## Examples
 

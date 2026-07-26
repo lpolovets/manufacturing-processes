@@ -18,7 +18,7 @@ Fast and sensitive to fine surface and near-surface cracks. Only works on ferrom
 
 ## When to use
 
-Make MPI the default surface-crack check on carbon and alloy steel: it is faster than penetrant, tolerates thin coatings, and unlike penetrant also reveals flaws just below the surface, which is why it dominates inspection of forgings, weld toes, gear teeth, and in-service items like crane hooks and landing gear. Wet fluorescent benches suit production; portable yokes handle field welds. Magnetize in two perpendicular directions, since indications only form for flaws roughly perpendicular to the flux, and demagnetize parts headed for machining or plating. It is useless on aluminum, austenitic stainless, titanium, and other nonmagnetic materials — use dye penetrant there — and for genuinely internal flaws move to ultrasonic testing.
+Make MPI the default surface-crack check on carbon and alloy steel. It is faster than penetrant, tolerates thin coatings, and unlike penetrant it also reveals flaws just below the surface, which is why it is the usual method for forgings, weld toes, gear teeth, and in-service items like crane hooks and landing gear. Wet fluorescent benches suit production, and portable yokes handle field welds. Magnetize in two perpendicular directions, since indications only form for flaws roughly perpendicular to the flux, and demagnetize parts headed for machining or plating. It does not work at all on aluminum, austenitic stainless, titanium, and other nonmagnetic materials, so use dye penetrant there. For genuinely internal flaws, move to ultrasonic testing.
 
 ## Examples
 

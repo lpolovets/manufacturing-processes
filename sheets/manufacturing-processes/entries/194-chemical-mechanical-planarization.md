@@ -18,7 +18,7 @@ Enables multilayer semiconductor structures. Scratching, dishing, erosion, conta
 
 ## When to use
 
-CMP is obligatory wherever a process flow stacks patterned layers that must each start flat: copper damascene interconnects, shallow-trench isolation, tungsten plugs, and the bonding-grade surfaces needed for hybrid wafer bonding all depend on it, and any design with more than a couple of metal levels cannot avoid it. Use it, too, whenever a later lithography step's depth of focus cannot absorb accumulated topography. Treat it as a high-consumable-cost, pattern-sensitive step: enforce layout density rules and dummy fill to control dishing and erosion, and budget serious slurry, pad, and metrology spend. Where the flow is simple — few layers, relaxed lithography, MEMS with tolerant topography — skip it, and use resist etch-back or spin-on planarization for mild smoothing instead.
+CMP is required wherever a process flow stacks patterned layers that must each start flat. Copper damascene interconnects, shallow-trench isolation, tungsten plugs, and the bonding-grade surfaces needed for hybrid wafer bonding all depend on it, and any design with more than a couple of metal levels cannot avoid it. Use it, too, whenever a later lithography step's depth of focus cannot absorb accumulated topography. It is expensive in consumables and sensitive to layout, so enforce layout density rules and dummy fill to control dishing and erosion, and budget for slurry, pads, and metrology. If the flow is simple (few layers, relaxed lithography, MEMS that tolerate topography), skip CMP and use resist etch-back or spin-on planarization for mild smoothing instead.
 
 ## Examples
 

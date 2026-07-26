@@ -18,7 +18,7 @@ Places thousands of small components per hour with high accuracy. Equipment, pro
 
 ## When to use
 
-Pick-and-place is the only realistic way to populate surface-mount boards beyond a handful of prototypes, from small-batch runs on desktop machines to production lines placing tens of thousands of components per hour; programming and feeder setup are the fixed cost that batches amortize. Hand placement remains sensible only for one-off prototypes and rework, and extreme-density bare-die interconnect moves to dedicated flip-chip and advanced-packaging equipment.
+If you are populating surface-mount boards beyond a handful of prototypes, pick-and-place is the only realistic option. It scales from small-batch runs on desktop machines to production lines placing tens of thousands of components per hour, and programming and feeder setup are the fixed cost that batches amortize. Hand placement still makes sense for one-off prototypes and rework. For extreme-density bare-die interconnect, use dedicated flip-chip and advanced-packaging equipment instead.
 
 ## Examples
 

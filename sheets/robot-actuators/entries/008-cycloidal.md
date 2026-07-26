@@ -11,19 +11,19 @@ cost: high
 ---
 
 ## Description
-The heavy-duty precision transmission: an eccentric input rolls cycloidal discs against ring pins, engaging a large fraction of the lobes simultaneously. That massive multi-tooth contact gives cycloidals what harmonic drives lack — brutal shock-load capacity (500% momentary overloads survived) and high torsional stiffness — at ratios of 30–300:1. They own the high-torque base joints of industrial robots as thoroughly as harmonics own the wrists.
+The cycloidal is the heavy-duty precision transmission. An eccentric input rolls cycloidal discs against ring pins, engaging a large fraction of the lobes at the same time. That multi-tooth contact gives cycloidals the two things harmonic drives lack: very high shock-load capacity (they survive 500% momentary overloads) and high torsional stiffness, at ratios of 30–300:1. They dominate the high-torque base joints of industrial robots the same way harmonic drives dominate the wrists.
 
 ## Strengths and weaknesses
-Extreme overload tolerance and rigidity, near-zero backlash when preloaded, long fatigue life, high single-stage ratios. Weaknesses: heavier and bulkier than strain-wave at equal ratio; eccentric motion needs balancing and induces a small cyclic ripple; manufacturing tolerances are ferocious (hence the duopoly); efficiency similar to harmonic; effectively non-backdrivable.
+Overload tolerance and rigidity are both very high, backlash is near zero when preloaded, fatigue life is long, and single-stage ratios are high. Weaknesses: they're heavier and bulkier than strain-wave at equal ratio, and the eccentric motion needs balancing and produces a small cyclic ripple. Manufacturing tolerances are very tight, which is part of why the market is a duopoly. Efficiency is similar to harmonic, and the drive is effectively non-backdrivable.
 
 ## When to use
-Pick a cycloidal for high-torque proximal joints that will be shocked — industrial-robot bases and shoulders, humanoid hips and knees, anything that lifts hundreds of newton-meters or takes impacts as part of the job — where its 500% momentary overload rating and torsional stiffness are the difference between a service call and a shrug. It wants ratios of 30–300:1 and a mass budget that tolerates the extra kilograms over strain-wave. Avoid it in wrists and distal joints where grams and axial depth dominate (harmonic wins the packaging) and in force-controlled, contact-transparent joints, where a low-ratio QDD stage is the right architecture.
+Pick a cycloidal for high-torque proximal joints that will take shock loads: industrial-robot bases and shoulders, humanoid hips and knees, and anything that lifts hundreds of newton-meters or absorbs impacts as part of normal operation. Its 500% momentary overload rating and torsional stiffness are what keep those joints from becoming service calls. It suits ratios of 30–300:1 and a mass budget that can absorb the extra kilograms over strain-wave. Avoid it in wrists and distal joints where grams and axial depth dominate, since harmonic packages better there, and in force-controlled, contact-transparent joints, where a low-ratio QDD stage is the right architecture.
 
 ## Examples
 Nabtesco RV series — the base and shoulder joints of the large industrial robots of Fanuc, ABB, KUKA, Yaskawa (Nabtesco holds ~60% of the world precision-reducer market); Sumitomo Fine Cyclo; Spinea; Chinese entrants (Shuanghuan, Zhongdadi) chasing the market; 3D-printed hobby cycloidals as a maker staple.
 
 ## Economic profile
-The other half of the Japanese precision-reducer duopoly, with the same story arc as harmonic drives: decades of stable oligopoly pricing now under Chinese assault as robot volumes explode. Cycloidals' shock tolerance makes them candidates for humanoid hips and knees where impacts are life; whoever industrializes a compact, cheap cycloidal for that duty inherits a large slice of the embodied-AI BOM.
+Cycloidals are the other half of the Japanese precision-reducer duopoly, and the story looks much like harmonic drives': decades of stable oligopoly pricing, now under pressure from Chinese suppliers as robot volumes grow. Their shock tolerance makes them good candidates for humanoid hips and knees, which take impacts constantly. Whoever industrializes a compact, cheap cycloidal for that duty gets a large share of the embodied-AI BOM.
 
 ## Suppliers
 [Nabtesco](https://www.nabtesco.com/) — RV cycloidal reducers, ~60% world share · [Spinea](https://www.spinea.sk/) — compact TwinSpin cycloidals

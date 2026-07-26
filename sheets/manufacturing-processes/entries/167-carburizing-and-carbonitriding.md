@@ -14,11 +14,11 @@ Carbon, or carbon plus nitrogen, diffuses into steel before hardening.
 
 ## Strengths and weaknesses
 
-Creates a hard wear-resistant case over a tough core. Treatment is slow and may cause distortion.
+Carburizing creates a hard wear-resistant case over a tough core. Treatment is slow and may cause distortion.
 
 ## When to use
 
-Carburize low-carbon and low-alloy steels when high contact stress demands a deep hard case — roughly 0.5 to 2 mm at 58-62 HRC — over a ductile core, the classic recipe for gear teeth, cam lobes, and pins that see both rolling contact and shock. Carbonitriding runs cooler and suits thin cases on cheap plain-carbon parts like fasteners and stampings at high volume. Because parts are quenched from temperature, expect distortion and plan a post-hardening grind on precision features; where the part must go in finished-machined, or the alloy already contains nitride formers, choose nitriding instead for its lower temperature and minimal distortion. For selective hardening of medium-carbon parts without furnace batch times, induction hardening is the usual alternative.
+Carburize low-carbon and low-alloy steels when high contact stress demands a deep hard case (roughly 0.5 to 2 mm at 58-62 HRC) over a ductile core. That is the classic recipe for gear teeth, cam lobes, and pins that see both rolling contact and shock. Carbonitriding runs cooler and suits thin cases on cheap plain-carbon parts like fasteners and stampings at high volume. Because parts are quenched from temperature, expect distortion and plan a post-hardening grind on precision features. If the part has to go in finished-machined, or the alloy already contains nitride formers, use nitriding instead for its lower temperature and minimal distortion. If you need selective hardening of medium-carbon parts without furnace batch times, induction hardening is the usual alternative.
 
 ## Examples
 

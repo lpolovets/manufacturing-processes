@@ -18,7 +18,7 @@ Offers high resolution, smooth surfaces, multiple materials, and full-color capa
 
 ## When to use
 
-Pick material jetting when a single build must combine materials, durometers, or full color — anatomical models with soft and rigid tissue, photorealistic marketing prototypes, overmold simulations — or when wax patterns for investment casting need jetted precision. Resolution and finish rival vat photopolymerization with easier soluble supports. Avoid it for functional parts (jetted photopolymers age and creep worse than most resins), for cost-sensitive work given machines and per-kilogram material prices among the highest in additive, and for single-material mechanical prototypes, where vat photopolymerization or powder-bed fusion delivers more part per dollar.
+Pick material jetting when a single build must combine materials, durometers, or full color: anatomical models with soft and rigid tissue, photorealistic marketing prototypes, overmold simulations. It also fits wax patterns for investment casting that need jetted precision. Resolution and finish rival vat photopolymerization, with easier soluble supports. Avoid it for functional parts, because jetted photopolymers age and creep worse than most resins. Machines and per-kilogram material prices are among the highest in additive, so it is a poor fit for cost-sensitive work. For single-material mechanical prototypes, vat photopolymerization or powder-bed fusion delivers more part per dollar.
 
 ## Examples
 

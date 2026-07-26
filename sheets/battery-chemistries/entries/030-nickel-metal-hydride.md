@@ -11,19 +11,19 @@ maturity: mass
 ---
 
 ## Description
-NiCd's cadmium-free successor: the negative electrode is a hydrogen-absorbing metal alloy (AB5 rare-earth or AB2 types) storing hydrogen reversibly in the metal lattice. NiMH doubled NiCd's energy density, and its tolerance for the shallow, high-rate cycling of hybrid vehicles made it the chemistry that electrified the Prius. Low-self-discharge consumer versions (Eneloop) perfected the rechargeable AA.
+NiMH is NiCd's cadmium-free successor. The negative electrode is a hydrogen-absorbing metal alloy (AB5 rare-earth or AB2 types) that stores hydrogen reversibly in the metal lattice. NiMH doubled NiCd's energy density, and it tolerates the shallow, high-rate cycling of hybrid vehicles well enough that it became the chemistry that electrified the Prius. Low-self-discharge consumer versions (Eneloop) made the rechargeable AA practical.
 
 ## Strengths and weaknesses
-Robust against overcharge and over-discharge, benign failure modes, wide temperature window, safe aqueous electrolyte, proven 15-year hybrid fleet life. Weaknesses: half or less of Li-ion's energy density; high self-discharge in standard versions; rare-earth alloy costs (lanthanum, cerium) with Chinese supply concentration; voltage depression under abuse; heat generation on fast charge requires careful management.
+NiMH is robust against overcharge and over-discharge, has benign failure modes and a wide temperature window, uses a safe aqueous electrolyte, and has demonstrated 15-year life in hybrid fleets. The weaknesses: energy density is half of Li-ion's or less, self-discharge is high in standard versions, and the rare-earth alloys (lanthanum, cerium) cost money and come mostly from China. It also shows voltage depression under abuse, and it generates enough heat on fast charge to need careful management.
 
 ## When to use
-Pick NiMH where a safe aqueous chemistry with benign failure modes and proven 15-year life beats energy density: shallow-cycle hybrid duty in cost-focused trims, backup power that must never burn, and AA-format devices where low-self-discharge cells (Eneloop-class) replace disposables. Avoid it for anything weight-, volume-, or range-driven — Li-ion holds twice the energy at falling cost — and don't design new platforms around it; the supply base is in managed decline and follows the installed base, not new demand.
+Pick NiMH where a safe aqueous chemistry with benign failure modes and proven 15-year life matters more than energy density: shallow-cycle hybrid duty in cost-focused trims, backup power that must never burn, and AA-format devices where low-self-discharge cells (Eneloop-class) replace disposables. Avoid it for anything driven by weight, volume, or range, since Li-ion holds twice the energy at falling cost. Don't design new platforms around it either, because the supply base is in managed decline and follows the installed base rather than new demand.
 
 ## Examples
 Toyota hybrids (tens of millions of vehicles; NiMH persists in cost-focused trims), Panasonic Eneloop AAs, medical devices, train and aircraft backup batteries (Saft).
 
 ## Economic profile
-A mature chemistry in managed decline: hybrids are migrating to Li-ion, leaving consumer cells and industrial backup. Manufacturing is concentrated in Japan and China. The historical lesson for analysts: patent control (Ovonics/ECD) and one anchor application (Prius) built the market, and cost stagnation versus Li-ion's learning curve unbuilt it.
+NiMH is a mature chemistry in managed decline. Hybrids are migrating to Li-ion, which leaves consumer cells and industrial backup. Manufacturing is concentrated in Japan and China. The history is worth noting: patent control (Ovonics/ECD) and one anchor application (Prius) built the market, and then flat costs against Li-ion's learning curve took it apart again.
 
 ## Further reading
 

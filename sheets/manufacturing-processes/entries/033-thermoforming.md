@@ -18,7 +18,7 @@ Tooling is relatively inexpensive and large parts can be formed quickly. Geometr
 
 ## When to use
 
-Thermoforming suits shell-like one-sided parts from sheet — trays, liners, panels, enclosures — from prototypes on cheap wood or epoxy molds up to very high-volume thin-gauge packaging on dedicated lines. Tooling costs a fraction of an injection mold, so it also bridges the large-part and mid-volume territory injection molding cannot serve economically. Avoid it where two-sided features, uniform wall thickness, or tight tolerances are required, and account for trim scrap; injection molding covers those needs.
+Thermoforming suits shell-like one-sided parts made from sheet (trays, liners, panels, enclosures), from prototypes on cheap wood or epoxy molds up to very high-volume thin-gauge packaging on dedicated lines. Tooling costs a fraction of an injection mold, so thermoforming also covers the large-part and mid-volume range that injection molding can't serve economically. Avoid it when you need two-sided features, uniform wall thickness, or tight tolerances, and budget for trim scrap. Injection molding covers those needs.
 
 ## Examples
 

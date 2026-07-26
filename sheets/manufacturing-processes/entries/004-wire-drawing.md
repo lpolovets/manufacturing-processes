@@ -14,11 +14,11 @@ Metal rod or wire is pulled through progressively smaller dies to reduce diamete
 
 ## Strengths and weaknesses
 
-Provides precise dimensions, excellent surface finish, and very high throughput. Limited to continuous products and may require intermediate annealing to prevent cracking.
+Drawing gives precise dimensions, excellent surface finish, and very high throughput. It is limited to continuous products, and the wire may need intermediate annealing to keep it from cracking.
 
 ## When to use
 
-Specify drawn wire whenever round stock is needed below hot-rolled rod sizes or with tight diameter tolerance, elevated tensile strength, or a bright finish — springs, cable, conductors, welding wire. It is a continuous commodity operation, so buy from a wire drawer unless consumption runs to tons per month. For non-round profiles, discrete parts, or applications where work hardening is unacceptable, shaped-profile rolling or machining from bar is the alternative.
+Specify drawn wire when you need round stock below hot-rolled rod sizes, or with tight diameter tolerance, elevated tensile strength, or a bright finish (springs, cable, conductors, welding wire). This is a continuous commodity operation, so buy from a wire drawer unless you consume tons per month. If you need non-round profiles or discrete parts, or if work hardening is unacceptable, use shaped-profile rolling or machining from bar instead.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Electrical wire, steel cable, welding wire, springs, piano wire.
 
 ## Economic profile
 
-Capital-intensive continuous process; high line utilization; low cost per unit length.
+The process is capital-intensive and continuous, so lines run at high utilization. Cost per unit length is low.
 
 ## Videos
 

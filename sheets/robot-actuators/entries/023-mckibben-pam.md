@@ -11,19 +11,19 @@ cost: vlow
 ---
 
 ## Description
-A rubber bladder in a braided sleeve: inflate it and the braid geometry converts radial expansion into axial contraction — up to ~25% strain with force-per-weight that embarrasses electric motors. Invented for prosthetics in the 1950s (McKibben), the pneumatic muscle contracts, softens, and springs like the biological original, and costs almost nothing to make. It remains soft robotics' default power source and the perennial "muscle" of biomimetic projects.
+A McKibben muscle is a rubber bladder in a braided sleeve. Inflate it and the braid geometry converts radial expansion into axial contraction, up to ~25% strain, with force-per-weight far above what electric motors manage. It was invented for prosthetics in the 1950s (McKibben). The pneumatic muscle contracts, softens, and springs like the biological original, and it costs almost nothing to make. It remains soft robotics' default power source and the usual "muscle" in biomimetic projects.
 
 ## Strengths and weaknesses
-Excellent force density and inherent compliance, naturally safe around humans, tolerant of misalignment (it's a rope that pulls), water- and dirt-proof, absurdly cheap. Weaknesses: needs compressed air — the compressor, valves, and tether are the real system; force fades nonlinearly with contraction; antagonistic pairs are needed for bidirection; hysteresis and air compressibility make precision a lost cause; and bladder fatigue is a genuine wear item.
+Force density and inherent compliance are both excellent, the muscle is naturally safe around humans, it tolerates misalignment (it's a rope that pulls), it's water- and dirt-proof, and it's extremely cheap. The weaknesses: it needs compressed air, so the compressor, valves, and tether are the real system. Force fades nonlinearly as the muscle contracts. You need antagonistic pairs to move in both directions. Hysteresis and air compressibility make precision very hard. And bladder fatigue is a genuine wear item.
 
 ## When to use
-Use McKibben muscles when compliance and force-per-gram dominate, precision doesn't, and compressed air is already on site or a tether is acceptable: compliant tensioning and special machines on factory air, wearable and rehabilitation prototypes, bio-inspired research where muscle-like springiness is the point. Design in antagonistic pairs and treat bladder fatigue as a scheduled consumable. Avoid them for untethered robots — the compressor, valves, and hoses are the real system and kill the mass advantage — and for anything needing repeatable position or force, where hysteresis and air compressibility concede the job to electric QDD joints or plain cylinders running to stops.
+Use McKibben muscles when compliance and force-per-gram dominate, precision doesn't, and compressed air is already on site or a tether is acceptable: compliant tensioning and special machines on factory air, wearable and rehabilitation prototypes, bio-inspired research where muscle-like springiness is the point. Design in antagonistic pairs and treat bladder fatigue as a scheduled consumable. Avoid them on untethered robots, where the compressor, valves, and hoses are the real system and cancel the mass advantage. Avoid them for anything needing repeatable position or force, too, since hysteresis and air compressibility get in the way. In that case use electric QDD joints or plain cylinders running to stops.
 
 ## Examples
 Festo's Fluidic Muscle (the industrial productization) and its Airic's-arm demos, Shadow Robot's original air-muscle hand, countless bio-inspired legged and wearable prototypes, exosuit research (Harvard's soft exosuit lineage uses related pneumatics), Bridgestone's 1980s "rubbertuators."
 
 ## Economic profile
-The muscle itself is nearly free; the pneumatic infrastructure is the entire cost and the reason no untethered robot uses them at scale. Commercially they persist in niches Festo serves (compliant tensioning, special machines) and in research. The investable adjacency is the valve-and-micro-compressor problem: whoever makes soft-robot pneumatics battery-portable revives this whole class.
+The muscle itself is nearly free. The pneumatic infrastructure is the entire cost, and it's the reason no untethered robot uses them at scale. Commercially they persist in the niches Festo serves (compliant tensioning, special machines) and in research. The investable adjacency is the valve and micro-compressor problem: whoever makes soft-robot pneumatics battery-portable would bring this whole class back.
 
 ## Suppliers
 [Festo](https://www.festo.com/) — the Fluidic Muscle, the industrial McKibben productization

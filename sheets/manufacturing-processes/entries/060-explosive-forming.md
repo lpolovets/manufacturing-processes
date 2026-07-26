@@ -14,11 +14,11 @@ An explosive-generated pressure wave drives metal into a die, often through wate
 
 ## Strengths and weaknesses
 
-Can form enormous parts with relatively simple tooling. Safety, regulation, facility requirements, repeatability, and cycle time limit use.
+It can form very large parts with relatively simple tooling. Safety, regulation, facility requirements, repeatability, and cycle time all limit where it gets used.
 
 ## When to use
 
-Pick explosive forming only for very large parts in single digits to low tens of pieces — multi-meter domes, vessel heads, and panels that exceed any available press — where one female die and a water tank replace forming capacity that could not be bought at any reasonable price. It also suits hard-to-form alloys, since the high strain rate can improve formability. Avoid it for anything a press or spinning machine can reach: explosive licensing, remote facilities, and one shot per cycle make it uncompetitive at any real volume, and stretch forming or superplastic forming handles most large aerospace contours.
+Pick explosive forming only for very large parts in single digits to low tens of pieces: multi-meter domes, vessel heads, and panels that exceed any available press. One female die and a water tank replace forming capacity you couldn't buy at a reasonable price. It also suits hard-to-form alloys, because the high strain rate can improve formability. Avoid it for anything a press or spinning machine can reach. Explosive licensing, remote facilities, and one shot per cycle make it uncompetitive at any real volume, and stretch forming or superplastic forming handles most large aerospace contours.
 
 ## Examples
 

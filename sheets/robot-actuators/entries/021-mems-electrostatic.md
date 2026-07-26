@@ -11,19 +11,19 @@ cost: low
 ---
 
 ## Description
-Actuation at the scale where electrostatics wins: below roughly a millimeter, Coulomb attraction between charged surfaces beats magnetics, and silicon micromachining builds actuators by the wafer-full. Comb drives, parallel plates, and thermal or piezoelectric micro-elements steer mirrors, tune optics, and pump micro-fluids in devices costing cents. The physics that is hopeless at robot scale (forces in micronewtons) is dominant at chip scale.
+Below roughly a millimeter, Coulomb attraction between charged surfaces beats magnetics, and silicon micromachining builds actuators by the wafer-full. Comb drives, parallel plates, and thermal or piezoelectric micro-elements steer mirrors, tune optics, and pump micro-fluids in devices costing cents. The same physics that is hopeless at robot scale, where the forces are micronewtons, is dominant at chip scale.
 
 ## Strengths and weaknesses
-Batch-fabricated by semiconductor economics — thousands per wafer; nanometer precision; microsecond speeds; near-zero power (electrostatic holding is capacitive). Weaknesses: forces and strokes are microscopic, useful only where the load is also microscopic; stiction and dielectric charging are chronic failure modes; packaging often costs more than the die; and scaling up in force means ganging thousands of elements — rarely worth it.
+MEMS actuators are batch-fabricated on semiconductor economics, thousands per wafer, with nanometer precision, microsecond speeds, and near-zero power (electrostatic holding is capacitive). The weaknesses: forces and strokes are microscopic, so they're useful only where the load is also microscopic. Stiction and dielectric charging are chronic failure modes. Packaging often costs more than the die. And scaling up in force means ganging thousands of elements, which is rarely worth it.
 
 ## When to use
-Choose MEMS when the load itself is microscopic — a mirror facet, an optical element, a microliter of fluid — and volumes justify wafer economics: thousands of units per wafer, nanometer precision, near-zero holding power. It is a design-win business, so plan for the packaging and fab NRE dominating the die cost. Avoid it for any macroscopic force or stroke — micronewtons do not gang up economically — and treat one millimeter as the practical boundary: above it, piezo or voice-coil hardware takes over, and no robot joint decision ever lands here.
+Choose MEMS when the load itself is microscopic (a mirror facet, an optical element, a microliter of fluid) and volumes justify wafer economics: thousands of units per wafer, nanometer precision, near-zero holding power. It's a design-win business, so plan on packaging and fab NRE dominating the die cost. Avoid MEMS for any macroscopic force or stroke, because micronewtons don't gang up economically. A good rule of thumb is that one millimeter is the practical boundary: above it, piezo or voice-coil hardware takes over. No robot joint decision ever lands here.
 
 ## Examples
 TI's DLP micromirror arrays (millions of mirrors per chip), MEMS autofocus and OIS (a growing phone niche), MEMS scanning mirrors in LiDAR and AR displays, RF-MEMS switches, microfluidic pumps and valves, Fabry-Perot tunable filters.
 
 ## Economic profile
-A semiconductor business, not a motion-control one: value tracks design wins in consumer and automotive optics. For robotics the relevance is components — MEMS mirrors inside solid-state LiDAR, micro-optics in sensors — rather than motion. Included here as the boundary marker: below a millimeter, "actuator" means silicon, and the supply chain is a fab.
+MEMS is a semiconductor business rather than a motion-control one, and value tracks design wins in consumer and automotive optics. For robotics the relevance is components rather than motion: MEMS mirrors inside solid-state LiDAR, micro-optics in sensors. It's included here to mark the boundary. Below a millimeter, "actuator" means silicon, and the supply chain is a fab.
 
 ## Suppliers
 [Mirrorcle Technologies](https://www.mirrorcletech.com/) — MEMS mirror actuators · [Texas Instruments](https://www.ti.com/) — DLP micromirror arrays

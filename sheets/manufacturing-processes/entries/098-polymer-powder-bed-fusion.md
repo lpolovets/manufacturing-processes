@@ -18,7 +18,7 @@ Produces complex functional polymer parts without dedicated supports. Surface fi
 
 ## When to use
 
-Pick polymer powder-bed fusion for functional end-use nylon parts — snap fits, ducts, brackets, orthotics — from prototypes into bridge production of hundreds to a few thousand units, since parts nest densely in the bed with no supports and properties are far more isotropic than FFF. It is the standard way to ship real plastic parts before or instead of cutting a mold. Avoid it for smooth cosmetic surfaces and fine crisp detail, where vat photopolymerization wins, and beyond roughly 5,000-10,000 units of a stable design, where injection molding's unit cost is unbeatable; dyeing and vapor smoothing mitigate but don't erase the grainy finish.
+Pick polymer powder-bed fusion for functional end-use nylon parts (snap fits, ducts, brackets, orthotics) from prototypes into bridge production of hundreds to a few thousand units. Parts nest densely in the bed with no supports, and properties are far more isotropic than FFF. It is the standard way to ship real plastic parts before or instead of cutting a mold. If you need smooth cosmetic surfaces and fine crisp detail, vat photopolymerization does better; dyeing and vapor smoothing mitigate the grainy finish but don't erase it. Beyond roughly 5,000-10,000 units of a stable design, injection molding's unit cost is very hard to beat.
 
 ## Examples
 

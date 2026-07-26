@@ -18,7 +18,7 @@ Improves particle contact, adhesion, and energy density. Excessive compression r
 
 ## When to use
 
-Calendering is mandatory to hit target density; the decision is the setpoint, not the step. Compress energy cells toward roughly 25–30% porosity for maximum volumetric capacity, and leave power and fast-charge designs more open, since over-densification chokes electrolyte transport and cracks particles — high-nickel cathodes and silicon-bearing anodes tolerate the least compression. As webs get wider, watch roll deflection and foil elongation: uneven density across the web shows up later as lithium plating.
+Calendering is mandatory to hit target density, so the decision is the setpoint rather than whether to run the step. Compress energy cells toward roughly 25–30% porosity for maximum volumetric capacity, and leave power and fast-charge designs more open, since over-densification restricts electrolyte transport and cracks particles. High-nickel cathodes and silicon-bearing anodes tolerate the least compression. As webs get wider, watch roll deflection and foil elongation, because uneven density across the web shows up later as lithium plating.
 
 ## Examples
 

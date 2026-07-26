@@ -1,15 +1,15 @@
     <h2>How to choose a sensor suite</h2>
-    <p class="muted">Sensor selection is failure-mode engineering. Every modality has conditions under which it confidently reports nonsense — glass for LiDAR, texture-less walls for stereo, multipath for GNSS, drift for IMUs — and a robot's robustness is set less by its best sensor than by whether any two sensors share a blind spot. The classic stack (camera + LiDAR + radar + IMU + GNSS) is popular precisely because its members fail differently.</p>
+    <p class="muted">Sensor selection is mostly failure-mode engineering. Every modality has conditions under which it confidently reports nonsense: glass for LiDAR, texture-less walls for stereo, multipath for GNSS, drift for IMUs. A robot's robustness usually depends less on how good its best sensor is than on whether any two of its sensors share a blind spot. The classic stack (camera + LiDAR + radar + IMU + GNSS) is popular because its members fail under different conditions.</p>
 
     <h3>Engineering factors</h3>
     <div class="tblwrap"><table>
       <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
       <tbody>
-        <tr><td>Range & resolution envelope</td><td>Detection range, angular resolution, and minimum distance define what the robot can react to and how early; stopping distance budgets flow directly from them.</td></tr>
-        <tr><td>Failure modes & environment</td><td>Rain, fog, dust, glare, darkness, reflective and transparent surfaces, EMI, vibration — each modality has a kill list; enumerate it before the demo, not after.</td></tr>
-        <tr><td>Compute burden & latency</td><td>A sensor's real cost includes the silicon that interprets it: camera pixels are cheap, the GPU running the network is not. Latency through the pipeline bounds control bandwidth.</td></tr>
-        <tr><td>Update rate & synchronization</td><td>Control loops need hundreds of hertz (encoders, IMUs); perception tolerates tens. Time-stamping and sync (PTP, hardware triggers) make or break fusion.</td></tr>
-        <tr><td>Drift & absolute reference</td><td>Dead-reckoning sensors (IMU, odometry) drift without bound; absolute sensors (GNSS, landmarks, encoders' index marks) anchor them. Every stack needs both kinds.</td></tr>
+        <tr><td>Range &amp; resolution envelope</td><td>Detection range, angular resolution, and minimum distance define what the robot can react to and how early; stopping distance budgets flow directly from them.</td></tr>
+        <tr><td>Failure modes &amp; environment</td><td>Rain, fog, dust, glare, darkness, reflective and transparent surfaces, EMI, and vibration each defeat some modalities. Enumerate the list for yours before the demo rather than after.</td></tr>
+        <tr><td>Compute burden &amp; latency</td><td>A sensor's real cost includes the silicon that interprets it: camera pixels are cheap, the GPU running the network is not. Latency through the pipeline bounds control bandwidth.</td></tr>
+        <tr><td>Update rate &amp; synchronization</td><td>Control loops need hundreds of hertz (encoders, IMUs); perception tolerates tens. Time-stamping and sync (PTP, hardware triggers) make or break fusion.</td></tr>
+        <tr><td>Drift &amp; absolute reference</td><td>Dead-reckoning sensors (IMU, odometry) drift without bound; absolute sensors (GNSS, landmarks, encoders' index marks) anchor them. Every stack needs both kinds.</td></tr>
         <tr><td>Calibration burden</td><td>Extrinsics between sensors decay with vibration and temperature; a suite that needs frequent recalibration is a fleet-maintenance liability.</td></tr>
         <tr><td>Active vs passive</td><td>Active sensors (LiDAR, radar, ToF) bring their own illumination and interfere with each other at scale; passive sensors (cameras) depend on the world's lighting.</td></tr>
         <tr><td>Safety rating</td><td>Functional-safety-rated sensing (certified safety laser scanners, category-rated encoders) is a different product category with different prices — and is what actually permits humans nearby.</td></tr>
@@ -24,7 +24,7 @@
         <tr><td>Sensor cost vs compute cost</td><td>The industry's recurring trade: cheap sensor + heavy compute (cameras) versus expensive sensor + light compute (LiDAR). GPU price curves and model efficiency keep moving the answer.</td></tr>
         <tr><td>Camera-only vs fusion ideology</td><td>Tesla's camera-only bet against the industry's fusion consensus is the field's defining argument — it is an economics claim (sensors are cost, software is leverage) as much as a technical one.</td></tr>
         <tr><td>Supplier concentration</td><td>Automotive-grade LiDAR is consolidating fast (Hesai, RoboSense at volume); safety scanners are a SICK/Keyence duopoly-adjacent market; high-grade IMUs are export-controlled.</td></tr>
-        <tr><td>Degradation & fleet maintenance</td><td>Dirty lenses, scratched windows, and vibration-loosened mounts dominate real-world sensor downtime — cleaning and self-diagnosis are product features, not afterthoughts.</td></tr>
+        <tr><td>Degradation &amp; fleet maintenance</td><td>Dirty lenses, scratched windows, and vibration-loosened mounts dominate real-world sensor downtime — cleaning and self-diagnosis are product features, not afterthoughts.</td></tr>
         <tr><td>Data as the product</td><td>Sensor choice determines what training data a fleet collects; a modality decision today shapes the learning moat five years out.</td></tr>
       </tbody>
     </table></div>
@@ -47,11 +47,11 @@
     </div>
 
     <h2>The fusion imperative</h2>
-    <p>No single modality survives the real world. Cameras see everything and measure nothing; LiDAR measures everything and understands nothing; radar penetrates weather but blurs the world; IMUs are perfect for a tenth of a second. Sensor fusion — tightly coupled at the estimator level, not just voting — is where robotics stacks differentiate. The practical corollary for diligence: ask not "which sensor?" but "which failure of one sensor is caught by which other, and what happens in the intersection where both fail?" (Fog at night against a glass wall remains everyone's nightmare.)</p>
+    <p>No single modality holds up across real-world conditions. Cameras see detail but measure distance poorly, LiDAR measures geometry accurately but carries no semantics, radar penetrates weather at low resolution, and IMUs are accurate for about a tenth of a second before drift takes over. Sensor fusion is where robotics stacks differentiate, and the fusion that matters is tightly coupled at the estimator level rather than a vote between separate pipelines. So in diligence, skip "which sensor?" and ask which failure of one sensor gets caught by another, and what happens in the intersection where both fail. (Fog at night against a glass wall is still hard for everybody.)</p>
 
     <h2>Core takeaway</h2>
     <div class="callout">
-      <p>Sensors should be selected by their failure modes and total cost — unit price plus compute, calibration, cleaning, and the engineering to handle their lies — not by their datasheet best case. The cheapest adequate sensor with a well-understood failure envelope beats the most capable sensor whose corner cases are still being discovered, because a fleet turns every corner case into a weekly event.</p>
+      <p>Pick sensors by their failure modes and total cost (unit price plus compute, calibration, cleaning, and the engineering needed to handle bad readings) rather than by their datasheet best case. The cheapest adequate sensor with a well-understood failure envelope usually beats the most capable sensor whose corner cases are still being discovered. At fleet scale, every corner case turns into a weekly event.</p>
     </div>
 
     <h3>Key questions for engineering decisions</h3>
@@ -64,11 +64,11 @@
 
     <h3>Key questions for investment and business analysis</h3>
     <ul class="qlist">
-      <li>What volume driver (automotive, phones, drones) sits behind this modality's cost curve — or is the robot market expected to fund it alone?</li>
-      <li>Is the company's edge the sensor physics, the silicon, or the perception software — and which layer captures margin as hardware commoditizes?</li>
+      <li>What volume driver (automotive, phones, drones) sits behind this modality's cost curve, or is the robot market expected to fund it alone?</li>
+      <li>Is the company's edge in the sensor physics, the silicon, or the perception software? Which layer captures margin as hardware commoditizes?</li>
       <li>How exposed is the design to one modality's ideology (camera-only, LiDAR-first) being wrong?</li>
-      <li>What does fleet-scale maintenance actually cost — cleaning, recalibration, replacement — per robot-year?</li>
+      <li>What does fleet-scale maintenance (cleaning, recalibration, replacement) actually cost per robot-year?</li>
       <li>Who owns the data the sensors produce, and does it compound?</li>
     </ul>
 
-    <p class="muted">Durable sensor advantages have come from semiconductor integration (MEMS, CMOS, radar-on-chip), automotive qualification at scale, and owning the interpretation software — rarely from a novel sensing physics alone, which history shows gets absorbed as a feature within a decade.</p>
+    <p class="muted">Durable sensor advantages have usually come from semiconductor integration (MEMS, CMOS, radar-on-chip), automotive qualification at scale, and owning the interpretation software. Novel sensing physics alone rarely does it, since it typically gets absorbed as a feature within a decade.</p>

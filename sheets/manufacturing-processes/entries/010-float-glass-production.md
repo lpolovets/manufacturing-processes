@@ -14,11 +14,11 @@ Molten glass floats on molten tin, forming a flat sheet with highly uniform thic
 
 ## Strengths and weaknesses
 
-The most efficient way to make large, optically smooth flat glass. Cannot directly produce shaped three-dimensional parts.
+This is the most efficient way to make large, optically smooth flat glass. It cannot directly produce shaped three-dimensional parts.
 
 ## When to use
 
-Specify float glass for any flat glazing need — windows, mirrors, automotive and architectural stock — since nothing else produces large optically smooth sheet at commodity cost. It is strictly a feedstock decision: float lines cost hundreds of millions and run continuously for years, so all but the largest producers buy rather than make. Shaped or hollow glassware needs pressing, blowing, or slumping instead.
+Specify float glass for any flat glazing need (windows, mirrors, automotive and architectural stock), because nothing else produces large optically smooth sheet at commodity cost. This is strictly a feedstock decision. Float lines cost hundreds of millions and run continuously for years, so everyone except the largest producers buys rather than makes. If you need shaped or hollow glassware, use pressing, blowing, or slumping instead.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Windows, mirrors, architectural glazing, automotive glass feedstock.
 
 ## Economic profile
 
-Enormous continuous-process capex; high furnace-utilization dependence.
+Capex for a continuous line is enormous, and the economics depend heavily on keeping furnace utilization high.
 
 ## Videos
 

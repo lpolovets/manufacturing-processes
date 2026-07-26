@@ -18,7 +18,7 @@ Creates strong repeatable joints and can join some dissimilar metals. Parts and 
 
 ## When to use
 
-Use rotary friction welding for axisymmetric joints at medium-to-high volume — axles, drill pipe, engine valves, and bimetallic transitions like aluminum-to-steel or copper-to-aluminum that fusion welding cannot make — where a machine-tool process gives forged-quality joints with no filler, gas, or spatter. Parts must tolerate high axial force and one side must spin, so it is out for thin sheet and non-round geometry; linear friction welding covers non-round joints at aerospace budgets, and friction-stir welding covers long seams.
+Use rotary friction welding for axisymmetric joints at medium-to-high volume: axles, drill pipe, engine valves, and bimetallic transitions like aluminum-to-steel or copper-to-aluminum that fusion welding cannot make. It runs like a machine-tool process and gives forged-quality joints with no filler, gas, or spatter. Parts have to tolerate high axial force and one side has to spin, which rules out thin sheet and non-round geometry. If the joint is not round, linear friction welding handles it at aerospace-level cost. If you need long seams, use friction-stir welding.
 
 ## Examples
 

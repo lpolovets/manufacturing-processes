@@ -18,7 +18,7 @@ Can detect defects early, reduce scrap, support traceability, and enable closed-
 
 ## When to use
 
-Invest in in-process monitoring where post-process inspection is expensive, slow, or blind: additive builds running for days, welds and molded parts whose internal quality only CT or sectioning would reveal, unattended lights-out machining where a broken tool wrecks hours of production, and regulated industries needing per-part traceability. It pays best when scrap cost per event is high or when catching drift mid-run saves an entire batch. Do not deploy it on an unstable process — sensors documenting chaos help no one — and expect a real validation campaign correlating signals with destructive or CT ground truth before any accept/reject authority is granted. For cheap parts with fast, easy end-of-line checks, conventional inspection plus SPC is usually the better investment.
+Invest in in-process monitoring where post-process inspection is expensive, slow, or cannot see the defect at all: additive builds running for days, welds and molded parts whose internal quality only CT or sectioning would reveal, unattended lights-out machining where a broken tool ruins hours of production, and regulated industries needing per-part traceability. It pays best when scrap cost per event is high, or when catching drift mid-run saves an entire batch. Do not deploy it on an unstable process, since sensors on an out-of-control process just document the variation without fixing it. Expect a real validation campaign correlating signals with destructive or CT ground truth before you grant the system any accept/reject authority. For cheap parts with fast, easy end-of-line checks, conventional inspection plus SPC is usually the better investment.
 
 ## Examples
 

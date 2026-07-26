@@ -18,7 +18,7 @@ Automates large high-performance composite structures and enables optimized fibe
 
 ## When to use
 
-AFP earns its multimillion-dollar machines on large, high-value, contoured structures at aerospace rates — fuselage sections, wing skins, rocket tanks — where steered tows, low scrap, and repeatable placement beat manual prepreg layup once parts reach meters in scale and programs run for years. Do not consider it for small parts, short programs, or modest budgets; hand prepreg layup covers those, and ATL lays material down several times faster where the surface is flat or gently curved.
+AFP makes sense on large, high-value, contoured structures built at aerospace rates (fuselage sections, wing skins, rocket tanks). Steered tows, low scrap, and repeatable placement beat manual prepreg layup once parts reach meters in scale and programs run for years, which is what justifies the multimillion-dollar machines. If your parts are small, the program is short, or the budget is modest, use hand prepreg layup instead. If the surface is flat or gently curved, ATL lays material down several times faster.
 
 ## Examples
 

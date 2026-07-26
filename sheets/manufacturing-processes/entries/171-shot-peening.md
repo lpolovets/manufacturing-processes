@@ -18,7 +18,7 @@ Improves fatigue and stress-corrosion resistance. Poor control can damage surfac
 
 ## When to use
 
-Specify shot peening on any steel or aluminum part whose life is fatigue-limited at the surface — springs, gear roots, welded joints, machined fillets — where a compressive layer of roughly 0.1-0.3 mm routinely buys tens of percent in fatigue life for pennies per part. It is cheap enough to apply broadly at medium and high volume, but demand Almen-strip intensity and coverage control on anything critical, since uncontrolled peening can do more harm than good. Avoid it on surfaces with tight finish or dimensional requirements unless a post-peen lapping step is planned, and on thin sections that will distort. When a deeper compressive layer of 1 mm or more is worth real money — turbine airfoils, aircraft primary structure — step up to laser peening.
+Specify shot peening on any steel or aluminum part whose life is fatigue-limited at the surface (springs, gear roots, welded joints, machined fillets). A compressive layer of roughly 0.1-0.3 mm routinely buys tens of percent in fatigue life for pennies per part. It is cheap enough to apply broadly at medium and high volume, but ask for Almen-strip intensity and coverage control on anything critical, since uncontrolled peening can do more harm than good. Avoid it on surfaces with tight finish or dimensional requirements unless a post-peen lapping step is planned, and on thin sections that will distort. If you need a deeper compressive layer of 1 mm or more, as on turbine airfoils or aircraft primary structure, use laser peening instead.
 
 ## Examples
 

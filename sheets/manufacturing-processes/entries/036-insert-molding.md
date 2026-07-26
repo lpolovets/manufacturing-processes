@@ -18,7 +18,7 @@ Consolidates assembly and creates integrated threaded, electrical, or structural
 
 ## When to use
 
-Specify insert molding when a threaded, conductive, or load-bearing metal feature must be captured in plastic at medium-to-high volume — connectors, sensor bodies, fastener bosses — where it eliminates assembly steps and outperforms glued or pressed joints. It needs volumes that justify insert-loading automation or the added cycle labor. At low volumes, mold plain bosses and install heat-set or ultrasonic inserts afterward; that keeps tooling simple and the design flexible.
+Specify insert molding when a threaded, conductive, or load-bearing metal feature has to be captured in plastic at medium-to-high volume (connectors, sensor bodies, fastener bosses). It removes assembly steps and performs better than a glued or pressed joint. You need enough volume to justify insert-loading automation or the added cycle labor. At low volumes, mold plain bosses and install heat-set or ultrasonic inserts afterward, which keeps tooling simple and the design flexible.
 
 ## Examples
 

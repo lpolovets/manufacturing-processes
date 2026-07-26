@@ -18,7 +18,7 @@ Provides structural support, thermal conduction, and sometimes electrical connec
 
 ## When to use
 
-Die attach is a mandatory packaging step; the real decision is the material. Use solder or silver-sintered attach when the die dissipates serious power or needs a low-resistance electrical path — power modules, high-brightness LEDs — with sintering preferred for high-temperature and automotive reliability. Conductive or plain epoxy is the low-cost default for logic, sensors, and anything thermally undemanding, and film adhesives suit thin-die stacking in memory packages.
+Die attach is a mandatory packaging step, so the real decision is which material to use. Use solder or silver-sintered attach when the die dissipates a lot of power or needs a low-resistance electrical path (power modules, high-brightness LEDs), with sintering preferred for high-temperature and automotive reliability. Conductive or plain epoxy is the low-cost default for logic, sensors, and anything thermally undemanding, and film adhesives suit thin-die stacking in memory packages.
 
 ## Examples
 

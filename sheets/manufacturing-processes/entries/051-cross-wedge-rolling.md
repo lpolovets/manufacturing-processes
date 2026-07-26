@@ -18,7 +18,7 @@ Produces stepped shafts quickly with low waste and favorable grain flow. Tooling
 
 ## When to use
 
-Cross-wedge rolling suits stepped shafts and forging preforms at automotive volumes — typically 100,000-plus per year — where its seconds-long cycle, minimal material loss, and grain flow beat turning from bar. Tooling is specialized and internal Mannesmann-effect cracking must be engineered out during development. Below tooling-payback volume, CNC turning or roll forging covers the same parts; for the largest shafts, open- or closed-die forging.
+Cross-wedge rolling suits stepped shafts and forging preforms at automotive volumes, typically 100,000-plus per year. The cycle takes seconds, material loss is minimal, and the grain flow is better than what you get turning from bar. Tooling is specialized, and internal Mannesmann-effect cracking has to be engineered out during development. Below tooling-payback volume, CNC turning or roll forging covers the same parts. For the largest shafts, use open- or closed-die forging.
 
 ## Examples
 

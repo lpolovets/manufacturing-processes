@@ -11,19 +11,19 @@ maturity: mass
 ---
 
 ## Description
-Conventional Li-ion chemistry (usually LCO or NMC cathodes) with the liquid electrolyte immobilized in a gel-polymer matrix and packaged in a flexible laminated pouch instead of a metal can. "LiPo" is strictly a format-and-electrolyte variant rather than a distinct chemistry, but it behaves differently enough — thin, light, shape-flexible, high discharge rates in hobby grades — to be specified as its own category in practice.
+LiPo is conventional Li-ion chemistry (usually LCO or NMC cathodes) with the liquid electrolyte immobilized in a gel-polymer matrix and packaged in a flexible laminated pouch instead of a metal can. Strictly speaking it's a format-and-electrolyte variant rather than a distinct chemistry, but it behaves differently enough (thin, light, shape-flexible, with high discharge rates in hobby grades) that people specify it as its own category.
 
 ## Strengths and weaknesses
-Thin and moldable to product geometry, lightweight packaging, low internal resistance in high-rate versions, no metal-can cost. Weaknesses: the soft pouch offers no mechanical protection or internal pressure control — swelling, puncture sensitivity, and stricter charging discipline; hobby-grade high-rate cells are notoriously abuse-intolerant; life is typically shorter than hard-case equivalents.
+LiPo cells are thin and can be molded to product geometry, the packaging is lightweight, high-rate versions have low internal resistance, and there's no metal-can cost. Weaknesses: the soft pouch provides no mechanical protection and no internal pressure control, so you get swelling, puncture sensitivity, and a need for stricter charging discipline. Hobby-grade high-rate cells tolerate abuse poorly, and life is typically shorter than hard-case equivalents.
 
 ## When to use
-Pick pouch LiPo when product geometry drives the battery — thin, shaped, or weight-critical designs like phones, wearables, and medical patches — or when a drone or RC platform needs very high discharge rates from minimal packaging mass. Avoid it where the cell sees mechanical abuse, where swelling cannot be accommodated in the enclosure, or where charging discipline can't be guaranteed; hard-case cylindrical or prismatic cells of the same chemistry are the safer, longer-lived choice.
+Pick pouch LiPo when product geometry drives the battery, as in thin, shaped, or weight-critical designs like phones, wearables, and medical patches, or when a drone or RC platform needs very high discharge rates from minimal packaging mass. Avoid it where the cell sees mechanical abuse, where the enclosure can't accommodate swelling, or where you can't guarantee charging discipline. In those cases, hard-case cylindrical or prismatic cells of the same chemistry are safer and last longer.
 
 ## Examples
 Nearly all smartphones and tablets (ATL is the dominant maker), wearables, hearing devices, RC aircraft and FPV drone packs, thin medical patches.
 
 ## Economic profile
-Pouch assembly avoids can-forming capex and packs more active material per gram of packaging, but demands tighter stacking/lamination control and downstream swelling management. Commodity economics at consumer scale; premium pricing only for shaped and ultra-thin custom formats.
+Pouch assembly avoids can-forming capex and packs more active material per gram of packaging, but it requires tighter stacking and lamination control plus downstream swelling management. At consumer scale the economics are commodity economics, and only shaped and ultra-thin custom formats command premium pricing.
 
 ## Further reading
 

@@ -18,7 +18,7 @@ Provides low thermal damage and low oxidation. Geometry is line-of-sight constra
 
 ## When to use
 
-Pick cold spray when material must go onto a part that cannot tolerate heat — dimensional restoration of worn or corroded aerospace and defense components, repairs on magnesium and aluminum housings where welding would distort or crack, and thick copper or oxidation-sensitive deposits laid down without melting. Deposition rates of kilograms per hour make large-area buildup practical, with machining to final dimension assumed. Avoid it for geometry off the line of sight of the nozzle, for fine internal features, and for freestanding complex parts, where powder-bed fusion or DED is the better additive route; for simple hardfacing where heat is acceptable, conventional thermal spray or weld overlay is cheaper.
+Pick cold spray when material must go onto a part that cannot tolerate heat: dimensional restoration of worn or corroded aerospace and defense components, repairs on magnesium and aluminum housings where welding would distort or crack, and thick copper or oxidation-sensitive deposits laid down without melting. Deposition rates of kilograms per hour make large-area buildup practical, and machining to final dimension is assumed. Avoid it for geometry off the line of sight of the nozzle, for fine internal features, and for freestanding complex parts, where powder-bed fusion or DED is the better additive route. If you need simple hardfacing and heat is acceptable, conventional thermal spray or weld overlay is cheaper.
 
 ## Examples
 

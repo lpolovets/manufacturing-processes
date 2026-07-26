@@ -18,7 +18,7 @@ Rapidly removes rust, scale, coatings, and contamination. May alter dimensions, 
 
 ## When to use
 
-Pick abrasive blasting to strip scale, rust, and old coatings and to build the anchor profile that paint, powder coat, and thermal spray need — it is the standard prep on castings, weldments, and structural steel, with media chosen to suit (steel grit for profile, glass bead for cosmetic matte, plastic or soda for delicate substrates). It is also the cheap way to a uniform non-directional matte finish. Avoid it on precision surfaces and thin panels that peen and warp, on parts where embedded media would contaminate later processing, and mask anything that must stay sharp or sized; for controlled compressive strengthening use shot peening, which is the same physics run to a specification.
+Use abrasive blasting to strip scale, rust, and old coatings, and to build the anchor profile that paint, powder coat, and thermal spray need. It's the standard prep on castings, weldments, and structural steel, and you pick the media to suit the job (steel grit for profile, glass bead for cosmetic matte, plastic or soda for delicate substrates). It's also the cheap way to get a uniform non-directional matte finish. Avoid it on precision surfaces and on thin panels, which peen and warp, and on parts where embedded media would contaminate later processing. Mask anything that has to stay sharp or stay on size. If you want controlled compressive strengthening, use shot peening instead, which is the same physics run to a specification.
 
 ## Examples
 

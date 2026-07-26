@@ -18,7 +18,7 @@ Produces curved glass without cutting and reassembly. Cycle times are long, opti
 
 ## When to use
 
-Use slumping and bending to curve flat float glass — architectural panels, curved glazing, lighting shades — at one-off to medium volumes, since molds are cheap and the feedstock is commodity sheet. Accept long kiln cycles, gentle curvature only, and some optical distortion on demanding contours. Deep or complex three-dimensional shapes call for pressing or blowing instead.
+Use slumping and bending to curve flat float glass (architectural panels, curved glazing, lighting shades) at one-off to medium volumes. Molds are cheap and the feedstock is commodity sheet. Expect long kiln cycles, gentle curvature only, and some optical distortion on demanding contours. If you need a deep or complex three-dimensional shape, use pressing or blowing instead.
 
 ## Examples
 

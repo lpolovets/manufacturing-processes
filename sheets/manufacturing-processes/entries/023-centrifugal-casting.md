@@ -18,7 +18,7 @@ Creates dense cylindrical parts without a central core. Mainly useful for axisym
 
 ## When to use
 
-Choose centrifugal casting for axisymmetric hollow parts — pipe, cylinder liners, bushings, large rings — where spinning delivers dense, coreless walls at anywhere from one-off to steady production. Budget for machining the as-cast bore, which collects the lighter impurities. It has no answer for non-round geometry, and for small bushings at high volume, powder metallurgy or drawn tube plus machining is usually cheaper.
+Choose centrifugal casting for axisymmetric hollow parts (pipe, cylinder liners, bushings, large rings), where spinning the mold gives you dense walls with no core, at anywhere from one-off to steady production. Budget for machining the as-cast bore, since the lighter impurities collect there. It doesn't work for non-round geometry, and for small bushings at high volume, powder metallurgy or drawn tube plus machining is usually cheaper.
 
 ## Examples
 

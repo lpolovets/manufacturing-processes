@@ -18,7 +18,7 @@ Creates strong seamless rings with excellent grain orientation and material effi
 
 ## When to use
 
-Ring rolling is the sensible route to seamless rings from roughly 200 mm to several meters in diameter — bearing races, jet-engine and flange rings — at one-off to medium volumes, delivering circumferential grain flow and far better material yield than machining from plate or forged block. It handles annular geometry only. Small rings at high volume are better cold-formed or machined from tube, and non-round frames must be forged or fabricated.
+Ring rolling is the sensible route to seamless rings from roughly 200 mm to several meters in diameter (bearing races, jet-engine and flange rings) at one-off to medium volumes. It gives circumferential grain flow and far better material yield than machining from plate or a forged block. It handles annular geometry only. If the rings are small and the volume is high, cold forming or machining from tube is usually better, and non-round frames have to be forged or fabricated.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Broadly applicable, often reversible and inspectable. Adds weight or hardware, r
 
 ## When to use
 
-Fasten mechanically when joints must come apart for service, when joining dissimilar or heat-intolerant materials, or when assembly happens in the field without process control — and default to it whenever inspectability and repairability outrank weight. Within the family, choose rivets for thin sheet and airframes, snap fits for high-volume plastics, and press or shrink fits for concentric hubs. Avoid it where sealing, weight, or fatigue at hole stress concentrations dominates; welding or adhesive bonding eliminates the holes and the hardware.
+Fasten mechanically when joints must come apart for service, when you are joining dissimilar or heat-intolerant materials, or when assembly happens in the field without process control. It is also the default whenever inspectability and repairability matter more than weight. Within the family, choose rivets for thin sheet and airframes, snap fits for high-volume plastics, and press or shrink fits for concentric hubs. Avoid mechanical fastening where sealing, weight, or fatigue at hole stress concentrations dominates, since welding or adhesive bonding eliminates both the holes and the hardware.
 
 ## Variants
 

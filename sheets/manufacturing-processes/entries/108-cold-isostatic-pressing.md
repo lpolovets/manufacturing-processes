@@ -14,11 +14,11 @@ Powder in a flexible mold is compressed uniformly by high-pressure liquid and th
 
 ## Strengths and weaknesses
 
-Creates relatively uniform density in large preforms. Precision is modest and flexible tooling deforms.
+CIP creates relatively uniform density in large preforms. Precision is modest, and the flexible tooling deforms.
 
 ## When to use
 
-Choose CIP for large, long, or thick-section powder preforms — ceramic tubes, refractory billets, sputtering targets — where uniaxial die pressing would leave density gradients, and where cheap elastomer tooling suits low-to-medium volumes and frequent shape changes. Plan on green machining or generous sintering allowances, since as-pressed tolerances are loose. For small parts at high volume, automated uniaxial die compaction is the default; when full density in one step is the goal, go to HIP instead.
+Choose CIP for large, long, or thick-section powder preforms such as ceramic tubes, refractory billets, and sputtering targets, where uniaxial die pressing would leave density gradients. Cheap elastomer tooling also suits low-to-medium volumes and frequent shape changes. Plan on green machining or generous sintering allowances, since as-pressed tolerances are loose. For small parts at high volume, automated uniaxial die compaction is the default. If you need full density in one step, go to HIP instead.
 
 ## Examples
 

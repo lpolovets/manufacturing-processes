@@ -18,7 +18,7 @@ Joins dissimilar materials, spreads load, seals joints, and avoids thermal disto
 
 ## When to use
 
-Bond when joining dissimilar or heat-intolerant materials — composites to metals, thin skins, glass — or when the joint should also seal and spread load over an area instead of concentrating it at fasteners or welds. Budget for surface preparation, fixturing, and cure time, and design the joint to load the adhesive in shear. Avoid peel-dominated loads, service beyond the adhesive's temperature rating, and safety-critical joints you cannot inspect or process-control; there, combine with or revert to mechanical fastening.
+Bond when you are joining dissimilar or heat-intolerant materials (composites to metals, thin skins, glass), or when you want the joint to seal as well as spread load over an area instead of concentrating it at fasteners or welds. Budget for surface preparation, fixturing, and cure time, and design the joint so the adhesive is loaded in shear. Avoid peel-dominated loads, service beyond the adhesive's temperature rating, and safety-critical joints you cannot inspect or process-control. For those, combine adhesive with mechanical fastening or use fastening alone.
 
 ## Examples
 

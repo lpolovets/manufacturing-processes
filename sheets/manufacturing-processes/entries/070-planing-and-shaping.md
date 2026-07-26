@@ -18,7 +18,7 @@ Can produce large flat surfaces with simple tooling. Slow, and has largely been 
 
 ## When to use
 
-Reach for planing or shaping only in niche situations: machine beds and guideways too large for available milling envelopes, internal keyways or corners a rotating cutter cannot reach, or a legacy shop where a cheap single-point tool beats buying inserts. The single-point cut can also leave a favorable finish on long ways. For essentially all new work, milling is faster and more flexible and grinding holds tighter flatness — treat those as the defaults and this as the exception.
+Reach for planing or shaping only in niche situations: machine beds and guideways too large for the milling envelopes you have, internal keyways or corners a rotating cutter cannot reach, or a legacy shop where a cheap single-point tool beats buying inserts. The single-point cut can also leave a good finish on long ways. For essentially all new work, milling is faster and more flexible, and grinding holds tighter flatness. Use those by default and treat planing and shaping as the exception.
 
 ## Examples
 

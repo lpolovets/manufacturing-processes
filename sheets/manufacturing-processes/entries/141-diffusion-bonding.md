@@ -18,7 +18,7 @@ Creates high-integrity low-distortion joints and complex laminated structures. S
 
 ## When to use
 
-Reserve diffusion bonding for joints that must be metallurgically invisible or buried by the thousand inside a part — stacked-plate microchannel heat exchangers and printed-circuit heat exchangers, titanium SPF/DB aerostructures, nuclear hardware — at low volumes where hours at temperature under press or HIP load are acceptable. Surface preparation discipline decides success, so budget for it. For ordinary dissimilar or multi-joint assemblies, brazing achieves most of the benefit at a fraction of the cost and time.
+Reserve diffusion bonding for joints that have to be metallurgically invisible, or for parts that contain thousands of joints buried inside them: stacked-plate microchannel heat exchangers and printed-circuit heat exchangers, titanium SPF/DB aerostructures, and nuclear hardware. It fits low volumes where you can afford hours at temperature under press or HIP load. Success depends mostly on how well the surfaces are prepared, so budget time for that. For ordinary dissimilar or multi-joint assemblies, brazing gets you most of the benefit at a fraction of the cost and time.
 
 ## Examples
 

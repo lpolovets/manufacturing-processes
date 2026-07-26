@@ -18,7 +18,7 @@ Equipment and feedstock are inexpensive and ideal for prototypes, fixtures, and 
 
 ## When to use
 
-Pick FFF for form-and-fit prototypes, jigs, fixtures, and one-off functional parts where a few hundred dollars of machine and commodity filament turn CAD into a part overnight — it is the cheapest route to a physical object below roughly a few hundred units. Design around the weaknesses: plus or minus 0.2 mm typical accuracy, visible layers, and Z-direction strength a fraction of in-plane. Avoid it for fine detail and smooth cosmetic surfaces (vat photopolymerization), for isotropic production-grade nylon parts (powder-bed fusion), and for anything past roughly 500-1,000 units, where injection molding's per-part economics take over.
+Pick FFF for form-and-fit prototypes, jigs, fixtures, and one-off functional parts. A few hundred dollars of machine and commodity filament turn CAD into a part overnight, which makes it the cheapest route to a physical object below roughly a few hundred units. Design around the weaknesses: plus or minus 0.2 mm typical accuracy, visible layers, and Z-direction strength a fraction of in-plane. If you need fine detail and smooth cosmetic surfaces, use vat photopolymerization; for isotropic production-grade nylon parts, use powder-bed fusion. Past roughly 500-1,000 units, injection molding's per-part economics take over.
 
 ## Examples
 

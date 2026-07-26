@@ -14,11 +14,11 @@ Molten metal is continuously solidified into billets, blooms, slabs, rods, or st
 
 ## Strengths and weaknesses
 
-Provides very high throughput, good consistency, and low cost per ton. Requires enormous capital investment, high utilization, continuous process control, and is generally limited to constant cross-sections.
+Throughput is very high, consistency is good, and cost per ton is low. The downside is that a caster takes an enormous capital investment, needs high utilization to pay for itself, requires continuous process control, and is generally limited to constant cross-sections.
 
 ## When to use
 
-Treat this as a feedstock decision rather than a part-making choice: specify continuously cast billet, bloom, slab, or rod whenever buying commodity-scale stock destined for rolling, extrusion, forging, or machining. Operating a caster only makes sense at integrated-mill scale, with hundreds of thousands of tons per year and near-continuous utilization. For discrete shaped parts or short runs of special alloys, go to shape casting or conventional ingot casting instead.
+This is a feedstock decision, not a part-making one. If you are buying commodity-scale stock that will later be rolled, extruded, forged, or machined, specify continuously cast billet, bloom, slab, or rod. Operating a caster yourself only makes sense at integrated-mill scale, meaning hundreds of thousands of tons per year and near-continuous utilization. If you need discrete shaped parts, or short runs of special alloys, look at shape casting or conventional ingot casting instead.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Steel slabs, aluminum billets, copper rod, steel blooms.
 
 ## Economic profile
 
-Extremely high capex; commodity-scale throughput; economics dominated by utilization, energy, raw-material spread, and yield.
+Capex is extremely high and throughput is commodity-scale. The economics are dominated by utilization, energy, raw-material spread, and yield.
 
 ## Videos
 

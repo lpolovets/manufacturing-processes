@@ -11,19 +11,19 @@ cost: vlow
 ---
 
 ## Description
-Electromagnetism at its bluntest: energize a coil, and an iron plunger snaps in. Binary, fast, and nearly free, the solenoid is the industrial world's electric muscle-twitch — it opens valves, throws latches, kicks parts off conveyors, and fires pinball flippers. Force is highly nonlinear (weak at full extension, strong near closure), so solenoids do impacts and holds, not motion control.
+A solenoid is the bluntest form of electromagnetic actuation: energize a coil and an iron plunger snaps in. It's binary, fast, and nearly free, and it does the industrial world's twitch work. Solenoids open valves, throw latches, kick parts off conveyors, and fire pinball flippers. Force is highly nonlinear (weak at full extension, strong near closure), so solenoids are good for impacts and holds, not motion control.
 
 ## Strengths and weaknesses
-Cheapest electric actuator per unit, millisecond response, no electronics beyond a switch, utterly reliable in on/off duty. Weaknesses: essentially uncontrollable mid-stroke; force-stroke curve is punishingly nonlinear; continuous energization overheats coils (latching variants fix this with magnets); stroke is short; and efficiency in sustained duty is poor. It is a switch that moves, not an actuator that positions.
+Solenoids are the cheapest electric actuator per unit, respond in milliseconds, need no electronics beyond a switch, and are very reliable in on/off duty. The weaknesses: they're essentially uncontrollable mid-stroke, and the force-stroke curve is severely nonlinear. Continuous energization overheats the coil (latching variants fix this with magnets). Stroke is short, and efficiency in sustained duty is poor. A solenoid is a switch that moves, not an actuator that positions.
 
 ## When to use
-Use a solenoid when the requirement is genuinely binary and short-stroke: throw a latch, fire a valve, kick a part, engage a brake — millisecond response, cents to dollars, and nothing to tune. If the state must be held for minutes or unpowered, specify a latching (permanent-magnet) variant before the coil cooks itself. Avoid it the moment the spec mentions position, speed, or proportional force anywhere between the endpoints — the force-stroke curve won't cooperate — and reach for a voice coil for controlled short-stroke force or a small gearmotor for controlled travel instead.
+Use a solenoid when the requirement is genuinely binary and short-stroke: throw a latch, fire a valve, kick a part, engage a brake. You get millisecond response for cents to dollars, with nothing to tune. If the state has to be held for minutes or held with the power off, specify a latching (permanent-magnet) variant before the coil overheats. Avoid solenoids as soon as the spec mentions position, speed, or proportional force anywhere between the endpoints, because the force-stroke curve won't cooperate. If you need controlled short-stroke force, use a voice coil; if you need controlled travel, use a small gearmotor.
 
 ## Examples
 Every fluid solenoid valve (the largest actuator population on earth), door locks and vending machines, part-reject flippers on sorting lines, pinball machines, camera shutters, automotive starter engagement.
 
 ## Economic profile
-A fully mature commodity measured in cents to dollars, with no robotics story of its own — but omnipresent in robot peripherals: pneumatic valve manifolds, tool-changer locks, and safety brakes are all solenoid-actuated. Worth an entry mainly so its niche is recognized and respected: when the requirement is truly binary, nothing cheaper or more reliable exists.
+Solenoids are a fully mature commodity measured in cents to dollars, and they have no robotics story of their own. They are everywhere in robot peripherals, though: pneumatic valve manifolds, tool-changer locks, and safety brakes are all solenoid-actuated. They get an entry here mainly so the niche is recognized. When the requirement is truly binary, nothing cheaper or more reliable exists.
 
 ## Suppliers
 [TLX Technologies](https://www.tlxtech.com/) — custom solenoids and electromagnetic actuators · [Johnson Electric](https://www.johnsonelectric.com/) — motors and solenoids by the hundred million

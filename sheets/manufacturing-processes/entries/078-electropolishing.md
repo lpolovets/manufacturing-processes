@@ -18,7 +18,7 @@ Improves cleanliness, corrosion resistance, fatigue behavior, and finish, includ
 
 ## When to use
 
-Pick electropolishing for stainless and nickel-alloy parts in hygienic or high-purity service — pharmaceutical vessels, medical implants, semiconductor gas lines — and wherever internal passages, batches of small parts, or delicate features rule out mechanical polishing; it also deburrs and boosts corrosion resistance in the same bath. Design for the 5-50 micrometers it removes and expect preferential attack on sharp edges. Avoid it on parts with tight dimensional stack-ups, mixed alloys in one assembly, or surfaces whose deep scratches it will only make shinier — it smooths peaks, not gouges — and use mechanical polishing when a specific directional or heavy-stock finish is required.
+Pick electropolishing for stainless and nickel-alloy parts in hygienic or high-purity service (pharmaceutical vessels, medical implants, semiconductor gas lines), and wherever internal passages, batches of small parts, or delicate features rule out mechanical polishing. The same bath also deburrs and improves corrosion resistance. Design for the 5-50 micrometers it removes, and expect it to dissolve sharp edges faster than flat areas. Avoid it on parts with tight dimensional stack-ups or mixed alloys in one assembly. It smooths microscopic peaks rather than deep scratches, so a gouged surface just comes out shinier. If you need a specific directional finish or heavy stock removal, use mechanical polishing.
 
 ## Examples
 

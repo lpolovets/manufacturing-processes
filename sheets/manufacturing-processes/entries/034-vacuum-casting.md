@@ -18,7 +18,7 @@ Useful for prototypes and short production runs without hard tooling. Silicone m
 
 ## When to use
 
-Use vacuum casting for 10–100 production-like polyurethane parts — functional prototypes, pilot builds, marketing samples — delivered in days without hard tooling, with each silicone mold good for roughly 15–25 casts. Treat the material properties as approximations of the production polymer, not equivalents. It is strictly a bridge: beyond a few hundred parts cut a mold and injection mold, while for a handful of pieces 3D printing is cheaper still.
+Use vacuum casting for 10–100 production-like polyurethane parts (functional prototypes, pilot builds, marketing samples) delivered in days without hard tooling. Each silicone mold is good for roughly 15–25 casts. Treat the material properties as approximations of the production polymer rather than equivalents. This is a bridge process. Past a few hundred parts, cut a mold and switch to injection molding; for a handful of pieces, 3D printing is cheaper still.
 
 ## Examples
 

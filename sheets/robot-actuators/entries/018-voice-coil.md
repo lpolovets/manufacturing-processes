@@ -11,19 +11,19 @@ cost: med
 ---
 
 ## Description
-The loudspeaker principle as a precision actuator: a coil in a permanent-magnet gap, force exactly proportional to current, moving frictionlessly over short strokes (millimeters to a few centimeters). No cogging, no hysteresis, no mechanical contact — the cleanest force source in engineering, with bandwidth into the kilohertz. Every hard drive head, camera autofocus, and fast-steering mirror is a voice coil; haptics and micro-dosing borrowed them for the same virtues.
+A voice coil actuator applies the loudspeaker principle to precision motion: a coil sits in a permanent-magnet gap, force is exactly proportional to current, and the coil moves without friction over short strokes (millimeters to a few centimeters). There's no cogging, no hysteresis, and no mechanical contact, which makes it the cleanest force source in engineering, with bandwidth into the kilohertz. Every hard drive head, camera autofocus, and fast-steering mirror is a voice coil, and haptics and micro-dosing borrowed them for the same reasons.
 
 ## Strengths and weaknesses
-Perfectly linear force-current relationship, zero friction and backlash, kilohertz bandwidth, silent, intrinsically backdrivable. Weaknesses: short stroke only; force density is poor and holding force burns continuous current; no power-off holding; heat in the moving coil limits continuous duty; and beyond a few centimeters of travel, a linear motor is simply the better unrolling of the same idea.
+Force is perfectly linear with current, there's no friction or backlash, bandwidth reaches kilohertz, the actuator is silent, and it's intrinsically backdrivable. The weaknesses: stroke is short. Force density is poor, holding force burns continuous current, and there's no holding at all with the power off. Heat in the moving coil limits continuous duty. And past a few centimeters of travel, a linear motor is the better version of the same idea.
 
 ## When to use
-Use a voice coil when the stroke is millimeters to a couple of centimeters and the job is fast, clean force: kilohertz bandwidth, force exactly proportional to current, zero friction — fast-steering mirrors, precision dosing, haptic transducers, and the fine stage of a coarse-fine axis layered on a screw or linear motor. Avoid it beyond a few centimeters of travel (a linear motor is the same physics packaged for distance), wherever the load must be held without power (no detent, no self-locking — add a brake or use a screw), and for sustained high force, since the moving coil's thermal limit arrives quickly.
+Use a voice coil when the stroke is millimeters to a couple of centimeters and you need fast, clean force: kilohertz bandwidth, force exactly proportional to current, zero friction. That fits fast-steering mirrors, precision dosing, haptic transducers, and the fine stage of a coarse-fine axis layered on a screw or linear motor. If travel goes beyond a few centimeters, use a linear motor instead (same physics, packaged for distance). Avoid voice coils wherever the load must be held without power, since there's no detent and no self-locking, so you'd have to add a brake or use a screw. Avoid them for sustained high force too, because the moving coil reaches its thermal limit quickly.
 
 ## Examples
 Hard-disk head actuators (billions made — the volume champion), smartphone camera OIS/AF modules, fast-steering mirrors in optics and laser comms, Apple's Taptic Engine, wafer-stage fine-positioning layers, ventilator and dosing valves.
 
 ## Economic profile
-Two economic worlds: consumer-electronics voice coils stamped out for cents at phone volume, and precision industrial units (Akribis, ThorLabs, BEI) at hundreds of dollars. In robotics they appear wherever a joint needs a fast, fine force "tweeter" layered on a coarse actuator — an architecture (coarse-fine actuation) that semiconductor equipment perfected and humanoid hands may yet rediscover.
+There are two economic worlds here. Consumer-electronics voice coils are stamped out for cents at phone volume, while precision industrial units (Akribis, ThorLabs, BEI) run hundreds of dollars. In robotics they appear wherever a joint needs a fast, fine force stage layered on a coarse actuator. Semiconductor equipment perfected that coarse-fine architecture, and humanoid hands may yet rediscover it.
 
 ## Suppliers
 [H2W Technologies](https://www.h2wtech.com/) — voice coil and linear actuator specialist · [Akribis](https://www.akribis-sys.com/) — voice coils and precision stages

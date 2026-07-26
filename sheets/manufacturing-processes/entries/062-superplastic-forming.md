@@ -14,11 +14,11 @@ Specialized alloys are heated into a superplastic regime and slowly formed into 
 
 ## Strengths and weaknesses
 
-Can create complex one-piece lightweight structures. Cycles are slow, material choices are narrow, and temperature control is demanding.
+It can produce complex one-piece lightweight structures. Cycles are slow, the list of usable alloys is short, and temperature control is demanding.
 
 ## When to use
 
-Pick superplastic forming for deep, complex thin-wall shells in fine-grain titanium or aluminum at aerospace volumes — tens to low thousands per year — especially where combining it with diffusion bonding consolidates a multi-part stiffened structure into one piece. Accept cycle times of 20 minutes to several hours and plan for thinning gradients in deep sections. Avoid it for cost-driven or high-volume work and for alloys without superplastic grades; conventional stamping or hydroforming covers those, and hot stamping handles high-strength steels.
+Pick superplastic forming for deep, complex thin-wall shells in fine-grain titanium or aluminum at aerospace volumes (tens to low thousands per year). It's especially useful combined with diffusion bonding, which turns a multi-part stiffened structure into one piece. Expect cycle times of 20 minutes to several hours, and plan for thinning gradients in deep sections. Avoid it for cost-driven or high-volume work and for alloys that don't come in superplastic grades. Conventional stamping or hydroforming covers those, and hot stamping handles high-strength steels.
 
 ## Examples
 

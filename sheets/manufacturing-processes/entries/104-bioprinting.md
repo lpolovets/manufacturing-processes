@@ -18,7 +18,7 @@ Enables complex tissue-like structures. Vascularization, cell survival, maturati
 
 ## When to use
 
-Pick bioprinting for research applications where spatial arrangement of cells is the experiment: tissue models for drug screening and toxicity testing, patterned co-cultures, and engineered skin or cartilage constructs — places where a printed model can reduce animal testing or improve on flat cell culture. It is a laboratory tool, not a manufacturing process. Avoid planning it for implantable or production tissue: vascularization, maturation, and regulatory approval remain unsolved at scale, so for actual implants and surgical models today, machined or printed biocompatible metals and polymers are the working answer.
+Pick bioprinting for research applications where spatial arrangement of cells is the experiment: tissue models for drug screening and toxicity testing, patterned co-cultures, and engineered skin or cartilage constructs. In those cases a printed model can reduce animal testing or improve on flat cell culture. It is a laboratory tool rather than a manufacturing process. Avoid planning it for implantable or production tissue, because vascularization, maturation, and regulatory approval remain unsolved at scale. If you need actual implants or surgical models today, machined or printed biocompatible metals and polymers are the working answer.
 
 ## Examples
 

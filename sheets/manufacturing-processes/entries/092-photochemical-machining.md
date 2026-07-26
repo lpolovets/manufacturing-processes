@@ -18,7 +18,7 @@ Creates intricate burr-free flat parts without hard tooling. Limited to thin she
 
 ## When to use
 
-Pick photochemical machining for intricate flat parts in metal sheet from roughly 0.01 to 1.5 mm — shims, screens, encoder discs, flexures, EMI shields — where phototooling costs hundreds of dollars, arrives in days, and leaves parts burr-free and stress-free with no edge deformation, ideal for springy or magnetic alloys that stamping would work-harden. It stays economical from prototype quantities into the hundreds of thousands. Avoid it above about 2 mm thickness or where edge walls must be square (etching leaves a characteristic undercut profile); very high volumes of simple shapes eventually justify a stamping die, and fine-blanking covers thick precision flats.
+Pick photochemical machining for intricate flat parts in metal sheet from roughly 0.01 to 1.5 mm: shims, screens, encoder discs, flexures, EMI shields. Phototooling costs hundreds of dollars and arrives in days, and parts come out burr-free and stress-free with no edge deformation, which suits springy or magnetic alloys that stamping would work-harden. It stays economical from prototype quantities into the hundreds of thousands. Avoid it above about 2 mm thickness, or where edge walls must be square (etching leaves a characteristic undercut profile). Very high volumes of simple shapes eventually justify a stamping die, and if you need thick precision flats, look at fine-blanking instead.
 
 ## Examples
 

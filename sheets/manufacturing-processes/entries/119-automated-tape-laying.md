@@ -18,7 +18,7 @@ Faster than fiber placement for broad simple surfaces. Less capable on highly cu
 
 ## When to use
 
-Choose ATL over AFP when the surface is flat or gently curved — wing skins, tail planes, spar caps, large panels — because 150–300 mm tape lays down material several times faster than narrow tows, and the aerospace-scale machine cost is justified by throughput on big laminates. The wide tape cannot steer or conform to tight double curvature, so complex contours push you to AFP, and small or one-off parts back to manual prepreg layup.
+Choose ATL over AFP when the surface is flat or gently curved (wing skins, tail planes, spar caps, large panels). Tape 150–300 mm wide lays down material several times faster than narrow tows, so throughput on big laminates justifies the aerospace-scale machine cost. The wide tape cannot steer or conform to tight double curvature. If the contour is complex, use AFP instead; if the part is small or a one-off, use manual prepreg layup.
 
 ## Examples
 

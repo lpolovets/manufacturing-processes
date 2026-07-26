@@ -11,19 +11,19 @@ cost: low
 ---
 
 ## Description
-The invisible majority of industrial gripping: compressed air driving two or three jaws through a wedge or piston mechanism — open or closed, nothing in between, at blistering speed and near-perfect reliability. Custom-machined fingers adapt the standard body to the specific part, which is the design philosophy in miniature: the gripper is a commodity, the fingers are the engineering. Millions serve in machine-tending, molding, and assembly cells, cycling every few seconds for years.
+These do most of the industrial gripping and get very little attention. Compressed air drives two or three jaws through a wedge or piston mechanism. They are either open or closed with nothing in between, they actuate very fast, and they are close to perfectly reliable. Custom-machined fingers adapt the standard body to the specific part, which is the design philosophy in miniature: the gripper is a commodity, and the fingers are the engineering. Millions of them serve in machine-tending, molding, and assembly cells, cycling every few seconds for years.
 
 ## Strengths and weaknesses
-Cheap, fast (tens of milliseconds), immensely reliable (the moving parts are a piston and a wedge), high grip force per size, shrugging off dust and coolant. Weaknesses: binary operation — no force or position modulation without add-ons; needs plant air (cost and tether); one finger set per part family, so SKU diversity means changeovers; and no feedback beyond end-of-stroke switches unless sensors are added.
+They're cheap, fast (tens of milliseconds), and immensely reliable, because the moving parts are just a piston and a wedge. Grip force per unit size is high, and dust and coolant don't bother them. The main weakness is binary operation: you get open or closed, with no force or position modulation unless you add hardware. They need plant air, which costs money and tethers the robot. One finger set covers one part family, so SKU diversity means changeovers. And you get no feedback beyond end-of-stroke switches unless you add sensors.
 
 ## When to use
-Pick pneumatic jaws for high-cycle, known-geometry handling with plant air on tap — machine tending, molding, assembly cells gripping the same part family every few seconds for years — and put the engineering into custom fingers, not the gripper. At $100–800 with tens-of-millisecond actuation, nothing matches its cost per million cycles. Avoid it when grip force must modulate (delicate or variable parts), when SKU churn makes finger changeovers the bottleneck, or in air-free environments like labs and electronics assembly; there the electric parallel-jaw earns its 5–20× premium.
+Pick pneumatic jaws for high-cycle, known-geometry handling when you already have plant air (machine tending, molding, and assembly cells gripping the same part family every few seconds for years), and put the engineering into custom fingers rather than into the gripper. At $100–800 with tens-of-millisecond actuation, nothing matches its cost per million cycles. If grip force has to modulate for delicate or variable parts, if SKU churn makes finger changeovers the bottleneck, or if you're in an air-free environment like a lab or electronics assembly, the electric parallel-jaw gripper earns its 5–20× premium.
 
 ## Examples
 Schunk PGN-plus (the archetype, in its millions), SMC and Festo catalogs, three-jaw centric versions for round stock, sprue pickers on every injection-molding machine, CNC machine-tending cells worldwide.
 
 ## Economic profile
-A profitable, mature European/Japanese component oligopoly ($100–800 typical) where margins live in precision manufacturing and distribution. The electric transition nibbles at its edges (controllability, air costs), but for high-cycle single-part duty nothing beats its cost-per-million-cycles. In diligence terms: the boring benchmark every clever gripper startup must beat on uptime, not features.
+This is a mature, profitable European/Japanese component oligopoly, with typical prices of $100–800 and margins coming from precision manufacturing and distribution. The shift to electric grippers takes bites out of the edges (controllability, air costs), but for high-cycle single-part duty nothing beats its cost-per-million-cycles. For diligence, treat it as the boring benchmark: a clever gripper startup has to beat it on uptime, and beating it on features isn't enough.
 
 ## Further reading
 

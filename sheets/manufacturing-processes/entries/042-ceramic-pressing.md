@@ -18,7 +18,7 @@ Produces consistent, high-volume parts. Undercuts, major thickness variation, an
 
 ## When to use
 
-Choose die pressing for simple, prismatic ceramic parts at high volume — tiles, substrates, cutting inserts, seal faces — where uniaxial compaction and sintering give the lowest unit cost; switch to isostatic pressing when uniform density or elongated shapes such as tubes and rods matter. Avoid undercuts, large thickness variation, and delicate features, which press poorly and crack in sintering. Complex hollow shapes belong to slip casting, and fine intricate parts to ceramic injection molding.
+Choose die pressing for simple, prismatic ceramic parts at high volume (tiles, substrates, cutting inserts, seal faces), where uniaxial compaction and sintering give the lowest unit cost. Switch to isostatic pressing when you need uniform density, or for elongated shapes such as tubes and rods. Avoid undercuts, large thickness variation, and delicate features, which press poorly and crack in sintering. If the shape is complex and hollow, use slip casting instead; if the parts are fine and intricate, use ceramic injection molding.
 
 ## Examples
 

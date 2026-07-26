@@ -18,7 +18,7 @@ Tooling is inexpensive and very large parts are possible. Labor, voids, repeatab
 
 ## When to use
 
-Choose hand layup for one-offs through a few hundred parts a year, especially large ones — hulls, tanks, architectural shapes — where a mold costing a few thousand dollars matters more than laminate quality and 30–40% fiber content is acceptable. Avoid it when void content, repeatability, or styrene exposure are controlled requirements: vacuum infusion gives a better laminate from the same single-sided tool, and RTM or SMC take over once volumes reach the thousands.
+Choose hand layup for one-offs through a few hundred parts a year, especially large ones like hulls, tanks, and architectural shapes. It makes sense when a mold costing a few thousand dollars matters more to you than laminate quality, and when 30–40% fiber content is acceptable. If void content, repeatability, or styrene exposure are controlled requirements, use vacuum infusion instead; it gives a better laminate from the same single-sided tool. Once volumes reach the thousands, RTM or SMC take over.
 
 ## Examples
 

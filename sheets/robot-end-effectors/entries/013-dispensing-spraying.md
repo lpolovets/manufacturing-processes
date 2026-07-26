@@ -11,19 +11,19 @@ cost: med
 ---
 
 ## Description
-Fluids applied with robotic patience: adhesive and sealant dispensers metering beads to fractions of a milliliter, paint atomizers spinning at 60,000 RPM with electrostatic charge wrapping spray around car bodies, and dosing valves laying thermal interface materials on EV battery packs. Path consistency is the product — a robot lays the same bead at the same rate forever, and in painting, transfer-efficiency gains (less overspray) pay for the robot in material savings alone.
+Robots apply fluids with a consistency people can't match. Adhesive and sealant dispensers meter beads to fractions of a milliliter, paint atomizers spin at 60,000 RPM and use electrostatic charge to wrap the spray around car bodies, and dosing valves lay thermal interface materials on EV battery packs. Path consistency is the product: a robot lays the same bead at the same rate forever. In painting, the gain in transfer efficiency (less overspray) pays for the robot in material savings alone.
 
 ## Strengths and weaknesses
-Consistency impossible manually; electrostatic rotary atomizers reach 80–95% transfer efficiency versus ~40% hand spraying; hazardous-environment removal of humans (isocyanates, solvent booths); metering precision enables modern EV assembly (gap fillers, fire barriers). Weaknesses: fluid systems clog, cure, and drip — purge-and-clean cycles are the operational tax; viscosity drifts with temperature demand closed-loop metering; paint robots are explosion-rated capital items; and every material change is a requalification.
+The consistency is impossible to reach manually. Electrostatic rotary atomizers reach 80–95% transfer efficiency against ~40% for hand spraying. Automation also takes humans out of hazardous environments (isocyanates, solvent booths), and metering precision is what makes modern EV assembly possible (gap fillers, fire barriers). The weaknesses come from the fluid. Systems clog, cure, and drip, so purge-and-clean cycles are the operational tax. Viscosity drifts with temperature, which demands closed-loop metering. Paint robots are explosion-rated capital items. And every material change is a requalification.
 
 ## When to use
-Automate fluids wherever bead or coating consistency at volume is the product: paint lines (where 80–95% transfer efficiency versus ~40% by hand pays for the robot in material alone), body-shop sealing, EV battery TIM and fire-barrier dosing, and conformal coating — plus any application that removes humans from isocyanate and solvent exposure. Spec closed-loop metering when viscosity or dose tolerance is tight. Avoid it for low-volume, high-mix work where purge cycles and per-material requalification dominate the economics, and treat every material change as an engineering event with its own validation, never a parameter tweak.
+Automate fluids wherever bead or coating consistency at volume is the product: paint lines (where 80–95% transfer efficiency against ~40% by hand pays for the robot in material alone), body-shop sealing, EV battery TIM and fire-barrier dosing, and conformal coating. The same holds for any application that removes humans from isocyanate and solvent exposure. Spec closed-loop metering when viscosity or dose tolerance is tight. If your work is low-volume and high-mix, purge cycles and per-material requalification will dominate the economics. Treat every material change as an engineering event with its own validation rather than as a parameter tweak.
 
 ## Examples
 Dürr, ABB, and Fanuc paint-shop ecosystems (every automotive paint line on earth), Graco and Nordson dispensing valves, SCA/Atlas Copco sealing systems in body shops, EV battery TIM and fire-barrier dispensing cells (the current growth engine), conformal coating in electronics.
 
 ## Economic profile
-Automotive painting is one of robotics' oldest solved markets — an oligopoly with decades of process moat. The new money is EV batteries: every pack needs meters of precisely-dosed adhesives, gap fillers, and thermal materials, making dispensing a beneficiary of electrification roughly proportional to cell production itself. Materials suppliers (Henkel, Sika) and equipment vendors jointly own the recipe lock-in.
+Automotive painting is one of robotics' oldest solved markets, an oligopoly with decades of process moat. The new money is in EV batteries: every pack needs meters of precisely-dosed adhesives, gap fillers, and thermal materials, so dispensing benefits from electrification roughly in proportion to cell production itself. Materials suppliers (Henkel, Sika) and equipment vendors jointly own the recipe lock-in.
 
 ## Further reading
 

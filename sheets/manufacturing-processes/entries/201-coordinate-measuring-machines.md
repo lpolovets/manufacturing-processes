@@ -18,7 +18,7 @@ Provide accurate, traceable dimensional inspection of complex parts. Can be slow
 
 ## When to use
 
-Use a CMM when tolerances are in the single-digit-micron range, when GD&T callouts — true position, profile, datum-referenced features — must be verified with metrological traceability, and for first-article and PPAP inspection where the report is the deliverable. Tactile probing remains the reference method for bores, planes, and anything where a scanner's optical noise floor is marginal. It is the wrong tool for 100 percent inspection at production takt unless a shop-floor CMM is dedicated to the line, for soft or flexible parts that deflect under probe force, and for dense freeform surfaces where millions of points are needed; structured-light or laser scanning covers those, with CT the fallback for internal features a stylus cannot reach.
+Use a CMM when tolerances are in the single-digit-micron range, when GD&T callouts (true position, profile, datum-referenced features) must be verified with metrological traceability, and for first-article and PPAP inspection where the report is the deliverable. Tactile probing is still the reference method for bores, planes, and anything where a scanner's optical noise floor is marginal. It is the wrong tool for 100 percent inspection at production takt unless you dedicate a shop-floor CMM to the line, for soft or flexible parts that deflect under probe force, and for dense freeform surfaces where you need millions of points. For those cases use structured-light or laser scanning, and use CT for internal features a stylus cannot reach.
 
 ## Examples
 

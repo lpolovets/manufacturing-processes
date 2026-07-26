@@ -14,11 +14,11 @@ Pressurized fluid forces sheet or tube into a die.
 
 ## Strengths and weaknesses
 
-Creates complex seamless structures and can reduce part count. Equipment, tooling, pressure control, and material formability are demanding.
+It produces complex seamless structures and can cut part count. The equipment and tooling are expensive, pressure control is demanding, and the material has to be formable enough to survive the process.
 
 ## When to use
 
-Pick tube hydroforming when one seamless hollow member can replace a welded assembly of stampings — automotive frames and exhausts at tens of thousands of units per year, in ductile aluminum or mild and stainless steel — and stiffness per kilogram justifies the press investment. Sheet hydroforming earns its keep at lower volumes, where the single rigid die half cuts tooling cost roughly in half versus matched dies. Avoid it for prototypes and short runs (fabricate and weld instead), for simple open sections better stamped or roll formed, and for low-elongation alloys that split under internal pressure.
+Pick tube hydroforming when one seamless hollow member can replace a welded assembly of stampings and stiffness per kilogram justifies the press investment. The usual case is automotive frames and exhausts at tens of thousands of units per year, in ductile aluminum or in mild and stainless steel. Sheet hydroforming makes sense at lower volumes, because using a single rigid die half cuts tooling cost roughly in half versus matched dies. Avoid it for prototypes and short runs (fabricate and weld instead), for simple open sections that stamping or roll forming handles better, and for low-elongation alloys that split under internal pressure.
 
 ## Examples
 

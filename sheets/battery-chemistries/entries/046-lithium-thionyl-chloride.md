@@ -10,19 +10,19 @@ maturity: mass
 ---
 
 ## Description
-The energy-density and shelf-life champion of practical batteries: a lithium anode against a liquid thionyl chloride cathode (the electrolyte is the cathode), delivering up to ~500–700 Wh/kg, 3.6 V, and self-discharge under 1% per year. A passivating LiCl film forms on the lithium, enabling 20+ year service — and causing the chemistry's famous "voltage delay" when a long-dormant cell is suddenly loaded.
+Li-SOCl2 has the best energy density and shelf life of any practical battery. A lithium anode runs against a liquid thionyl chloride cathode (the electrolyte is the cathode), delivering up to ~500–700 Wh/kg, 3.6 V, and self-discharge under 1% per year. A passivating LiCl film forms on the lithium, which is what enables 20+ year service and also what causes the chemistry's well-known "voltage delay" when a long-dormant cell is suddenly loaded.
 
 ## Strengths and weaknesses
-Unmatched energy density and shelf life; operates from -55 to +85 °C; ideal for decades-long unattended service. Weaknesses: low rate capability (bobbin types) — pulse loads need spiral construction or a supercapacitor buddy; voltage delay after storage; thionyl chloride is toxic and corrosive, making cells hazardous to ship, puncture, or recycle; strictly non-rechargeable, and charging one is dangerous.
+Energy density and shelf life are unmatched, the cells run from -55 to +85 °C, and they suit decades-long unattended service. Weaknesses: rate capability is low in bobbin types, so pulse loads need spiral construction or a supercapacitor alongside the cell; voltage delay shows up after storage; thionyl chloride is toxic and corrosive, which makes cells hazardous to ship, puncture, or recycle; and they are strictly non-rechargeable, so charging one is dangerous.
 
 ## When to use
-Pick Li-SOCl2 for decades-long unattended service at microamp-to-milliamp drains across -55 to +85 °C — utility meters, IoT sensors, downhole tools, ordnance electronics — where sub-1%/year self-discharge is the whole point; pair bobbin cells with a supercapacitor or specify spiral construction when the device pulses, and design for the voltage delay after dormancy. Avoid it for consumer-handled products, high-rate loads, or anything with a disposal path that can't handle toxic, corrosive cells; Li-MnO2 is the consumer-safe default for decade-scale duty.
+Pick Li-SOCl2 for decades-long unattended service at microamp-to-milliamp drains across -55 to +85 °C (utility meters, IoT sensors, downhole tools, ordnance electronics), where sub-1%/year self-discharge is the whole point. If the device pulses, pair bobbin cells with a supercapacitor or specify spiral construction, and design for the voltage delay after dormancy. Avoid it for consumer-handled products, high-rate loads, or anything with a disposal path that can't handle toxic, corrosive cells. If you need decade-scale duty in a consumer-safe cell, use Li-MnO2 instead.
 
 ## Examples
 Utility meters (the giant volume application — Saft, Tadiran, EVE), toll transponders, downhole oil-and-gas tools, military ordnance electronics, IoT sensors expected to outlive their installers.
 
 ## Economic profile
-A quietly excellent business: sticky design-ins, 20-year replacement cycles, safety-driven qualification moats, and a customer base (metering, defense) that cares nothing for $/kWh. EVE Energy's rise on Chinese smart-meter volume shows the scale hiding in "boring" primaries.
+This is a quietly excellent business. Design-ins are sticky, replacement cycles run 20 years, safety-driven qualification keeps competitors out, and the customer base (metering, defense) doesn't care about $/kWh. EVE Energy's rise on Chinese smart-meter volume shows the scale hiding in "boring" primaries.
 
 ## Further reading
 

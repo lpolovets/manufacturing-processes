@@ -18,7 +18,7 @@ Mechanical sawing is mature and inexpensive; laser and plasma methods support th
 
 ## When to use
 
-Default to blade sawing: for standard-thickness silicon with streets of 50 um or more it is the cheapest, best-understood option. Switch to stealth (laser-internal) dicing for thin wafers below roughly 100 um, memory and stacked-die products where edge chipping kills yield, and dry processes where cooling water would damage MEMS; use ablation lasers for hard or brittle materials like SiC and glass where blades wear fast. Plasma dicing earns its cost when die are tiny and numerous — narrow streets and simultaneous singulation of the whole wafer reclaim several percent of area and boost die strength. Avoid blade sawing on cantilevered or released MEMS structures and on wafers where microcracks would propagate in service; choose the singulation method before street width is frozen in layout, not after.
+Default to blade sawing. For standard-thickness silicon with streets of 50 um or more it is the cheapest, best-understood option. Switch to stealth (laser-internal) dicing for thin wafers below roughly 100 um, for memory and stacked-die products where edge chipping costs too much yield, and for dry processes where cooling water would damage MEMS. Use ablation lasers for hard or brittle materials like SiC and glass, where blades wear fast. Plasma dicing is worth its cost when die are tiny and numerous, because narrow streets and simultaneous singulation of the whole wafer reclaim several percent of area and improve die strength. Avoid blade sawing on cantilevered or released MEMS structures and on wafers where microcracks would propagate in service. Choose the singulation method before street width is frozen in layout.
 
 ## Examples
 

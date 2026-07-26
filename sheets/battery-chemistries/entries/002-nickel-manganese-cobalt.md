@@ -11,13 +11,13 @@ maturity: mass
 ---
 
 ## Description
-The workhorse layered cathode: LiNixMnyCozO2, where the nickel fraction sets energy density, manganese stabilizes the structure, and cobalt aids rate and processability. The industry has marched from balanced NMC 111 toward nickel-rich 811 and 9-series to raise energy and cut cobalt. Paired with graphite (or graphite-silicon blends), NMC is the default chemistry for Western and Korean EV platforms, power tools, and e-mobility.
+NMC is the workhorse layered cathode, LiNixMnyCozO2, where the nickel fraction sets energy density, manganese stabilizes the structure, and cobalt aids rate and processability. The industry has moved from balanced NMC 111 toward nickel-rich 811 and 9-series to raise energy and cut cobalt. Paired with graphite (or graphite-silicon blends), NMC is the default chemistry for Western and Korean EV platforms, power tools, and e-mobility.
 
 ## Strengths and weaknesses
-The best all-around balance of energy, power, life, and cost among high-energy cathodes, with a huge installed manufacturing base. Weaknesses: nickel-rich versions grow more thermally sensitive and moisture-fussy (dry rooms, gas evolution); cobalt and nickel carry price and supply risk; and LFP undercuts it on cost and cycle life wherever density is not decisive.
+NMC offers the best all-around balance of energy, power, life, and cost among high-energy cathodes, and it has a huge installed manufacturing base. Weaknesses: nickel-rich versions are more thermally sensitive and more sensitive to moisture (they need dry rooms, and they evolve gas); cobalt and nickel carry price and supply risk; and LFP undercuts NMC on cost and cycle life wherever density is not decisive.
 
 ## When to use
-Pick NMC when you need high gravimetric energy with a mature, multi-vendor supply base — long-range EVs, power tools, e-mobility, and any pack where weight or range sells the product; go nickel-rich (811, 9-series) only if your factory and BMS can handle the moisture and thermal sensitivity. Avoid it wherever the pack cycles daily and density is not decisive — stationary storage and standard-range vehicles have gone LFP for good reason — and in minimum-cost designs where cobalt and nickel exposure is unacceptable. For small-format consumer devices where volumetric density rules, LCO still edges it out.
+Pick NMC when you need high gravimetric energy with a mature, multi-vendor supply base: long-range EVs, power tools, e-mobility, and any pack where weight or range is what sells the product. Go nickel-rich (811, 9-series) only if your factory and BMS can handle the moisture and thermal sensitivity. Avoid NMC wherever the pack cycles daily and density is not decisive, which is why stationary storage and standard-range vehicles have mostly gone LFP, and avoid it in minimum-cost designs where cobalt and nickel exposure is unacceptable. For small-format consumer devices where volumetric density matters most, LCO is usually still better.
 
 ## Variants
 ### NMC 111 / 532
@@ -36,7 +36,7 @@ Quaternary Ni-Co-Mn-Al blends hedging between NMC and NCA behavior.
 Most non-Tesla Western EVs (VW, GM Ultium, Hyundai-Kia, BMW); power tools; e-bikes; premium storage products. Major producers: CATL, LG Energy Solution, Samsung SDI, SK On, Panasonic.
 
 ## Economic profile
-Mid-to-high $/kWh driven by nickel and residual cobalt. Enormous economies of scale and a deep equipment ecosystem; cathode precursor (pCAM/CAM) capacity is a chokepoint concentrated in China and Korea. The nickel-rich roadmap trades cheaper metal mix for costlier processing and yield risk.
+NMC lands at mid-to-high $/kWh, driven by nickel and residual cobalt. It benefits from enormous economies of scale and a deep equipment ecosystem, but cathode precursor (pCAM/CAM) capacity is a bottleneck concentrated in China and Korea. The nickel-rich roadmap trades a cheaper metal mix for costlier processing and more yield risk.
 
 ## Further reading
 

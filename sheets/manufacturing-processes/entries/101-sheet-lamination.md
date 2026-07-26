@@ -18,7 +18,7 @@ Can combine dissimilar materials and embed sensors. Interlayer bond strength and
 
 ## When to use
 
-Pick sheet lamination for the jobs its layer-stacking nature uniquely enables: embedding sensors, wiring, or dissimilar-material layers mid-build, and cheap large-format visual models from paper or polymer sheet; ultrasonic metal variants join aluminum and copper foils at low temperature around embedded electronics. Loads must run in-plane — the interlayer bond is the weak axis — and enclosed cavities trap waste sheet you cannot dig out. Avoid it for general functional prototyping or production metal parts, where FFF, powder-bed fusion, or machining are all stronger defaults; this is a niche process chosen for embedding and laminating, not as a general-purpose printer.
+Pick sheet lamination for the jobs its layer-stacking nature uniquely enables: embedding sensors, wiring, or dissimilar-material layers mid-build, and cheap large-format visual models from paper or polymer sheet. Ultrasonic metal variants join aluminum and copper foils at low temperature around embedded electronics. Design so loads run in-plane, because the interlayer bond is the weak axis, and avoid enclosed cavities, which trap waste sheet you cannot dig out. For general functional prototyping or production metal parts, FFF, powder-bed fusion, or machining are all stronger defaults. Treat sheet lamination as a niche process you pick for embedding and laminating rather than as a general-purpose printer.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Proper wetting is essential for impedance, capacity, and safety. Moisture sensit
 
 ## When to use
 
-Every liquid-electrolyte cell line needs this step; the real choices are dosing and wetting strategy. Use vacuum filling with multi-step dose-and-soak cycles for large-format prismatic and pouch cells, high-loading or highly calendered electrodes, and any design where trapped gas or dry spots would show up as impedance outliers, and budget hours of soak time plus dew-point control below roughly -40 C in the fill room. Single-shot filling with short soaks is acceptable only for small cylindrical cells with thin, porous electrodes. If fill and wetting time is dominating line takt, attack it with electrode porosity, electrolyte formulation, or warm soak rather than by shortening the soak and shipping poorly wetted cells.
+Every liquid-electrolyte cell line needs this step, so the real choices are how you dose and how you wet. Use vacuum filling with multi-step dose-and-soak cycles for large-format prismatic and pouch cells, for high-loading or highly calendered electrodes, and for any design where trapped gas or dry spots would show up as impedance outliers. Budget hours of soak time, and hold the fill room below roughly -40 C dew point. Single-shot filling with short soaks is acceptable only for small cylindrical cells with thin, porous electrodes. If fill and wetting time is dominating line takt, fix it through electrode porosity, electrolyte formulation, or a warm soak, not by shortening the soak and shipping poorly wetted cells.
 
 ## Examples
 

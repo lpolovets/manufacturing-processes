@@ -18,7 +18,7 @@ Machines hard materials, delicate features, and sharp internal geometry without 
 
 ## When to use
 
-Pick EDM when hardness, geometry, or fragility defeats cutting tools: hardened tool steel and carbide after heat treatment, near-sharp internal corners, thin fragile ribs, and deep narrow cavities. Wire EDM holds plus or minus 0.005 mm or better on through profiles and is the standard for punches, dies, and splines in hardened stock; sinker EDM owns blind mold cavities; fast-hole EDM produces turbine cooling holes at high aspect ratio. Avoid it whenever the material is nonconductive or still soft enough to mill — removal rates are low, so machine soft and EDM only what heat treatment or geometry forces, and for high-volume shaped cavities in hard alloys consider electrochemical machining instead.
+Use EDM when hardness, geometry, or fragility rules out cutting tools: hardened tool steel and carbide after heat treatment, near-sharp internal corners, thin fragile ribs, and deep narrow cavities. Wire EDM holds plus or minus 0.005 mm or better on through profiles and is the standard for punches, dies, and splines in hardened stock. Sinker EDM is the usual choice for blind mold cavities, and fast-hole EDM produces turbine cooling holes at high aspect ratio. Avoid it whenever the material is nonconductive or still soft enough to mill. Removal rates are low, so a good rule of thumb is to machine the part soft and use EDM only for the features that heat treatment or geometry force you into. For high-volume shaped cavities in hard alloys, consider electrochemical machining instead.
 
 ## Variants
 

@@ -18,7 +18,7 @@ Creates stable, strong textiles. Usually provides less stretch and conformabilit
 
 ## When to use
 
-Weave when the fabric must hold its shape and carry load — upholstery, belting, airbags, tarpaulins, and 0/90 composite reinforcement — and when high loom throughput at commodity cost is the goal. Choose knitting instead when stretch, drape, or seamless three-dimensional shapes are required, and nonwovens when the product is disposable and cost per square meter is the only metric that matters.
+Weave when the fabric must hold its shape and carry load (upholstery, belting, airbags, tarpaulins, 0/90 composite reinforcement) and when you want high loom throughput at commodity cost. If you need stretch, drape, or seamless three-dimensional shapes, use knitting instead. If the product is disposable and cost per square meter is the only metric that matters, use nonwovens.
 
 ## Examples
 

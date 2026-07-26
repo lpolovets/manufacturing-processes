@@ -18,7 +18,7 @@ Supports medium-to-high-volume structural composite parts. Fiber orientation is 
 
 ## When to use
 
-SMC is the composite answer at automotive volumes: pick it for roughly 10,000–100,000+ parts a year where 1–3 minute cures in matched steel dies, molded-in ribs and bosses, and paintable class-A-capable surfaces matter more than peak properties — body panels, battery enclosures, electrical boxes. Below a few thousand parts a year the die cost is unjustifiable, so use RTM or infusion; where continuous-fiber stiffness or strength is genuinely required, prepreg or RTM laminates are the alternative.
+SMC is the usual composite choice at automotive volumes. Pick it for roughly 10,000–100,000+ parts a year when 1–3 minute cures in matched steel dies, molded-in ribs and bosses, and paintable class-A-capable surfaces matter more than peak properties (body panels, battery enclosures, electrical boxes). Below a few thousand parts a year the die cost is hard to justify, so use RTM or infusion instead. If you genuinely need continuous-fiber stiffness or strength, use prepreg or RTM laminates.
 
 ## Examples
 

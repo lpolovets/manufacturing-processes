@@ -18,7 +18,7 @@ Extremely fast, clean, and requires no filler. Thermoplastic welding requires co
 
 ## When to use
 
-Ultrasonic welding is the default for mass-produced thermoplastic assemblies — sub-second cycles, no consumables, clean enough for medical disposables — provided the joint is designed with an energy director, sits near-field under the horn, and joins compatible materials. On the metals side it is the standard for battery tab and foil-stack joints and wire splices, where laser and resistance welding struggle with thin dissimilar stacks. Avoid it for large plastic parts, where vibration or hot-plate welding takes over, and for metal joints thicker than foils and wires.
+Ultrasonic welding is the default for mass-produced thermoplastic assemblies. Cycles run under a second, there are no consumables, and the process is clean enough for medical disposables, provided the joint is designed with an energy director, sits near-field under the horn, and joins compatible materials. In metals it is the standard for battery tab and foil-stack joints and wire splices, where laser and resistance welding struggle with thin dissimilar stacks. If the plastic parts are large, use vibration or hot-plate welding instead, and if the metal is thicker than foils and wires, look elsewhere.
 
 ## Examples
 

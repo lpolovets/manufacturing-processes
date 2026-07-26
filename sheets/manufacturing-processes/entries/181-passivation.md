@@ -18,7 +18,7 @@ Improves corrosion resistance without materially changing dimensions. Cannot com
 
 ## When to use
 
-Passivate every machined, ground, or welded stainless part before service — free iron picked up from tooling otherwise seeds rust spots — and treat it as mandatory, spec-driven practice (ASTM A967/AMS 2700) in medical, food, pharma, and aerospace work. Citric acid chemistry now covers most needs with fewer safety and disposal issues than nitric. It is a cleaning and oxide-optimization step, not a coating: dimensions are untouched, so it is safe on finished precision parts. Do not expect it to rescue 400-series or free-machining grades in chloride service or to fix heat tint and weld scale, which need pickling or electropolishing first; if the alloy is marginal for the environment, change the alloy rather than lean on passivation.
+Passivate every machined, ground, or welded stainless part before service, because free iron picked up from tooling otherwise seeds rust spots. In medical, food, pharma, and aerospace work it is mandatory, spec-driven practice (ASTM A967/AMS 2700). Citric acid chemistry now covers most needs with fewer safety and disposal issues than nitric. Passivation is a cleaning and oxide-optimization step rather than a coating: dimensions are untouched, so it is safe on finished precision parts. Do not expect it to compensate for 400-series or free-machining grades in chloride service, or to fix heat tint and weld scale, which need pickling or electropolishing first. If the alloy is marginal for the environment, change the alloy instead of relying on passivation.
 
 ## Examples
 

@@ -11,19 +11,19 @@ maturity: comm
 ---
 
 ## Description
-A hybrid of battery and fuel cell: a nickel positive electrode paired with a hydrogen gas electrode, the hydrogen stored at pressure inside the cell vessel itself. Charging generates hydrogen; discharging consumes it — the "electrode" cannot wear out because it is a gas. This gave Ni-H2 the longest demonstrated cycle life of any battery, which is why it powered the Hubble Space Telescope and the ISS for decades of daily orbital cycling.
+Part battery, part fuel cell: a nickel positive electrode paired with a hydrogen gas electrode, with the hydrogen stored at pressure inside the cell vessel itself. Charging generates hydrogen and discharging consumes it, so the "electrode" can't wear out, because it's a gas. That gives Ni-H2 the longest demonstrated cycle life of any battery, which is why it powered the Hubble Space Telescope and the ISS through decades of daily orbital cycling.
 
 ## Strengths and weaknesses
-Cycle life beyond 30,000 deep cycles; tolerant of overcharge and reversal; state of charge readable from gas pressure; wide temperature range; no fire risk. Weaknesses: low volumetric energy density (pressure vessels are mostly space); historically fabulously expensive with aerospace-grade Inconel vessels; platinum catalysts in classic designs; self-discharge from hydrogen leakage.
+Cycle life runs beyond 30,000 deep cycles. The cells tolerate overcharge and reversal, work across a wide temperature range, carry no fire risk, and let you read state of charge straight off the gas pressure. The weaknesses: volumetric energy density is low (a pressure vessel is mostly empty space), the classic aerospace designs were extremely expensive with Inconel vessels and platinum catalysts, and hydrogen leakage causes self-discharge.
 
 ## When to use
-Pick Ni-H2 when the duty is decades of daily deep cycles with zero fire risk and floor space is nearly free — the EnerVenue-style 20-to-30-year stationary bet, or legacy spacecraft where it is already qualified. Underwrite it on levelized cost across 30,000 cycles, not on $/kWh, and stress-test the capex assumptions on vessel manufacturing. Avoid it wherever volumetric footprint or upfront cost binds, in short-lived projects that never reach the cycle count, and in new spacecraft, where Li-ion has taken the design wins.
+Pick Ni-H2 when the duty is decades of daily deep cycles with zero fire risk and floor space is nearly free. That's the EnerVenue-style 20-to-30-year stationary case, plus legacy spacecraft where it's already qualified. Underwrite it on levelized cost across 30,000 cycles rather than on $/kWh, and stress-test the capex assumptions on vessel manufacturing. Avoid it wherever volumetric footprint or upfront cost is the binding constraint, in short-lived projects that never reach the cycle count, and in new spacecraft, where Li-ion has taken the design wins.
 
 ## Examples
 Hubble, ISS, and GEO communication satellites (largely superseded by Li-ion in new spacecraft); EnerVenue's terrestrial reboot using cheap vessels and catalyst substitutions for stationary storage.
 
 ## Economic profile
-In space it was cost-irrelevant; on the ground the entire bet (EnerVenue) is that stripping aerospace exotica leaves a ~30,000-cycle battery cheap enough to amortize better than LFP over 20+ years. The levelized-cost argument is genuinely interesting; the risk is capex per kWh and volumetric footprint against relentlessly cheapening lithium.
+In space, cost didn't matter. On the ground, the whole bet (EnerVenue) is that stripping out the aerospace-grade materials leaves a ~30,000-cycle battery cheap enough to amortize better than LFP over 20+ years. The levelized-cost argument is genuinely interesting. The risks are capex per kWh and volumetric footprint, both measured against lithium that keeps getting cheaper.
 
 ## Further reading
 

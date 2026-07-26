@@ -14,11 +14,11 @@ Vacuum draws resin through dry reinforcement under a flexible bag.
 
 ## Strengths and weaknesses
 
-Produces very large composite parts with lower tooling cost than closed molding. Leaks, dry spots, infusion timing, and resin-flow design create risk.
+Infusion produces very large composite parts at lower tooling cost than closed molding. Leaks, dry spots, infusion timing, and resin-flow design are the main risks.
 
 ## When to use
 
-Default to vacuum infusion for very large composite parts at low-to-mid volume — hulls, wind blades, one-piece decks — where a single-sided tool and room-temperature cure keep tooling cost an order of magnitude below closed molds while beating hand layup on fiber fraction and emissions. Avoid it when both surfaces must be finished or cycle time matters; that is RTM territory. Treat every new part as a flow-design exercise, because a leak or dry spot on a hull-sized infusion scraps an expensive stack of material in one shot.
+Default to vacuum infusion for very large composite parts at low-to-mid volume, such as hulls, wind blades, and one-piece decks. A single-sided tool and room-temperature cure keep tooling cost an order of magnitude below closed molds, and you still beat hand layup on fiber fraction and emissions. If both surfaces must be finished, or if cycle time matters, use RTM instead. Treat every new part as a flow-design exercise, because a leak or dry spot on a hull-sized infusion scraps an expensive stack of material in one shot.
 
 ## Examples
 

@@ -14,11 +14,11 @@ Metal passes between rotating rolls to reduce thickness or create a continuous c
 
 ## Strengths and weaknesses
 
-Extraordinarily productive and economical for sheet, plate, rail, and structural sections. Largely restricted to continuous or gradually changing geometry and requires large, specialized equipment.
+Rolling is extremely productive and cheap for sheet, plate, rail, and structural sections. It is largely restricted to continuous or gradually changing geometry, and it needs large, specialized equipment.
 
 ## When to use
 
-Choose rolling for flat products and long structural sections consumed by the ton — sheet, plate, strip, foil, rail, and beams — where nothing else approaches its cost per kilogram. It is a mill-scale decision: buy rolled stock rather than roll in-house at anything below commodity volume with dedicated high-utilization lines. For complex constant cross-sections in aluminum, extrusion is usually the better route; for discrete shaped parts, look to forging or casting.
+Choose rolling for flat products and long structural sections that get consumed by the ton (sheet, plate, strip, foil, rail, and beams). Nothing else comes close on cost per kilogram. Rolling in-house is a mill-scale decision, so unless you have commodity volume and dedicated high-utilization lines, buy rolled stock instead. If you need a complex constant cross-section in aluminum, extrusion is usually better. If you need discrete shaped parts, look at forging or casting.
 
 ## Examples
 
@@ -26,7 +26,7 @@ Steel sheet, aluminum foil, rails, I-beams, plate, automotive body stock.
 
 ## Economic profile
 
-Very high capex; high utilization requirements; typically measured in tons rather than parts.
+Capex is very high and utilization needs to stay high to justify it. Output is typically measured in tons rather than parts.
 
 ## Videos
 

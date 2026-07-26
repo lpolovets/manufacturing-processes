@@ -14,11 +14,11 @@ Cells rest and are measured for capacity, voltage retention, impedance, leakage,
 
 ## Strengths and weaknesses
 
-Identifies latent defects and allows cells to be matched into packs. Consumes time, floor space, equipment, and inventory capital.
+Aging and grading identify latent defects and let cells be matched into packs. They also consume time, floor space, equipment, and inventory capital.
 
 ## When to use
 
-Hold cells through a high-temperature or room-temperature aging period, typically one to three weeks, whenever self-discharge screening matters — which is any application where an internal micro-short becomes a field safety event, and any pack with many cells in series where capacity and impedance mismatch drives balancing loss. Grade tightly for EV and grid packs that string dozens to thousands of cells; loose binning is tolerable for single-cell consumer devices. Shorten aging only on the strength of statistical evidence from delta-OCV data on a mature, stable process, and treat rising bin spread as an upstream process-control alarm rather than a sorting problem.
+Hold cells through a high-temperature or room-temperature aging period, typically one to three weeks, whenever self-discharge screening matters. That covers any application where an internal micro-short becomes a field safety event, and any pack with many cells in series where capacity and impedance mismatch drives balancing loss. Grade tightly for EV and grid packs that string dozens to thousands of cells. Loose binning is tolerable for single-cell consumer devices. Shorten aging only if you have statistical evidence from delta-OCV data on a mature, stable process, and treat rising bin spread as an upstream process-control alarm rather than a sorting problem.
 
 ## Examples
 

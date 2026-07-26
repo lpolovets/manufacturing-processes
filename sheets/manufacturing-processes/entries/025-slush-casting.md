@@ -18,7 +18,7 @@ Simple and useful for decorative hollow objects. Wall thickness and structural q
 
 ## When to use
 
-Choose slush casting only for decorative hollow parts in low-melting alloys — zinc, pewter, spelter figurines and lamp bases — at craft-to-modest volumes where its simple, cheap molds win. Never specify it for structural or precision parts, since wall thickness is essentially uncontrolled. For functional hollow metal parts use centrifugal or die casting; for the plastic equivalent, rotational molding.
+Choose slush casting only for decorative hollow parts in low-melting alloys (zinc, pewter, spelter figurines and lamp bases) at craft-to-modest volumes, where simple, cheap molds are the main thing you care about. Don't use it for structural or precision parts, because wall thickness is essentially uncontrolled. If you need functional hollow metal parts, use centrifugal or die casting instead. The plastic equivalent is rotational molding.
 
 ## Examples
 

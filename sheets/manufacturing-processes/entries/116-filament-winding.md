@@ -14,11 +14,11 @@ Resin-impregnated fibers are wound under tension around a mandrel.
 
 ## Strengths and weaknesses
 
-Produces strong, lightweight pressure-containing structures with efficient fiber placement. Geometry is largely limited to convex rotational forms.
+Winding produces strong, lightweight pressure-containing structures and places fiber efficiently. Geometry is largely limited to convex rotational forms.
 
 ## When to use
 
-Choose filament winding for pressure-containing or torsion-loaded bodies of revolution — CNG and hydrogen tanks, rocket motor cases, pipes, drive shafts — where winding angle puts fiber exactly along hoop and axial load paths at low material cost from tow. It needs an extractable, collapsible, or sacrificial mandrel and mostly convex geometry, so avoid it for flat, concave, or highly contoured parts; AFP handles those, and layup or RTM covers general shapes. Braiding is the alternative for torsion-dominated tubes needing damage tolerance.
+Choose filament winding for pressure-containing or torsion-loaded bodies of revolution: CNG and hydrogen tanks, rocket motor cases, pipes, and drive shafts. Controlling the winding angle puts fiber exactly along the hoop and axial load paths, and buying tow keeps material cost low. The process needs an extractable, collapsible, or sacrificial mandrel and mostly convex geometry. If your part is flat, concave, or highly contoured, use AFP; for general shapes, use layup or RTM. If you need a torsion-dominated tube with good damage tolerance, consider braiding instead.
 
 ## Examples
 

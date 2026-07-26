@@ -14,11 +14,11 @@ Cellulose fibers are suspended in water, deposited as a continuous web, pressed,
 
 ## Strengths and weaknesses
 
-Offers high throughput using renewable feedstocks. Water, energy, drying, fiber quality, and machine utilization dominate economics.
+Throughput is high and the feedstocks are renewable. Water, energy, drying, fiber quality, and machine utilization dominate the economics.
 
 ## When to use
 
-Relevant when the product is a web of renewable cellulose fiber — paper, board, tissue, packaging stock — at machine-scale volumes where cost per ton is decisive. It is a buy-not-make process for essentially everyone downstream: mills cost hundreds of millions and live or die on utilization, energy, and fiber cost. Where barrier or structural performance exceeds what coated paper can deliver, polymer film or laminate constructions are the alternative.
+This applies when your product is a web of renewable cellulose fiber (paper, board, tissue, packaging stock) at machine-scale volumes where cost per ton decides the business. For essentially everyone downstream it is a buy-not-make process, since mills cost hundreds of millions and live or die on utilization, energy, and fiber cost. If you need barrier or structural performance beyond what coated paper can deliver, look at polymer film or laminate constructions instead.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Inexpensive, fast, and highly scalable. Moisture, strength, and durability are l
 
 ## When to use
 
-Paper converting is the default for high-volume, low-cost packaging — cartons, corrugated shippers, labels, cups — where steel-rule cutting dies cost little, changeover is fast, and unit costs fall to fractions of a cent at line speeds of hundreds of meters a minute. Avoid it wherever the product must bear sustained load, stay wet, or survive repeated use; coatings and laminations extend moisture life only modestly before molded pulp or plastics take over.
+Paper converting is the default for high-volume, low-cost packaging (cartons, corrugated shippers, labels, cups). Steel-rule cutting dies cost little, changeover is fast, and unit costs fall to fractions of a cent at line speeds of hundreds of meters a minute. Avoid it wherever the product must bear sustained load, stay wet, or survive repeated use. Coatings and laminations extend moisture life only modestly before molded pulp or plastics take over.
 
 ## Examples
 

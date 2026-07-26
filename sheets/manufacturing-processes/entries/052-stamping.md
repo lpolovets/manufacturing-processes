@@ -18,7 +18,7 @@ Provides extremely high production rates and low unit cost at volume. Presses an
 
 ## When to use
 
-Stamping is the default for sheet-metal parts at high volume — tens of thousands per year and up, where progressive dies costing tens to hundreds of thousands of dollars pay back in cents-per-part pricing at dozens of strokes per minute. Lock the design early around springback, tearing, and die constraints, because changes after die tryout are expensive. Below roughly 10,000 parts per year, laser cutting plus press-brake forming is almost always cheaper.
+Stamping is the default for sheet-metal parts at high volume, meaning tens of thousands per year and up. Progressive dies cost tens to hundreds of thousands of dollars, and they pay back through cents-per-part pricing at dozens of strokes per minute. Lock the design early around springback, tearing, and die constraints, because changes after die tryout are expensive. Below roughly 10,000 parts per year, laser cutting plus press-brake forming is almost always cheaper.
 
 ## Variants
 
@@ -32,7 +32,7 @@ A punch removes holes or slots from sheet. Highly productive but creates burrs a
 
 ### Fine blanking
 
-Sheet is sheared under strong compressive constraint using specialized tooling, producing smooth, nearly full-thickness cut edges. Works best within a moderate thickness band rather than simply being a "thick-sheet" process.
+Sheet is sheared under strong compressive constraint using specialized tooling, producing smooth, nearly full-thickness cut edges. It works best within a moderate thickness band, so don't think of it as a "thick-sheet" process.
 
 ### Bending
 

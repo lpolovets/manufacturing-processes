@@ -18,7 +18,7 @@ Joins otherwise incompatible metals across large areas without bulk melting. Req
 
 ## When to use
 
-Explosion welding is the route to large-area bonds between metallurgically incompatible metals — titanium- or nickel-clad steel tubesheets and pressure-vessel plate, aluminum-steel structural transition joints — where fusion processes would form brittle intermetallics. It is bought as a toll service from a handful of specialist sites and is economical from single plates up to modest lot sizes. For continuous bimetal strip at volume, roll bonding is far cheaper; for small parts, look to brazing or diffusion bonding.
+Use explosion welding for large-area bonds between metallurgically incompatible metals (titanium- or nickel-clad steel tubesheets and pressure-vessel plate, aluminum-steel structural transition joints), where fusion processes would form brittle intermetallics. It is bought as a toll service from a handful of specialist sites, and it is economical from single plates up to modest lot sizes. If you need continuous bimetal strip at volume, roll bonding is far cheaper. For small parts, look at brazing or diffusion bonding instead.
 
 ## Examples
 

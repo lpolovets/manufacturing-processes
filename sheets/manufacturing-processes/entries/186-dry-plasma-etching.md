@@ -18,7 +18,7 @@ Creates anisotropic, high-resolution features with near-vertical walls. Equipmen
 
 ## When to use
 
-Choose plasma etching whenever pattern fidelity matters: submicron features, vertical sidewalls, and tight critical-dimension control that wet chemistry's undercut destroys. It is mandatory for transistor-scale patterning and the default for MEMS and photonic features below a few microns, with RIE and ICP chemistries tunable per material stack. Accept single-wafer processing on tools costing hundreds of thousands to millions, plus development time to balance selectivity against the mask and underlying layers and to manage plasma-induced damage on sensitive devices. When features are tens of microns, sidewall profile is unimportant, or you are stripping blanket films, wet etching does the same job at a fraction of the cost; for silicon structures deeper than ~20 um at high aspect ratio, use DRIE.
+Choose plasma etching whenever pattern fidelity matters: submicron features, vertical sidewalls, and tight critical-dimension control that wet chemistry's undercut makes impossible. It is required for transistor-scale patterning and is the default for MEMS and photonic features below a few microns, with RIE and ICP chemistries tunable per material stack. In exchange you get single-wafer processing on tools costing hundreds of thousands to millions, plus development time to balance selectivity against the mask and underlying layers and to manage plasma-induced damage on sensitive devices. If features are tens of microns, sidewall profile does not matter, or you are stripping blanket films, wet etching does the same job at a fraction of the cost. For silicon structures deeper than ~20 um at high aspect ratio, use DRIE.
 
 ## Examples
 

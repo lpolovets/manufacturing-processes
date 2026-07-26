@@ -18,7 +18,7 @@ Readily creates seamless hollow objects. Dimensional precision, thick structural
 
 ## When to use
 
-Machine blowing is the route for narrow-necked hollow glassware at volume — bottles, jars, bulbs, globes — while hand blowing covers low-volume laboratory, lighting, and artistic ware where tooling would never pay. Expect loose dimensional control and avoid thick structural sections or sharp internal features. Open, thick, or precise pieces are better pressed; flat stock comes from float lines.
+Machine blowing is the route for narrow-necked hollow glassware at volume (bottles, jars, bulbs, globes). Hand blowing covers low-volume laboratory, lighting, and artistic ware, where tooling would never pay for itself. Expect loose dimensional control, and avoid thick structural sections or sharp internal features. If the piece is open, thick, or precise, press it instead. Flat stock comes from float lines.
 
 ## Examples
 

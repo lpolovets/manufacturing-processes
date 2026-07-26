@@ -10,19 +10,19 @@ maturity: rd
 ---
 
 ## Description
-The research frontier of shuttling ions that carry more than one charge: magnesium (2+), calcium (2+), and aluminum (3+) could in principle move two or three electrons per ion, multiplying charge stored per site, and all three metals plate without the dendrites that plague lithium — promising safe metal anodes from crustally abundant elements. In practice, the same high charge density that makes multivalent ions attractive makes them cling to host lattices and electrolytes.
+Multivalent chemistry is the research frontier of shuttling ions that carry more than one charge. Magnesium (2+), calcium (2+), and aluminum (3+) could in principle move two or three electrons per ion, which multiplies the charge stored per site, and all three metals plate without the dendrites that plague lithium. That would get you safe metal anodes made from crustally abundant elements. In practice, the same high charge density that makes multivalent ions attractive also makes them cling to host lattices and electrolytes.
 
 ## Strengths and weaknesses
-Abundant, cheap, dendrite-resistant metal anodes; theoretical volumetric capacities beyond lithium metal. Weaknesses: sluggish solid-state diffusion of multivalent ions leaves few working cathodes; electrolytes that are stable, conductive, and compatible with the metal anode remain rare (magnesium's chloride-based electrolytes corrode everything); calcium work is embryonic; aluminum-ion progress (graphite cathodes) delivers power but little energy. No system approaches commercial cell metrics.
+The metal anodes are abundant, cheap, and dendrite-resistant, and theoretical volumetric capacities go beyond lithium metal. Weaknesses: multivalent ions diffuse sluggishly through solids, which leaves few working cathodes; electrolytes that are stable, conductive, and compatible with the metal anode remain rare (magnesium's chloride-based electrolytes corrode everything); calcium work is embryonic; and aluminum-ion progress (graphite cathodes) delivers power but little energy. No system approaches commercial cell metrics.
 
 ## When to use
-Multivalent chemistry is a research allocation, not a design choice: engage it through materials-discovery programs and diligence, and demand that any pitch name its working cathode and electrolyte pair before discussing the anode's theoretical numbers. No system approaches commercial cell metrics, so for any actual product need — cheap, abundant, safe — sodium-ion is the deployable answer today, and lithium variants cover everything performance-driven.
+Treat multivalent chemistry as a research allocation rather than a design choice. Engage with it through materials-discovery programs and diligence, and ask any pitch to name its working cathode and electrolyte pair before it discusses the anode's theoretical numbers. No system approaches commercial cell metrics, so if you have an actual product need for something cheap, abundant, and safe, sodium-ion is the deployable answer today, and lithium variants cover everything performance-driven.
 
 ## Examples
 Toyota Research and academic magnesium programs (a field launched by the 2000 Aurbach prototype); Stanford/Dalian aluminum-graphite cells; EU-funded calcium-battery consortia.
 
 ## Economic profile
-Long-horizon science with venture activity mostly at the materials-discovery layer. The honest framing for diligence: every multivalent pitch must name its working cathode and electrolyte pair, because the anode was never the hard part.
+This is long-horizon science, and venture activity sits mostly at the materials-discovery layer. For diligence, insist that every multivalent pitch name its working cathode and electrolyte pair, because the anode was never the hard part.
 
 ## Further reading
 
