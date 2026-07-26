@@ -11,19 +11,19 @@ maturity: mature
 ---
 
 ## Description
-Cool storage: run chillers at night when power is cheap and reject heat easily, freeze water or chill a large tank, then melt or circulate it to carry the building's cooling load through the afternoon peak. It is storage of cooling demand rather than electricity, but the grid effect is identical — megawatts shifted out of the peak — and it has quietly operated at scale in commercial buildings and district cooling for decades.
+The idea is simple: run chillers at night, when power is cheap and heat is easy to reject, freeze water or chill a large tank, then melt or circulate it to carry the building's cooling load through the afternoon peak. It stores cooling demand rather than electricity, but the grid effect is the same: megawatts shifted out of the peak. It has operated at scale in commercial buildings and district cooling for decades.
 
 ## Strengths and weaknesses
-Mature, cheap, and boring in the best way: standard HVAC equipment, 30-year tank life, and it often improves chiller efficiency (night air is cooler). Effective round trip is high because "discharge" is the service itself. Weaknesses: cooling-only — it shifts a specific end use, not general electricity; economics depend on time-of-use rate spreads that utilities keep flattening; and space for tanks in dense buildings is contested real estate.
+The technology is mature and cheap: it uses standard HVAC equipment, tanks last 30 years, and it often improves chiller efficiency because night air is cooler. Effective round trip is high because the "discharge" is the cooling service itself. The weaknesses: it only shifts cooling, not general electricity; the economics depend on time-of-use rate spreads that utilities keep flattening; and in dense buildings, tanks compete for floor space that is often worth more than the savings.
 
 ## When to use
-Install ice or chilled-water storage in any building or district system with a large afternoon cooling peak, meaningful time-of-use or demand-charge spreads, and room for tanks — new construction and district cooling pencil best, since the tank can displace chiller capacity rather than add to it. It is the default first move before batteries wherever cooling drives the peak. Skip it where rate structures are flat, cooling load is small, or floor space is worth more than the demand savings; and remember it shifts cooling only — for general load shifting or backup, a behind-the-meter battery is the tool.
+Install ice or chilled-water storage in any building or district system with a large afternoon cooling peak, meaningful time-of-use or demand-charge spreads, and room for tanks. New construction and district cooling usually pencil best, because the tank can displace chiller capacity rather than add to it. Wherever cooling drives the peak, this is the default first move before batteries. Skip it if rate structures are flat, cooling load is small, or floor space is worth more than the demand savings. And remember that it only shifts cooling; if you need general load shifting or backup, use a behind-the-meter battery instead.
 
 ## Examples
 Thousands of Calmac/Trane ice-tank buildings, Chicago and Gulf-region district cooling plants, Ice Energy's residential "Ice Bear" (bankrupt — the small-scale cautionary tale), Singapore's Marina Bay district system.
 
 ## Economic profile
-Among the cheapest peak-shifting kWh available when a building needs cooling anyway — tens of $/kWh-equivalent with utility-grade reliability. The market is bounded by cooling demand and rate design rather than technology. As grids peak harder on air conditioning, an old idea keeps getting rediscovered.
+When a building needs cooling anyway, this is among the cheapest peak-shifting storage available: tens of $/kWh-equivalent, with utility-grade reliability. The market is limited by cooling demand and rate design, not by the technology. As air conditioning drives grid peaks higher, this old idea keeps getting rediscovered.
 
 ## Further reading
 

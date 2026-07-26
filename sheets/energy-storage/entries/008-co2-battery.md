@@ -11,19 +11,19 @@ maturity: pilot
 ---
 
 ## Description
-A closed thermodynamic cycle using CO2 as the working fluid: compress gaseous CO2 until it liquefies at ambient temperature (storing the heat of compression), hold it as a compact liquid in pressure tanks, then evaporate and expand it back through a turbine, re-inflating a giant atmospheric gas-holder dome. Because CO2 liquefies at manageable pressure at room temperature — air does not — the cycle gets cryogenic-class density without cryogenics.
+A closed thermodynamic cycle using CO2 as the working fluid: compress gaseous CO2 until it liquefies at ambient temperature (storing the heat of compression), hold it as a compact liquid in pressure tanks, then evaporate and expand it back through a turbine, re-inflating a giant atmospheric gas-holder dome. CO2 liquefies at manageable pressure at room temperature and air does not, so the cycle gets cryogenic-class density without any cryogenic equipment.
 
 ## Strengths and weaknesses
-Claimed ~75% round-trip efficiency (better than LAES or CAES), no geology or exotic temperatures, standard turbomachinery, and a fully closed loop with no emissions. Weaknesses: the signature gas dome is large, fragile-looking, and land-hungry; energy density still trails batteries badly; thermal-store performance is load-bearing for the efficiency claim; and the design is young — one commercial-scale plant's worth of operating data.
+The claimed round-trip efficiency is ~75% (better than LAES or CAES), it needs no geology or exotic temperatures, it runs on standard turbomachinery, and the loop is fully closed with no emissions. Weaknesses: the signature gas dome is large, fragile-looking, and land-hungry; energy density still trails batteries badly; the efficiency claim depends heavily on how well the thermal store performs; and the design is young, with one commercial-scale plant's worth of operating data.
 
 ## When to use
-Consider the CO2 battery for 8–10 hour daily cycling on sites with cheap land but no cavern geology, where its claimed ~75% round trip and commodity turbomachinery beat LAES's efficiency and CAES's siting constraints — and where a 20–30 year life without augmentation spend improves on lithium's economics at that duration. Demand operating data from Ottana-class plants before underwriting the efficiency claim. Avoid it on land-constrained sites (the dome is hectare-scale), at durations lithium already serves cheaply (≤6 hours), and for multi-day duty, where cavern systems or iron-air carry the energy capacity far cheaper.
+Consider the CO2 battery for 8–10 hour daily cycling on sites with cheap land but no cavern geology. Its claimed ~75% round trip and commodity turbomachinery beat LAES's efficiency and CAES's siting constraints, and a 20–30 year life without augmentation spend improves on lithium's economics at that duration. Demand operating data from Ottana-class plants before underwriting the efficiency claim. Avoid it on land-constrained sites (the dome is hectare-scale), at durations lithium already serves cheaply (≤6 hours), and for multi-day duty, where cavern systems or iron-air carry the energy capacity far cheaper.
 
 ## Examples
 Energy Dome: Sardinia 2.5 MW pilot, the 20 MW/200 MWh Ottana commercial plant, an Alliant Energy (Wisconsin) project, and a strategic partnership with Google (2025) for global deployment.
 
 ## Economic profile
-Positions between Li-ion and cavern systems: mid-hundreds $/kWh FOAK falling toward $100–200 at scale, aimed at 8–10 hour daily cycling where lithium augmentation costs bite. The commodity-equipment supply chain is the strongest part of the story; the open question is whether a thermodynamics startup can out-execute battery container economics before lithium reaches 10 hours.
+The CO2 battery sits between Li-ion and cavern systems on cost: mid-hundreds $/kWh FOAK, falling toward $100–200 at scale, aimed at 8–10 hour daily cycling where lithium augmentation costs add up. The commodity-equipment supply chain is the strongest part of the story. The open question is whether a thermodynamics startup can out-execute battery container economics before lithium reaches 10 hours.
 
 ## Further reading
 

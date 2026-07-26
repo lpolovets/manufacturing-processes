@@ -5,6 +5,10 @@ Markdown-driven reference dashboards (manufacturing processes, battery chemistri
 - **Live site**: https://humbaventures.com/reference/ — GitHub Pages, redeploys automatically on every push to `main` (repo is `lpolovets/reference`; Pages mounts at `/reference/`). Each sheet builds into its own subdirectory (`/reference/manufacturing-processes/`, `/reference/battery-chemistries/`); the root is a landing page indexing all sheets.
 - **claude.ai artifact**: a copy of the manufacturing sheet at https://claude.ai/code/artifact/af9b8583-110f-42ce-b2dc-29326b27b24d. It never updates automatically — rebuild with `--artifact manufacturing-processes` and republish `dist/manufacturing-processes.artifact.html` via the Artifact tool (pass this URL as `url` from a session that didn't originally publish it).
 
+## Writing style (important)
+
+All prose (entry sections, guide.html, h2h.html, blurbs, ledes) must follow **STYLE.md** — Leo's plain, engineer-explaining-to-a-friend voice, not default AI style. Read STYLE.md before writing or editing any prose. Quick version: plain declarative sentences, concrete numbers, if/then advice, honest hedging ("usually", "roughly"); no aphoristic em-dash flourishes, dramatic vocabulary, or "not X — but Y" constructions.
+
 ## Workflow rule (important)
 
 **Review-then-push.** Make changes locally, demonstrate them (screenshot or local preview), and only commit/push/republish after Leo explicitly approves. A request to change something is not approval to publish it. One approval covers one push.
