@@ -3,8 +3,11 @@
 //   SHEET    - config: unit, groupLabel, parts, facets
 //   P        - entries: {n, p, g, name, d, sw, f:{facetId: value|[values]}, v?, vid?, extra?}
 //   EMBED_OK - false in the claude.ai artifact flavor (no external requests)
-const state = { q:"", parts:new Set(), f:{} };
+const state = { q:"", parts:new Set(), f:{}, sort:"", dir:1 };
 SHEET.facets.forEach(f => state.f[f.id] = new Set());
+// Sortable dimensions: catalog order, name, and any ordered non-multi facet.
+const SORTS = [["","Catalog order"],["name","Name"]]
+  .concat(SHEET.facets.filter(f=>f.order && f.type!=="multi").map(f=>[f.id, f.label]));
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 // escape, then render markdown links: [label](https://...)
@@ -96,19 +99,72 @@ function cardHTML(x){
     '</button><div class="cbody">'+body+'</div></div>';
 }
 
+// ----- filter-state URLs: the query string mirrors filters, search, and sort -----
+function syncURL(){
+  try{
+    const sp = new URLSearchParams();
+    if(state.parts.size) sp.set("p", [...state.parts].sort((a,b)=>a-b).join(","));
+    SHEET.facets.forEach(f=>{
+      const set = state.f[f.id];
+      if(set.size) sp.set(f.id, (f.order||Object.keys(f.options)).filter(k=>set.has(k)).join(","));
+    });
+    if(state.q) sp.set("q", state.q);
+    if(state.sort){ sp.set("sort", state.sort); if(state.dir<0) sp.set("dir","desc"); }
+    const qs = sp.toString().replace(/%2C/g, ",");  // literal commas read better in shared links
+    history.replaceState(null,"", location.pathname+(qs?"?"+qs:"")+location.hash);
+  }catch(e){}
+}
+function readURL(){
+  try{
+    const sp = new URLSearchParams(location.search);
+    (sp.get("p")||"").split(",").forEach(v=>{
+      const id = +v; if(SHEET.parts.some(pt=>pt.id===id)) state.parts.add(id);
+    });
+    SHEET.facets.forEach(f=>{
+      (sp.get(f.id)||"").split(",").forEach(k=>{ if(f.options[k]) state.f[f.id].add(k); });
+    });
+    state.q = (sp.get("q")||"").trim().toLowerCase();
+    const srt = sp.get("sort")||"";
+    if(SORTS.some(([id])=>id===srt)) state.sort = srt;
+    if(sp.get("dir")==="desc") state.dir = -1;
+  }catch(e){}
+}
+readURL();
+
+// ----- sorting -----
+function sortVal(x, fid){
+  const facet = SHEET.facets.find(f=>f.id===fid);
+  const v = x.f[fid];
+  if(v==null || (Array.isArray(v) && !v.length)) return null;
+  return Array.isArray(v) ? Math.max.apply(null, v.map(k=>facet.order.indexOf(k))) : facet.order.indexOf(v);
+}
+function sorted(hits){
+  if(state.sort==="name")
+    return hits.slice().sort((a,b)=>a.name.localeCompare(b.name)*state.dir || a.n-b.n);
+  return hits.slice().sort((a,b)=>{
+    const ka = sortVal(a, state.sort), kb = sortVal(b, state.sort);
+    if(ka===null && kb===null) return a.n-b.n;
+    if(ka===null) return 1;            // entries without the facet always sink
+    if(kb===null) return -1;
+    return (ka-kb)*state.dir || a.n-b.n;
+  });
+}
+
 function render(){
-  const hits = P.filter(matches);
+  let hits = P.filter(matches);
+  if(state.sort) hits = sorted(hits);
   const listEl = $("list");
   const [unit, units] = SHEET.unit;
   let html = "", lastKey = "";
   hits.forEach(x=>{
     const part = SHEET.parts[x.p-1];
     const key = x.p+"|"+x.g;
-    if(key!==lastKey){
+    if(!state.sort && key!==lastKey){
       lastKey = key;
       const count = hits.filter(h=>h.p===x.p && h.g===x.g).length;
       html += '<div class="grouphdr" style="--pc:'+part.color+'">'+
         '<span class="gp">'+SHEET.groupLabel+' '+part.roman+'</span><h2>'+esc(x.g)+'</h2>'+
+        (SHEET.groupBlurbs && SHEET.groupBlurbs[x.g] ? '<span class="gb">'+SHEET.groupBlurbs[x.g]+'</span>' : '')+
         '<span class="gc">'+count+' '+(count===1?unit:units)+'</span></div>';
     }
     html += cardHTML(x);
@@ -116,6 +172,7 @@ function render(){
   listEl.innerHTML = html;
   $("empty").hidden = hits.length>0;
   $("resCount").textContent = hits.length+" / "+P.length;
+  syncURL();
   // part tile counts + pressed state
   SHEET.parts.forEach(part=>{
     const t = document.querySelector('.ptile[data-p="'+part.id+'"]');
@@ -131,6 +188,7 @@ $("partTiles").innerHTML = SHEET.parts.map(part=>
   '<button class="ptile" data-p="'+part.id+'" style="--pc:'+part.color+'" aria-pressed="false">'+
   '<span class="pn">'+SHEET.groupLabel+' '+part.roman+'</span>'+
   '<span class="pt" style="display:block">'+part.name+'</span>'+
+  (part.blurb ? '<span class="pb" style="display:block">'+part.blurb+'</span>' : '')+
   '<span class="pc"></span></button>').join("");
 $("partTiles").addEventListener("click", e=>{
   const t = e.target.closest(".ptile"); if(!t) return;
@@ -146,7 +204,7 @@ SHEET.facets.forEach(facet=>{
   const labels = facet.chipLabels || facet.options;
   const set = state.f[facet.id];
   el.innerHTML = keys.map(k=>
-    '<button class="fchip" data-k="'+k+'" aria-pressed="false">'+labels[k]+'</button>').join(" ");
+    '<button class="fchip" data-k="'+k+'" aria-pressed="'+(set.has(k)?"true":"false")+'">'+labels[k]+'</button>').join(" ");
   el.addEventListener("click", e=>{
     const c = e.target.closest(".fchip"); if(!c) return;
     const k = c.dataset.k;
@@ -157,11 +215,24 @@ SHEET.facets.forEach(facet=>{
 });
 
 // ----- search -----
+$("q").value = state.q;
 let qt;
 $("q").addEventListener("input", e=>{
   clearTimeout(qt);
   qt = setTimeout(()=>{ state.q = e.target.value.trim().toLowerCase(); render(); }, 120);
 });
+
+// ----- sort control -----
+const sortSel = $("sortSel"), sortDir = $("sortDir");
+sortSel.innerHTML = SORTS.map(([id,label])=>
+  '<option value="'+id+'"'+(state.sort===id?" selected":"")+'>'+esc(label)+'</option>').join("");
+function updDir(){
+  sortDir.hidden = !state.sort;
+  sortDir.textContent = state.dir>0 ? "↑ asc" : "↓ desc";
+}
+updDir();
+sortSel.addEventListener("change", ()=>{ state.sort = sortSel.value; state.dir = 1; updDir(); render(); });
+sortDir.addEventListener("click", ()=>{ state.dir *= -1; updDir(); render(); });
 
 // ----- clear -----
 $("clearAll").addEventListener("click", ()=>{

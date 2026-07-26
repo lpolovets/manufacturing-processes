@@ -75,7 +75,8 @@ nav.tabs button:hover{color:var(--ink)}
 .ptile:hover{background:var(--surface2)}
 .ptile[aria-pressed="true"]{background:var(--surface2);border-color:var(--pc);box-shadow:inset 0 0 0 1px var(--pc)}
 .ptile .pn{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--pc);text-transform:uppercase}
-.ptile .pt{font-size:12.5px;font-weight:600;line-height:1.25;margin:3px 0 4px}
+.ptile .pt{font-size:12.5px;font-weight:600;line-height:1.25;margin:3px 0 0}
+.ptile .pb{font-size:11px;color:var(--ink2);line-height:1.35;margin:2px 0 4px}
 .ptile .pc{font-family:var(--mono);font-size:11px;color:var(--ink2);font-variant-numeric:tabular-nums;margin-top:auto;padding-top:4px}
 
 /* ---------- filter panel ---------- */
@@ -93,7 +94,7 @@ nav.tabs button:hover{color:var(--ink)}
    and pressed states all derive from it. */
 .facet{display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap}
 .facet .fchips{display:flex;flex-wrap:wrap;gap:7px;flex:1;min-width:0}
-@media (max-width:640px){.facet{flex-direction:column;gap:6px}.facet .flabel{width:auto;padding-top:0}.facets{gap:14px}nav.tabs button:not(.themebtn){padding:9px 8px 11px;font-size:11.5px}}
+@media (max-width:640px){.facet{flex-direction:column;gap:6px}.facet .flabel{width:auto;padding-top:0}.facets{gap:14px}nav.tabs button:not(.themebtn){padding:9px 8px 11px;font-size:11.5px}.grouphdr .gb{display:none}}
 .facet .flabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--fcol,var(--ink3));width:108px;flex:none;white-space:nowrap;padding-top:5px;display:inline-flex;align-items:center;gap:5px}
 .tipwrap{position:relative;display:inline-flex}
 .tip{width:14px;height:14px;border-radius:50%;border:1px solid currentColor;font-size:9px;line-height:1;display:inline-flex;align-items:center;justify-content:center;color:inherit;opacity:.7;cursor:help;font-family:var(--mono)}
@@ -109,7 +110,8 @@ nav.tabs button:hover{color:var(--ink)}
 .grouphdr{display:flex;align-items:baseline;gap:10px;margin:30px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--pc,var(--line2))}
 .grouphdr .gp{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--pc)}
 .grouphdr h2{font-size:16px;margin:0;font-weight:650;letter-spacing:-.005em}
-.grouphdr .gc{font-family:var(--mono);font-size:11px;color:var(--ink3);margin-left:auto;font-variant-numeric:tabular-nums}
+.grouphdr .gb{font-size:12px;color:var(--ink3);flex:0 1 auto;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.grouphdr .gc{font-family:var(--mono);font-size:11px;color:var(--ink3);margin-left:auto;font-variant-numeric:tabular-nums;flex:none}
 .card{scroll-margin-top:60px;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--pc,var(--line));border-radius:6px;margin-bottom:8px;box-shadow:var(--shadow);overflow:hidden}
 .card>button.chead{display:flex;width:100%;text-align:left;gap:12px;align-items:baseline;padding:11px 14px;flex-wrap:wrap}
 .card>button.chead:hover{background:var(--surface2)}
@@ -145,9 +147,12 @@ nav.tabs button:hover{color:var(--ink)}
 .variant p{margin:3px 0 0;font-size:13.5px;color:var(--ink2);max-width:70ch}
 .empty{padding:48px 0;text-align:center;color:var(--ink2)}
 .empty .mono{font-family:var(--mono);font-size:12px;color:var(--ink3)}
-.listtools{display:flex;justify-content:flex-end;gap:8px;margin:16px 0 -14px}
+.listtools{display:flex;justify-content:flex-end;align-items:center;gap:8px;margin:16px 0 -14px}
 .listtools button{font-family:var(--mono);font-size:11px;color:var(--ink2);padding:4px 8px;border:1px solid var(--line);border-radius:5px}
 .listtools button:hover{color:var(--ink);border-color:var(--line2)}
+.listtools .sortwrap{font-family:var(--mono);font-size:11px;color:var(--ink3);display:inline-flex;align-items:center;gap:6px;margin-right:2px}
+.listtools select{font-family:var(--mono);font-size:11px;color:var(--ink2);background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:4px 6px}
+.listtools select:hover{color:var(--ink);border-color:var(--line2)}
 
 /* ---------- guide view ---------- */
 .guide{display:none;padding-top:8px}
@@ -176,7 +181,16 @@ nav.tabs button:hover{color:var(--ink)}
 footer.site{margin-top:60px;padding-top:16px;border-top:1px solid var(--line);font-family:var(--mono);font-size:11px;color:var(--ink3)}
 
 /* ---------- landing page (sheet index) ---------- */
-.sheets{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:28px 0}
+.cathdr{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);margin:34px 0 0;padding-bottom:6px;border-bottom:1px solid var(--line2)}
+.gsearch{margin:26px 0 0}
+.ghits{margin-top:8px;display:grid;gap:6px}
+.ghit{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:inherit}
+.ghit:hover{background:var(--surface2)}
+.ghit .gsheet{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);flex:none}
+.ghit .gname{font-weight:600;font-size:13.5px}
+.ghit .gctx{font-size:12px;color:var(--ink3);margin-left:auto}
+.sheetcard .sq{font-size:13px;font-style:italic;color:var(--accent);margin-top:4px}
+.sheets{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:14px 0 8px}
 a.sheetcard{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:8px;padding:16px 18px 14px;box-shadow:var(--shadow);transition:background .12s}
 a.sheetcard:hover{background:var(--surface2)}
 .sheetcard .st{font-weight:650;font-size:16px;letter-spacing:-.005em}

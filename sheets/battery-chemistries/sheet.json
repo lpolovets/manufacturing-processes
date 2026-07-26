@@ -3,6 +3,8 @@
   "docTitle": "Battery Chemistries Reference",
   "shortTitle": "Battery Chemistries",
   "blurb": "Lithium-ion and beyond — energy, power, cycle life, safety, and cost trade-offs across rechargeable, primary, and grid-scale chemistries.",
+  "category": "Energy",
+  "question": "Which battery chemistry fits this product?",
   "title": "Battery Chemistries: A Practical Reference",
   "lede": "A battery is a chemistry packaged as an electrochemical system — electrodes, electrolyte, and cell engineering traded off against energy, power, life, safety, and cost. This guide catalogs {{N_ENTRIES}} chemistries across seven classes, from mass-produced lithium-ion to flow batteries and research frontiers.",
   "unit": ["chemistry", "chemistries"],
@@ -17,14 +19,31 @@
     { "count": "groups", "label": "families" }
   ],
   "parts": [
-    { "id": 1, "roman": "I", "name": "Commercial Lithium-Ion", "color": "var(--p1)" },
-    { "id": 2, "roman": "II", "name": "Next-Generation Lithium", "color": "var(--p2)" },
-    { "id": 3, "roman": "III", "name": "Sodium & Other Alkali-Ion", "color": "var(--p3)" },
-    { "id": 4, "roman": "IV", "name": "Lead-Acid & Nickel", "color": "var(--p4)" },
-    { "id": 5, "roman": "V", "name": "Zinc & Metal-Air", "color": "var(--p5)" },
-    { "id": 6, "roman": "VI", "name": "Flow Batteries", "color": "var(--p6)" },
-    { "id": 7, "roman": "VII", "name": "Primary Lithium & Specialty", "color": "var(--p7)" }
+    { "id": 1, "roman": "I", "name": "Commercial Lithium-Ion", "blurb": "today's mass-produced workhorses", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Next-Generation Lithium", "blurb": "higher energy: silicon, solid-state, lithium metal", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Sodium & Other Alkali-Ion", "blurb": "lithium-free cost and supply hedges", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Lead-Acid & Nickel", "blurb": "legacy chemistries that refuse to die", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Zinc & Metal-Air", "blurb": "cheap, safe, aqueous — energy over power", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Flow Batteries", "blurb": "tanks of liquid energy for long-duration grid duty", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Primary Lithium & Specialty", "blurb": "non-rechargeable and extreme-environment cells", "color": "var(--p7)" }
   ],
+  "groupBlurbs": {
+    "Anode-differentiated cells": "tuning the anode for speed, lifetime, or shape",
+    "High-temperature sodium": "molten-salt cells for bulk stationary storage",
+    "Layered-oxide cathodes": "nickel and cobalt layers — maximum energy per liter",
+    "Lead-acid": "cheap, recyclable starters and backup workhorses",
+    "Lithium-metal & conversion": "pure lithium anodes chasing ultimate energy density",
+    "Nickel": "rugged alkaline cells that tolerate abuse",
+    "Olivine & spinel cathodes": "iron and manganese cathodes — safety and cost first",
+    "Other alkali-ion": "cheaper charge carriers beyond lithium and sodium",
+    "Primary lithium": "single-use cells with decade-long shelf lives",
+    "Primary zinc & silver": "everyday disposables and tiny button cells",
+    "Rechargeable zinc & metal-air": "abundant metals breathing air for cheap storage",
+    "Redox flow": "energy in tanks — power and duration decoupled",
+    "Reserve & specialty": "inert until activated, plus far-out multivalent bets",
+    "Room-temperature sodium-ion": "drop-in lithium-ion alternatives, no lithium needed",
+    "Solid-state electrolytes": "swapping flammable liquid for solid conductors"
+  },
   "facets": [
     {
       "id": "app",

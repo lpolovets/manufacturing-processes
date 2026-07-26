@@ -3,6 +3,8 @@
   "docTitle": "Energy Storage Reference",
   "shortTitle": "Energy Storage",
   "blurb": "Beyond batteries — pumped hydro, compressed air, thermal, hydrogen, gravity, and long-duration storage, mapped on the duration-versus-cost axis.",
+  "category": "Energy",
+  "question": "How should this energy be stored?",
   "title": "Energy Storage: A Practical Reference",
   "lede": "Storage is bought by the hour: the technologies that win at minutes lose badly at weeks, and the killer axis is discharge duration versus cost per stored kWh. This guide catalogs {{N_ENTRIES}} technologies across seven classes, from pumped hydro to green hydrogen and virtual storage.",
   "unit": ["technology", "technologies"],
@@ -17,14 +19,24 @@
     { "count": "groups", "label": "families" }
   ],
   "parts": [
-    { "id": 1, "roman": "I", "name": "Gravity & Water", "color": "var(--p1)" },
-    { "id": 2, "roman": "II", "name": "Compressed Air & Kinetic", "color": "var(--p2)" },
-    { "id": 3, "roman": "III", "name": "Thermal", "color": "var(--p3)" },
-    { "id": 4, "roman": "IV", "name": "Hydrogen & Chemical Carriers", "color": "var(--p4)" },
-    { "id": 5, "roman": "V", "name": "Electrochemical (Grid View)", "color": "var(--p5)" },
-    { "id": 6, "roman": "VI", "name": "Electrical", "color": "var(--p6)" },
-    { "id": 7, "roman": "VII", "name": "Virtual & Distributed", "color": "var(--p7)" }
+    { "id": 1, "roman": "I", "name": "Gravity & Water", "blurb": "pumped hydro and lifted mass — bulk hours to days", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Compressed Air & Kinetic", "blurb": "caverns and flywheels — pressure and spin", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Thermal", "blurb": "store heat cheaply, deliver heat or power", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Hydrogen & Chemical Carriers", "blurb": "molecules for weeks-to-seasons storage", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Electrochemical (Grid View)", "blurb": "batteries in their grid roles", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Electrical", "blurb": "capacitors — instant power, seconds of energy", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Virtual & Distributed", "blurb": "software aggregating distributed assets", "color": "var(--p7)" }
   ],
+  "groupBlurbs": {
+    "Gravity & water": "lift mass when power is cheap, drop it for power",
+    "Compressed air": "store energy as pressure, discharge for hours",
+    "Kinetic": "spinning mass for fast frequency response",
+    "Thermal": "store heat cheaply for buildings, industry, power",
+    "Hydrogen & carriers": "turn power into molecules for weeks or seasons",
+    "Electrochemical": "batteries shifting grid power by the hour",
+    "Electrical": "instant power for seconds, endless cycles",
+    "Virtual & distributed": "software turning demand and EVs into storage"
+  },
   "facets": [
     {
       "id": "role",

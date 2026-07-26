@@ -135,6 +135,13 @@ function loadSheet(dir) {
     if (seen.has(x.n)) throw new Error(sheet.slug + ': duplicate entry number: ' + x.n);
     seen.add(x.n);
   }
+  if (sheet.groupBlurbs) {
+    const groups = new Set(entries.map(x => x.g));
+    for (const g of Object.keys(sheet.groupBlurbs))
+      if (!groups.has(g)) throw new Error(sheet.slug + ': groupBlurbs names unknown group "' + g + '"');
+    for (const g of groups)
+      if (!sheet.groupBlurbs[g]) throw new Error(sheet.slug + ': groupBlurbs missing group "' + g + '"');
+  }
   sheet.guide = fs.readFileSync(path.join(dir, 'guide.html'), 'utf8');
   const h2hPath = path.join(dir, 'h2h.html');
   sheet.h2h = fs.existsSync(h2hPath) ? fs.readFileSync(h2hPath, 'utf8') : null;
@@ -196,6 +203,7 @@ function composeBody(sheetData, artifact) {
 
   const clientSheet = {
     unit: sheet.unit, groupLabel: sheet.groupLabel, parts: sheet.parts,
+    groupBlurbs: sheet.groupBlurbs,
     facets: sheet.facets.map(f => {
       const cf = { id: f.id, label: f.label, type: f.type, color: f.color, order: f.order, options: f.options };
       if (f.tagPrefix) cf.tagPrefix = f.tagPrefix;
@@ -252,19 +260,41 @@ if (ARTIFACT_SLUG) {
     console.log('site/' + sheet.slug + '/index.html:', entries.length, 'entries,', html.length, 'bytes (+ data.json)');
   }
 
-  const cards = all.map(({ sheet, entries }) =>
+  const card = ({ sheet, entries }) =>
     '    <a class="sheetcard" href="' + sheet.slug + '/">' +
     '<span class="st" style="display:block">' + esc(sheet.shortTitle || sheet.docTitle) + '</span>' +
+    (sheet.question ? '<span class="sq" style="display:block">' + esc(sheet.question) + '</span>' : '') +
     '<span class="sd" style="display:block">' + esc(sheet.blurb || '') + '</span>' +
-    '<span class="sc" style="display:block">' + entries.length + ' ' + esc(sheet.unit[1]) + '</span></a>').join('\n');
+    '<span class="sc" style="display:block">' + entries.length + ' ' + esc(sheet.unit[1]) + '</span></a>';
+  // Sheets group into high-level categories (sheet.json "category"); categories
+  // appear in order of first appearance across the alphabetized sheet list.
+  const catOrder = [];
+  const byCat = new Map();
+  for (const s of all) {
+    const cat = s.sheet.category || 'Other';
+    if (!byCat.has(cat)) { byCat.set(cat, []); catOrder.push(cat); }
+    byCat.get(cat).push(s);
+  }
+  const sections = catOrder.map(cat =>
+    '<h2 class="cathdr">' + esc(cat) + '</h2>\n<div class="sheets">\n' +
+    byCat.get(cat).map(card).join('\n') + '\n</div>').join('\n');
+  const totalEntries = all.reduce((n, s) => n + s.entries.length, 0);
+  const LANDING_JS = fs.readFileSync(path.join(SHARED, 'landing.js'), 'utf8');
+  const lsheets = all.map(({ sheet }) => ({ slug: sheet.slug, title: sheet.shortTitle || sheet.docTitle }));
+  const gsearch =
+    '<div class="filters gsearch"><div class="frow"><label class="search">' +
+    '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.6 3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>' +
+    '<input id="gq" type="search" placeholder="Search all ' + totalEntries + ' entries across ' + all.length + ' sheets…" aria-label="Search all sheets"></label>' +
+    '<span class="rescount" id="gcount"></span></div></div>\n<div id="ghits" class="ghits" hidden></div>';
   const landing = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' + PREPAINT +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>Reference Sheets</title>\n<style>\n' + THEME + '</style>\n</head>\n<body>\n' +
     '<div class="wrap">\n<header class="site">\n<div class="hdr-top">\n' + logoFor('landing') + '</div>\n' +
     '<h1>Reference Sheets</h1>\n' +
     '<p class="lede">Practical, searchable references for deep-tech diligence and engineering decisions.</p>\n' +
-    '</header>\n<div class="sheets">\n' + cards + '\n</div>\n' +
-    '<footer class="site">&copy; ' + YEAR + ' HUMBA VENTURES</footer>\n</div>\n</body>\n</html>\n';
+    '</header>\n' + gsearch + '\n' + sections + '\n' +
+    '<footer class="site">&copy; ' + YEAR + ' HUMBA VENTURES</footer>\n</div>\n' +
+    '<script>\nconst LSHEETS = ' + JSON.stringify(lsheets) + ';\n' + LANDING_JS + '</script>\n</body>\n</html>\n';
   fs.writeFileSync(path.join(ROOT, 'site', 'index.html'), landing);
   console.log('site/index.html: landing page,', slugs.length, 'sheets');
 }

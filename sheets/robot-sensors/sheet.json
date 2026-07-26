@@ -3,6 +3,8 @@
   "docTitle": "Robot Sensors Reference",
   "shortTitle": "Robot Sensors",
   "blurb": "LiDAR, radar, cameras, IMUs, force-torque, tactile, encoders, and GNSS — compared on range, cost, compute burden, and how they fail.",
+  "category": "Robotics and Manufacturing",
+  "question": "How should this robot perceive the world?",
   "title": "Robot Sensors: A Practical Reference",
   "lede": "A robot is only as honest as its sensors, and every sensor lies in its own characteristic way. This guide catalogs {{N_ENTRIES}} sensing technologies across six classes — with range, cost, compute burden, and, for each one, the failure modes that actually bite in the field.",
   "unit": ["sensor type", "sensor types"],
@@ -17,13 +19,24 @@
     { "count": "groups", "label": "families" }
   ],
   "parts": [
-    { "id": 1, "roman": "I", "name": "LiDAR", "color": "var(--p1)" },
-    { "id": 2, "roman": "II", "name": "Radar & Acoustic", "color": "var(--p2)" },
-    { "id": 3, "roman": "III", "name": "Cameras", "color": "var(--p3)" },
-    { "id": 4, "roman": "IV", "name": "Inertial & Navigation", "color": "var(--p4)" },
-    { "id": 5, "roman": "V", "name": "Position & Motion Feedback", "color": "var(--p5)" },
-    { "id": 6, "roman": "VI", "name": "Force & Touch", "color": "var(--p6)" }
+    { "id": 1, "roman": "I", "name": "LiDAR", "blurb": "laser ranging for 3D structure and navigation", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Radar & Acoustic", "blurb": "see through dust, dark, and weather", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Cameras", "blurb": "dense visual detail for recognition and learning", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Inertial & Navigation", "blurb": "know where the robot is and how it moves", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Position & Motion Feedback", "blurb": "encoders closing every joint’s loop", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Force & Touch", "blurb": "feel contact, force, and slip", "color": "var(--p6)" }
   ],
+  "groupBlurbs": {
+    "Acoustic": "cheap short-range echoes for close obstacles",
+    "Cameras": "dense pixels for recognition, depth, and learning",
+    "Coherent LiDAR": "laser ranging with per-point velocity",
+    "Force & touch": "sense contact forces, pressure, and slip",
+    "Inertial": "track orientation and motion between fixes",
+    "Navigation": "absolute position fixes outdoors and in",
+    "Position feedback": "measure joint and axis motion for control loops",
+    "Radar": "velocity and range through fog, rain, and dust",
+    "Time-of-flight LiDAR": "pulse-timed 3D point clouds of surroundings"
+  },
   "facets": [
     {
       "id": "use",

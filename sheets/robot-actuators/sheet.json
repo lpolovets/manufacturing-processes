@@ -3,6 +3,8 @@
   "docTitle": "Robot Actuators Reference",
   "shortTitle": "Robot Actuators",
   "blurb": "Motors, gearing, fluid power, piezo, and artificial muscles — compared on torque density, backdrivability, precision, and cost.",
+  "category": "Robotics and Manufacturing",
+  "question": "What should move this robot?",
   "title": "Robot Actuators: A Practical Reference",
   "lede": "Every robot is a set of compromises made physical, and most of them are made at the actuator: torque density against backdrivability, precision against cost, force against compliance. This guide catalogs {{N_ENTRIES}} actuator and transmission technologies across seven classes, from brushed DC motors to artificial muscles.",
   "unit": ["actuator type", "actuator types"],
@@ -17,14 +19,23 @@
     { "count": "groups", "label": "families" }
   ],
   "parts": [
-    { "id": 1, "roman": "I", "name": "Electric Rotary Motors", "color": "var(--p1)" },
-    { "id": 2, "roman": "II", "name": "Transmissions & Gearing", "color": "var(--p2)" },
-    { "id": 3, "roman": "III", "name": "Actuator Architectures", "color": "var(--p3)" },
-    { "id": 4, "roman": "IV", "name": "Fluid Power", "color": "var(--p4)" },
-    { "id": 5, "roman": "V", "name": "Linear Electromagnetic", "color": "var(--p5)" },
-    { "id": 6, "roman": "VI", "name": "Micro & Precision", "color": "var(--p6)" },
-    { "id": 7, "roman": "VII", "name": "Soft & Artificial Muscle", "color": "var(--p7)" }
+    { "id": 1, "roman": "I", "name": "Electric Rotary Motors", "blurb": "the motors that spin robot joints", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Transmissions & Gearing", "blurb": "trade speed for torque with precision", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Actuator Architectures", "blurb": "integrated joint designs: QDD, SEA, direct drive", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Fluid Power", "blurb": "hydraulic and pneumatic muscle for brute force", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Linear Electromagnetic", "blurb": "straight-line motion without rotary conversion", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Micro & Precision", "blurb": "piezo and voice-coil for micron work", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Soft & Artificial Muscle", "blurb": "compliant actuation for delicate contact", "color": "var(--p7)" }
   ],
+  "groupBlurbs": {
+    "Electric rotary": "spinning torque that powers most robot joints",
+    "Transmissions": "gear motor speed down into usable joint torque",
+    "Architectures": "joint designs that manage impacts and compliance",
+    "Fluid power": "pressurized fluid for heavy loads and high force",
+    "Linear electromagnetic": "direct straight-line force with no gearing",
+    "Micro & precision": "tiny strokes with nanometer-level control",
+    "Artificial muscle": "soft materials that contract like living tissue"
+  },
   "facets": [
     {
       "id": "app",

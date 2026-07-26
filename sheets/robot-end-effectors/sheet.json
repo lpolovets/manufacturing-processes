@@ -3,6 +3,8 @@
   "docTitle": "Robot End Effectors Reference",
   "shortTitle": "Robot End Effectors",
   "blurb": "Grippers, hands, and process tools — parallel-jaw to vacuum, soft, jamming, and dexterous — compared on task fit, versatility, reliability, and cost.",
+  "category": "Robotics and Manufacturing",
+  "question": "How should this robot grasp and work?",
   "title": "Robot End Effectors: A Practical Reference",
   "lede": "The end effector is where a robot's capital finally touches its work, and it is chosen backwards: from the object and the task, not from the robot. This guide catalogs {{N_ENTRIES}} effector types across six classes — grippers, suction, soft and dexterous hands, and the process tools that do the actual work of industry.",
   "unit": ["effector type", "effector types"],
@@ -17,13 +19,21 @@
     { "count": "groups", "label": "families" }
   ],
   "parts": [
-    { "id": 1, "roman": "I", "name": "Mechanical Grippers", "color": "var(--p1)" },
-    { "id": 2, "roman": "II", "name": "Suction & Field", "color": "var(--p2)" },
-    { "id": 3, "roman": "III", "name": "Soft & Compliant", "color": "var(--p3)" },
-    { "id": 4, "roman": "IV", "name": "Dexterous Hands", "color": "var(--p4)" },
-    { "id": 5, "roman": "V", "name": "Process Tools", "color": "var(--p5)" },
-    { "id": 6, "roman": "VI", "name": "Infrastructure", "color": "var(--p6)" }
+    { "id": 1, "roman": "I", "name": "Mechanical Grippers", "blurb": "jaws and fingers for known, rigid parts", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Suction & Field", "blurb": "vacuum and magnets — grab by surface, not shape", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Soft & Compliant", "blurb": "gentle grasping of fragile, irregular objects", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Dexterous Hands", "blurb": "human-like manipulation, generality over cost", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Process Tools", "blurb": "tools that work, not grasp: weld, cut, drive", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Infrastructure", "blurb": "tool changers and sensing behind the gripper", "color": "var(--p6)" }
   ],
+  "groupBlurbs": {
+    "Mechanical grippers": "jaws and fingers for known, rigid parts",
+    "Suction & field": "vacuum and magnets that grab by surface, not shape",
+    "Soft & compliant": "gentle grasping of fragile, irregular objects",
+    "Dexterous hands": "human-like manipulation, generality over cost",
+    "Process tools": "tools that work the part: weld, cut, spray, fasten",
+    "Infrastructure": "tool changers and compliance behind the gripper"
+  },
   "facets": [
     {
       "id": "task",
