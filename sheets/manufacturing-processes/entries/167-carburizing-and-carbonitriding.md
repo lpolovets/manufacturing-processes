@@ -29,3 +29,7 @@ Gears, pins, camshafts, transmission components.
 - https://www.youtube.com/watch?v=pYQuqNFG2ro — Vacuum Carburizing and Heat treating (Mtvac, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=xf2U2d6Yoe8 — Carburizing Process | Gas Carburizing | Pack Carburizing | Liquid Carburizing… (Engineering Explained Wing, 3 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=fuHz9ERC8f8 — Carburizing process (TriboNet, 3 minutes, 1k+ views)
+
+## Further reading
+
+[Carburizing Process Guide (Xometry)](https://www.xometry.com/resources/materials/carburizing/) · [Case Hardening of Steel (tec-science)](https://www.tec-science.com/material-science/heat-treatment-steel/surface-hardening-case-hardening/)

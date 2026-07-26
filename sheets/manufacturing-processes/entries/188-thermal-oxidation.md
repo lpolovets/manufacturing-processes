@@ -29,3 +29,7 @@ Gate oxides, isolation layers, masks, passivation.
 - https://www.youtube.com/watch?v=8aBDsLOMWDY — Thermal Oxide Growth on Silicon Wafer - 500nm (Sam Zeloof, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=IuVNFI_jDys — EEE435 Furnace Oxidation (EEE435 Fundamentals of CMOS and MEMS, 6 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=Kt_z2mX5DfY — Dry Thermal Oxidation Process (Support Center for Microsystems Education, 2 minutes, 5k+ views)
+
+## Further reading
+
+[Deal-Grove Oxide Growth Calculator (BYU Cleanroom)](https://cleanroom.byu.edu/OxideTimeCalc) · [Micro/Nano Processing Technology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/6-152j-micro-nano-processing-technology-fall-2005/)

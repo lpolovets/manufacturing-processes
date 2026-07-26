@@ -27,3 +27,7 @@ u-blox F9P/X20 (the robotics default), Trimble and NovAtel in agriculture and su
 
 ## Economic profile
 Receiver silicon is commodity; the business moved to corrections-as-a-service (subscription networks) and tight GNSS-INS integration. For robotics diligence the axis is denial-tolerance: any outdoor autonomy plan is now judged by what happens when GNSS lies or vanishes — the sensor is assumed, its absence is the design case.
+
+## Further reading
+
+[What Is RTK? (Point One Navigation)](https://pointonenav.com/insights/what-is-rtk-real-time-kinematic/) · [RTK Fundamentals (ESA Navipedia)](https://gssc.esa.int/navipedia/index.php/RTK_Fundamentals)

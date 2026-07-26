@@ -27,3 +27,7 @@ Owns applications where precision-times-throughput justifies magnet money — se
 
 ## Suppliers
 [Tecnotion](https://www.tecnotion.com/) — iron-core and ironless linear motors · [ETEL](https://www.etel.ch/) — precision direct-drive systems for semiconductor stages
+
+## Further reading
+
+[What Are the Benefits of a Linear Motor? (Tecnotion)](https://www.tecnotion.com/faq/what-are-the-benefits-of-a-linear-motor/) · [Why Choose an Ironless Motor? (Tecnotion)](https://www.tecnotion.com/faq/why-choose-an-ironless-motor/)

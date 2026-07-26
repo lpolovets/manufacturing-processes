@@ -26,3 +26,7 @@ Honeywell HG9900 and Safran/iXblue fiber INS in defense platforms, iXblue Phins 
 
 ## Economic profile
 A defense-electronics oligopoly with stable, high margins and surging demand as GPS-denied operation moves from exotic to assumed (drones over contested territory). The disruption vectors — photonic-chip gyros and quantum interferometry — promise FOG performance at silicon prices and have promised it for a while; autonomous trucking's appetite for affordable 0.1°/hr parts is the commercial pull to watch.
+
+## Further reading
+
+[Inertial Navigation Primer (VectorNav)](https://www.vectornav.com/resources/inertial-navigation-primer) · [What Is Fiber-Optic Gyroscope Technology? (Exail)](https://www.exail.com/resources/knowledge-center/what-is-fiber-optic-gyroscope-technology)

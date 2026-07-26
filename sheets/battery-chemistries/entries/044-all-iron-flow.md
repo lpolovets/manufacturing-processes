@@ -24,3 +24,7 @@ ESS Inc. Energy Warehouse and Energy Center products (SB Energy and utility depl
 
 ## Economic profile
 The purest "cheapest possible molecule" thesis in storage. If engineering costs (stacks, pumps, controls) can be driven down with volume, iron flow undercuts everything on long-duration capacity cost; but the balance-of-plant, not the electrolyte, dominates system cost today — the same trap that caught earlier flow ventures.
+
+## Further reading
+
+[Aqueous Iron-Based Redox Flow Batteries for Large-Scale Storage (National Science Review via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12247816/) · [Iron Flow Chemistry (ESS Inc.)](https://essinc.com/iron-flow-chemistry/)

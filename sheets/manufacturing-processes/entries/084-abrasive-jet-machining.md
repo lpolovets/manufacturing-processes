@@ -29,3 +29,7 @@ Glass etching, ceramic trimming, micro-holes, deburring.
 - https://www.youtube.com/watch?v=VrlCH1FZSJM — ABRASIVE JET MACHINING (AJM): Working of an abrasive jet machining process… (ADTW Study, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=lUqGGvnavmM — How an Abrasive Jet Machining Works??? ||Engineer's Academy|| (Engineer's Academy, 7 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=VIb8lDNGWIs — Abrasive Jet Machining Process Working Animation video Explained with Setup… (Shubham Kola, 3 minutes, 10k+ views)
+
+## Further reading
+
+[Abrasive Jet Machining with MicroBlasting (Comco)](https://comcoinc.com/info/ajm/)

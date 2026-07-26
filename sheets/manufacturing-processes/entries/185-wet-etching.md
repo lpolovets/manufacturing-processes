@@ -29,3 +29,7 @@ Printed circuit boards, silicon bulk micromachining, glass channels, metal patte
 - https://www.youtube.com/watch?v=UKf0offCyw0 — Etch Processes for Microsystems - Part I (Support Center for Microsystems Education, 16 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=zkdQddMZSyM — The Etching Process (PhotofabricationEng, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=lGHN6nVTfPA — Wet Etching Explained: How It Really Works in a Chip Manufacturing (Exploring Science & Technology, 13 minutes, under 1k views)
+
+## Further reading
+
+[Wet-Chemical Etching of Silicon and SiO2 (MicroChemicals)](https://www.microchemicals.com/technical_information/silicon_etching.pdf) · [KOH Anisotropic Etch Rate Data (BYU Cleanroom)](https://cleanroom.byu.edu/KOH)

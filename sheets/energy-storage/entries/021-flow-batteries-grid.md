@@ -24,3 +24,7 @@ Dalian 100 MW/400 MWh VRFB and China's multi-GWh pipeline (Rongke, state grid te
 
 ## Economic profile
 The crossover argument in miniature: flow loses to lithium below ~6 hours and wins on paper above ~8–10 as tank costs dominate — if stack costs and O&M behave. Vanadium price volatility can swing system cost 30%; electrolyte leasing is the financial engineering that tames it. Bankability is arriving via Chinese fleet data rather than Western projects.
+
+## Further reading
+
+[Redox Flow Batteries, Energy Storage Handbook Ch. 6 (Sandia)](https://www.sandia.gov/app/uploads/sites/163/2022/03/ESHB_Ch6_RedoxFlow_Small.pdf) · [Flow Batteries Technology Strategy Assessment (DOE Storage Innovations 2030)](https://www.energy.gov/sites/default/files/2023-07/Technology%20Strategy%20Assessment%20-%20Flow%20Batteries.pdf)

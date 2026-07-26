@@ -29,3 +29,7 @@ CNC tool-wear monitoring, additive melt-pool monitoring, molding cavity pressure
 - https://www.youtube.com/watch?v=ItJT5AhdlSQ — Adaptive CNC Tool Monitoring System: Detect Wear and Breakage in Real-time (Caron Engineering, 3 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=VvgyFf16J0c — SLM® - Laser Power Monitoring and Melt Pool Monitoring (english) (Nikon SLM Solutions, 2 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=Jkz2Xndney0 — In situ X-ray imaging of defect and molten pool dynamics in laser additive… (ScienceVio, 2 minutes, 5k+ views)
+
+## Further reading
+
+[Cavity Pressure Monitoring in Injection Molding (Kistler)](https://www.kistler.com/INT/en/cavity-pressure/C00000099) · [Measurement Science for Real-Time Control of Powder Bed Fusion, NISTIR 8036 (NIST)](https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8036.pdf)

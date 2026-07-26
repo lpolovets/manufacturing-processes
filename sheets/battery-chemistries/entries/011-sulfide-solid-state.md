@@ -24,3 +24,7 @@ Toyota-Idemitsu pilot production, Samsung SDI pilot line cells, Solid Power (BMW
 
 ## Economic profile
 Electrolyte precursor Li2S currently costs orders of magnitude more per kg than liquid electrolyte, and moisture-free factories add capex; the roadmap depends on Li2S synthesis scaling. If energy density and safety claims hold at automotive scale, the prize is the premium EV segment first — but every year of delay is a year of incumbent Li-ion cost decline.
+
+## Further reading
+
+[Solid-State Batteries: Technology of the 2030s, Research Challenge of the 2020s (Faraday Institution)](https://www.faraday.ac.uk/insights/insight-5-solid-state-batteries/) · [Structural Engineering of Sulfide-Based Solid Electrolytes (Energy Materials)](https://www.oaepublish.com/articles/energymater.2024.219)

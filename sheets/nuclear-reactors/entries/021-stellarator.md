@@ -22,3 +22,7 @@ Wendelstein 7-X (Greifswald — record stellarator triple products and 8-minute 
 
 ## Economic profile
 The thesis: tokamaks win the race to Q>1, stellarators win the race to a power plant that runs all year. Modern optimization plus HTS magnets could leapfrog a machine generation. Private funding is an order of magnitude below the tokamak camp's, making stellarators the value bet in fusion portfolios — long odds on timing, strong odds that the physics choice is right for the endgame.
+
+## Further reading
+
+[Wendelstein 7-X (Max Planck Institute for Plasma Physics)](https://www.ipp.mpg.de/w7x) · [Stellarator Research Opportunities (National Stellarator Coordinating Committee, via DOE OSTI)](https://www.osti.gov/servlets/purl/1414416)

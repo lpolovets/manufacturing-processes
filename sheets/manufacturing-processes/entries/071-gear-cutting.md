@@ -43,3 +43,7 @@ Transmission gears, ring gears, splines, sprockets.
 - https://www.youtube.com/watch?v=J1UOjBLo-2M — Gear Shaping and Hobbing (SOUMEN SIR, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=vGPuDHCybx4 — Gear Hobbing Process | Animation Video (MT Academy English, 1 minute, 100k+ views)
 - https://www.youtube.com/watch?v=kWurSpeVwu4 — Hobbing a Spur Gear & Pinion (Evolvent Design, 10 minutes, 10k+ views)
+
+## Further reading
+
+[Gear Knowledge and Technical Reference (KHK Gears)](https://khkgears.net/new/gear_knowledge/)

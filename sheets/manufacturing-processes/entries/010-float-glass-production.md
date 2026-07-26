@@ -33,3 +33,7 @@ Enormous continuous-process capex; high furnace-utilization dependence.
 - https://www.youtube.com/watch?v=ig4G5WbOMLc — Pilkington Float Glass Process (Pilkington North America, Inc., 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=1HDWJgFLCfA — Saint-Gobain Glass - Float Process (Saint-Gobain, 11 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=e1hIEsDMpZQ — How Float Glass is Made | This Old House (This Old House, 7 minutes, 100k+ views)
+
+## Further reading
+
+[The Float Process Step by Step (Pilkington)](https://www.pilkington.com/en/global/knowledge-base/glass-technology/the-float-process/the-float-process-step-by-step)

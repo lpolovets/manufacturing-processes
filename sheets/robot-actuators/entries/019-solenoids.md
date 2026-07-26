@@ -27,3 +27,7 @@ A fully mature commodity measured in cents to dollars, with no robotics story of
 
 ## Suppliers
 [TLX Technologies](https://www.tlxtech.com/) — custom solenoids and electromagnetic actuators · [Johnson Electric](https://www.johnsonelectric.com/) — motors and solenoids by the hundred million
+
+## Further reading
+
+[How to Select a Linear Solenoid (Geeplus)](https://www.geeplus.com/selecting-a-linear-solenoid/) · [Shaping the Solenoid Force Curve (TLX Technologies)](https://www.tlxtech.com/articles/shaping-the-solenoid-force-curve)

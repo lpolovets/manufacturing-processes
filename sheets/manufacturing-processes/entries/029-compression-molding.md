@@ -29,3 +29,7 @@ Electrical housings, rubber seals, composite panels, melamine products.
 - https://www.youtube.com/watch?v=pOGpXZ-UMfo — Compression Molding (Engineering Chemistry, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=tqp3DhJACdg — The Silicone Rubber Compression Molding Process Explained (Sofeast, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=FvzhutJ1H80 — Compression Moulding Process - A Detailed explanation. (James Sword Engineering, 6 minutes, 10k+ views)
+
+## Further reading
+
+[Compression Molding: Process, Materials, and Applications (Xometry)](https://www.xometry.com/resources/injection-molding/compression-molding/) · [SMC and BMC Thermoset Composites Technology (IDI Composites)](https://www.idicomposites.com/smc-bmc-technology.php)

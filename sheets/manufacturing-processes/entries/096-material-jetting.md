@@ -29,3 +29,7 @@ Anatomical models, realistic prototypes, casting patterns.
 - https://www.youtube.com/watch?v=U7X817JESWY — Exploring Material Jetting: A Category of Additive Manufacturing (LynxE - Your New Learning Experience, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=_VcJfe-Dm0c — Basic Intro To Material Jetting: Multimaterial Printing at its finest (Wes Tullos, 7 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=2JkoR3iK7_k — Spraying Resin to Build Objects? Understand Material Jetting 3D Printing | 3D… (3Dnatives, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Introduction to Material Jetting 3D Printing (Hubs)](https://www.hubs.com/knowledge-base/introduction-material-jetting-3d-printing/) · [Material Jetting (Loughborough AMRG)](https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/materialjetting/)

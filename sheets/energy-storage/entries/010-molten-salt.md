@@ -24,3 +24,7 @@ Every salt-storage CSP tower and trough: Noor III (Morocco), Cerro Dominador (Ch
 
 ## Economic profile
 For electricity arbitrage the 40% steam-cycle round trip is usually fatal against batteries. The living market is heat: charged with cheap surplus power, salt tanks deliver industrial steam at costs gas struggles to match when carbon is priced — the pivot most salt ventures have now made.
+
+## Further reading
+
+[Thermal Storage System CSP Basics (DOE Solar Energy Technologies Office)](https://www.energy.gov/eere/solar/thermal-storage-system-concentrating-solar-thermal-power-basics) · [ESGC Cost & Performance: Thermal Energy Storage (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/thermal)

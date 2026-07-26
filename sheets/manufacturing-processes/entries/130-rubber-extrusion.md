@@ -29,3 +29,7 @@ Weather seals, hose, tubing, tire tread, gaskets.
 - https://www.youtube.com/watch?v=3iU2MfWRLR8 — Rubber Extrusion Process Video (Inspiredge India, 4 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=v90r0H82xWw — The Silicone Rubber Extrusion Process Explained (Sofeast, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=AS5KU5YGchA — Rubber Extrusions - How They're Made and Why | Minor Rubber Company |… (Part Gurus, 6 minutes, 10k+ views)
+
+## Further reading
+
+[Rubber Extrusion Process and Materials Overview (IQS Directory)](https://www.iqsdirectory.com/articles/rubber-extrusion.html) · [RMA Extrusion Tolerance Tables (ELBEX)](https://www.elbex-us.com/silicone-rubber-extrusion-tolerances)

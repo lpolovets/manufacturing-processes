@@ -29,3 +29,7 @@ Springs, gears, turbine blades, landing gear.
 - https://www.youtube.com/watch?v=GFDD5dNvWOQ — Why Is Shot Peening So Important? (CamcraftInc, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=c_PcTzUWmgw — What Is Shot Peening and What Is It Used For? (Vapor Honing Technologies, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=hlQxsGWDEhE — Curtiss-Wright Surface Technologies: Controlled Shot Peening Animation (Curtiss-Wright Surface Technologies, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Shot Peening Overview (Electronics Inc. / shotpeener.com)](https://www.shotpeener.com/library/pdf/2001012.pdf) · [Shot peening technical library (The Shot Peener)](https://www.shotpeener.com/library/)

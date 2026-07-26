@@ -24,3 +24,7 @@ QuantumScape's design is anode-free; academic and national-lab programs (Battery
 
 ## Economic profile
 If the efficiency problem falls, anode-free wins on both density and cost — an entire electrode's materials and processing disappear. Until then it is a research architecture whose economics are hypothetical; watch electrolyte innovations, since they, not the architecture, gate viability.
+
+## Further reading
+
+[Anode-Free Lithium-Metal Batteries: Progress and Perspective (Exploration via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11022618/)

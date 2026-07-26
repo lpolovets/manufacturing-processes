@@ -29,3 +29,7 @@ Electronics, molded plastic, additive parts, stamped components, optics.
 - https://www.youtube.com/watch?v=F1eWql_sVHE — What is Structured-Light 3D Scanning? (Holocreators GmbH, 4 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=k6z2gSmc_ww — How it Works: GOM ATOS Q 3D Scanner (TriMech, 10 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=P2PHFePETFA — ATOS Q - Our Favorite Professional Portable 3D Scanner (ZEISS Industrial Quality Solutions USA, 5 minutes, 5k+ views)
+
+## Further reading
+
+[Measurement System Selection Library (Keyence)](https://www.keyence.com/ss/products/measure-sys/measurement-selection/) · [Optical Testing Course Notes, OPTI 513 (University of Arizona)](https://wp.optics.arizona.edu/jcwyant/courses/opti-513-optical-testing/)

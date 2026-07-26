@@ -27,3 +27,7 @@ ATI (the industrial standard, now Novanta), Robotiq FT-300, Bota Systems and Wac
 
 ## Economic profile
 A profitable niche being squeezed from two directions: integrated joint-torque sensing (every cobot now ships some version) and current-based sensorless estimation (free but crude). New entrants (Bota, Chinese vendors) have pulled entry prices under $1k. The bull case is humanoids doing contact-rich work — potentially two wrists' worth per robot at volume pricing; the bear case is "good enough" proprioception eating the mid-market.
+
+## Further reading
+
+[How Force/Torque Sensors Are Enhancing Automation (ATI Industrial Automation)](https://ati.novanta.com/how-force-torque-sensors-are-enhancing-automation/) · [What Is a Force Torque Sensor? (Bota Systems)](https://botasys.com/post/force-torque-sensor/)

@@ -24,3 +24,7 @@ Magswitch and SPD/Assfalg electropermanent units on sheet-metal press lines, las
 
 ## Economic profile
 A solid niche ($1–8k) riding sheet-metal automation growth, with electropermanent technology having displaced always-on electromagnets for safety and energy reasons. Bounded by ferrous physics, it will never generalize — and never needs to: in fab shops it is the obvious answer, and obvious answers with switching-cost-free reliability make excellent, quiet businesses.
+
+## Further reading
+
+[Electronic Magnetic Grippers for End-of-Arm Tooling (Goudsmit Magnetics)](https://www.goudsmitmagnetics.com/en-us/products/gripping-handling-and-moving/electronic-magnetic-grippers) · [How Switchable Permanent Magnets Work (K&J Magnetics)](https://www.kjmagnetics.com/blog/magswitch)

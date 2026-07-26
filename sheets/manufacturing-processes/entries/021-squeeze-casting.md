@@ -28,3 +28,7 @@ Pistons, wheels, suspension components, aerospace aluminum parts.
 
 - https://www.youtube.com/watch?v=30FnDaNL_JM — Squeeze casting: working process animation (Engg Concepts, 8 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=rr-gfYIG5qQ — Beginner's guide to squeeze die casting (Sunrise Metal, 6 minutes, 1k+ views)
+
+## Further reading
+
+[Squeeze Casting: How It Works and Advantages (Xometry)](https://www.xometry.com/resources/casting/squeeze-casting/) · [Squeeze Casting Process: Part One (Total Materia)](https://www.totalmateria.com/en-us/articles/squeeze-casting-process-1/)

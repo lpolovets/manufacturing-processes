@@ -29,3 +29,7 @@ Laminated models, embedded-sensor structures, tooling.
 - https://www.youtube.com/watch?v=m0b3WIS2nqw — Laminated Object Manufacturing(LOM) (LEARN AND GROW, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=GUvnz0borAI — Laminated Object Manufacturing (Institut für Kunststofftechnik, Universität Stuttgart, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=GGrp-uOopjI — Sheet Lamination 3D Printing: An Additive Manufacturing Process Explained (LynxE - Your New Learning Experience, 5 minutes, 10k+ views)
+
+## Further reading
+
+[Sheet Lamination: LOM and Ultrasonic AM (Loughborough AMRG)](https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/) · [What Is Ultrasonic Additive Manufacturing? (Fabrisonic)](https://fabrisonic.com/technology/)

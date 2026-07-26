@@ -29,3 +29,7 @@ Large gears, rollers, machine ways.
 - https://www.youtube.com/watch?v=qGKiXz1I1-8 — Principle Of Flame Hardening (LEARN AND GROW, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=unreucBhlcw — Flame Hardening (markserbu, 7 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=RL338wkBqc8 — Surface hardening of steel | flame, induction, laser beam, case hardening and… (tec-science, 13 minutes, 5k+ views)
+
+## Further reading
+
+[Flame Hardening of Steels, ASM Handbook Vol. 4A (ASM International)](https://dl.asminternational.org/handbooks/edited-volume/18/chapter-abstract/279252/Flame-Hardening-of-Steels-1)

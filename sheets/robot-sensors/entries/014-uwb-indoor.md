@@ -27,3 +27,7 @@ Qorvo/Decawave DW3000 modules (the standard), Apple AirTag's finding network, wa
 
 ## Economic profile
 Phone and car-key volume made chips a $5 part; the business is systems and installation, which caps margins and scale. Strategically it is the pragmatic bridge: teams ship reliable autonomy with anchors now, then remove them as SLAM matures — a sequencing worth respecting in any warehouse-robotics diligence.
+
+## Further reading
+
+[How UWB Works (FiRa Consortium)](https://www.firaconsortium.org/discover/how-uwb-works) · [UWB TDOA Indoor Localization: From Sensor Placement to System Evaluation (arXiv)](https://arxiv.org/abs/2412.12427)

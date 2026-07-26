@@ -29,3 +29,7 @@ Ceramic tubes, refractory parts, powder billets, grinding wheels.
 - https://www.youtube.com/watch?v=77fu_aiEJkM — Cold Isostatic Pressing.mpg (Mark Thomason, 7 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=XHwKlXA6U6A — Quintus Technologies Cold Isostatic Pressing (CIP) Technology (Quintus Technologies, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=-olGihYYv28 — Morgan Process Animations - Isostatic Pressing (MorganAdvancedMaterials, 1 minute, 10k+ views)
+
+## Further reading
+
+[Cold Isostatic Pressing: Systems and Applications (Quintus Technologies)](https://quintustechnologies.com/cold-isostatic-pressing/) · [Powder Metallurgy Consolidation Processes (PickPM, MPIF)](https://www.pickpm.com/DesignCenter/ConsolidationProcesses.aspx)

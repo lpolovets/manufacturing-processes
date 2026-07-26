@@ -23,3 +23,7 @@ VVER-1200s operating at Novovoronezh and Leningrad; export builds at Akkuyu (Tur
 
 ## Economic profile
 Quoted export prices of ~$5–6k/kW with state financing at concessional rates — a package Western vendors structurally cannot match. Rosatom's real product is geopolitical lock-in: 60-year relationships covering fuel, service, and spent-fuel return. For market analysis, the VVER is the pricing floor and diplomatic competitor every Western SMR export campaign is actually fighting.
+
+## Further reading
+
+[Nuclear Power in Russia (World Nuclear Association)](https://world-nuclear.org/information-library/country-profiles/countries-o-s/russia-nuclear-power) · [VVER Working Group Design Comparison Report (OECD-NEA MDEP)](https://www.oecd-nea.org/mdep/documents/TR06VVER-1000_comparison_report_FINAL.pdf)

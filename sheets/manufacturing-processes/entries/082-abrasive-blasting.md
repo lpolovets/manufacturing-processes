@@ -29,3 +29,7 @@ Castings, structural steel, automotive bodies, refurbished machinery.
 - https://www.youtube.com/watch?v=o_JgatQW3oE — Shot Blasting Animation (blastracvideos, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=E9qK__LR4XY — Shot Blasting machine and How it works in industry (Grasp Engineering, 13 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=7FzRRSf7gBY — Introduction to Sandblasting & Bead Blasting (James Thurman, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Abrasive Blasting Guidebook (Clemco International)](https://www.clemco-international.com/en/guidebook)

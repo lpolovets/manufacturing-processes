@@ -29,3 +29,7 @@ Titanium aerospace panels, ducts, lightweight shells.
 - https://www.youtube.com/watch?v=Zi7Xqlp0M-0 — Hot Forming & Superplastic Forming Machines (Aries Alliance, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=xXt9I53ZRfE — Hydropress Hot Forming and SuperPlastic Forming Press for Isothermal Stamping… (Hydroexpert, 5 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=KZET_sLHiao — 75 Ton Hot Forming / SPF Press (Beckwood Press, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Superplastic Forming 101 (Macrodyne)](https://macrodynepress.com/superplastic-forming-101/) · [A Review on Superplastic Forming of Ti-6Al-4V Alloy (arXiv)](https://arxiv.org/abs/1909.05011)

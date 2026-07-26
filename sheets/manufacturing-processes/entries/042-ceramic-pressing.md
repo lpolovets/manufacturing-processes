@@ -29,3 +29,7 @@ Tiles, cutting inserts, electronic substrates, insulators, wear parts.
 - https://www.youtube.com/watch?v=8AGvi9javMo — Isostatic press operation demonstration (KinTek Solution For Research, 4 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=O8zsPGPnkWM — Ceramic Processing L6-15 Isostatic pressing (Zhe Cheng (成哲), 3 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=NXmMPeYUb50 — 🔍Exploring the Pros and Cons of Ceramic Cold Isostatic Pressing (csceramic co.,ltd, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Uniaxial and Isostatic Pressing (Fraunhofer IKTS)](https://www.ikts.fraunhofer.de/en/departments/structural_ceramics/processes_and_components/shaping/uniaxial_isostatic_pressing.html) · [Technical Ceramics Handbook (CeramTec)](https://www.ceramtec-group.com/fileadmin/user_upload/Corporate/11_Downloads/ca_manual_technical_ceramics.pdf)

@@ -39,3 +39,7 @@ Automotive body assembly, sheet-metal containers, appliances.
 - https://www.youtube.com/watch?v=AwL1CAg43PU — Resistance Spot Welding - How It Works (Pro Spot International, 8 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=QDayHY-1obg — Resistance welding process | Spot welding and Seam welding process (ADTW Study, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=66-RK0DPXfU — Introduction to Resistance Welding-Animated "EZ to learn" -… (mrmikekoper.wordpress, 3 minutes, 100k+ views)
+
+## Further reading
+
+[Resistance Welding Fundamentals Learning Center (AMADA WELD TECH)](https://amadaweldtech.com/resistance-welding/) · [What Is Spot Welding? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/what-is-spot-welding)

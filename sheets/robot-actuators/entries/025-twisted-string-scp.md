@@ -27,3 +27,7 @@ TSA is an underrated engineering trick with real product wins available today in
 
 ## Suppliers
 [Allonic](https://allonic.co/) — braided/twisted-fiber muscle actuators
+
+## Further reading
+
+[New Twist on Artificial Muscles (PNAS via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5081609/) · [Data-Driven Twisted String Actuation for Dexterous Hands (Biomimetics via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12467424/)

@@ -29,3 +29,7 @@ Turbine blades, aerospace brackets, surgical implants, impellers, jewelry.
 - https://www.youtube.com/watch?v=GWVli5iY8BI — How It's Made: lost wax casting (Got All Your Marbles?, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=iA9BrFaQCmw — Making a ring by lost wax casting (Vintage Jewelers & Gifts, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=3pO1pjjRKXA — Industrial investment casting, wax to finished part (Barron Industries, 8 minutes, 50k+ views)
+
+## Further reading
+
+[Investment Casting: How It Works and Advantages (Xometry)](https://www.xometry.com/resources/casting/investment-casting/) · [Introduction to Investment Casting (Investment Casting Institute)](https://www.investmentcasting.org/what-is.html)

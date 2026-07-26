@@ -29,3 +29,7 @@ Printed circuit boards, plumbing fittings, electrical terminals.
 - https://www.youtube.com/watch?v=Qps9woUGkvI — Soldering Tutorial for Beginners: Five Easy Steps (oneTesla, 4 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=6rmErwU5E-k — Soldering Crash Course: Basic Techniques, Tips and Advice! (wermy, 16 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=57-HK3sAuZE — How Does Solder Work? Understanding Soldering (The Brass and Woodwind Shop, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Guide to Excellent Soldering (Adafruit)](https://learn.adafruit.com/adafruit-guide-excellent-soldering)

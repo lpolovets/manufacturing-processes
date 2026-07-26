@@ -33,3 +33,7 @@ Low-to-moderate tooling; attractive for prototypes through medium volume.
 - https://www.youtube.com/watch?v=pwaXCko_Tkw — Sand casting process explained (SHArP Edge Global, 3 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=PJ84dG-1Vzc — Aluminum sand casting at home (Heinrichs Made, 9 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=XkJHMEulEds — Inside a foundry: sand, gravity die, and high-pressure casting (Engineered DAILY TV, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Sand Casting: How It Works, Advantages, and Disadvantages (Xometry)](https://www.xometry.com/resources/casting/sand-casting/) · [What Is Sand Casting and How Does It Work? (MetalTek)](https://www.metaltek.com/blog/what-is-sand-casting/)

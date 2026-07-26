@@ -27,3 +27,7 @@ Intel RealSense D400 series (the research default, surviving Intel's wind-down s
 
 ## Economic profile
 $200–500 modules made stereo the default lab and startup depth sensor. Its commercial position is squeezed from two sides — ToF modules underneath (cheaper, better indoors, phone volume) and learned monocular depth above (free with the camera you already have) — but sunlight performance and metric reliability keep stereo the outdoor workhorse. Skydio-class results show how far the modality stretches with enough software.
+
+## Further reading
+
+[Tuning Depth Cameras for Best Performance (RealSense)](https://dev.realsenseai.com/docs/tuning-depth-cameras-for-best-performance) · [Intel RealSense Stereoscopic Depth Cameras (arXiv)](https://arxiv.org/abs/1705.05548)

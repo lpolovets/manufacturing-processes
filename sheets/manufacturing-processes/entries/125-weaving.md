@@ -29,3 +29,7 @@ Clothing, upholstery, industrial belts, composite reinforcement.
 - https://www.youtube.com/watch?v=fIwEb-DpuRg — How does a loom work (RNR Woven Treasures, 10 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=OodL3DB7jIg — How Air jet Loom Work - Working Principle of Air Jet Weaving Machine (Textile Vlog, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=LUl1lcpmiSA — What is a weaving loom and how does it work? (NC MuseumofHistory, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Weaving Basics (CottonWorks, Cotton Incorporated)](https://cottonworks.com/learning-hub/weaving/weaving-basics/) · [Weaving Technologies and Structures lecture (Australian Wool Education Trust)](https://www.woolwise.com/wp-content/uploads/2017/07/Wool-482-582-08-T-18.pdf)

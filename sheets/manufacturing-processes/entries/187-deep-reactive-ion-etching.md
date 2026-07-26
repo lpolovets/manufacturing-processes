@@ -28,3 +28,7 @@ MEMS sensors, microphones, through-silicon vias.
 
 - https://www.youtube.com/watch?v=QrtyFrndPIA — Deep Reactive Ion Etching system - PlasmaPro 100 Estrelas - Oxford Instruments (Oxford Instruments, 2 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=es_L5_ZCPfA — ECT 362|EC465MEMS|Module 5| Deep Reactive Ion Etching(DRIE) (sifna shajahan, 6 minutes, 5k+ views)
+
+## Further reading
+
+[DRIE and the Bosch Process (Oxford Instruments)](https://plasma.oxinst.com/technology/deep-reactive-ion-etching) · [Bosch and Cryo ICP-RIE for Silicon (Caltech KNI Lab)](https://lab.kni.caltech.edu/DRIE:_Bosch_&_Cryo_ICP-RIE_for_Silicon)

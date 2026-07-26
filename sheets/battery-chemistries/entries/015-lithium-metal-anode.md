@@ -24,3 +24,7 @@ Sion Power Licerion, SES AI hybrid-electrolyte automotive samples; ultralight ce
 
 ## Economic profile
 Sells today into aerospace and defense niches where Wh/kg is priced in thousands of dollars and 100–300 cycles suffice. Automotive relevance depends on either solid electrolytes or electrolyte breakthroughs extending life 5–10×. Thin, wide lithium foil production (extrusion/evaporation) is itself an investable chokepoint.
+
+## Further reading
+
+[Battery500 Consortium: 500 Wh/kg Lithium-Metal Cells (PNNL)](https://www.pnnl.gov/innovation-center-battery500-consortium) · [Progress and Status of Battery500 Phase II (DOE Vehicle Technologies Office)](https://www1.eere.energy.gov/vehiclesandfuels/downloads/2023_AMR/bat317_liu_2023_o%20-%20jun%20liu.pdf)

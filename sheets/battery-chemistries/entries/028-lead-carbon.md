@@ -24,3 +24,7 @@ Ecoult/East Penn UltraBattery (hybrid rail and wind-smoothing projects), Narada 
 
 ## Economic profile
 The lead industry's best counterpunch at stationary storage: familiar suppliers, bankable recycling value, no fire-code friction. Viable where capital cost, safety codes, or recycling infrastructure outweigh footprint — but the window narrows every year LFP gets cheaper.
+
+## Further reading
+
+[BU-202: New Lead Acid Systems (Battery University)](https://www.batteryuniversity.com/article/bu-202-new-lead-acid-systems) · [Lead-Acid Batteries and Advanced Lead-Carbon Batteries (Sandia National Laboratories)](https://www.osti.gov/biblio/1502636)

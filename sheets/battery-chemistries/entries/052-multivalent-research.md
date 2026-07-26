@@ -23,3 +23,7 @@ Toyota Research and academic magnesium programs (a field launched by the 2000 Au
 
 ## Economic profile
 Long-horizon science with venture activity mostly at the materials-discovery layer. The honest framing for diligence: every multivalent pitch must name its working cathode and electrolyte pair, because the anode was never the hard part.
+
+## Further reading
+
+[Current Status and Future Directions of Multivalent Metal-Ion Batteries (Nature Energy)](https://www.nature.com/articles/s41560-020-0655-0) · [Multivalent Battery Materials Design and Discovery (Ceder Group, UC Berkeley/LBL)](https://ceder.berkeley.edu/research-areas/multivalent-battery-materials-design-and-discovery/)

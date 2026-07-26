@@ -33,3 +33,7 @@ Darlington's four-unit BWRX-300 program (first concrete 2025), Linglong One near
 
 ## Economic profile
 Vendors pitch $4–6k/kW at NOAK; honest FOAK expectations are $8–15k. The theory only closes if one design wins enough repeat orders to ride a manufacturing learning curve — which is why order-book concentration (Ontario + TVA + Poland on BWRX-300) matters more than design elegance. Data-center power purchase agreements at premium prices are the demand shock that may finally fund the first fleet.
+
+## Further reading
+
+[The NEA Small Modular Reactor Dashboard, Third Edition (OECD-NEA)](https://www.oecd-nea.org/jcms/pl_108326/the-nea-small-modular-reactor-dashboard-third-edition) · [Small Nuclear Power Reactors (World Nuclear Association)](https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors)

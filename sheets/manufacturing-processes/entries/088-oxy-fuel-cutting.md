@@ -29,3 +29,7 @@ Structural fabrication, demolition, shipbuilding, heavy plate.
 - https://www.youtube.com/watch?v=FiiPGL0TTPg — Oxy-fuel cutting | Gas Cutting process working principle (Mechanical 20hz, 6 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=Mja-pQd2ID0 — Oxy-Fuel Cutting (WeldFever, 15 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=1Qv_Xqxt32o — Oxy-Fuel Cutting: What Metals Work & What to Avoid (Weld.com, 14 minutes, 10k+ views)
+
+## Further reading
+
+[Oxyfuel Cutting: Process and Fuel Gases (TWI)](https://www.twi-global.com/technical-knowledge/job-knowledge/oxyfuel-cutting-process-and-fuel-gases-049)

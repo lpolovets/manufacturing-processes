@@ -29,3 +29,7 @@ Dowel holes, precision bushings, valve guides, bearing bores.
 - https://www.youtube.com/watch?v=5XtL5Nk3GIY — How Reamers Work - Haas Automation Tip of the Day (Haas Automation, Inc., 10 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=DuewffX4eDo — Introduction to Reaming (Design Innovation Lab @ ECB, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=V9jFWDxC70A — Reamer Basics (Stuart de Haro, 6 minutes, 100k+ views)
+
+## Further reading
+
+[Reaming Knowledge (Sandvik Coromant)](https://www.sandvik.coromant.com/en-gb/knowledge/reaming)

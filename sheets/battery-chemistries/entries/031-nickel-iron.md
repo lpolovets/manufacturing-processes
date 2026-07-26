@@ -24,3 +24,7 @@ Off-grid homesteads prizing lifetime over efficiency (Iron Edison-style supplier
 
 ## Economic profile
 A cottage industry serving buyers who value 30-year life and repairability over everything else. Poor efficiency makes it uneconomic wherever electricity has meaningful cost. Its iron-electrode science, however, underpins the venture-scale iron-air storage wave — the old chemistry's redemption arc.
+
+## Further reading
+
+[A High-Performance Sintered Iron Electrode for Rechargeable Alkaline Batteries (Journal of The Electrochemical Society, open access)](https://iopscience.iop.org/article/10.1149/2.1161702jes)

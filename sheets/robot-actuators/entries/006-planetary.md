@@ -27,3 +27,7 @@ Fully industrialized with a steep quality-price ladder: $10 hobby gearheads to $
 
 ## Suppliers
 [Neugart](https://www.neugart.com/) — precision planetary gearheads · [WITTENSTEIN](https://www.wittenstein.de/) — low-backlash servo planetaries
+
+## Further reading
+
+[Epicyclic Gearing Explained (Neugart)](https://www.neugart.com/en/wiki/epicyclic-gearing) · [Gear Technical Reference (KHK Gears)](https://khkgears.net/new/gear_knowledge/gear_technical_reference/)

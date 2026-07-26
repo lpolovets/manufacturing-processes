@@ -23,3 +23,7 @@ CR2032 coin cells everywhere (key fobs, motherboards, sensors, tags — Panasoni
 
 ## Economic profile
 Commodity manufacturing with brand-stable pricing and gigantic unit volumes; growth tracks the proliferation of small connected devices. AirTag-style trackers alone move hundreds of millions of coin cells. Little strategic tension — diversified supply, cheap materials — which is precisely why it's the default.
+
+## Further reading
+
+[Lithium Batteries Technical Handbook: Overview (Panasonic)](https://industrial.panasonic.com/cdbs/www-data/pdf/AAA4000/AAA4000COL15.pdf) · [Choices of Primary Batteries (Battery University)](https://batteryuniversity.com/article/bu-106a-choices-of-primary-batteries)

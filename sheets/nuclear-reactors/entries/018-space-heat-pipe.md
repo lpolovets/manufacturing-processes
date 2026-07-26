@@ -22,3 +22,7 @@ KRUSTY (1 kWe ground demo), Fission Surface Power program (40 kWe-class lunar un
 
 ## Economic profile
 A government program market, not a commercial one — but strategically load-bearing: heat-pipe cores, refractory fuels, and compact shielding developed for space flow directly into terrestrial microreactors (eVinci is Kilopower's industrial cousin). For investors the exposure is via component and fuel suppliers rather than missions; for nations it's Artemis-era prestige infrastructure.
+
+## Further reading
+
+[KRUSTY Nuclear Ground Test Results and Lessons Learned (NASA NTRS)](https://ntrs.nasa.gov/citations/20180007389) · [Fission Surface Power Project (NASA Glenn)](https://www.nasa.gov/centers-and-facilities/glenn/nasas-fission-surface-power-project-energizes-lunar-exploration)

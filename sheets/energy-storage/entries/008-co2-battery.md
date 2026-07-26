@@ -24,3 +24,7 @@ Energy Dome: Sardinia 2.5 MW pilot, the 20 MW/200 MWh Ottana commercial plant, a
 
 ## Economic profile
 Positions between Li-ion and cavern systems: mid-hundreds $/kWh FOAK falling toward $100–200 at scale, aimed at 8–10 hour daily cycling where lithium augmentation costs bite. The commodity-equipment supply chain is the strongest part of the story; the open question is whether a thermodynamics startup can out-execute battery container economics before lithium reaches 10 hours.
+
+## Further reading
+
+[CO2 Battery Technology (Energy Dome)](https://energydome.com/co2-battery/) · [Cost Benchmarking for Long Duration Energy Storage Solutions (LDES Council)](https://ldescouncil.com/cost-benchmarking-for-long-duration-energy-storage-solutions/)

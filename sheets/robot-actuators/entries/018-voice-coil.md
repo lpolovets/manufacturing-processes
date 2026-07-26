@@ -27,3 +27,7 @@ Two economic worlds: consumer-electronics voice coils stamped out for cents at p
 
 ## Suppliers
 [H2W Technologies](https://www.h2wtech.com/) — voice coil and linear actuator specialist · [Akribis](https://www.akribis-sys.com/) — voice coils and precision stages
+
+## Further reading
+
+[What Is a Voice Coil Actuator? (H2W Technologies)](https://www.h2wtech.com/blog/what-is-a-voice-coil-actuator)

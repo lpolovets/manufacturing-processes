@@ -29,3 +29,7 @@ Bottles, laboratory glassware, lighting globes, vessels.
 - https://www.youtube.com/watch?v=EkDhkDMck7o — How Glass is Made in Factories | HOW IT'S MADE (How It's Made, 9 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=GCtqKRXoTnU — Making a Handblown Glass Bottle, Full Glassblowing Demonstrations (GlassGoof, 18 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=Cf4hmktnSMo — From Grit to Glass - How Glass Bottles Are Made (O.BerkCompany, 2 minutes, 100k+ views)
+
+## Further reading
+
+[Glass Processing Course Lecture Library (Lehigh IMI-NFG)](https://www.lehigh.edu/imi/teched/GlassProcess/GlassProcess.html)

@@ -27,3 +27,7 @@ A textbook precision-manufacturing moat: the flexspline's tooth grinding and mat
 
 ## Suppliers
 [Harmonic Drive](https://www.harmonicdrive.net/) — the strain-wave originator · [Leaderdrive](https://www.leaderdrive.com/) — Chinese strain-wave challenger scaling with the humanoid wave
+
+## Further reading
+
+[Strain Wave Gear Operating Principle (Harmonic Drive)](https://www.harmonicdrive.net/technology/harmonicdrive) · [Harmonic Drive Gear Failures in Industrial Robots: An Overview (PHM Society)](https://papers.phmsociety.org/index.php/phme/article/download/2849/1801)

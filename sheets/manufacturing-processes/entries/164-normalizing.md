@@ -29,3 +29,7 @@ Forgings, castings, structural components.
 - https://www.youtube.com/watch?v=tSMG1i4Jb3Q — Heat treatment of the Steel : Annealing ,Normalizing,Quenching & Tempering (Welding Inspection, 7 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=l2F4UarKWmA — What is Normalizing Heat Treatment ?? ||Engineer's Academy|| (Engineer's Academy, 6 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=TvwkE3ybGnY — What Is The Normalising Process? Heat Treatment In Metallurgy. (James Sword Engineering, 8 minutes, 1k+ views)
+
+## Further reading
+
+[Normalizing Heat Treatment Guide (Xometry)](https://www.xometry.com/resources/materials/normalizing/) · [Normalizing of Steel (tec-science)](https://www.tec-science.com/material-science/heat-treatment-steel/annealing-processes/)

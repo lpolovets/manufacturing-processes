@@ -29,3 +29,7 @@ Drill pipe, axles, cutting tools, valves.
 - https://www.youtube.com/watch?v=zhfjev_2c5I — FRICTION WELDING | How friction welding process works | Types of friction… (ADTW Study, 5 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=7idvmASQ4f0 — An overview of friction welding (James Sword Engineering, 6 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=zyxiNBCYOyo — MTI Friction Welding 101 – What is it and When should it be used (Manufacturing Technology, Inc. (MTI), 3 minutes, 5k+ views)
+
+## Further reading
+
+[Types of Friction Welding (MTI)](https://www.mtiwelding.com/technologies/types-of-friction-welding/) · [What Is Friction Welding? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-friction-welding)

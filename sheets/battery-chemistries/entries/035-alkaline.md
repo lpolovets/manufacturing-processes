@@ -23,3 +23,7 @@ Duracell and Energizer AA/AAA lines; the default cell for remotes, toys, flashli
 
 ## Economic profile
 A brand-and-distribution business atop a fully commoditized chemistry — marketing, not electrochemistry, sets margins. Volume erodes slowly as devices go rechargeable or lithium, but the installed base of AA-shaped expectations is a moat measured in decades. Manufacturing scale and materials (zinc, EMD) are geographically diverse and unconstrained.
+
+## Further reading
+
+[Alkaline Manganese Dioxide Handbook and Application Manual (Energizer)](https://data.energizer.com/pdfs/alkaline_appman.pdf) · [BU-106a: Choices of Primary Batteries (Battery University)](https://batteryuniversity.com/article/bu-106a-choices-of-primary-batteries)

@@ -23,3 +23,7 @@ Bargain AA/AAA/D cells and lantern batteries (Panasonic, Toshiba, and countless 
 
 ## Economic profile
 A pure commodity in secular decline in rich markets but persistent in developing ones, where its low absolute price point wins. Margins are thin and brand-driven; manufacturing has consolidated toward low-cost Asian producers. Strategically irrelevant except as a case study in how a good-enough incumbent (alkaline) caps an inferior one's market.
+
+## Further reading
+
+[Eveready Carbon Zinc Application Manual (Energizer)](https://data.energizer.com/pdfs/carbonzinc_appman.pdf) · [BU-106a: Choices of Primary Batteries (Battery University)](https://batteryuniversity.com/article/bu-106a-choices-of-primary-batteries)

@@ -29,3 +29,7 @@ Turbine coatings, hydraulic rods, engine cylinders, repaired shafts.
 - https://www.youtube.com/watch?v=-mcWhRg5w2A — Curtiss-Wright Surface Technologies: Thermal Spray Coatings Process (UPDATED) (Curtiss-Wright Surface Technologies, 6 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=1uTLLPBPVOk — What is plasma spray coating? (Smart Thermal Spray, 4 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=8FyKOB0mgRc — Thermal spray coatings: plasma process (ThermalSprayGuy, 2 minutes, 10k+ views)
+
+## Further reading
+
+[What Is Thermal Spray? (Oerlikon Metco)](https://www.oerlikon.com/metco/en/solutions-technologies/what-is-thermal-spray-1/) · [ASM Handbook Vol. 5A: Thermal Spray Technology (ASM International)](https://dl.asminternational.org/books/book/12/Thermal-Spray-Technology)

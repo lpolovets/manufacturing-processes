@@ -24,3 +24,7 @@ Wheelchairs and mobility scooters (the classic gel market), solar home systems i
 
 ## Economic profile
 A durable specialty within lead-acid, priced above AGM and defended by installed-base habits in mobility and off-grid solar. Steadily ceding the solar segment to LFP, whose cycle-life economics now dominate anywhere daily cycling occurs.
+
+## Further reading
+
+[BU-201b: Gel Lead Acid Battery (Battery University)](https://batteryuniversity.com/article/bu-201b-gel-lead-acid-battery) · [Gel and AGM Batteries Technical Overview (Victron Energy)](https://www.victronenergy.com/upload/documents/Datasheet-GEL-and-AGM-Batteries-EN.pdf)

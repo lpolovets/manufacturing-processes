@@ -29,3 +29,7 @@ Automotive bodies, fasteners, appliance panels.
 - https://www.youtube.com/watch?v=DDHddQlC62M — Proto Tech Tip - Chemical Conversion Coating (See Note Below) (Protocase Inc, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=blkqicWXjq0 — Chemical Conversion Coatings (CNATT MicroLearning, 5 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=ra5yRNPywMI — Ask Dr. Adam: What is Phosphating? (KYZEN Corporation, 4 minutes, 1k+ views)
+
+## Further reading
+
+[What is chem film / chromate conversion coating? (Best Technology)](https://www.besttechnologyinc.com/surface-finishing/what-is-alodine-chem-film-chromate-conversion-coating/) · [Phosphate Conversion Coatings (Products Finishing)](https://www.pfonline.com/articles/phosphate-conversion-coatings)

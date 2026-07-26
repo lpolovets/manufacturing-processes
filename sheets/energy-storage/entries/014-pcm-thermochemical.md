@@ -24,3 +24,7 @@ Sunamp's heat batteries (UK homes, salt-hydrate PCM), PCM cold-chain shipping pa
 
 ## Economic profile
 Wins niches where temperature precision, compactness, or months-long hold justify a multiple of brick costs — domestic heat, cold chain, mobile heat delivery. As bulk storage it loses to sensible heat on simple $/kWh-thermal nearly everywhere. Investment lens: back specific applications, not the category.
+
+## Further reading
+
+[Task 40 Final Report: Compact Thermal Energy Storage (IEA Energy Storage TCP)](https://iea-es.org/publications/final-report-task-40-compact-thermal-energy-storage-materials-within-components-within-systems/) · [How Heat Batteries Work (Sunamp)](https://sunamp.com/how-heat-batteries-work/)

@@ -24,3 +24,7 @@ Wind-turbine pitch backup (the classic design win), regenerative braking in tram
 
 ## Economic profile
 A stable, profitable components business (~$1B-class market) selling reliability and cycle life into industrial niches — not a storage market in the grid sense. Growth theses hinge on grid-forming inertia services and hybridization with batteries; the recurring failure mode is pitching a capacitor where a battery belongs.
+
+## Further reading
+
+[Supercapacitors Technology Strategy Assessment (DOE Storage Innovations 2030)](https://www.energy.gov/sites/default/files/2023-07/Technology%20Strategy%20Assessment%20-%20Supercapacitors.pdf)

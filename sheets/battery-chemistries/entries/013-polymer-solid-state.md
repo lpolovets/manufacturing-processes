@@ -24,3 +24,7 @@ Blue Solutions (Bolloré) buses and former Autolib car-share fleet; Mercedes-Ben
 
 ## Economic profile
 Polymer extrusion and lamination are cheap, familiar processes with none of sulfide's dry-room burden — the manufacturing story is the best in solid state. The heated-operation penalty confines current products to depot-charged fleets; breaking into mainstream EVs requires the room-temperature composite generation to deliver.
+
+## Further reading
+
+[Research Progress and Application of PEO-Based Solid Polymer Electrolytes (Frontiers in Energy Research)](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2021.726738/full)

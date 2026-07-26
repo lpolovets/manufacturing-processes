@@ -27,3 +27,7 @@ Axles, spring blanks, connecting-rod preforms, tool blanks.
 ## Videos
 
 - https://www.youtube.com/watch?v=LuGNhEwZs0s — Roll forging process (ROLL PEDIA, 5 minutes, 10k+ views)
+
+## Further reading
+
+[Rolling Machines for Forging Preforms (LASCO Umformtechnik)](https://www.lasco.com/images/pdfs/prospekte/en/Rolling_machines_en.pdf)

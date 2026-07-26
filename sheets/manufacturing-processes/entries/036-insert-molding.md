@@ -28,3 +28,7 @@ Threaded housings, electrical connectors, sensor bodies, surgical handles.
 
 - https://www.youtube.com/watch?v=z6J07KPoDDk — INSERT MOLDING vs OVERMOLDING | Two-Shot Injection Molding EXPLAINED -… (Star Rapid, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=c4mwoX1Qiv0 — Overmolding vs Insert Molding | Plastic Parts Molding Process (RAPID DIRECT, 6 minutes, 5k+ views)
+
+## Further reading
+
+[Overmolding and Insert Molding Design Guidelines (Protolabs)](https://www.protolabs.com/services/injection-molding/overmolding-insert-molding/design-guidelines/) · [Insert Molding vs. Overmolding: What's the Difference? (Xometry)](https://www.xometry.com/resources/injection-molding/the-differences-between-insert-molding-vs-overmolding/)

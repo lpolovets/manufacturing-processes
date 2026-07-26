@@ -27,3 +27,7 @@ The rational endpoint for high-force robot joints on paper, held back by the abs
 
 ## Suppliers
 [Domin](https://domin.com/) — additively-manufactured direct-drive servo valves and compact EHA systems · [Parker](https://www.parker.com/) — aerospace and industrial EHA lines
+
+## Further reading
+
+[Electrohydrostatic Actuation Technology Overview (Moog)](https://www.moog.com/products/actuators-servoactuators/actuation-technologies/electrohydrostatic.html) · [Electro-Hydrostatic Actuation in Next-Generation Machines (Moog)](https://www.moog.com/news/ideas-in-motion-control/2015/05/electro-hydrostatic-actuation-proves-itself-in-next-generation-machines.html)

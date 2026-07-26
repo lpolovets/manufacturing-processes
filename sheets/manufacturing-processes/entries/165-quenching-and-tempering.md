@@ -29,3 +29,7 @@ Gears, tools, shafts, armor, fasteners.
 - https://www.youtube.com/watch?v=ulfCxDsVTWo — Intro to heat treatment of steel (hardening and tempering) (Applied Science, 18 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=5Bxc4x0byN4 — Quenching and tempering of steel | Heat treatment | Hardening | Quenching |… (tec-science, 15 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=8CmXK08U56w — Detailed Explanation Of Tempering Heat Treatment Process (James Sword Engineering, 9 minutes, 1k+ views)
+
+## Further reading
+
+[Quenching Process Guide (Xometry)](https://www.xometry.com/resources/materials/quenching/) · [Quenching and Tempering of Steel (tec-science)](https://www.tec-science.com/material-science/heat-treatment-steel/quenching-and-tempering/)

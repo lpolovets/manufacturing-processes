@@ -24,3 +24,7 @@ Quino Energy (aqueous quinones, Harvard lineage), Kemiwatt and JenaBatteries/CER
 
 ## Economic profile
 A materials-science venture bet layered on an already-hard systems business. The pitch — electrolyte from chemical plants, not mines — is compelling if stability crosses the decade threshold; until then, every deal should price electrolyte replacement as an operating cost, not a one-time capex.
+
+## Further reading
+
+[Family Tree of Aqueous Organic Redox Couples (Molecules via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778144/) · [Benchmarking Organic Active Materials by Lifetime and Cost (Nature Communications)](https://www.nature.com/articles/s41467-023-42450-9)

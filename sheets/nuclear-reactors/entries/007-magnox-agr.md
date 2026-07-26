@@ -22,3 +22,7 @@ Calder Hall (1956–2003), the 26-unit Magnox fleet (all retired; Wylfa last, 20
 
 ## Economic profile
 A masterclass in how not to build a fleet: one country, one technology, zero standardization. The AGR's 640 °C output — exactly what today's HTGR ventures promise — is a reminder that high-temperature gas reactors are not new physics, and that their historic failure was economic. The UK's decommissioning bill is the long tail every national program should price.
+
+## Further reading
+
+[Nuclear Development in the United Kingdom (World Nuclear Association)](https://world-nuclear.org/information-library/country-profiles/countries-t-z/appendices/nuclear-development-in-the-united-kingdom) · [Nuclear Decommissioning Authority (GOV.UK)](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority)

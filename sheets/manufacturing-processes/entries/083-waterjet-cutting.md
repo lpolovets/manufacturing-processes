@@ -29,3 +29,7 @@ Titanium plate, composites, stone, armor, glass, gaskets.
 - https://www.youtube.com/watch?v=1IvGyGlcJn0 — How a Waterjet Actually Works | Waterjet Channel (Waterjet Channel - Daniel Adair, 15 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=Ey7aZccxwhA — How Does A WaterJet Cutting Work? (LifeAda, 10 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=SOoMCRJrSz0 — How Does a Waterjet Work? It Slices Steel with Water! (History of Simple Things, 9 minutes, 100k+ views)
+
+## Further reading
+
+[Laser and Waterjet Cutting Design Guide (Xometry)](https://www.xometry.com/resources/sheet/sheet-cutting-tips/) · [Waterjet Cutting Tolerances Explained (Techni Waterjet)](https://www.techniwaterjet.com/waterjet-cutting-tolerances/)

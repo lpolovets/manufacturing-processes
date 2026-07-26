@@ -28,3 +28,7 @@ Prototype aluminum parts, aerospace castings, tooling components.
 
 - https://www.youtube.com/watch?v=QlPqsukn6Bc — Rubber plaster mold casting for aluminum (Armstrong Mold, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=GMIysbl9Smc — Aluminum casting with a plaster mold, start to finish (Peter Rohrbacher, 6 minutes, 10k+ views)
+
+## Further reading
+
+[Plaster Casting: How It Works, Uses, and Advantages (Xometry)](https://www.xometry.com/resources/casting/plaster-casting/) · [Ceramic Mold Casting: How It Works and Applications (Xometry)](https://www.xometry.com/resources/casting/ceramic-mold-casting/)

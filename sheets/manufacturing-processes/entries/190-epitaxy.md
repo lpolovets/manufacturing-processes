@@ -29,3 +29,7 @@ LEDs, lasers, RF devices, power semiconductors, advanced logic.
 - https://www.youtube.com/watch?v=vpvMeP8Cs_g — ASM tech explainer: All about Epi (ASM, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=bJZDgjRphdg — Epitaxial Growth (AK ECE, 8 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=LAcKEM9YQtA — Epitaxial silicon deposition (Dr. Pervaiz Ahmad, 19 minutes, 1k+ views)
+
+## Further reading
+
+[Epitaxy Technology Explained (ASM)](https://www.asm.com/our-technology-products/epitaxy)

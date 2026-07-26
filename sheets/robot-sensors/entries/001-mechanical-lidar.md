@@ -27,3 +27,7 @@ Velodyne HDL-64 (the icon, retired), Ouster OS-series digital LiDAR, RoboSense a
 
 ## Economic profile
 From $75k (HDL-64) to sub-$1k (Chinese 32-beam units) in fifteen years — one of robotics' steepest cost collapses, driven by Hesai/RoboSense automotive volume. Mechanical spinning units increasingly serve robotics and mapping while automotive design-ins shift to solid-state; the spinning form factor's moat is 360° coverage per dollar, which remains unbeaten.
+
+## Further reading
+
+[What Is Lidar and How Does It Work? (Ouster)](https://ouster.com/insights/what-is-lidar) · [Lidar for Autonomous Driving: Principles, Challenges, and Trends (arXiv)](https://arxiv.org/abs/2004.08467)

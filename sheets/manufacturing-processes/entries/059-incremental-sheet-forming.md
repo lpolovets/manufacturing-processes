@@ -29,3 +29,7 @@ Custom medical implants, prototype body panels, low-volume enclosures.
 - https://www.youtube.com/watch?v=0xOANlj_O88 — Incremental Sheet Forming (ISF) Machine (Eurecat, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=eOwEgEDOaak — Forming Titanium Sheet - SPIF vs. Stamping (Russell Makes, 6 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=jQRwOyeBF8s — Incremental Sheet Forming: real-time experiments for manufacturing a variable… (Learn with Crazy Engineers, 10 minutes, 1k+ views)
+
+## Further reading
+
+[Single Point Incremental Forming: State-of-the-Art and Prospects (Duflou et al., KU Leuven)](https://lirias.kuleuven.be/retrieve/e5ddf445-8e73-46eb-b351-bcfe47b0c77a)

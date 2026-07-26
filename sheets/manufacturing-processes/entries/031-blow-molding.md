@@ -29,3 +29,7 @@ Beverage bottles, fuel tanks, detergent containers, drums, ducts.
 - https://www.youtube.com/watch?v=pJW6IKRLSyk — How It's Made — PET Plastic Bottle | Blow Moulding Manufacturing Process… (PAT - Manufacturing Solutions, 4 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=fox1JJZmLMA — How Plastic Bottles Are Made - Polymer Blow Molding Process (ChemicalEngineering, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=_NZfxACVILg — Plastic Blow Molding Animation-Making of Plastic Bottle (Engineering Master, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Blow Molding vs. Injection Molding: Differences and Comparison (Xometry)](https://www.xometry.com/resources/injection-molding/blow-molding-vs-injection-molding/)

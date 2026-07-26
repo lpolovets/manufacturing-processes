@@ -22,3 +22,7 @@ MSRE (Oak Ridge, 1965–69 — the founding demonstration); China's TMSR-LF1 at 
 
 ## Economic profile
 The promise is a cheap plant — no pressure vessel, no fuel fabrication, high-grade heat — against a licensing and materials gauntlet that has consumed every MSR venture's decade. China's state program, uncoupled from Western regulatory economics, is now the pacing demonstration. Western ventures live or die on whether "sealed core, swap every 7 years" (IMSR) convinces regulators to treat salt chemistry as an operations problem rather than a design-basis one.
+
+## Further reading
+
+[Molten Salt Reactors (World Nuclear Association)](https://world-nuclear.org/information-library/current-and-future-generation/molten-salt-reactors) · [Molten Salt Reactor Program (Oak Ridge National Laboratory)](https://www.ornl.gov/molten-salt-reactor)

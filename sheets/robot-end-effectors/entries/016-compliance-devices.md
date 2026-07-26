@@ -24,3 +24,7 @@ ATI and Schunk RCC lines descended from the Draper design, insertion stations in
 
 ## Economic profile
 A small, permanent market with the best cost-benefit ratio in assembly automation — a $1–3k passive device routinely replaces a $15k force-control package for defined insertions. Its intellectual legacy exceeds its revenue: the RCC's lesson (put intelligence in mechanics when you can) is the founding argument of underactuated hands and soft robotics, making it the philosophical ancestor of half this sheet.
+
+## Further reading
+
+[How Remote Center Compliance Compensators Work (ATI Industrial Automation)](https://www.ati-ia.com/products/compliance/Compensator_product_desc.aspx) · [Selecting a Compensator: Misalignment and Clearance Calculation (ATI Industrial Automation)](https://www.ati-ia.com/products/compliance/compensator_selection_1.aspx)

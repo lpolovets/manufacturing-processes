@@ -29,3 +29,7 @@ Aircraft panels, rocket tanks, railcars, ship panels, battery trays.
 - https://www.youtube.com/watch?v=0hKqSPoQtMA — Friction Stir Welding (FSW) Demonstration: How It Works (Manufacturing Technology, Inc. (MTI), 1 minute, 100k+ views)
 - https://www.youtube.com/watch?v=OJ2tnLu1PRQ — Explain-it: How does friction stir welding work? (TheGrenzebachGroup, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=8f5klMhtuP4 — How does Friction Stir Welding work? (Stirweld | Friction Stir Welding, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Friction Stir Welding Technology Overview (MTI)](https://www.mtiwelding.com/technologies/friction-stir-welding/) · [Friction Stir Welding Process and Properties (TWI)](https://www.twi-global.com/technical-knowledge/job-knowledge/friction-stir-welding-147)

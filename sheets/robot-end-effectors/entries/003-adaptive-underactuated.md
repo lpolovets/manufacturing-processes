@@ -24,3 +24,7 @@ Robotiq 3-Finger (the research classic), OnRobot's adaptive lines, Righthand Rob
 
 ## Economic profile
 A $5–15k middle tier serving mixed-SKU handling and research. Its commercial position is squeezed: vacuum hybrids own high-volume logistics, custom jaws own known parts, and humanoid hands claim the generality story with better funding. The design philosophy, however, is quietly winning — underactuation and compliance are inside nearly every credible humanoid hand.
+
+## Further reading
+
+[Yale OpenHand Project: Open-Source Underactuated Hands (Yale GRAB Lab)](https://www.eng.yale.edu/grablab/openhand/) · [Towards an Objective Evaluation of Underactuated Gripper Designs (arXiv)](https://arxiv.org/abs/1601.04547)

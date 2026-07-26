@@ -29,3 +29,7 @@ Source/drain regions, wells, threshold adjustment, power devices.
 - https://www.youtube.com/watch?v=tfDTgQJRkzc — Coherent | Ion Implantation For Semiconductor Devices (Coherent Corp., 4 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=NOd6F2Hni1Q — 7.5. Ion implantation & diffusion (Electron Tube, 10 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=uXDu9S9cluM — Dopant Implantation into a Semiconductor, Lecture 27 (Stephen Remillard, 8 minutes, 1k+ views)
+
+## Further reading
+
+[Ion Implantation in Semiconductor Processing (MKS Instruments)](https://www.mks.com/n/ion-implantation)

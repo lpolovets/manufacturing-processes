@@ -29,3 +29,7 @@ Pressure vessels, rocket cases, hydrogen tanks, pipes, shafts.
 - https://www.youtube.com/watch?v=ign6W5ENJAA — How it works: Filament Winding (Farixltd, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=4ihtyjydzqA — Filament Winding (Tooling U-SME, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=IPp1Z6WeeBA — Filament Winding Process by Rock West Composites (Rock West Composites, 3 minutes, 10k+ views)
+
+## Further reading
+
+[What Is the Filament Winding Process? (Addcomposites)](https://www.addcomposites.com/post/filament-winding) · [Filament Winding, Reinvented (CompositesWorld)](https://www.compositesworld.com/articles/filament-winding-reinvented)

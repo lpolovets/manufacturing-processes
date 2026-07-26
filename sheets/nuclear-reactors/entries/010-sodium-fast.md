@@ -23,3 +23,7 @@ Russia's BN-800 (operating on MOX, the only commercial fast fleet); TerraPower's
 
 ## Economic profile
 Natrium is the West's flagship advanced build; its salt-store peaking design is a genuinely clever answer to renewable-heavy grids, and its HALEU dependence (waived initially via DOE stockpiles) is the schedule's soft spot. Russia and China (CFR-600) treat SFRs as strategic fuel-cycle infrastructure, not merchant plants — a reminder that fast-reactor economics have always been a state's long game rather than a market's.
+
+## Further reading
+
+[Fast Neutron Reactors (World Nuclear Association)](https://world-nuclear.org/information-library/current-and-future-generation/fast-neutron-reactors) · [Sodium Fast Reactor (Generation IV International Forum)](https://www.gen-4.org/generation-iv-criteria-and-technologies/sodium-fast-reactor-sfr)

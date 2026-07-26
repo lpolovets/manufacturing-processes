@@ -24,3 +24,7 @@ Toshiba SCiB cells in Mitsubishi i-MiEV, hybrid buses, and rail/port equipment; 
 
 ## Economic profile
 Two to three times LFP $/kWh, so it wins only where cycle count, charge speed, or temperature extremes dominate the levelized cost — heavy-duty duty cycles, transit, and industrial equipment that cycles many times daily. A durable niche rather than a volume play.
+
+## Further reading
+
+[SCiB Lithium-Titanate Rechargeable Battery (Toshiba)](https://www.global.toshiba/ww/products-solutions/battery/scib.html)

@@ -24,3 +24,7 @@ Chinese grid-storage demonstration projects (Datang's 100 MWh-class sodium BESS 
 
 ## Economic profile
 The chemistry most explicitly aimed at daily-cycled grid storage, where $/kWh-cycle beats $/kWh and NFPP's cycle life shines. Competes head-to-head with LFP incumbency; wins require sodium's materials savings to survive LFP's relentless cost decline, so most deployments today are strategic or mandate-driven Chinese projects.
+
+## Further reading
+
+[Strategies for Enhancing Polyanionic Sodium-Ion Battery Cathodes (ACS Omega via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11137717/)

@@ -27,3 +27,7 @@ A profitable precision oligopoly (PI, Cedrat, Noliac/CTS) at instrument-industry
 
 ## Suppliers
 [Physik Instrumente](https://www.physikinstrumente.com/) — piezo stages and stacks, the precision incumbent · [PiezoMotor](https://piezomotor.com/) — piezo-stepping micro motors
+
+## Further reading
+
+[Piezo Basics: Fundamentals of Piezoelectricity and Piezo Actuators (PI)](https://www.pi-usa.us/en/products/piezo-flexure-nanopositioners/piezo-motion-control-tutorial/tutorial-4-15/) · [Piezoelectrics in Positioning: Nanopositioning Tutorial (PI, PDF)](https://www.pi-usa.us/fileadmin/user_upload/pi_us/files/technotes_whitepapers/2009_PI_Piezo_University_Designing_with_Piezo_Actuators_Tutorial.pdf)

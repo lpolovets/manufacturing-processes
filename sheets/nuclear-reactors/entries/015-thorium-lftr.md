@@ -22,3 +22,7 @@ India's program: KAMINI (U-233 fueled research reactor), thorium blankets in its
 
 ## Economic profile
 Thorium's advantages are real, modest, and chronically oversold — it is a second-order improvement marketed as a revolution. No thorium route avoids first mastering either molten salt technology or reprocessing chemistry, each a decade-scale program. The investable signal to watch is China's TMSR scale-up and Indian AHWR commitment; internet enthusiasm is not a fuel cycle.
+
+## Further reading
+
+[Thorium (World Nuclear Association)](https://world-nuclear.org/information-library/current-and-future-generation/thorium)

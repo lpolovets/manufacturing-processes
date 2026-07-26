@@ -24,3 +24,7 @@ Development programs and pilot cells (Haldor Topsoe/Topsoe Battery Materials, SV
 
 ## Economic profile
 On paper the cheapest path to high-energy cobalt-free cells; in practice value hinges entirely on cracking electrolyte stability. A chemistry to track as a solid-state cathode partner — its high voltage pairs naturally with oxidation-tolerant solid electrolytes.
+
+## Further reading
+
+[Attenuation Mechanisms and Modification of Cobalt-Free Spinel LNMO (Advanced Science)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12442621/)

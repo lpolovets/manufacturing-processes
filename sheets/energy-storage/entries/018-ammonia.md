@@ -24,3 +24,7 @@ NEOM (destination: ammonia export), Yara and CF Industries green-ammonia retrofi
 
 ## Economic profile
 Think of ammonia as the LNG of hydrogen: value accrues to ports, ships, and offtake contracts, not the molecule. For stationary storage it only beats local caverns where geology is absent and distance is long. The bootstrap market is decarbonizing existing ammonia demand — a 180 Mt/year sink that needs no new use case at all.
+
+## Further reading
+
+[Ammonia Technology Roadmap (IEA)](https://www.iea.org/reports/ammonia-technology-roadmap) · [Green Ammonia Policy Briefing (Royal Society)](https://royalsociety.org/topics-policy/projects/low-carbon-energy-programme/green-ammonia/)

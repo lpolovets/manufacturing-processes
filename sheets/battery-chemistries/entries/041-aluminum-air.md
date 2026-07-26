@@ -23,3 +23,7 @@ Military reserve and unattended-sensor power (Epsilor-style products); Phinergy'
 
 ## Economic profile
 Recurrent commercial near-misses for forty years: the electrochemistry works, but the business model requires infrastructure (anode swap, hydroxide return) that no single customer can justify. Viable today only in defense reserve-power niches; any "aluminum economy" pitch should be tested against that logistics burden.
+
+## Further reading
+
+[Aluminum-Air Batteries: Current Advances and Promises (RSC Advances via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11145468/) · [Recent Developments for Aluminum-Air Batteries (Electrochemical Energy Reviews)](https://link.springer.com/article/10.1007/s41918-020-00065-4)

@@ -22,3 +22,7 @@ NIF (LLNL — ignition, repeatedly), Xcimer Energy (Denver, excimer lasers at 10
 
 ## Economic profile
 Ignition transformed the field's credibility and fundraising overnight, but the commercial chain — diode-pumped lasers at ~10% efficiency, mass-produced targets, chamber survivability — is each its own venture-scale program. The near-term revenue reality is defense: inertial fusion expertise is stockpile-stewardship expertise, and several startups quietly monetize that overlap while the power plant recedes into the 2040s.
+
+## Further reading
+
+[Achieving Fusion Ignition (LLNL National Ignition Facility)](https://lasers.llnl.gov/science/achieving-fusion-ignition) · [Basic Research Needs for Inertial Fusion Energy — Summary (US DOE)](https://science.osti.gov/-/media/fes/pdf/workshop-reports/2023/IFE-Basic-Research-Needs--Summary.pdf)

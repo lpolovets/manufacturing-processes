@@ -29,3 +29,7 @@ Infrared optics, mirror substrates, laser components, optical molds.
 - https://www.youtube.com/watch?v=YYcBKW-MMbI — Single Point Diamond Turning: EO Build-to-Print Manufacturing (Edmund Optics, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=6iRohI_jaYg — Single-Point Diamond Turning Capabilities (Thorlabs, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=haYPG2Codg8 — A Brief History of Single Point Diamond Turning, with Jeff Roblee (AMETEK Precitech, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Overview of Single-Point Diamond Turned Optics (Apollo Optical Systems)](https://www.apollooptical.com/blog/overview-of-single-point-diamond-turned-optics) · [All About Aspheric Lenses (Edmund Optics)](https://www.edmundoptics.com/knowledge-center/application-notes/optics/all-about-aspheric-lenses/)

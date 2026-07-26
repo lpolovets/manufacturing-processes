@@ -24,3 +24,7 @@ CATL Naxtra (mass production for entry EVs and start-stop batteries), BYD sodium
 
 ## Economic profile
 The strategic hedge against lithium price spikes: bill-of-materials can undercut LFP when lithium is expensive, but loses when lithium is cheap — sodium's economics are an option on lithium volatility. China holds nearly the entire supply chain. Grid storage and two-wheelers absorb early volume; EV traction follows energy-density gains.
+
+## Further reading
+
+[Sodium-Ion Batteries: Inexpensive and Sustainable Energy Storage (Faraday Institution)](https://www.faraday.ac.uk/insights/insight-11-sodium-ion-batteries-inexpensive-and-sustainable-energy-storage/) · [Layered Oxide Cathodes for Sodium-Ion Batteries: Microcracks and Countermeasures (Chemical Science via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13122073/)

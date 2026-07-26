@@ -29,3 +29,7 @@ Bolts, studs, screws, threaded rods.
 - https://www.youtube.com/watch?v=Q9DlNs01N_A — How to Form Threads In Less Than 1 Second (TITANS of CNC MACHINING, 11 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=MvWmH3Dr52o — Roll Threading Bolts and Fasteners (Portland Bolt, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=MrwINs-0_gI — Force & Form – The Art of Thread Rolling (MCFcorp, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Fundamentals of Thread Rolling (CJWinter)](https://www.cjwinter.com/the-fundamentals-of-thread-rolling/) · [Precision Thread Rolling: How It Works (Horst Engineering)](https://horstengineering.com/wp-content/uploads/2022/01/HORST-Engineering_Thread-Rolling-White-Paper-v4.pdf)

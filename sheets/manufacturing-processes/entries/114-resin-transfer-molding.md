@@ -29,3 +29,7 @@ Automotive structures, aircraft parts, bicycle frames, housings.
 - https://www.youtube.com/watch?v=1u-2GvhghQA — Resin Transfer Moulding (EastCoastFibreglass, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=PvYFTdI0z2I — RTM Technology - Resin Transfer Molding - Manufacturing of composite (Compact Composite, 5 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=R0eRfdYleFA — Resin Transfer Moulding light (EastCoastFibreglass, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Closed Molding Processes Primer (ACMA Discover Composites)](https://acmanet.org/discover-composites/closedmolding/) · [The Rise of HP-RTM (CompositesWorld)](https://www.compositesworld.com/articles/the-rise-of-hp-rtm)

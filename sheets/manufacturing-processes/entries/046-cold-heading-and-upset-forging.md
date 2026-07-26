@@ -29,3 +29,7 @@ Bolts, screws, rivets, valve heads, pins.
 - https://www.youtube.com/watch?v=WoN2KKfbzLA — Cold Heading - Cold forming - Screw Manufacturing - How Screws are Made -… (Corey @ SmithReps, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=PXqOaoYpHJM — Semblex Cold Heading Process Educational Video (Semblex Corporation, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=n5jjxCMR2QA — What is Cold Heading？ (JM Hardware®, 2 minutes, 10k+ views)
+
+## Further reading
+
+[What Is Cold Heading? Key Processes Explained (TFG USA)](https://www.tfgusa.com/resources/what-is-cold-heading/) · [Cold Heading and Cold Forming (IQS Directory)](https://www.iqsdirectory.com/articles/cold-headed-parts/cold-heading-and-cold-forming.html)

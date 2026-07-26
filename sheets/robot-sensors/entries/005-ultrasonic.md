@@ -27,3 +27,7 @@ Automotive park-assist rings (billions of units — Bosch, Murata), HC-SR04 modu
 
 ## Economic profile
 A solved, commoditized technology ($1–20) whose niche is permanent: the glass-detection and last-centimeter problems don't yield to cameras. Tesla's removal and partial walk-back of parking performance illustrates the trade. In robot BOMs it persists as the cheap safety net nobody brags about — the correct role.
+
+## Further reading
+
+[Ultrasonic Sensing Basics (Texas Instruments)](https://www.ti.com/lit/pdf/slaa907)

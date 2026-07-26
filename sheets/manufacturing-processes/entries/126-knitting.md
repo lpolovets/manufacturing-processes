@@ -28,3 +28,7 @@ Apparel, shoe uppers, medical textiles, filters.
 
 - https://www.youtube.com/watch?v=4ECabZiSslU — Working Principle of Circular Knitting Machine (Textile Vlog, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=xwh6v2MvjjM — Working Principle of Circular Weft Knitting Machines (MarcusOliverWeber, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Knit Basics (CottonWorks, Cotton Incorporated)](https://cottonworks.com/learning-hub/knitting/knit-basics/) · [Formation and Properties of Knitted Structures lecture (Australian Wool Education Trust)](https://www.woolwise.com/wp-content/uploads/2017/07/Wool-482-582-08-T-20.pdf)

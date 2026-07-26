@@ -29,3 +29,7 @@ Aircraft skins, etched panels, lightweight aerospace structures.
 - https://www.youtube.com/watch?v=OFYAUAOwrzY — The Art of Chemical Milling (Beagle Technology Group, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=2O1TyJGXuWY — Chemical Etching: A Tour Through The Process (3D Animation) (Veco Precision, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=SVz-Rz2C45Y — Chemical Milling Process Explained in English (Mechtalkies, 8 minutes, 1k+ views)
+
+## Further reading
+
+[Laser Scribing and Chemical Milling of Aerospace Parts: Open Review (Micromachines via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8879944/)

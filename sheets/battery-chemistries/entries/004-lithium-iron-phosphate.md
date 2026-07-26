@@ -31,3 +31,7 @@ BYD's entire lineup; Tesla standard-range vehicles; nearly all utility-scale sto
 
 ## Economic profile
 The cost floor of lithium-ion: cathode inputs are iron and phosphate, with lithium the only expensive ingredient. Chinese producers hold overwhelming share and patent-era know-how; Western LFP plants are just ramping. Margins are thin and scale-driven — LFP is where Li-ion behaves most like a commodity industry.
+
+## Further reading
+
+[Types of Lithium-ion Batteries (Battery University)](https://batteryuniversity.com/article/bu-205-types-of-lithium-ion) · [Lithium-Ion Battery Cost and Performance, LFP and NMC (PNNL Energy Storage Database)](https://www.pnnl.gov/lithium-ion-battery-lfp-and-nmc)

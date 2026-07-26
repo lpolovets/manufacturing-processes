@@ -33,3 +33,7 @@ Extremely high capex; commodity-scale throughput; economics dominated by utiliza
 - https://www.youtube.com/watch?v=d-72gc6I-_E — Steelmaking: Continuous Casting (CorusBCSATraining, 1 minute, 100k+ views)
 - https://www.youtube.com/watch?v=ZtXKdYYAVdA — continuous casting | continuous casting process | continuous casting… (Modi Mechanical Engineering Tutorials, 8 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=l_DUJWsSulI — Continuous Casting: How Massive Steel Slabs Are Made From Liquid Metal! (AlJazari, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Introduction to Continuous Casting (Continuous Casting Consortium, Univ. of Illinois)](https://ccc.illinois.edu/introduction/intro.html) · [Continuous Casting Course (steeluniversity, World Steel Association)](https://steeluniversity.org/product/continuous-casting/)

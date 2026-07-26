@@ -29,3 +29,7 @@ Cell-width electrode strips, tabbed electrodes.
 - https://www.youtube.com/watch?v=0ze70MotdsQ — [Battery Report] How Batteries are Made: Electrode Manufacturing – Slitting… (LG Energy Solution Global, 2 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=XStpCqpgZOg — Manz AG - Battery Notching Series BN (Manz AG, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=YqVtK1dGXng — Notching and Slitting Machine (UW LASER, 3 minutes, under 1k views)
+
+## Further reading
+
+[Production Process of a Lithium-Ion Battery Cell (VDMA / RWTH Aachen PEM)](https://www.vdma.eu/documents/34570/35405938/Production_Process_of_a_Lithium-Ion_Battery_Cell_2026.pdf/72b475da-b7c6-3b59-1405-236ef0e9efeb?filename=Production_Process_of_a_Lithium-Ion_Battery_Cell_2026.pdf) · [Advanced Li-Ion Battery Manufacturing Equipment for Gigafactories (iScience)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12268664/)

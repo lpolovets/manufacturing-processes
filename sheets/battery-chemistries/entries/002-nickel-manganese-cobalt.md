@@ -37,3 +37,7 @@ Most non-Tesla Western EVs (VW, GM Ultium, Hyundai-Kia, BMW); power tools; e-bik
 
 ## Economic profile
 Mid-to-high $/kWh driven by nickel and residual cobalt. Enormous economies of scale and a deep equipment ecosystem; cathode precursor (pCAM/CAM) capacity is a chokepoint concentrated in China and Korea. The nickel-rich roadmap trades cheaper metal mix for costlier processing and yield risk.
+
+## Further reading
+
+[Batteries and Secure Energy Transitions (IEA)](https://www.iea.org/reports/batteries-and-secure-energy-transitions) · [Challenges and Approaches of Single-Crystal Ni-Rich Layered Cathodes (National Science Review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10628913/)

@@ -24,3 +24,7 @@ ATI and Schunk radially-compliant deburring tools, PushCorp and FerRobotics acti
 
 ## Economic profile
 A steadily growing niche powered by labor scarcity in finishing trades and OSHA-adjacent pressures — jobs nobody wants are automation's easiest sale. Force-control flange vendors occupy the strategic component slot (every integrator buys one). Consumable abrasives plus process recipes create sticky aftermarket revenue; the constraint on growth is application engineering capacity, not demand.
+
+## Further reading
+
+[Robotic Material Removal Tooling Explained (PushCorp)](https://pushcorp.com/robotic-material-removal-tooling/) · [Compliant Robotic Deburring Tools (ATI Industrial Automation)](https://www.ati-ia.com/products/deburr/robotic_deburring.aspx)

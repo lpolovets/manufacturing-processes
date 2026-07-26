@@ -29,3 +29,7 @@ Turbine repair, large aerospace structures, mold repair, added bosses and flange
 - https://www.youtube.com/watch?v=oL7bMhPTtDI — Welcome to Directed Energy Deposition - Metal Additive Manufacturing (AddUp - DED Machines, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=2jAyUQJoAr8 — How METAL 3D Printing Works? || Directed Energy Deposition Technology ( DED ) (Mars Gadgets, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=kHnhf9Uzp2k — From Repairing Parts to Building Rockets! Understanding DED 3D Printing | 3D… (3Dnatives, 2 minutes, 1k+ views)
+
+## Further reading
+
+[What Is Directed Energy Deposition? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/directed-energy-deposition) · [Directed Energy Deposition Process and Applications (Loughborough AMRG)](https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/directedenergydeposition/)

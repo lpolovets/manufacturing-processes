@@ -29,3 +29,7 @@ Nickel-coated plastic, circuit boards, internal passages.
 - https://www.youtube.com/watch?v=CVzMNzI6mV8 — Electroless Nickel Technology (Arlington Plating Company, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=MhbjQFhZ1bE — Electroless plating process/Electroless deposition: Corrosion Control (Revathi Purushothaman, 11 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=a2Ufr5NRVpM — The Fundamentals and Advantages of Electroless Nickel Plating (Products Finishing, 4 minutes, 1k+ views)
+
+## Further reading
+
+[An Overview of Electroless Nickel Plating (Products Finishing)](https://www.pfonline.com/articles/electroless-nickel-plating) · [Process Specification for Electroless Nickel Plating, PRC-5007 (NASA)](https://www.nasa.gov/wp-content/uploads/2023/03/prc-5007-current.pdf)

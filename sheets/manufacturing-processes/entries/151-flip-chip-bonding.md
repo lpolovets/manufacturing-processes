@@ -29,3 +29,7 @@ CPUs, GPUs, RF devices, image sensors, chiplets.
 - https://www.youtube.com/watch?v=Yr_1vcYdbvI — [Eng Sub] Flipchip die attach process: Bump, MR(Mass Reflow), TCNCP,… (Semicon Talk, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=4Dn9NK0XGzA — INTRODUCTION TO FLIP CHIP TECHNOLOGY (WATCH LEARN  'N PLAY, 15 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=SKb5qHvvyqo — Flip-Chip Underfill: Pushing Boundaries in Semicon Packaging in cooperation… (DELO Industrie Klebstoffe | DELO Industrial Adhesives, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Flip Chip: The Ultimate Guide (AnySilicon)](https://anysilicon.com/flip-chip/)

@@ -29,3 +29,7 @@ Cable fittings, tapered shafts, medical tubing, tool handles.
 - https://www.youtube.com/watch?v=IGppF3Pivu0 — two hammer swaging machine operation (mekanizmalar, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=FJVOGQvMlqE — Felss: Rotary swaging of front axles for motorcycles (FELSS Group, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=LFly3VRqjiE — Felss Rundkneten // rotary swaging (FELSS Group, 1 minute, 100k+ views)
+
+## Further reading
+
+[Rotary Swaging Technology Overview (Felss)](https://felss.com/en/technologies/rotary-swaging/) · [Rotary Swaging Applications from Aerospace to Automotive (FENN)](https://www.fenn-torin.com/blog/rotary-swaging-applications)

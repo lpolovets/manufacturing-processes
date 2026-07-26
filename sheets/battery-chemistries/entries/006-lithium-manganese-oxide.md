@@ -24,3 +24,7 @@ First-generation Nissan Leaf and Chevy Volt packs (blended); cordless power tool
 
 ## Economic profile
 Among the cheapest cathodes per kg, but per-kWh economics suffer from low capacity. Lives on as a blend component and in cost-sensitive power applications. No supply-chain drama: manganese is abundant and geographically diverse.
+
+## Further reading
+
+[Research Development on Spinel Lithium Manganese Oxide Cathodes (Journal of The Electrochemical Society)](https://iopscience.iop.org/article/10.1149/1945-7111/acf8fd)

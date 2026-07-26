@@ -24,3 +24,7 @@ Academic programs worldwide; Group1's potassium Prussian white cathode developme
 
 ## Economic profile
 An option on the option: relevant only if lithium and sodium both hit constraints. Investment interest centers on specific material innovations (Prussian white cathodes, electrolyte salts) rather than full-stack cell plays.
+
+## Further reading
+
+[2023 Roadmap for Potassium-Ion Batteries (Journal of Physics: Energy)](https://iopscience.iop.org/article/10.1088/2515-7655/acbf76) · [10 Years Development of Potassium-Ion Batteries (Advanced Materials via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12631514/)

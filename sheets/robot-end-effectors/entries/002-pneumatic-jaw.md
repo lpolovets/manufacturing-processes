@@ -24,3 +24,7 @@ Schunk PGN-plus (the archetype, in its millions), SMC and Festo catalogs, three-
 
 ## Economic profile
 A profitable, mature European/Japanese component oligopoly ($100–800 typical) where margins live in precision manufacturing and distribution. The electric transition nibbles at its edges (controllability, air costs), but for high-cycle single-part duty nothing beats its cost-per-million-cycles. In diligence terms: the boring benchmark every clever gripper startup must beat on uptime, not features.
+
+## Further reading
+
+[Get a Handle on Gripper Technology (Festo)](https://www.festoblog.com/get-a-handle-on-gripper-technology/) · [Pneumatic Gripper Working Principles and Selection (Tameson)](https://tameson.com/pages/pneumatic-gripper)

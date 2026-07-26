@@ -24,3 +24,7 @@ Grabit's electroadhesive sheet handlers (Nike shoe-upper stacking — the famous
 
 ## Economic profile
 Perennially promising, commercially fitful: each mechanism owns real niches (limp textiles, in-vacuum handling) that are individually small, and the flagship vendors have repeatedly stalled. The apparel-automation prize (sewing's limp-fabric problem) keeps venture interest alive. Right posture: application-specific bets where vacuum physically cannot compete, not general-gripping stories.
+
+## Further reading
+
+[Electroadhesion Technologies for Robotics: A Comprehensive Review (University of Bristol / IEEE T-RO)](https://research-information.bris.ac.uk/en/publications/electroadhesion-technologies-for-robotics-a-comprehensive-review/) · [Gecko Toe Pad-Inspired Gripper with Tunable Adhesion (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12015100/)

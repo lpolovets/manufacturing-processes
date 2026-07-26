@@ -29,3 +29,7 @@ Semiconductor metallization, tool coatings, mirrors.
 - https://www.youtube.com/watch?v=8mVK5dwyoEY — Coating - How the PVD sputtering process works (Plansee, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=-lm0Y3Hyw-Q — Sputtering: What is it and how does sputter deposition work? (Korvus Technology, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=L6ZIkmIVm6c — What Is PVD Sputtering? (Semicore Equipment, 2 minutes, 100k+ views)
+
+## Further reading
+
+[What Is Sputtering? (Semicore Equipment)](https://www.semicore.com/what-is-sputtering) · [Magnetron Sputtering Explained (Angstrom Engineering)](https://angstromengineering.com/tech/magnetron-sputtering/)

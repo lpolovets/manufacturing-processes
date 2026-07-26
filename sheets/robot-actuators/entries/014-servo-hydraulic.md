@@ -27,3 +27,7 @@ Hydraulics rule where force is enormous and mass budget generous — constructio
 
 ## Suppliers
 [Moog](https://www.moog.com/) — servo valves and hydraulic motion control · [Bosch Rexroth](https://www.boschrexroth.com/) — industrial hydraulics at scale
+
+## Further reading
+
+[Electro-Hydraulic Valves: A Technical Look (Moog)](https://www.moog.com/content/dam/moog/literature/products/servovalves/industrial/Moog-ServoValves-Techn_Look-Overview-en.pdf) · [Understanding Electrohydraulic Valve Types (Power & Motion)](https://www.powermotiontech.com/hydraulics/hydraulic-valves/article/21883861/understanding-electrohydraulic-valve-types)

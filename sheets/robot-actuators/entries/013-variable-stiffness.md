@@ -27,3 +27,7 @@ A scientifically rich, commercially stalled category: the marginal safety and ef
 
 ## Suppliers
 [qbrobotics](https://qbrobotics.com/) — commercial variable-stiffness actuators and soft hands
+
+## Further reading
+
+[Variable Impedance Actuators: A Review (Robotics and Autonomous Systems)](https://www.centropiaggio.unipi.it/sites/default/files/2013_VABBCCCEFGGGGHHJLLPSTVVVW_RAS.pdf)

@@ -29,3 +29,7 @@ Aircraft wings, fuselage sections, satellites, racing structures.
 - https://www.youtube.com/watch?v=OmxGyALQQF4 — Carbon fibre pre-preg lay-up demonstration (vacuum bag and autoclave) (Materials Science & Engineering at The University of Sheffield, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=Ta47wWYtdfg — Autoclave Curing Process - Introduction (PolyU IC, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=sOJexAyZlMg — How to Perform a Hand Layup from Prepreg Materials (Composites Knowledge Network, 10 minutes, 1k+ views)
+
+## Further reading
+
+[What Are Prepregs? (Fibre Glast)](https://www.fibreglast.com/blogs/learning-center/what-are-prepregs) · [Prepreg Technology Handbook, PDF (Hexcel)](https://www.hexcel.com/user_area/content_media/raw/Prepreg_Technology.pdf)

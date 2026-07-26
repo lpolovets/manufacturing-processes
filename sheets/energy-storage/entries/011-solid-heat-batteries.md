@@ -24,3 +24,7 @@ Rondo (brick, cement and biofuel plants), Antora (graphite blocks, also explorin
 
 ## Economic profile
 Where surplus renewable power is cheap and gas or carbon is dear, stored electric heat beats fuel today — no subsidy math required. The unit economics are dominated by insulation, containment, and heat-delivery engineering rather than the medium. The strategic risk is commodity: nothing here is patentable dirt, so winners will win on execution, financing, and industrial trust.
+
+## Further reading
+
+[Rondo Heat Battery: How It Works (Rondo Energy)](https://rondo.com/how-it-works) · [Thermal Batteries: Decarbonizing U.S. Industry (Energy Innovation)](https://energyinnovation.org/report/thermal-batteries-decarbonizing-u-s-industry-while-supporting-a-high-renewables-grid/)

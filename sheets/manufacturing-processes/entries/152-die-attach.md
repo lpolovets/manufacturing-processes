@@ -29,3 +29,7 @@ Power modules, LEDs, processors, sensors.
 - https://www.youtube.com/watch?v=ekolKMigeQo — DIE ATTACH PROCESS (WATCH LEARN  'N PLAY, 9 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=wLisuXB58rk — [Eng Sub] Die Attach Process: Paste type adhesive, Film type adhesive (Semicon Talk, 6 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=jliiUV0vDic — Die Attach Overview Animation (Semitracks Inc., 2 minutes, 10k+ views)
+
+## Further reading
+
+[Eutectic Die Bonding (Palomar Technologies)](https://www.palomartechnologies.com/processes/die-bonding/eutectic) · [Eight Steps of Assembling Conventional Packages (SK hynix)](https://news.skhynix.com/en/semiconductor-back-end-process-episode-6/)

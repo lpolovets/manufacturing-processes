@@ -23,3 +23,7 @@ BA-5590 and family (Saft America, EaglePicher, Ultralife) powering military radi
 
 ## Economic profile
 A defense-procurement annuity with qualification moats and captive customers, gradually ceding ground to rechargeable BB-2590 equivalents as militaries chase battlefield-recharging doctrine. Producers are the same specialty houses that serve the rest of the military primary market — consolidation, not growth.
+
+## Further reading
+
+[Choices of Primary Batteries (Battery University)](https://batteryuniversity.com/article/bu-106a-choices-of-primary-batteries)

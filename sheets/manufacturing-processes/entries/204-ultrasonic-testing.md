@@ -29,3 +29,7 @@ Welds, forgings, composites, pressure vessels, rails.
 - https://www.youtube.com/watch?v=UM6XKvXWVFA — Ultrasonic Testing (MaterialsScience2000, 8 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=TejAVtFN9RI — How To: Ultrasonic Non Destructive Test (Douglas Baxter (Doug), 5 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=7VrtjUxmMJ8 — Ultrasonic Testing - How Does Ultrasonic Testing Work - UT Testing Metal (Michlin Metals Inc, 3 minutes, 1k+ views)
+
+## Further reading
+
+[Ultrasonic Flaw Detection Tutorial (Evident)](https://ims.evidentscientific.com/en/learn/ndt-tutorials/flaw-detection) · [What Is Ultrasonic Testing? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/ultrasonic-testing)

@@ -28,3 +28,7 @@ Tool grips, toothbrushes, sealed electronics, cable connectors.
 
 - https://www.youtube.com/watch?v=3AuVVB63CgQ — Two-Shot Molding vs. Overmolding: Understanding Their Differences (RAPID DIRECT, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=E12_jnjJCbQ — 2 Shot Molding Steps (Injection Molding Skills & More, 9 minutes, 1k+ views)
+
+## Further reading
+
+[Overmolding and Insert Molding Design Guidelines (Protolabs)](https://www.protolabs.com/services/injection-molding/insert-molding/design-guidelines/) · [TPE Overmolding, Bonding and Substrate Considerations (RTP Company)](https://www.rtpcompany.com/products/elastomer/tpe-overmolding-bonding-and-substrate-considerations/)

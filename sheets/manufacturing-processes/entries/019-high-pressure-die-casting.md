@@ -29,3 +29,7 @@ Transmission housings, electronics enclosures, appliance components, structural 
 - https://www.youtube.com/watch?v=iSyBsdJkQu8 — The high-pressure die casting process (RCM Industries, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=xbynUVj3hAE — How die casting aluminum works: How It's Made (Factories, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=EAbH168XGkM — High-pressure die casting production line (GF Casting Solutions, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Die Casting: Types, Materials, and Design (Xometry)](https://www.xometry.com/resources/casting/die-casting/) · [Die Casting Frequently Asked Questions (NADCA)](https://www.diecasting.org/web/Die_Casting/FAQ/Web/About/FAQ.aspx)

@@ -29,3 +29,7 @@ Computers, phones, industrial controllers, vehicle electronics.
 - https://www.youtube.com/watch?v=BepAMlrJwXI — SMT Pick and Place Process - 2015 (Z-AXIS, Inc., 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=9uet6TNtUXI — SMT Pick-and-Place Process (Z-AXIS, Inc., 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=oFJrbRKUXdc — SMT Pick and Place Machine | SMT Pick and Place Process | Surface Mount… (Technical Guideji, 9 minutes, 10k+ views)
+
+## Further reading
+
+[SMT Assembly Explained (Sierra Circuits)](https://www.protoexpress.com/kb/smt-assembly/)

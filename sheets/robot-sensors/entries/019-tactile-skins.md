@@ -27,3 +27,7 @@ Tesla Optimus and Figure fingertip arrays, Sanctuary's touch-enabled hands, pres
 
 ## Economic profile
 Long a research cottage industry, now pulled by humanoid demand toward productization — fingertips first, at $100s per finger, with consumable-replacement economics (a feature for vendors, a cost for fleets). The unsolved product question is standardization: whoever ships the durable, calibrated, easily-integrated "tactile module" that hands standardize on inherits a strategic component slot.
+
+## Further reading
+
+[How Pressure Mapping Sensors Work (Tekscan)](https://www.tekscan.com/company/technology) · [Tactile Robotics: Past and Future (arXiv)](https://arxiv.org/abs/2512.01106)

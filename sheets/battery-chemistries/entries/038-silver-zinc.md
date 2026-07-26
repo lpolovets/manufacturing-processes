@@ -24,3 +24,7 @@ Torpedo and submarine emergency batteries, launch-vehicle avionics packs (Saft, 
 
 ## Economic profile
 A cost-insensitive defense niche with qualification moats and stable incumbents; silver is largely recovered and recycled from spent cells, softening lifecycle cost. Being displaced at the margin by lithium systems engineered to naval safety standards, but slow certification cycles protect the franchise for years.
+
+## Further reading
+
+[Review: Status of Zinc-Silver Battery (Journal of The Electrochemical Society)](https://iopscience.iop.org/article/10.1149/2.1001913jes)

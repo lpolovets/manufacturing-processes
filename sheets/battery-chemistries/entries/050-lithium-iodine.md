@@ -23,3 +23,7 @@ Cardiac pacemakers since 1972 (Greatbatch/Integer, EaglePicher Medical); adjacen
 
 ## Economic profile
 Small unit volumes, extreme margins, brutal qualification barriers: medical-implant power is a two-or-three-supplier oligopoly where a design win lasts a product generation and reliability data is the moat. A model example of value concentrating in the least commoditizable corner of an industry.
+
+## Further reading
+
+[Trends in Cardiac Pacemaker Batteries (Indian Pacing and Electrophysiology Journal via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1502062/) · [Batteries Used to Power Implantable Biomedical Devices (Electrochimica Acta via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3811938/)

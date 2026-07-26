@@ -24,3 +24,7 @@ Intermountain Power (Utah) — 840 MW turbines running 30% hydrogen with 100% ca
 
 ## Economic profile
 These are capacity assets, not energy assets: they earn by existing (capacity markets, reliability contracts) and run rarely. The competition is not batteries but gas peakers with offsets or CCS — the question is which decarbonized firm-power option clears cheapest per kW-year. Turbine retrofits of existing gas fleets are the capital-efficient path that keeps this category alive.
+
+## Further reading
+
+[Hydrogen Energy Storage, Energy Storage Handbook Ch. 11 (Sandia)](https://www.sandia.gov/app/uploads/sites/163/2022/03/ESHB_Ch11_Hydrogen_Headley.pdf) · [Hydrogen and Natural Gas Turbines: Performance and NOx Control (NETL)](https://netl.doe.gov/node/11961)

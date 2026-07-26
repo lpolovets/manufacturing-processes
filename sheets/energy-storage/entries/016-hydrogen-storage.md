@@ -23,3 +23,7 @@ Chevron Phillips Clemens and Air Liquide Spindletop caverns (Texas, decades of o
 
 ## Economic profile
 The cavern is why hydrogen wins seasonal storage on paper: it is the only reservoir cheap enough to cycle once a year. The value therefore concentrates in geology rights and conversion equipment, not the molecule. Where salt doesn't exist, hydrogen's seasonal case weakens sharply — pipelines or carriers (ammonia, LOHC) must import the storability.
+
+## Further reading
+
+[Subsurface Hydrogen Storage: State of Knowledge and Research Recommendations (SHASTA, NETL/PNNL/LLNL)](https://www.netl.doe.gov/projects/files/SubsurfaceHydrogenandNaturalGasStorageStateofKnowledgeandResearchRecommendationsReport_041122.pdf) · [SHASTA Subsurface Hydrogen Storage Project (DOE/NETL)](https://edx.netl.doe.gov/sites/shasta/)

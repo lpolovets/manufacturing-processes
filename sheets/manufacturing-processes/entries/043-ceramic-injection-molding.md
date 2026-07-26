@@ -27,3 +27,7 @@ Dental brackets, watch parts, medical instruments, electronic insulators.
 ## Videos
 
 - https://www.youtube.com/watch?v=0hI7wVDa9Ww — Ceramic Injection Moulding Process - Morgan Advanced Materials (MorganAdvancedMaterials, 2 minutes, 50k+ views)
+
+## Further reading
+
+[Ceramic Injection Molding (Fraunhofer IKTS)](https://www.ikts.fraunhofer.de/en/departments/structural_ceramics/processes_and_components/shaping/ceramic_injection_molding.html)

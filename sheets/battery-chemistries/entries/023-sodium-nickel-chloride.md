@@ -24,3 +24,7 @@ FZSoNick (formerly FIAMM/MES-DEA) telecom and rail backup batteries; historic Th
 
 ## Economic profile
 Survives in niches that price its safety and temperature tolerance — unattended telecom sites, underground installations — where lithium's fire codes bite. Nickel exposure and boutique manufacturing keep $/kWh well above LFP, so it remains a specialty product rather than a storage contender.
+
+## Further reading
+
+[Sodium-Based Battery Technologies, DOE Energy Storage Handbook (Sandia National Laboratories)](https://www.sandia.gov/app/uploads/sites/163/2022/02/ESHB_Ch4_Sodium_Spoerke-1.pdf) · [Intermediate-Temperature Sodium-Nickel Chloride Batteries with Ultra-High Energy Density (Nature Communications via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4753253/)

@@ -26,3 +26,7 @@ Resolvers in EV traction motors (billions of km proven), aerospace actuators and
 
 ## Economic profile
 Resolvers are a stable legacy market; PCB-based inductive encoding is the growth story — EV volume is driving chipset costs toward magnetic-encoder levels while offering better immunity to the magnetic interference inside motor housings. For humanoid joints packed with magnets, that immunity is turning inductive into the default output-side encoder; watch the chipset vendors.
+
+## Further reading
+
+[Resolvers: What They Are and How They Work (Dynapar)](https://www.dynapar.com/technology/encoder_basics/resolvers/) · [IncOder Inductive Ring Encoders (Novanta / Celera Motion)](https://novanta.com/robotics-automation/inductive-ring-encoders/)

@@ -24,3 +24,7 @@ Tesla/Panasonic 2170 and 4680 cells (Model 3/Y long-range variants); high-energy
 
 ## Economic profile
 Cost profile similar to nickel-rich NMC: metal-dominated, with nickel the swing input. Historically tied to a small number of cell-maker relationships (Panasonic-Tesla), so supply is less commoditized than NMC. Competes head-on with 811/9-series NMC; the distinction increasingly blurs into generic "high-nickel."
+
+## Further reading
+
+[Challenges and Approaches of Single-Crystal Ni-Rich Layered Cathodes (National Science Review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10628913/) · [A Reflection on Lithium-Ion Battery Cathode Chemistry (Nature Communications)](https://www.nature.com/articles/s41467-020-15355-0)

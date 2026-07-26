@@ -29,3 +29,7 @@ Aspheric lenses, lithography optics, telescope mirrors.
 - https://www.youtube.com/watch?v=ueawb_uGSKU — Janos Technology Magneto Rheological Finishing (MRF) Services (Janos Technology, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=FoRMajR_E6E — MRF（磁性流体研磨） (SUMITA Optical Glass, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=uGSUjwTgVYw — #ME8073 UNIT IV UNCONVENTIONAL MACHINING PROCESS INTRODUCTION TO… (ROHINI - RPTEL MECHANICAL ENGINEERING, 7 minutes, 1k+ views)
+
+## Further reading
+
+[Magnetorheological Finishing Technology (QED Technologies)](https://qedtech.com/technology/mrf-polishing/)

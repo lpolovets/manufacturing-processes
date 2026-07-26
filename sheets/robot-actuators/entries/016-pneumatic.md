@@ -27,3 +27,7 @@ The lowest cost-per-motion in automation, with the compressor's inefficiency hid
 
 ## Suppliers
 [SMC](https://www.smcworld.com/) — the pneumatics volume leader · [Festo](https://www.festo.com/) — pneumatic and electric automation components
+
+## Further reading
+
+[4 Basic Pneumatic Circuits (Power & Motion)](https://www.powermotiontech.com/fluid-power-basics/pneumatics/article/21155572/automationdirect-4-basic-pneumatic-circuits) · [Industrial Pneumatics: Operational Essentials and Specification Tips (Power & Motion)](https://www.powermotiontech.com/pneumatics/pneumatic-cylinder-actuators/article/55320290/rs-formerly-allied-electronics-automation-industrial-pneumatics-operational-essentials-and-specification-tips)

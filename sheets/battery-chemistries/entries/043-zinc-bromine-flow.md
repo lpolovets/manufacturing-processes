@@ -24,3 +24,7 @@ Redflow (Australia; entered administration 2024 — a cautionary datapoint) resi
 
 ## Economic profile
 Repeatedly commercialized, repeatedly stalled: the materials-cost promise is real, but complexity-driven O&M and single-vendor risk have kept bankability out of reach. Best read as a chemistry whose success depends on ruthless mechanical simplification (fewer moving parts) rather than further electrochemical work.
+
+## Further reading
+
+[Scientific Issues of Zinc-Bromine Flow Batteries (Exploration via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10742200/) · [Zinc-Bromine Rechargeable Batteries: Configuration to Performance (Nano-Micro Letters via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10471567/)

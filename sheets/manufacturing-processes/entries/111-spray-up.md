@@ -29,3 +29,7 @@ Bathtubs, boat hulls, shower stalls, RV panels.
 - https://www.youtube.com/watch?v=TAwlVN1iG0k — Spraying Fiberglass- Setting Up Chopper Motor & Fan Pattern (Magnum Venus Products, 4 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=GPWuRB1UDBY — Fiberglass Chopper Spray Gun (Ocean Builders, 2 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=6oM-cHbfTNI — Producing fiberglass composites by hand and spray layups (TE&MC, 4 minutes, 1k+ views)
+
+## Further reading
+
+[Open Molding Processes Primer (ACMA Discover Composites)](https://acmanet.org/discover-composites/processes/openmolding/) · [Composite Fabrication Methods Overview (CompositesWorld)](https://www.compositesworld.com/articles/fabrication-methods)

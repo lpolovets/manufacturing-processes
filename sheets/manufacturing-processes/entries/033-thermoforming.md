@@ -29,3 +29,7 @@ Packaging trays, refrigerator liners, aircraft interior panels, signs, shower en
 - https://www.youtube.com/watch?v=HWX_XxS4zY8 — Vacuum/Thermal Forming Explained (AEB, 6 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=_P8YnvOdhV8 — Thermoforming, Vacuum Forming & Pressure Forming | CandK Plastics | Metuchen,… (Part Gurus, 10 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=Oi5KLNxVlc0 — The Vacuum Forming Process (Toolcraft Plastics Ltd - Plastic Injection Moulding & Mould Toolmaking, 1 minute, 10k+ views)
+
+## Further reading
+
+[Thermoforming Overview and Design Guide (Ray Products)](https://www.rayplastics.com/overview-thermoforming-design-guide/) · [Heavy Gauge Thermoforming Process and Design Guide (Productive Plastics)](https://www.productiveplastics.com/wp-content/uploads/productive-plastics-thermoforming-design-guide.pdf)

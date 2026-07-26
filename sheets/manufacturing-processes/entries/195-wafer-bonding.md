@@ -29,3 +29,7 @@ MEMS sensors, microfluidics, image sensors, 3D integration.
 - https://www.youtube.com/watch?v=ky0-JlfuuM8 — Discover: die-to-wafer hybrid bonding | CEA-Leti (CEA, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=pM--zW-beA4 — Discover: wafer-to-wafer hybrid bonding | CEA-Leti (CEA, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=UVbqgwKMXFI — EVG Gemini Fully Automated Production Bonding System (Lithography Equipment Support, 7 minutes, 5k+ views)
+
+## Further reading
+
+[Wafer Bonding Technology Portfolio (EV Group)](https://www.evgroup.com/technologies/) · [Hybrid and Fusion Bonding Explained (EV Group)](https://www.evgroup.com/technologies/fusion-and-hybrid-bonding)

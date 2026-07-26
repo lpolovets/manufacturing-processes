@@ -29,3 +29,7 @@ Gears, steel forgings, rails, landing gear.
 - https://www.youtube.com/watch?v=qpgcD5k1494 — Magnetic Particle Inspection (MaterialsScience2000, 4 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=q61owS66CkU — Magnetic Particle Testing (MT) - NDT Inspection Technique (Dexon Technology, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=i6zAPx0XTUI — How to Do Fluorescent NDT with Magnetic Particle Inspection (Magnaflux, 7 minutes, 100k+ views)
+
+## Further reading
+
+[Magnetic Particle Inspection FAQs (Magnaflux)](https://magnaflux.com/Magnaflux/Resources/FAQs/FAQs--Magnetic-Particle-Inspection) · [Basic Knowledge of Magnetic Particle Crack Detection (Karl Deutsch)](https://www.karldeutsch.de/ndt-knowledge/basic-knowledge/basic-knowledge-of-magnetic-particle-crack-detection/?lang=en)

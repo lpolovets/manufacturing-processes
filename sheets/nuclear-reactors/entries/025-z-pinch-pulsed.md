@@ -22,3 +22,7 @@ Zap Energy (Seattle, sheared-flow Z-pinch, FuZE-Q targeting scientific breakeven
 
 ## Economic profile
 The capital-efficiency wing of fusion: if confinement physics cooperates, the driver hardware is commodity power electronics riding its own cost curve. Pacific Fusion's founding raise signals investor appetite for "NIF physics with affordable drivers." The risk concentration is inverted from tokamaks — cheap machine, expensive physics uncertainty — making this the highest-variance, lowest-capex corner of the field.
+
+## Further reading
+
+[Z-Pinch Fusion — review by U. Shumlak (Journal of Applied Physics, via DOE OSTI)](https://www.osti.gov/servlets/purl/1799021) · [Z Pulsed Power Facility (Sandia National Laboratories)](https://www.sandia.gov/z-machine/)

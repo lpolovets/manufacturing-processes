@@ -28,3 +28,7 @@ Wheels, suspension components, cylinder heads, pressure housings.
 
 - https://www.youtube.com/watch?v=n4FUBQfLDW4 — Low-pressure die casting animation (ForceBeyond, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=O8ztvykvDh4 — Casting alloy wheels by low pressure (GMP Italia, 3 minutes, 10k+ views)
+
+## Further reading
+
+[Low-Pressure vs. High-Pressure Die Casting (Kurtz Ersa)](https://kurtzersa.com/news/kurtz-ersa-magazine/issue-42/moulding-machines-36/low-pressure-vs-high-pressure-die-casting) · [Die Casting of Aluminum Alloys: Part Two (Total Materia)](https://www.totalmateria.com/en-us/articles/die-casting-of-aluminum-alloys-2/)

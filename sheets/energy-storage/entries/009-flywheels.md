@@ -24,3 +24,7 @@ Beacon Power's 20 MW regulation plants (Stephentown NY, Hazle PA); Amber Kinetic
 
 ## Economic profile
 A niche, profitable power-quality business rather than an energy-storage market: data centers, microgrids, and industrial pulse loads pay for cycle life and reliability that batteries can't match. Every attempt to push flywheels into hours-long duty has foundered on $/kWh; the survivors sell $/kW and durability.
+
+## Further reading
+
+[Flywheel Energy Storage Systems (Beacon Power)](https://beaconpower.com/) · [U.S. DOE Energy Storage Handbook (Sandia National Laboratories)](https://www.sandia.gov/ess/publications/doe-oe-resources/eshb)

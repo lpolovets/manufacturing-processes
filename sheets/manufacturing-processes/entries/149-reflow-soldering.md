@@ -29,3 +29,7 @@ Printed circuit boards, LED assemblies, electronic modules.
 - https://www.youtube.com/watch?v=DYrucIWig24 — How to do SMD Reflow Soldering properly! || Hot Air VS Sand VS Reflow Oven (GreatScott!, 10 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=-uXqwwzpnzs — Reflow Soldering Machine Explained | SMT Reflow Process Step by Step (Technical Guideji, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=I_B-D0FvDx8 — Reflow Soldering Basics (Neoden USA, 9 minutes, 10k+ views)
+
+## Further reading
+
+[Reflow Soldering for PCB Assembly (Electronics Notes)](https://www.electronics-notes.com/articles/constructional_techniques/soldering/reflow-soldering.php)

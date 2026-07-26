@@ -28,3 +28,7 @@ Crankshafts, camshafts, gears, bearing races.
 
 - https://www.youtube.com/watch?v=eKB3wNiJwjQ — Supfina Superfinishing of Bearings and Bearing Rollers (Cutting Tool Engineering, 2 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=ngtp9H-VduM — Superfinishing of raceways of tapered roller bearing- Tedin Bearing (Jenny Zhao- Tedin Bearing, 2 minutes, under 1k views)
+
+## Further reading
+
+[Superfinishing Technology Explained (Supfina)](https://www.supfina.com/us/products-us/technology-us/superfinishing-us.html)

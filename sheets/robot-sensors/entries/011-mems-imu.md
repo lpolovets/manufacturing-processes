@@ -26,3 +26,7 @@ Bosch/TDK-InvenSense/STMicro consumer parts in every phone and drone flight cont
 
 ## Economic profile
 Consumer silicon costs cents; each 10× improvement in bias stability costs roughly 10× more, up through export-controlled navigation grades. The interesting frontier is software eating grade: learned IMU odometry and better fusion extract tactical-grade performance from consumer parts, compressing the pyramid from below.
+
+## Further reading
+
+[Inertial Navigation Primer (VectorNav)](https://www.vectornav.com/resources/inertial-navigation-primer) · [Using Inertial Sensors for Position and Orientation Estimation (arXiv)](https://arxiv.org/abs/1704.06053)

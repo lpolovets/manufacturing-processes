@@ -24,3 +24,7 @@ Schunk EGP/EGU lines, Robotiq 2F-85/140 (the cobot-era standard), OnRobot RG ser
 
 ## Economic profile
 A $500–5k product line at the heart of the cobot accessory boom, with plug-and-play ecosystem certification (UR+) as the distribution moat. Chinese vendors have halved street prices in five years. The strategic role is default-choice status: integrators reach for a parallel-jaw first and justify anything else — which makes its ecosystem position more valuable than any spec.
+
+## Further reading
+
+[Gripper Sizing Assistant (SCHUNK)](https://schunk.com/us/en/digital-tools-services/sizing-assistant-gripping/sizing-assistant-gripping/p/EPIM_ID-66074) · [Robot End Effectors: Uses, Benefits, and Costs (HowToRobot)](https://howtorobot.com/expert-insight/robot-end-effectors)

@@ -27,3 +27,7 @@ A semiconductor business, not a motion-control one: value tracks design wins in 
 
 ## Suppliers
 [Mirrorcle Technologies](https://www.mirrorcletech.com/) — MEMS mirror actuators · [Texas Instruments](https://www.ti.com/) — DLP micromirror arrays
+
+## Further reading
+
+[Mirrorcle MEMS Mirrors: Technical Overview (Mirrorcle Technologies, PDF)](https://www.mirrorcletech.com/pdf/Mirrorcle_MEMS_Mirrors_-_Technical_Overview.pdf) · [Electrostatically Actuated MEMS Resonators: A Review (Microsystems & Nanoengineering via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12780223/)

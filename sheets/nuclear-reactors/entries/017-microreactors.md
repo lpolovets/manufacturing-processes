@@ -23,3 +23,7 @@ Westinghouse eVinci (heat-pipe, 5 MWe, test unit at INL planned), Oklo's Aurora 
 
 ## Economic profile
 Unit economics resemble aerospace, not utilities: high margin, low volume, logistics-driven willingness to pay. Defense demand (Pele, installation resilience) is the anchor tenant; data-center colocation is the volume dream. The honest comparison in every deal is a diesel genset fleet plus fuel convoys — beat that with a sealed 8-year core and the price premium clears.
+
+## Further reading
+
+[What Is a Nuclear Microreactor? (US DOE Office of Nuclear Energy)](https://www.energy.gov/ne/articles/what-nuclear-microreactor) · [eVinci Microreactor (Westinghouse)](https://westinghousenuclear.com/energy-systems/evinci-microreactor/)

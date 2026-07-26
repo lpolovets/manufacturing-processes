@@ -28,3 +28,7 @@ Cell binning and pack matching.
 
 - https://www.youtube.com/watch?v=72NSY4IDuqU — Efficient Battery Cell Grading Machine for 32-60mm Diameter Cells | Semco… (Semco Infratech Pvt. Ltd., 8 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=4gPYaI4ASdk — Battery Cell Formation & Test Solutions | Chroma (Chroma ATE, 4 minutes, 1k+ views)
+
+## Further reading
+
+[Production Process of a Lithium-Ion Battery Cell (VDMA / RWTH Aachen PEM)](https://www.vdma.eu/documents/34570/35405938/Production_Process_of_a_Lithium-Ion_Battery_Cell_2026.pdf/72b475da-b7c6-3b59-1405-236ef0e9efeb?filename=Production_Process_of_a_Lithium-Ion_Battery_Cell_2026.pdf) · [High-Precision Detection of Cell-to-Cell Variation in Li-Ion Batteries (Scientific Reports)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7188792/)

@@ -29,3 +29,7 @@ Architectural glazing, side windows, shower doors, oven doors.
 - https://www.youtube.com/watch?v=GCnQVVfjabk — Glass Tempering Process Explained - Technical Glass Products - Kopp Glass,… (Kopp Glass, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=n8mbIsXCtTE — How Tempered Glass is Made | Everyone Uses the Same Factory (Gamers Nexus, 13 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=joGN1zrJJ6o — How Is Glass Processed - Tempered Glass Manufacturing | Glass Factory (Explore & Discover, 19 minutes, 1m+ views)
+
+## Further reading
+
+[Heat-Strengthened vs. Tempered Glass (Vitro Glass Education Center)](https://glassed.vitroglazings.com/topics/heat-strengthened-vs-tempered-glass) · [TD-138: Heat-Treated Glass for Architectural Glazing (Vitro Architectural Glass)](https://www.vitroglazings.com/media/acmdf3a5/vitro-td-138-heat-treated-glass-v8.pdf)

@@ -33,3 +33,7 @@ Very high capex; high utilization requirements; typically measured in tons rathe
 - https://www.youtube.com/watch?v=AuuP8L-WppI — Hot Rolling Mill (Högskolan Dalarna, 7 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=iB6jArEloYE — ROLLINGS PROCESS: What is rolling process and how it is done (Animation) (ADTW Study, 4 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=4LBkLCCjpM0 — Metalwork | Modern technology of steel rolling mill - Technology solutions (Amazing Technology, 11 minutes, 100k+ views)
+
+## Further reading
+
+[Hot Rolling Course (steeluniversity, World Steel Association)](https://steeluniversity.org/product/hot-rolling/)

@@ -29,3 +29,7 @@ Semiconductor gas lines, stainless medical devices, pharmaceutical equipment, ad
 - https://www.youtube.com/watch?v=0XUS9bRSihM — What is Electropolishing? | How Does Electropolishing Work? (Able Electropolishing Co., 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=UDAXVzOfUNE — The Electropolishing Process (New England Electropolishing, 5 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=M90XKr7vsas — What is Electropolishing? (New England Electropolishing, 4 minutes, 50k+ views)
+
+## Further reading
+
+[What Is Electropolishing and How Does It Work? (Able Electropolishing)](https://www.ableelectropolishing.com/what-is-electropolishing-and-how-does-it-work/) · [Electropolishing User's Guide (Delstar Metal Finishing)](https://www.delstar.com/electropolishing-users-guide)

@@ -22,3 +22,7 @@ Chernobyl (all units closed, 1986–2000); Leningrad, Kursk, and Smolensk units 
 
 ## Economic profile
 No commercial future; relevance is analytical. The RBMK is the permanent cautionary entry in any reactor comparison: a design that was cheap precisely because it externalized safety margin, operated by an institution that couldn't admit the flaw. Every modern "inherent safety" pitch — passive decay heat, negative coefficients everywhere — is implicitly priced against this history.
+
+## Further reading
+
+[RBMK Reactors (World Nuclear Association)](https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors) · [Chernobyl Accident (World Nuclear Association)](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident)

@@ -29,3 +29,7 @@ Furniture, cabinetry, framing, musical instruments, flooring.
 - https://www.youtube.com/watch?v=t3-1C_aksJQ — The US Sawmill: How Hardwood Lumber is Made (Banks Hardwoods, 9 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=PRvaDNc4Xus — How 2x4s Are Made: Sawmill Tour (Essential Craftsman, 16 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=cmmh7WnhYOE — CNC Routers, Toolpaths, and Software — Explained in 11 Minutes (Cutting It Close, 11 minutes, 10k+ views)
+
+## Further reading
+
+[Wood Handbook: Wood as an Engineering Material (USDA Forest Products Laboratory)](https://research.fs.usda.gov/fpl/wood-handbook)

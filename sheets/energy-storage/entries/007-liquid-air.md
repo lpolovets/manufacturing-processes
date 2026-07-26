@@ -24,3 +24,7 @@ Highview Power: Pilsworth pilot, the 50 MW/300 MWh Carrington plant (UK, under c
 
 ## Economic profile
 Tank capacity costs tens of $/kWh; the expensive parts are the liquefier and power island ($/kW). LAES therefore wants 8–12+ hour duty with abundant cheap surplus power — exactly the profile of wind-heavy grids like Britain's. The efficiency penalty is the permanent tax; the siting freedom and supply-chain maturity are the compensation.
+
+## Further reading
+
+[Liquid Air Energy Storage Technology (Highview Power)](https://highviewpower.com/infrastructure-technology/) · [ESGC Cost & Performance: Thermal Energy Storage incl. LAES (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/thermal)

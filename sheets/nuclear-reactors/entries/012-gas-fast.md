@@ -22,3 +22,7 @@ Purely programmatic: Euratom's ALLEGRO demonstrator concept (Czech/Slovak/Hungar
 
 ## Economic profile
 No credible commercial vehicle exists; the GFR persists as a research placeholder for "what if HTGR safety met breeder economics." Its analytical value is as a boundary case: the design shows why coolant thermal inertia — not elegance — decides which advanced reactors are buildable. Watch only if refractory carbide fuels mature elsewhere (space reactors may inadvertently qualify them).
+
+## Further reading
+
+[Gas-Cooled Fast Reactor (Generation IV International Forum)](https://www.gen-4.org/generation-iv-criteria-and-technologies/gas-cooled-fast-reactor-gfr)

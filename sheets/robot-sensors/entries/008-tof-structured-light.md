@@ -27,3 +27,7 @@ Microsoft Azure Kinect and its industrial successors, orbbec's Kinect-lineage se
 
 ## Economic profile
 Phone and automotive in-cabin volume made ToF chips a commodity; industrial-grade structured-light scanners (Photoneo, Zivid at $5–15k) hold the precision bin-picking niche with sub-millimeter accuracy. For indoor manipulation this family is usually the right first answer — the compute savings versus stereo pays for the sensor. Outdoors, it simply isn't in the running.
+
+## Further reading
+
+[Time-of-Flight Camera: An Introduction (Texas Instruments)](https://www.ti.com/lit/pdf/sloa190) · [How Structured Light Works (Zivid)](https://blog.zivid.com/how-structured-light-works)

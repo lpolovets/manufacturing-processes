@@ -29,3 +29,7 @@ Billets, tube, structural steel, lumber, plastic stock.
 - https://www.youtube.com/watch?v=rSqC3i8jjrU — How to Use a Horizontal Band Saw (ASC Process Systems, 8 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=tq7opz6yUWo — Unleash the Power of Metalworking with the Horizontal Bandsaw: A Complete… (Mr Parker, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=lvisBNMDrZU — Industrial Metal Cutting Band Saws - Setup & Best Practices - Straight from… (Purity Cylinder Gases, 10 minutes, 5k+ views)
+
+## Further reading
+
+[Guide to Band Sawing (LENOX)](https://www.sawcalc.com/images/lenox-guide-to-band-sawing.pdf) · [Bandsaw Blade Guide: TPI, Bi-Metal vs Carbide and Selection (AIMS Industrial)](https://aimsindustrial.com.au/blogs/product-guides/bandsaw-blade-guide)

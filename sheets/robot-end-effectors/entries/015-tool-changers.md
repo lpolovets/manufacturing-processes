@@ -24,3 +24,7 @@ ATI (the category leader) and Schunk/Stäubli changer lines from cobot-size to 1
 
 ## Economic profile
 A quietly excellent components business: high margins, proven demand, and a position that wins regardless of which effector fashion prevails — more tools per robot means more changers. The cobot wave added a low-end volume tier. Its strategic meaning in the humanoid era is real: if task-specific tools plus changers stay cheaper than dexterous generality, the changer is the hand.
+
+## Further reading
+
+[Robotic Tool Changer Selection Guide (ATI Industrial Automation)](https://www.ati-ia.com/products/toolchanger/tool_changer_selection.aspx) · [Tool Changer Applications and Engineering Considerations (ATI Industrial Automation)](https://www.ati-ia.com/products/toolchanger/applications/qc20article1.aspx)

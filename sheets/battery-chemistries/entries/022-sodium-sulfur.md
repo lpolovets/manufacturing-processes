@@ -24,3 +24,7 @@ NGK Insulators systems: hundreds of MW deployed for Japanese utilities, Abu Dhab
 
 ## Economic profile
 Proven levelized economics for 4–8 hour daily cycling, but the technology never achieved a cost curve — one dominant supplier, ceramic-tube manufacturing that resisted scaling, and now direct assault from ever-cheaper LFP containers. Instructive as the cautionary tale that early long-duration leadership doesn't survive a rival's learning curve.
+
+## Further reading
+
+[NAS Battery System Technical Overview (NGK Insulators)](https://www.ngk-global.com/product/nas.html) · [Sodium-Based Battery Technologies, DOE Energy Storage Handbook (Sandia National Laboratories)](https://www.sandia.gov/app/uploads/sites/163/2022/02/ESHB_Ch4_Sodium_Spoerke-1.pdf)

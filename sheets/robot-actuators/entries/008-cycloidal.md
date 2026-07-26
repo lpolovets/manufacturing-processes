@@ -27,3 +27,7 @@ The other half of the Japanese precision-reducer duopoly, with the same story ar
 
 ## Suppliers
 [Nabtesco](https://www.nabtesco.com/) — RV cycloidal reducers, ~60% world share · [Spinea](https://www.spinea.sk/) — compact TwinSpin cycloidals
+
+## Further reading
+
+[Functional Principle of Cycloidal Gears (Nabtesco)](https://www.nabtesco.de/en/service/faq/technologies/functional-principle-of-cycloidal-gears) · [RV Two-Stage Reduction Engineering (Nabtesco Motion Control)](https://www.nabtescoprecision.com/engineering/)

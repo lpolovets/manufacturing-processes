@@ -24,3 +24,7 @@ Sila (Mercedes G-Class program), Group14 (SK, Porsche programs), Amprius high-de
 
 ## Economic profile
 Anode materials command large premiums today ($ tens per kg versus ~$5–10 for graphite), workable first in drones, defense, and premium consumer devices. The bet is that silicon-carbon scales down the cost curve while dodging China's graphite dominance — anode supply chain diversification is part of the pitch.
+
+## Further reading
+
+[Towards High Energy Density Anodes: Silicon and Lithium (Chemical Science)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6686730/)

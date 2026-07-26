@@ -22,3 +22,7 @@ Japan's HTTR (operating, 950 °C demonstrations, coupled hydrogen-production tes
 
 ## Economic profile
 Sits in the pebble bed's shadow commercially: the same heat markets, less momentum. Its distinctive asset is the 950 °C capability — the only demonstrated fission route to sulfur-iodine hydrogen and the hottest industrial heat. USNC's bankruptcy is the sector's caution: TRISO-based microreactor ventures burn capital on fuel qualification long before revenue.
+
+## Further reading
+
+[HTGR Research and Development — HTTR (JAEA)](https://www.jaea.go.jp/04/o-arai/nhc/en/) · [Very-High-Temperature Reactor (Generation IV International Forum)](https://www.gen-4.org/generation-iv-criteria-and-technologies/very-high-temperature-reactor-vhtr)

@@ -29,3 +29,7 @@ Enclosures, brackets, signage, gaskets, sheet-metal components.
 - https://www.youtube.com/watch?v=SIjUVCho_xU — How does laser cutting work? Basics explained (Trotec Laser, 2 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=t4BfQGhhbOQ — How CO2 Laser Cutters work and ...Why you might want to build one! (Further Fabrication, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=CyZsKxQvJcs — How a Laser Cutter Works (Manufacturing IE-Purdue, 1 minute, 50k+ views)
+
+## Further reading
+
+[Guide to Sheet Metal Laser Cutting (Xometry)](https://www.xometry.com/resources/sheet/sheet-metal-laser-cutting/) · [Laser Cutting: Processes and Parameters (TRUMPF)](https://www.trumpf.com/en_US/solutions/applications/laser-cutting/)

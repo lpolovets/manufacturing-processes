@@ -23,3 +23,7 @@ Hearing-aid buttons (the overwhelming application — billions yearly from Varta
 
 ## Economic profile
 A textbook fit-to-application chemistry: hearing aids draw microamps for weeks, exactly matching zinc-air's activation-limited life. Rechargeable hearing aids (Li-ion) are eroding the base steadily. Large primary zinc-air survives only in specialty signaling; the chemistry's future arguments are all on the rechargeable/grid side.
+
+## Further reading
+
+[Zinc Air (Zn/O2) Application Manual (Energizer)](https://data.energizer.com/pdfs/zincair_appman.pdf)

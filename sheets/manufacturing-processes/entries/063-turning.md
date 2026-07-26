@@ -29,3 +29,7 @@ Shafts, bushings, fittings, pistons, rollers.
 - https://www.youtube.com/watch?v=8EsAxOnzEms — Turning & the Lathe (Tooling U-SME, 2 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=NgbbB1tdmo4 — Working principle of Lathe | Animation | (LearnEngg, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=-J3wN1ruDZM — Turning Processes Overview (Mike Braddock, 4 minutes, 10k+ views)
+
+## Further reading
+
+[General Turning Knowledge (Sandvik Coromant)](https://www.sandvik.coromant.com/en-gb/knowledge/general-turning) · [CNC Turning Design Guidelines (Protolabs)](https://www.protolabs.com/services/cnc-machining/cnc-turning/design-guidelines/)

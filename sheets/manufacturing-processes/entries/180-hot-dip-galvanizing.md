@@ -29,3 +29,7 @@ Guardrails, structural steel, utility hardware.
 - https://www.youtube.com/watch?v=kwCyq06aatA — Hot-Dip Galvanizing: Protecting Steel For Generations (American Galvanizers Association, 6 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=c2J07n5hSbs — Hot Dip Galvanized Steel - What, How & Where (Galvanizers Association of Australia, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=3Q9yH1XsLQY — The Hot Dip Galvanizing Process Explained (Joseph Ash Galvanizing, 3 minutes, 10k+ views)
+
+## Further reading
+
+[Design of Products to be Hot-Dip Galvanized After Fabrication (American Galvanizers Association)](https://galvanizeit.org/uploads/publications/Design-Guide-AGA-2023-reduced-size_2024-09-10-171216_zgwg.pdf) · [Hot-Dip Galvanizing for Corrosion Protection: A Specifier's Guide (American Galvanizers Association)](https://galvanizeit.org/uploads/publications/Galvanized_Steel_Specifiers_Guide.pdf)

@@ -24,3 +24,7 @@ Fronius, Lincoln, ESAB, and Binzel robotic torch lines; resistance spot-guns by 
 
 ## Economic profile
 A mature, consumables-rich market riding two growth waves: EV battery and body welding, and the welder-shortage-driven cobot welding boom bringing automation to five-person fab shops. The torch itself is oligopoly-stable; the venture action is in the software and fixturing wrapper that makes a $120k welding cell deployable by a shop with no robotics engineer.
+
+## Further reading
+
+[Robotic Welding Systems Overview (Fronius)](https://www.fronius.com/en/welding/products/robotic-welding) · [Active Visual Sensing Methods for Robotic Welding: Review and Tutorial (arXiv)](https://arxiv.org/abs/2405.00685)

@@ -27,3 +27,7 @@ Frameless torque motors that cost $500+ from Western catalogs ship for $50–150
 
 ## Suppliers
 [T-Motor](https://store.tmotor.com/) — high-torque outrunners and robot-joint motors · [mjbots](https://mjbots.com/) — open FOC drives and moteus servo modules
+
+## Further reading
+
+[AN885: Brushless DC Motor Fundamentals (Microchip)](https://ww1.microchip.com/downloads/en/AppNotes/00885a.pdf) · [Sensorless BLDC Position and Speed Control: A Technical Review (arXiv)](https://arxiv.org/abs/2402.05263)

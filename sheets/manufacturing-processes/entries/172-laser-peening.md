@@ -29,3 +29,7 @@ Turbine blades, aircraft structures, nuclear components.
 - https://www.youtube.com/watch?v=___hCW_EPPg — How Laser Peening Works (LSP Technologies, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=q_3jvMn5bPU — Laser Peening (Curtiss-Wright Corporation, 4 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=PGZgRb6KezE — Introduction to Laser Peening (LSP Technologies, 2 minutes, 5k+ views)
+
+## Further reading
+
+[How Laser Peening Works (LSP Technologies)](https://lftcglobal.com/how-laser-peening-works/)

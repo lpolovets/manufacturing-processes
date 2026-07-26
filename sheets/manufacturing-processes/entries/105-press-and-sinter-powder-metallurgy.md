@@ -29,3 +29,7 @@ Gears, bushings, filters, magnets, automotive components.
 - https://www.youtube.com/watch?v=I39m28NZ7_s — Conventional Press-and-Sinter Powder Metallurgy (MPIF Videos, 12 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=azGg68B-Glk — Powdered Metal Process (Comtec Mfg., Inc., 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=z5327SSM6G0 — Sintering Metal Process (Omnidex Group, 2 minutes, 100k+ views)
+
+## Further reading
+
+[Powder Metallurgy Processes (MPIF)](https://www.mpif.org/IntrotoPM/Processes.aspx) · [Design Considerations with Powder Metallurgy (PickPM, MPIF)](https://www.pickpm.com/DesignCenter/DesignConsiderations.aspx)

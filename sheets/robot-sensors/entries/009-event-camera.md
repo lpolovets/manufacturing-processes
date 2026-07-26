@@ -27,3 +27,7 @@ iniVation DVS and Prophesee-Sony IMX636/GenX320 (the commercial standard-bearers
 
 ## Economic profile
 Sony's fab partnership with Prophesee signaled real intent, but a decade of "emerging" status reflects the missing volume driver: every proposed use has an adequate conventional alternative. The plausible break-in points are always-on low-power vision (wearables, IoT) and hybrid sensors where events augment frames. Price follows volume; volume awaits the app.
+
+## Further reading
+
+[Event-Based Metavision Sensors (Prophesee)](https://www.prophesee.ai/event-based-sensors/) · [Event-Based Vision: A Survey (arXiv)](https://arxiv.org/abs/1904.08405)

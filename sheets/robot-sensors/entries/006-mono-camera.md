@@ -27,3 +27,7 @@ Tesla's eight-camera Autopilot suite (the camera-only flagship), every drone (DJ
 
 ## Economic profile
 Sensor cost is a rounding error; compute and data pipelines are the spend. The strategic argument of the decade — camera-only versus fusion — is at heart a bet that model progress outruns the cost of the sensors it replaces. Even fusion stacks are camera-first for semantics, so the modality's centrality is not in question; only its sufficiency is.
+
+## Further reading
+
+[Understanding Camera Sensors for Machine Vision (Edmund Optics)](https://www.edmundoptics.com/knowledge-center/application-notes/imaging/understanding-camera-sensors-for-machine-vision-applications/) · [Computer Vision: Algorithms and Applications (Szeliski)](https://szeliski.org/Book/)

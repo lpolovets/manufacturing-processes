@@ -29,3 +29,7 @@ Plastic medical disposables, electronics housings, wire harnesses, battery tabs,
 - https://www.youtube.com/watch?v=46YvT_9_YDM — What is Ultrasonic Welding Process ?? ||Engineer's Academy|| (Engineer's Academy, 6 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=TH5Pkj3ew7k — ULTRASONIC WELDING | How Ultrasonic Welding process works (ADTW Study, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=gFZYfYpoQWk — Discovering ultrasonics with Guido: How does ultrasonics really work? (Herrmann Ultraschall, 4 minutes, 10k+ views)
+
+## Further reading
+
+[Ultrasonic Plastic Welding Technology (Branson by Emerson)](https://www.branson.emerson.com/en/ultrasonic-plastic-welding) · [What Is Ultrasonic Welding? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/what-is-ultrasonic-welding)

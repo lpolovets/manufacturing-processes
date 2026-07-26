@@ -29,3 +29,7 @@ Keyways, splines, turbine-disc slots, polygonal holes.
 - https://www.youtube.com/watch?v=eit-EPDf8dg — BROACHING: Innovative Way To Cut Complex Metal Shapes (TITANS of CNC MACHINING, 8 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=nQNgEcH3Mpc — Manufacturing Process: Broaching (Chris & Jim CIM (ChrisandJimCIM), 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=3dWHLGUmlfE — Keyway Broaching (TheToolReview, 16 minutes, 10k+ views)
+
+## Further reading
+
+[Broaching Fundamentals (Gear Technology)](https://www.geartechnology.com/broaching-fundamentals) · [Broaching Fundamentals Course (General Broach)](https://www.generalbroach.com/broaching-fundamentals/)

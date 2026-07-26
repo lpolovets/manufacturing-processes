@@ -33,3 +33,7 @@ Often one of the largest capex and cycle-time bottlenecks in a battery factory.
 - https://www.youtube.com/watch?v=T4D9KpmZhWs — [Battery Report] How Batteries are Made: Step 3 – Formation (LG Energy Solution Global, 2 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=4gPYaI4ASdk — Battery Cell Formation & Test Solutions | Chroma (Chroma ATE, 4 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=tClJ0KBYkbE — Cell Manufacturing Process description (Spatial Integrated Systems, Inc., 2 minutes, under 1k views)
+
+## Further reading
+
+[Predicting the Impact of Formation Protocols on Battery Lifetime (arXiv)](https://arxiv.org/abs/2203.14158) · [Current and Future Lithium-Ion Battery Manufacturing (iScience)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8050716/)

@@ -29,3 +29,7 @@ Tube crimping, aluminum forming, connector joining.
 - https://www.youtube.com/watch?v=NrDe48_pxpY — MPS - Electromagnetic (magnetic pulse) Forming and welding (SFGCO, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=PbpTEpvk0oQ — Electromagnetic forming process for metallic pieces (Mines Paris - PSL, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=nMgIYBYLc3g — Openable Actuator: A New Electromagnetic Forming Method (Impulse Manufacturing Laboratory at Ohio State, 5 minutes, 10k+ views)
+
+## Further reading
+
+[Electromagnetic Forming — A Review, Psyk et al. (Univ. of New Hampshire Scholars Repository)](https://scholars.unh.edu/mecheng_facpub/11/)

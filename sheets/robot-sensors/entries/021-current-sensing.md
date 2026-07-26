@@ -27,3 +27,7 @@ Universal Robots' collision detection and freedrive, Franka's blended joint-torq
 
 ## Economic profile
 The margin-destroyer of the force-sensing market: free and adequate is a brutal competitor to expensive and precise. Its ceiling is physics (friction masks signal), so the equilibrium is stratified — current sensing for safety and coarse contact everywhere, dedicated F/T and tactile where precision pays. For diligence on "sensor-light" robot pitches, probe exactly where that friction floor sits for their transmissions.
+
+## Further reading
+
+[An Engineer's Guide to Current Sensing (Texas Instruments)](https://www.ti.com/lit/eb/slyy154a/slyy154a.pdf) · [Robot Collisions: A Survey on Detection, Isolation, and Identification (Haddadin et al., IEEE T-RO)](http://www.diag.uniroma1.it/~labrob/pub/papers/TRO_Collision_Dec2017.pdf)

@@ -29,3 +29,7 @@ Lead screws, pipe fittings, custom fasteners, threaded shafts.
 - https://www.youtube.com/watch?v=nCZFmuYnotQ — Single Point Threading on the Lathe I (Clickspring Clips, 4 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=wvYQdi68074 — How to cut a thread on a manual lathe (Intermediate method ideal for home… (Handmade Extreme, 12 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=AT3-2VX_vFc — How to Cut Single Point Taper Pipe Threads on a CNC Lathe (Practical Machinist, 14 minutes, 10k+ views)
+
+## Further reading
+
+[Threading Knowledge (Sandvik Coromant)](https://www.sandvik.coromant.com/en-gb/knowledge/threading) · [Threading Considerations for CNC Machining (Protolabs)](https://www.protolabs.com/resources/design-tips/threading-considerations-for-cnc-machining/)

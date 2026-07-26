@@ -24,3 +24,7 @@ There is almost no commercial case for SMES today: consider it only for sub-seco
 
 ## Economic profile
 Commercially dormant: the technology survives as a research field waiting on cheap high-temperature superconductor tape. If REBCO tape costs collapse (driven by fusion-magnet demand), niche SMES could re-emerge for grid inertia and pulse loads — an option-value story, not a market today.
+
+## Further reading
+
+[Superconducting Magnetic Energy Storage Overview (UN Climate Technology Centre)](https://www.ctc-n.org/technologies/superconducting-magnetic-energy-storage) · [Grid-Scale SMES with 2G-HTS Technology (OSTI / DOE)](https://www.osti.gov/biblio/1854334)

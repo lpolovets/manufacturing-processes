@@ -28,3 +28,7 @@ Axles, transmission shafts, stepped pins, connecting-rod preforms.
 
 - https://www.youtube.com/watch?v=SxjbL6TW6GY — LASCO Umformtechnik – Preforming with a cross-wedge roll - EN (LASCO Umformtechnik GmbH, 6 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=K79PqsC5eUM — Industrial applications of cross wedge and skew rolling | J. Bartnicki,… (TRANSVALOR S.A., 18 minutes, 1k+ views)
+
+## Further reading
+
+[Analysis of a Cross Wedge Rolling Process for Producing Drive Shafts (Int J Adv Manuf Technol, open access)](https://d-nb.info/1120190398/34) · [Material Fracture Susceptibility in Cross-Wedge Rolling with Concave Tools (Materials, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9570956/)

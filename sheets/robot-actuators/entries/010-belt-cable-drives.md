@@ -27,3 +27,7 @@ Belts are a commodity; precision cable/capstan work is artisanal engineering wit
 
 ## Suppliers
 [Gates](https://www.gates.com/) — synchronous belts and drives · [SDP/SI](https://www.sdp-si.com/) — small-mechanism belts, cables, and pulleys
+
+## Further reading
+
+[Forte: A Strong, Accurate, Low-Cost Capstan-and-Belt Robot Arm (arXiv)](https://arxiv.org/abs/2507.15693)

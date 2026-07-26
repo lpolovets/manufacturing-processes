@@ -27,3 +27,7 @@ The muscle itself is nearly free; the pneumatic infrastructure is the entire cos
 
 ## Suppliers
 [Festo](https://www.festo.com/) — the Fluidic Muscle, the industrial McKibben productization
+
+## Further reading
+
+[A Review of Pneumatic Artificial Muscle Actuators: Force Model and Application (Actuators via Virginia Tech)](https://vtechworks.lib.vt.edu/items/39bcc6a1-ad15-45ed-81d4-3e456070338b)

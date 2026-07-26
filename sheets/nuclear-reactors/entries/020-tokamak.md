@@ -29,3 +29,7 @@ JET (retired 2024 after record D-T runs), KSTAR and EAST long-pulse records, CFS
 
 ## Economic profile
 The capital magnet of fusion: CFS alone holds a large share of all private fusion funding, plus a signed 200 MW Google offtake. The bet decomposes into three serial miracles — SPARC's Q>1, tritium self-sufficiency, and an availability-and-maintenance story competitive with anything on the grid. Even bulls should model first commercial electricity no earlier than the early-to-mid 2030s and fleet relevance in the 2040s.
+
+## Further reading
+
+[The ITER Machine (ITER Organization)](https://www.iter.org/machine) · [Overview of the SPARC Tokamak (Journal of Plasma Physics, open access)](https://doi.org/10.1017/S0022377820001257)

@@ -24,3 +24,7 @@ Soft Robotics Inc's mGrip food lines (the category's commercial proof, since acq
 
 ## Economic profile
 Food automation made soft gripping a real business — hygiene rules and labor scarcity in proteins and produce pay the premium, and fingers-as-consumables provide recurring revenue. Outside food, soft fingers compete with vacuum and usually lose on speed. The IP moat is thin (fin-rays print anywhere); the durable positions are food-grade certification, materials know-how, and line integration.
+
+## Further reading
+
+[mGrip Soft Finger Grippers for Food Handling (Schmalz)](https://www.schmalz.com/en/products/vacuum-technology-for-automation-301607/vacuum-components-301608/area-gripping-systems-and-end-effectors-306363/finger-grippers-312388/finger-grippers-mgrip-405170) · [Soft Robotic Grippers: A Review (Frontiers in Materials)](https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2025.1692206/full)

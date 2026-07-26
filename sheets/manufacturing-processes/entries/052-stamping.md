@@ -55,3 +55,7 @@ Automotive panels, brackets, appliances, electrical contacts, washers.
 - https://www.youtube.com/watch?v=5CuJjSk4U38 — Sheet Metal Stamping Dies & Processes (Tooling U-SME, 3 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=e6GwPTy-nYs — Sheet Metal Stamping Process Step by Step (AM Industries Vietnam, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=OT1WWYvFMYI — The Metal Stamping Process: How Parts Are Made (Engineering Specialties Inc, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Metal Stamping Design Standards and Considerations (Xometry)](https://www.xometry.com/resources/industry-design-tips/stamping-design-tips/) · [AHSS Application Guidelines: Forming (WorldAutoSteel)](https://ahssinsights.org/forming/)

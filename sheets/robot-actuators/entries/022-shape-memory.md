@@ -27,3 +27,7 @@ Where strokes are sub-millimeter and duty light, SMA already won at consumer vol
 
 ## Suppliers
 [Cambridge Mechatronics](https://www.cambridgemechatronics.com/) — SMA actuators at smartphone volume · [Memetis](https://www.memetis.com/) — SMA micro-valves and miniature actuators
+
+## Further reading
+
+[AI Control Methodologies for SMA Actuators: A Systematic Review (Micromachines via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12300600/) · [A Physics-Based Model of Hysteresis in SMA Wire Transducers (arXiv)](https://arxiv.org/abs/2305.13928)

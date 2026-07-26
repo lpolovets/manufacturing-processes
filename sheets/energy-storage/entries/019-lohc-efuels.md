@@ -24,3 +24,7 @@ Hydrogenious LOHC (Germany, benzyltoluene), Chiyoda's SPERA methylcyclohexane de
 
 ## Economic profile
 As electricity storage these chains are hopeless — the physics tax is too high. As regulated fuels they are viable exactly where mandates or carbon prices force them (SAF quotas, maritime rules). Investment lens: these are commodity-chemicals businesses whose "storage" framing flatters the round trip; underwrite the fuel offtake, not the arbitrage.
+
+## Further reading
+
+[LOHC Technology Explained (Hydrogenious)](https://hydrogenious.net/how/) · [The Role of E-fuels in Decarbonising Transport (IEA)](https://www.iea.org/reports/the-role-of-e-fuels-in-decarbonising-transport)

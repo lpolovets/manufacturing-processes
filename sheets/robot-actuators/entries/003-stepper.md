@@ -27,3 +27,7 @@ The cheapest precision positioning per axis in existence — $5–20 motors, $2 
 
 ## Suppliers
 [STEPPERONLINE](https://www.omc-stepperonline.com/) — commodity NEMA steppers at volume · [Teknic](https://teknic.com/) — ClearPath closed-loop servo-steppers
+
+## Further reading
+
+[Stepper Motor Basics (Oriental Motor)](https://www.orientalmotor.com/stepper-motors/technology/stepper-motor-basics.html) · [Control of Stepping Motors: A Tutorial (University of Iowa)](https://homepage.divms.uiowa.edu/~jones/step/)

@@ -24,3 +24,7 @@ Dalian's 100 MW/400 MWh system and multi-GWh Chinese pipeline (Rongke Power); Su
 
 ## Economic profile
 The most bankable non-lithium storage chemistry, with real 20-year field data. Economics hinge on vanadium price and on durations long enough that tank-scaling beats adding LFP containers — a crossover LFP keeps pushing outward. Electrolyte leasing (separating the commodity from the machine) is the financing innovation to watch. China's state-driven deployments dominate current volume.
+
+## Further reading
+
+[Vanadium Redox Flow Battery Cost and Performance (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/vanadium-redox-flow-battery) · [Redox Species of Redox Flow Batteries: A Review (Molecules via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6332057/)

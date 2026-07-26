@@ -24,3 +24,7 @@ Hubble, ISS, and GEO communication satellites (largely superseded by Li-ion in n
 
 ## Economic profile
 In space it was cost-irrelevant; on the ground the entire bet (EnerVenue) is that stripping aerospace exotica leaves a ~30,000-cycle battery cheap enough to amortize better than LFP over 20+ years. The levelized-cost argument is genuinely interesting; the risk is capex per kWh and volumetric footprint against relentlessly cheapening lithium.
+
+## Further reading
+
+[Hubble Battery Tech Holds Power on Earth (NASA Spinoff)](https://spinoff.nasa.gov/Hubble_Battery_Tech_Holds_Power_on_Earth) · [Overview of the Design, Development, and Application of Nickel-Hydrogen Batteries (NASA NTRS)](https://ntrs.nasa.gov/citations/20030062140)

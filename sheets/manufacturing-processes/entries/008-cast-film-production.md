@@ -29,3 +29,7 @@ Food packaging, stretch wrap, hygiene films, medical packaging.
 - https://www.youtube.com/watch?v=jcLfQkkkf_g — CO-EXTRUSION CAST LINE FOR STRETCH FILM (AMUT, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=ggqtl02N_-U — Cast Film Extrusion Line (Ocean Extrusion, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=fjxzZZES45A — What is cast film extrusion process? (CHALVO, 2 minutes, 1k+ views)
+
+## Further reading
+
+[A Guide to Polyolefin Film Extrusion (LyondellBasell)](https://www.lyondellbasell.com/globalassets/lyb/our-solutions/products/documents/polymers-technical-literature/A_Guide_to_Polyolefin_Film_Extrusion.pdf)

@@ -26,3 +26,7 @@ AMS/ams-OSRAM magnetic chips inside nearly every QDD robot joint, Heidenhain and
 
 ## Economic profile
 A mature component market whose interesting edge is the collapse of absolute-encoder pricing — $5 chips now do what $500 units did, enabling cheap torque-controlled joints. Premium optical/inductive precision (Renishaw, Heidenhain) keeps machine-tool margins. Dual-encoder joints (motor-side + output-side, catching transmission error) are becoming the humanoid-grade standard and double the sockets per robot.
+
+## Further reading
+
+[How Renishaw Optical Encoders Work (Renishaw)](https://www.renishaw.com/en/how-renishaw-optical-encoders-work--36979) · [Resolution, Accuracy, and Precision of Encoders (US Digital)](https://www.usdigital.com/support/resources/reference/technical-docs/white-papers/resolution-accuracy-and-precision-of-encoders/)

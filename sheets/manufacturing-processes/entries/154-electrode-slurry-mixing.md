@@ -29,3 +29,7 @@ Anode and cathode slurries for lithium-ion cells.
 - https://www.youtube.com/watch?v=C63ER1YnkEI — [Battery Report] the First Step of Electrode Manufacturing, Mixing Active… (LG에너지솔루션 [LG Energy Solution], 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=KsK4-20Z3RQ — The Production of Electrode Battery Slurry (Bühler Group, 5 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=AY9h8P_usqU — EV Battery Manufacturing: Electrode Slurry Mixing and Processing (Silverson Machines, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Impact of Formulation and Slurry Properties on Electrode Manufacturing (Battery Design)](https://www.batterydesign.net/impact-of-formulation-and-slurry-properties-on-lithium-ion-electrode-manufacturing/) · [Production Process of a Lithium-Ion Battery Cell (PEM RWTH Aachen and VDMA)](https://vdma-industryguide.com/fileadmin/battprod/downloads/Production_Process_of_a_Lithium-Ion_Battery_Cell.pdf)

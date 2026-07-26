@@ -23,3 +23,7 @@ Missile and guided-munition power (EaglePicher, ASB/Aerospatiale Batteries, Eure
 
 ## Economic profile
 A pure defense market sized by munitions production, currently expanding with global rearmament and deep magazines of precision weapons. Two or three qualified Western suppliers hold the franchise; qualification physics (proving 20-year dormancy) is an unusually literal barrier to entry.
+
+## Further reading
+
+[Thermal Batteries: Technology Review and Future Directions (Sandia via UNT Digital Library)](https://digital.library.unt.edu/ark:/67531/metadc794495/) · [How Thermal Battery Technology Works (EaglePicher)](https://www.eaglepicher.com/technology/battery-chemistries/thermal-battery/)

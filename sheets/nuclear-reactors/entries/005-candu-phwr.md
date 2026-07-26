@@ -23,3 +23,7 @@ Ontario's Bruce, Darlington, and Pickering fleets (mid-refurbishment through the
 
 ## Economic profile
 India builds 700 MWe PHWRs at roughly $2–3k/kW — among the cheapest credible nuclear anywhere — while Canadian refurbishments (on time, on budget lately) demonstrate rare Western execution. New CANDU sales stalled for decades, but AtkinsRéalis's MONARK 1,000 MWe pitch and Ontario's momentum give the lineage its first real revival window since the 1990s.
+
+## Further reading
+
+[The Essential CANDU Textbook (UNENE)](https://unene.ca/essentialcandu/) · [Nuclear Power in Canada (World Nuclear Association)](https://world-nuclear.org/information-library/country-profiles/countries-a-f/canada-nuclear-power)

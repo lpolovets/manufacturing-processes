@@ -28,3 +28,7 @@ Pipes, cylinder liners, bushings, bearing rings.
 
 - https://www.youtube.com/watch?v=113cm_U2EBk — Centrifugal casting of ductile iron pipe (McWane, 4 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=cdl2VYJ5py0 — Centrifugal casting working animation (Shubham Kola, 1 minute, 50k+ views)
+
+## Further reading
+
+[Centrifugal Casting: How It Works and Advantages (Xometry)](https://www.xometry.com/resources/casting/centrifugal-casting/) · [What Is Centrifugal Casting and How Does It Work? (MetalTek)](https://www.metaltek.com/blog/what-is-centrifugal-casting/)

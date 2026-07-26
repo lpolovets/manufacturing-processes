@@ -23,3 +23,7 @@ Consider semi-solid processing for thin-walled, high-integrity aluminum or magne
 ## Examples
 
 Magnesium electronics housings, automotive structural components, precision aluminum enclosures.
+
+## Further reading
+
+[Semi-Solid Processing of Alloys: Thixocasting and Rheocasting Routes (Total Materia)](https://www.totalmateria.com/en-us/articles/semi-solid-processing-ssp-of-alloys-2/) · [Thixocasting (Total Materia)](https://www.totalmateria.com/en-us/articles/thixocasting/)

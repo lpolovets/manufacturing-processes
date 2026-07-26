@@ -29,3 +29,7 @@ Medical tools, food equipment, pharmaceutical vessels.
 - https://www.youtube.com/watch?v=FF5rr2p5-1k — The Passivation of Stainless Steel (New England Electropolishing, 4 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=SqU0M6KSaLs — FZE 2020 - What is Stainless Steel Passivation? #Passivation #Stainless steel (FZE Manufacturing Solutions, LLC, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=5S374hGs71c — Proto Tech Tip - Passivation for Stainless Steel (Protocase Inc, 3 minutes, 10k+ views)
+
+## Further reading
+
+[What Is the Passivation Process? (Astro Pak)](https://astropak.com/passivation-process/) · [ASTM A967 Passivation Standard Explained (Able Electropolishing)](https://www.ableelectropolishing.com/resources/standards/astm-a967-passivation/)

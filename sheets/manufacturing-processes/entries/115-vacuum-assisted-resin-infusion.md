@@ -29,3 +29,7 @@ Wind-turbine blades, boat hulls, large aerospace panels.
 - https://www.youtube.com/watch?v=VodfQcrXpxc — How To Do Perfect Vacuum Resin Infusion of a Carbon Fibre Part - Basic… (Easy Composites Ltd, 15 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=f7BogBB0NI8 — Vacuum Resin Infusion Process: Fabricating a Composite Car Seat (Smooth-On, 5 minutes, 500k+ views)
 - https://www.youtube.com/watch?v=vXRfVJ_F9UQ — Vacuum Infusion (Fibre Glast, 5 minutes, 10k+ views)
+
+## Further reading
+
+[Beginner's Guide to Resin Infusion (Easy Composites)](https://www.easycomposites.eu/learning/beginners-guide-to-carbon-fibre-resin-infusion) · [Composite Fabrication Methods Overview (CompositesWorld)](https://www.compositesworld.com/articles/fabrication-methods)

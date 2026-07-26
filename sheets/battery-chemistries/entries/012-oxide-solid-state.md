@@ -24,3 +24,7 @@ QuantumScape QSE-5 samples (VW/PowerCo licensing), ProLogium's oxide-based cells
 
 ## Economic profile
 The manufacturing challenge is ceramics-industry economics grafted onto battery throughput: sintering furnaces, yield on thin fragile sheets, and areal throughput per line. Licensing models (QuantumScape-PowerCo) spread the capex risk. Wins first where safety and density justify premium pricing — consumer, medical implants, then vehicles.
+
+## Further reading
+
+[Design and Technical Challenges of Li-Garnet Solid-State Batteries (Science and Technology of Advanced Materials)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8774065/)

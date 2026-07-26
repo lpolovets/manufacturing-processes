@@ -24,3 +24,7 @@ Thousands of Calmac/Trane ice-tank buildings, Chicago and Gulf-region district c
 
 ## Economic profile
 Among the cheapest peak-shifting kWh available when a building needs cooling anyway — tens of $/kWh-equivalent with utility-grade reliability. The market is bounded by cooling demand and rate design rather than technology. As grids peak harder on air conditioning, an old idea keeps getting rediscovered.
+
+## Further reading
+
+[How Ice Energy Storage Works (CALMAC/Trane)](https://www.calmac.com/how-energy-storage-works) · [Thermal Energy Storage for Buildings (DOE Building Technologies Office)](https://www.energy.gov/eere/buildings/thermal-energy-storage)

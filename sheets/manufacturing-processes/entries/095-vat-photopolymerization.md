@@ -29,3 +29,7 @@ Dental models, jewelry patterns, hearing-aid shells, microfluidic parts.
 - https://www.youtube.com/watch?v=hQ21gbeYFYQ — How a Resin DLP 3D Printer / SLA 3D Printer Works | See How It Works (Garage Science, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=Qha7N28sM2g — How does Resin 3d printing work? The Basics Explained. (DestructiveCreativity, 9 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=Ei2HGPhHPCY — Stereolithography (SLA) 3D Printing Explained: Guide to Resin 3D Printers (Formlabs, 9 minutes, 50k+ views)
+
+## Further reading
+
+[Introduction to SLA 3D Printing (Hubs)](https://www.hubs.com/knowledge-base/introduction-sla-3d-printing/) · [Ultimate Guide to Stereolithography (Formlabs)](https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/)

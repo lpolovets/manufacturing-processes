@@ -24,3 +24,7 @@ Eos Znyth/Z3 cube deployments in US utility projects (backed by a DOE loan guara
 
 ## Economic profile
 Competes on levelized cost for longer durations where lithium's efficiency edge is offset by capex per kWh — and on siting where fire codes bind. The core risk is the classic challenger squeeze: every year of LFP price decline moves the crossover duration further out. US manufacturing and non-Chinese supply chains are central to the equity story.
+
+## Further reading
+
+[Zinc-Bromine Batteries: Challenges, Prospective Solutions, and Future (Advanced Science, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10797452/) · [Multimodal Electrolyte Architecting for Static Aqueous Zinc-Halogen Batteries (National Science Review, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12153721/)

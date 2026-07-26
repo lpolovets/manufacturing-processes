@@ -24,3 +24,7 @@ Essentially every premium smartphone and most laptops; small pouch and prismatic
 
 ## Economic profile
 Highest $/kWh of the mainstream cathodes because cobalt is ~100% of the transition metal. Tolerable only where the battery is small and the customer pays for density. Cathode-grade cobalt supply is concentrated in the DRC with refining concentrated in China, so pricing carries geopolitical risk. Manufacturing rides the standard Li-ion equipment base at enormous scale.
+
+## Further reading
+
+[Types of Lithium-ion Batteries (Battery University)](https://batteryuniversity.com/article/bu-205-types-of-lithium-ion) · [A Reflection on Lithium-Ion Battery Cathode Chemistry (Nature Communications)](https://www.nature.com/articles/s41467-020-15355-0)

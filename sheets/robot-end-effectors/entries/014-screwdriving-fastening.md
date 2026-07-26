@@ -24,3 +24,7 @@ Atlas Copco and Bosch Rexroth tightening systems (automotive final assembly's st
 
 ## Economic profile
 A quality-documentation business wearing a tool's clothing: automotive and aerospace pay for the audit trail as much as the automation. Stable oligopoly economics with cobot-kit expansion into general industry. The strategic tailwind is re-shored electronics and EV assembly; the perennial bottleneck — screw feeding — is where clever startups keep finding niches.
+
+## Further reading
+
+[Pocket Guide to Tightening Technique (Atlas Copco)](https://www.atlascopco.com/en-us/itba/expert-hub/pocket-guide/tightening-technique) · [Screwdriving Robots as a Driver of Industrial Automation (DEPRAG)](https://www.deprag.com/en/article/screwdriving-robots-and-industrial-automation.html)

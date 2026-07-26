@@ -24,3 +24,7 @@ Automotive SLI batteries (Clarios, Exide, GS Yuasa — hundreds of millions year
 
 ## Economic profile
 A mature, consolidated, cash-generative industry with fully depreciated plants and a captive recycling loop feeding cheap secondary lead. EV transition erodes the SLI base slowly (12-V batteries persist in EVs, though lithium and LFP 12-V units are encroaching). Margins live in brands, distribution, and recycling — not chemistry.
+
+## Further reading
+
+[How Does the Lead Acid Battery Work? (Battery University)](https://batteryuniversity.com/article/bu-201-how-does-the-lead-acid-battery-work) · [Advanced Lead Battery Research and Roadmaps (Consortium for Battery Innovation)](https://www.batteryinnovation.org/)

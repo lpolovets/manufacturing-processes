@@ -24,3 +24,7 @@ Form Energy: Cambridge (Minnesota) first commercial install, Great River Energy 
 
 ## Economic profile
 LCOS at 100-hour duty beats every alternative except hydrogen caverns — without needing geology. The commercial risk is timing: revenue mechanisms for multi-day firming (capacity accreditation for long-duration, reliability contracts) are only now being invented. Form's strategy of selling insurance-like reliability to utilities, rather than merchant arbitrage, is the honest match to the physics.
+
+## Further reading
+
+[Iron-Air Battery Technology (Form Energy)](https://formenergy.com/technology/) · [Achieving the Promise of Low-Cost Long Duration Energy Storage (DOE)](https://www.energy.gov/sites/default/files/2024-08/Achieving%20the%20Promise%20of%20Low-Cost%20Long%20Duration%20Energy%20Storage_FINAL_08052024.pdf)

@@ -24,3 +24,7 @@ Eos Z3 cubes (US utility projects, DOE loan), NGK Na-S fleets (Abu Dhabi 108 MW)
 
 ## Economic profile
 The realistic outcome is segmentation: sodium-ion absorbs the cost-sensitive intraday market as a lithium sibling, while zinc and Na-S defend safety- and siting-constrained niches. For diligence, the killer question is always the same — what does this deliver that an LFP container at next year's price does not?
+
+## Further reading
+
+[Sodium-Based Battery Technologies, Energy Storage Handbook Ch. 4 (Sandia)](https://www.sandia.gov/app/uploads/sites/163/2022/02/ESHB_Ch4_Sodium_Spoerke-1.pdf) · [Rechargeable Zinc Batteries for Grid Storage, Energy Storage Handbook Ch. 5 (Sandia)](https://www.sandia.gov/app/uploads/sites/163/2021/09/ESHB_Ch5_Zinc_Lim.pdf)

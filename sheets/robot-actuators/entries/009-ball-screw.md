@@ -27,3 +27,7 @@ A mature bearing-industry commodity at standard grades, with precision ground sc
 
 ## Suppliers
 [THK](https://www.thk.com/) — ball screws and linear motion at global scale · [Rollvis](https://www.rollvis.com/) — planetary roller screws for humanoid-class linear joints
+
+## Further reading
+
+[2.72 Elements of Mechanical Design: Lecture Notes incl. Screw Drives (MIT OpenCourseWare)](https://ocw.mit.edu/courses/2-72-elements-of-mechanical-design-spring-2009/pages/lecture-notes/)

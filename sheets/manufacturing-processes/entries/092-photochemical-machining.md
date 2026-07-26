@@ -29,3 +29,7 @@ Shims, filters, encoder discs, lead frames, flexures.
 - https://www.youtube.com/watch?v=NDp3OPI6dgo — Photo Chemical Machining Process - Northwest Etch (NW Etch, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=LFmKeYgMCzU — Photochemical Machining: An Introduction from the PCMI (Precision Micro, 3 minutes, 1k+ views)
 - https://www.youtube.com/watch?v=Ja6T6yC1QSk — Photochemical Etching: A Novel Way to Make Microstructures (Engineering TV, 11 minutes, under 1k views)
+
+## Further reading
+
+[Chemical Etching: Process and Capabilities (Precision Micro)](https://www.precisionmicro.com/chemical-etching/) · [Photo Chemical Machining Institute (PCMI)](https://pcmi.org/)

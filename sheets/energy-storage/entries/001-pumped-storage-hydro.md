@@ -34,3 +34,7 @@ Bath County (3 GW, Virginia — long the world's largest), Fengning (3.6 GW, Chi
 
 ## Economic profile
 $1,500–4,000/kW but often only $20–80/kWh at 10+ hour durations — the benchmark long-duration economics everything else chases. Multi-decade asset life amortizes almost anything, but only where geology, water, and patient capital coexist; China builds it state-directed while Western merchant markets struggle to finance 10-year construction.
+
+## Further reading
+
+[Pumped Storage Hydropower (DOE Water Power Technologies Office)](https://www.energy.gov/eere/water/pumped-storage-hydropower) · [ESGC Cost & Performance: Pumped Storage Hydropower (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/pumped-storage-hydropower)

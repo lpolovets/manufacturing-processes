@@ -29,3 +29,7 @@ Roofing, door tracks, automotive rails, shelving uprights, gutters.
 - https://www.youtube.com/watch?v=hejopAGM1MY — Roll Forming (Tooling U-SME, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=cqbEuiNPEGY — The Anatomy of a Roll Forming Line: Complete Process from Coil to Crate (Dahlstrom Roll Form, 17 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=yV3MPxqxP4I — ROLL FORMING PROCESS: how roll forming machines work(2019) (LOTOSFORMING COMPANY, 10 minutes, 10k+ views)
+
+## Further reading
+
+[Roll Forming Design Guide (Dahlstrom Roll Form)](https://blog.dahlstromrollform.com/roll-forming-design-guide-sheet-metal-components)

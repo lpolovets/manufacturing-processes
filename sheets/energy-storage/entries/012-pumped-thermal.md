@@ -24,3 +24,7 @@ Malta Inc (X/Alphabet spinout, salt-based), Echogen (supercritical CO2 cycle), S
 
 ## Economic profile
 On paper the best of both worlds — cavern-free siting with CAES-class $/kWh. In practice the efficiency-versus-capex knife edge is brutal: every compromise in turbomachinery drops RTE toward values where cheap thermal media can't save the arbitrage math. A category where the diligence question is always the measured, not modeled, round trip.
+
+## Further reading
+
+[Task 36: Carnot Batteries (IEA Energy Storage TCP)](https://iea-es.org/task-36/) · [Malta Thermal Energy Storage & Heat Pump Technology (Malta Inc)](https://www.maltainc.com/)

@@ -24,3 +24,7 @@ Natron Energy's industrial UPS and data-center power cells (the flagship US effo
 
 ## Economic profile
 Potentially the cheapest cathode chemistry in batteries — iron, carbon, nitrogen, sodium — but the market it serves (high-power, long-cycle stationary) is also served by supercapacitors, LTO, and plain LFP. The Natron failure underlines that a cost-advantaged chemistry still needs volume manufacturing capital and an anchor customer.
+
+## Further reading
+
+[Prussian Blue Analogues for Sodium- and Potassium-Ion Batteries: Lab Optimizations to Practical Applications (Small via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12921469/)

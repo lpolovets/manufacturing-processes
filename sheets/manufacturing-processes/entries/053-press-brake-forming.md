@@ -29,3 +29,7 @@ Enclosures, brackets, cabinets, channels, structural panels.
 - https://www.youtube.com/watch?v=OKUT9rwhlnw — The press brake bending you might have never seen before (Artizono, 8 minutes, 1m+ views)
 - https://www.youtube.com/watch?v=73QtcoXrHb4 — Press Brake Metal Bending Crash Course (WoodchuckTinman, 12 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=FXoHycNTcho — Press Brake Bending Basics Explained (ADH Machine Tool (Official), 2 minutes, 10k+ views)
+
+## Further reading
+
+[Sheet Metal Fabrication Design Guide (Hubs)](https://www.hubs.com/guides/sheet-metal-fabrication/) · [The Basics of Bend Radii in Sheet Metal (Protolabs)](https://www.protolabs.com/resources/design-tips/the-basics-of-bend-radii-in-sheet-metal/)

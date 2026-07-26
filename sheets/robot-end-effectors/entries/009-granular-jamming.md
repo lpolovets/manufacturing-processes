@@ -24,3 +24,7 @@ The Empire Robotics VERSABALL (the famous commercialization — and 2017 shutdow
 
 ## Economic profile
 The mechanism is brilliant; the market kept being adjacent: for every jamming use case, either vacuum or soft fingers was slightly better or an object violated the press-down requirement. Jamming's real commercial future looks like a component — variable-stiffness elements inside other effectors and wearables — rather than a standalone gripper category. A textbook study in demo-to-product gap.
+
+## Further reading
+
+[Universal Robotic Gripper Based on the Jamming of Granular Material (arXiv)](https://arxiv.org/abs/1009.4444) · [Granular Jamming in Soft Robotics: Simulation Frameworks and Emerging Possibilities (Biomimetics)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13023501/)

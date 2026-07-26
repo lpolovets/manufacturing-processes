@@ -23,3 +23,7 @@ China's HTR-PM at Shidaowan — twin 250 MWt pebble beds, grid-connected 2021, f
 
 ## Economic profile
 HTR-PM's FOAK cost ran well above Chinese PWRs — the safety case does not yet come cheap. The Western thesis (X-energy) monetizes what PWRs can't: 565–750 °C steam for chemicals, refining, and data-center campuses, sold via corporate offtakes rather than merchant power. TRISO fuel lines (X-energy's TF3, BWXT) are as much the moat as the reactor.
+
+## Further reading
+
+[TRISO Particles: The Most Robust Nuclear Fuel on Earth (US Department of Energy)](https://www.energy.gov/ne/articles/triso-particles-most-robust-nuclear-fuel-earth) · [Xe-100 Reactor Design (X-energy)](https://x-energy.com/reactors/xe-100)

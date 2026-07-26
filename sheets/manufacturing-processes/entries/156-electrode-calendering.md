@@ -28,3 +28,7 @@ Densified anode and cathode webs.
 
 - https://www.youtube.com/watch?v=Stjcse7Bcqk — Battery cell production at Volkswagen Salzgitter, production steps “slitting… (AutoMotoTV, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=bk8N1yK60vg — Desk Top Calendering Machine Lithium On Battery Electrodes Pressing… (Electrodes and More, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Hot versus Cold Roll Calendering (Battery Design)](https://www.batterydesign.net/hot-versus-cold-roll-calendering/) · [Production Process of a Lithium-Ion Battery Cell (PEM RWTH Aachen and VDMA)](https://vdma-industryguide.com/fileadmin/battprod/downloads/Production_Process_of_a_Lithium-Ion_Battery_Cell.pdf)

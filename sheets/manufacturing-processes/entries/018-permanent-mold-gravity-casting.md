@@ -28,3 +28,7 @@ Aluminum wheels, pistons, cookware, brackets, housings.
 
 - https://www.youtube.com/watch?v=sf-MWmL9Z38 — Permanent mold aluminum casting in 2 minutes (Batesville Products, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=Q0xJMKH2Vxc — Permanent mold gravity casting animation (ForceBeyond, 1 minute, 10k+ views)
+
+## Further reading
+
+[Permanent Mold Casting: How It Works and Advantages (Xometry)](https://www.xometry.com/resources/casting/permanent-mold-casting/) · [A Primer on Permanent Mold Casting (Modern Casting)](https://www.moderncasting.com/articles/0007/12/01/primer-permanent-mold-casting)

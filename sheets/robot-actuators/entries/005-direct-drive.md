@@ -27,3 +27,7 @@ Owns applications where precision or transparency is the product and mass is tol
 
 ## Suppliers
 [Kollmorgen](https://www.kollmorgen.com/) — frameless torque motor kits · [Celera Motion](https://www.celeramotion.com/) — direct-drive motors and precision encoders
+
+## Further reading
+
+[Direct Drive Motors, Frameless Resolvers and Ring Encoders (Novanta Celera Motion)](https://novanta.com/robotics-automation/technical-paper/direct-drive-motors-frameless-resolvers/)

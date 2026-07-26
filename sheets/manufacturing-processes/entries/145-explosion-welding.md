@@ -29,3 +29,7 @@ Titanium-clad steel, aluminum-steel transitions, corrosion-resistant plate.
 - https://www.youtube.com/watch?v=u9_bqafUJfA — Explosion Welding Process (NobelClad, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=XMSaX-3tOUw — The Process of Explosion Welding | Clad for Industrial Infrastructure (NobelClad, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=4N7v8pA7ghc — EXPLOSION WELDING WORKING ANIMATION (Crianza Engineers, 2 minutes, 10k+ views)
+
+## Further reading
+
+[Fundamentals of Explosion Welding (ASM Handbook Vol. 6)](https://dl.asminternational.org/handbooks/edited-volume/61/chapter-abstract/707917/Fundamentals-of-Explosion-Welding)

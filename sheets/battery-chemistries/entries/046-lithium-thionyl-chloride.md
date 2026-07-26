@@ -23,3 +23,7 @@ Utility meters (the giant volume application — Saft, Tadiran, EVE), toll trans
 
 ## Economic profile
 A quietly excellent business: sticky design-ins, 20-year replacement cycles, safety-driven qualification moats, and a customer base (metering, defense) that cares nothing for $/kWh. EVE Energy's rise on Chinese smart-meter volume shows the scale hiding in "boring" primaries.
+
+## Further reading
+
+[Li-SOCl2 Technical Brochure (Tadiran Batteries)](https://tadiranbatteries.de/wp-content/uploads/2021/05/Technical-Brochure-LTC-Batteries.pdf)

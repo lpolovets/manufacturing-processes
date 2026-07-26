@@ -29,3 +29,7 @@ Tensile testing, fatigue testing, burst testing, metallography, peel testing.
 - https://www.youtube.com/watch?v=9NbpW7HwEys — What is Destructive Testing (DT) | Methods of Destructive Testing (Engineering the Engergy World, 11 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=urWt_2tvjvQ — Destructive Testing vs non-destructive testing methods (Material Welding- Online Welding and NDT Training, 4 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=yWJxPSe3s3w — Tensile Testing (Industrial Metallurgists, LLC, 5 minutes, 1k+ views)
+
+## Further reading
+
+[Tensile Testing Part 1, Job Knowledge 69 (TWI)](https://www.twi-global.com/technical-knowledge/job-knowledge/mechanical-testing-tensile-testing-part-1-069) · [Tensile Testing Fundamentals and Standards (ZwickRoell)](https://www.zwickroell.com/industries/materials-testing/tensile-test/)

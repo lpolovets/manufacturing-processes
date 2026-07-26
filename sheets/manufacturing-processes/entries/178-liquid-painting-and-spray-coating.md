@@ -29,3 +29,7 @@ Vehicles, aircraft, furniture, machinery.
 - https://www.youtube.com/watch?v=ViDAohrBEu4 — How is a new car painted at the factory ? // BMW Paint Shop (MotorLane, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=QBEdLgH4KiQ — How Cars are Painted? 84 robots and 5,000 litres of paint. (YOUCAR, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=jNazqILzvL8 — Paint Coating — Industrial Painting Application — Spray Painting (The Institute for Oil & Gas Sector (IOGS), 2 minutes, 10k+ views)
+
+## Further reading
+
+[The Basics of Airless Spraying (Graco)](https://hdsupplysolutions.com/wcsstore/ExtendedSitesCatalogAssetStore/product/fm/additional/Gr/Graco_Airless_Spraying.pdf) · [Spray Application: Techniques to Optimize Film Build (KTA-Tator)](https://kta.com/spray-application-techniques/)

@@ -27,3 +27,7 @@ Industrial servo axes are a mature, oligopolistic $10B+ market with stable margi
 
 ## Suppliers
 [ROBOTIS](https://www.robotis.us/) — Dynamixel smart servos, the research standard · [Yaskawa](https://www.yaskawa.com/) — industrial AC servo axes
+
+## Further reading
+
+[Servo Motor Overview (Oriental Motor)](https://www.orientalmotor.com/servo-motors/technology/servo-motor-overview.html) · [Dynamixel Smart Actuator Documentation (ROBOTIS)](https://docs.robotis.com/)

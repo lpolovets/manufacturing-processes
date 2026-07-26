@@ -24,3 +24,7 @@ ZincFive data-center UPS strings (the flagship application — short-duration, h
 
 ## Economic profile
 Positions between lead (more power, less mass) and lithium (no fire suppression, simpler permitting) in the UPS niche, selling regulatory ease as much as electrochemistry. Materials are cheap; the business question is whether the niche's premium survives lithium UPS products engineered to satisfy fire marshals.
+
+## Further reading
+
+[Nickel-Zinc UPS Battery Cabinets White Paper (ZincFive)](https://zincfive.com/paper/nickel-zinc-ups-battery-cabinets-are-built-for-an-easy-upgrade-at-data-centers-worldwide/) · [Recent Progress and Perspectives of Advanced Ni-Based Cathodes for Aqueous Alkaline Zn Batteries (Frontiers in Chemistry, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11628261/)

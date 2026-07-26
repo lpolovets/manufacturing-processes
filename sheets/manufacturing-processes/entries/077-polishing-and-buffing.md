@@ -29,3 +29,7 @@ Medical tools, cookware, molds, automotive trim.
 - https://www.youtube.com/watch?v=rz7HRhiDXFw — Polishing 101: How to Buff and Polish Metal (Christ Centered Ironworks, 16 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=k1Ng9RhSstE — Buffing Machine For Metal Polishing | How it's made Channel (KNP Tech TV, 2 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=RjbTyTTRLzc — Metal Polishing Compounds & Buffing Wheels EXPLAINED (Maverick Abrasives, 9 minutes, 10k+ views)
+
+## Further reading
+
+[Some Buffing and Polishing Basics (Products Finishing)](https://www.pfonline.com/articles/some-buffing-and-polishing-basics)

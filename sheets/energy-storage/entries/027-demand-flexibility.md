@@ -24,3 +24,7 @@ Tesla and Sunrun VPPs in California (ERCOT and CAISO emergency events), Octopus'
 
 ## Economic profile
 Delivered flexibility at $10–50/kW-year undercuts any battery for the first tranche of need — which is why storage business cases should always be built net of demand response. The market failure mode is also classic: paying for promised megawatts that evaporate under stress. For investors, the moat is the customer relationship and dispatch software, not the concept.
+
+## Further reading
+
+[Virtual Power Plants, Real Benefits (RMI)](https://rmi.org/insight/virtual-power-plants-real-benefits/) · [Unlocking the Potential of Distributed Energy Resources (IEA)](https://www.iea.org/reports/unlocking-the-potential-of-distributed-energy-resources)

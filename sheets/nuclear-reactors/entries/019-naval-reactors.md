@@ -22,3 +22,7 @@ US Virginia- and Columbia-class (life-of-ship cores), UK Astute/Dreadnought (Rol
 
 ## Economic profile
 Militarily priceless, commercially instructive: naval reactors prove small reactors can be serial-built with immaculate quality — at defense budgets. The civilian spillover is real but indirect: Rolls-Royce's SMR credibility, Russia's RITM-based SMRs, and the trained workforce. AUKUS-driven HEU expansion versus LEU conversion research (a US congressional perennial) is the fuel-policy tension to watch.
+
+## Further reading
+
+[Powering the Navy — Naval Nuclear Propulsion Program (US DOE NNSA)](https://www.energy.gov/nnsa/powering-navy)

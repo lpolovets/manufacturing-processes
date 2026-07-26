@@ -29,3 +29,7 @@ Water tanks, kayaks, playground equipment, coolers, barriers.
 - https://www.youtube.com/watch?v=Qr5qIMvJSnw — Rotational Moulding - The Process (Ecosure, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=Fr_s_xG78AA — Roto-molding full process (badjacoon, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=yzxlBrcn2Fg — Rotational Molding 101 (Gregstrom Corporation, 4 minutes, 50k+ views)
+
+## Further reading
+
+[Roto 101: Introduction to Rotomolding (Association of Rotational Molders)](https://www.rotomolding.org/roto-101) · [ARM Design Guide: Designing Products for Rotational Molding (Association of Rotational Molders)](https://www.rotomolding.org/design-guide-pt2-overview)

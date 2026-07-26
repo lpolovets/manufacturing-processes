@@ -24,3 +24,7 @@ Energy Vault's EVx towers (Rudong, China — the first commercial-scale build, a
 
 ## Economic profile
 Claimed $150–300/kWh with long life and zero augmentation; realized FOAK numbers land well above Li-ion. The bet only works if structure and machinery costs fall faster than lithium's learning curve — a race the category is currently losing. Mine-shaft reuse in specific geographies is the most defensible niche.
+
+## Further reading
+
+[ESGC Cost & Performance: Gravitational Storage (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/gravitational) · [G-VAULT Gravity Energy Storage (Energy Vault)](https://www.energyvault.com/products/g-vault-gravity-energy-storage)

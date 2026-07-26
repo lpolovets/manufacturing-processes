@@ -29,3 +29,7 @@ Connecting rods, crankshafts, landing-gear components, hand tools.
 - https://www.youtube.com/watch?v=4EkgeO9utDY — Forging Process | Open Die Forging | Closed Die Forging | Hot Forging | Cold… (Engineering Explained Wing, 5 minutes, 5k+ views)
 - https://www.youtube.com/watch?v=AW_sgdZgFCU — Our process of closed-impression die forging (TrentonForging, 1 minute, 10k+ views)
 - https://www.youtube.com/watch?v=rCWS-xl1pNM — Key Considerations in Closed Die Forging (Cornell Forge, 2 minutes, 1k+ views)
+
+## Further reading
+
+[Open Die vs. Impression Die Forging (Trenton Forging)](https://trentonforging.com/open-die-vs-impression-die-forging/) · [Product Design Guide for Forging (Forging Industry Association)](https://www.forging.org/Common/Uploaded%20files/Design%20Engineering%20Center/Product%20Design%20Guide%20for%20Forging.pdf)

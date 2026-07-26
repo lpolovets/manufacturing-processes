@@ -24,3 +24,7 @@ Start-stop car batteries (the largest AGM market), data-center and telecom UPS s
 
 ## Economic profile
 The premium tier of a commodity industry — roughly 1.5–2× flooded pricing with better margins for the same producers. Start-stop mandates drove a decade of growth; the threat is lithium 12-V and UPS products crossing the price line as cell costs fall.
+
+## Further reading
+
+[Absorbent Glass Mat (AGM) Batteries (Battery University)](https://batteryuniversity.com/article/bu-201a-absorbent-glass-mat-agm)

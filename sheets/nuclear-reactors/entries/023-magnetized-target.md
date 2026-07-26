@@ -22,3 +22,7 @@ General Fusion (Vancouver, 20+ years, Bezos-backed; its LM26 machine demonstrate
 
 ## Economic profile
 On paper the cheapest path to a fusion *plant* rather than a fusion *experiment*, because everything expensive about tokamaks and lasers is replaced by pistons and pumps. In practice the category's fortunes track one company's balance sheet. The diligence posture: price the plasma-compression physics as the whole risk, because the engineering story, uniquely in fusion, is already plausible.
+
+## Further reading
+
+[Magneto-Inertial Fusion (Journal of Fusion Energy, open access)](https://link.springer.com/article/10.1007/s10894-015-0038-x) · [Magnetized Target Fusion with a Spherical Tokamak (Journal of Fusion Energy)](https://link.springer.com/article/10.1007/s10894-018-0180-3)

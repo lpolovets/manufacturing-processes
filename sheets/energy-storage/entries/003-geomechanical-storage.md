@@ -24,3 +24,7 @@ Quidnet's Texas pilots and its 300 MWh CPS Energy (San Antonio) offtake — the 
 
 ## Economic profile
 Targets $20–50/kWh energy capacity using commodity oilfield services — genuinely pumped-hydro-class if geology cooperates. The oilfield supply chain means fast scaling with no novel manufacturing; the open questions are per-site derisking cost and whether efficiency and cycling hold over decades. One to watch as the most credible "PSH anywhere" thesis.
+
+## Further reading
+
+[Geomechanical Energy Storage Technology (Quidnet Energy)](https://www.quidnetenergy.com/technology/)

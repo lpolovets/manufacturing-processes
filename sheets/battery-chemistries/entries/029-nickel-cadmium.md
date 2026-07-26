@@ -24,3 +24,7 @@ Turbine-engine start batteries (Saft, Marathon Norco) on airliners and helicopte
 
 ## Economic profile
 A shrinking but sticky installed base: certification moats in aviation and rail keep prices and margins high while regulation forecloses growth. Saft dominates the surviving aerospace segment. Analytically interesting as the template for how a chemistry exits — niche by niche, held longest where requalification costs most.
+
+## Further reading
+
+[BU-203: Nickel-Based Batteries (Battery University)](https://batteryuniversity.com/article/bu-203-nickel-based-batteries) · [Hawker Ni-Cd Aircraft Batteries Operating and Maintenance Manual (EnerSys)](https://www.enersys.com/493bb4/globalassets/documents/product-documentation/_enersys/emea/legacy/batteries/hawker/aviation/enersys_ni-cad_aircraft_maint_manual_may-2013_version1_en.pdf)

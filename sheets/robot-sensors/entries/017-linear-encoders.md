@@ -26,3 +26,7 @@ Heidenhain glass scales on every serious CNC and CMM, Renishaw tape systems on g
 
 ## Economic profile
 A precision duopoly-flavored market (Heidenhain, Renishaw) with instrument margins at the top and commodity magnetic tape at the bottom. Robotics exposure is indirect but real: every gantry-based logistics system, 3D printer at quality, and semiconductor handler carries them. The strategic note is metrological: as robots chase machine-tool accuracy for machining and assembly, direct measurement returns to fashion.
+
+## Further reading
+
+[Linear Encoders Overview (HEIDENHAIN)](https://www.heidenhain.us/products/linear-encoders/) · [Linear Encoders for Numerically Controlled Machine Tools (HEIDENHAIN)](https://www.heidenhain.us/wp-content/uploads/2022/06/PR_Linear_Encoders_for_Numerically_Controlled_Machine_Tools_ID571470_en.pdf)

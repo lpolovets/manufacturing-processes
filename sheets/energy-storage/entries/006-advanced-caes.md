@@ -24,3 +24,7 @@ Hydrostor's Goderich pilot (Ontario) and its flagship Willow Rock project (Calif
 
 ## Economic profile
 The pitch is pumped-hydro economics with easier siting: $/kWh in the tens at 8+ hours. The risk stack is project-development risk (mining, permitting, FOAK turbomachinery) more than science risk. China's state-backed buildout will generate the fleet data Western merchant financiers are waiting for — a rare case where the derisking is being done elsewhere for free.
+
+## Further reading
+
+[Hydrostor A-CAES Technology (Hydrostor)](https://hydrostor.ca/technology/) · [ESGC Cost & Performance: Compressed Air Energy Storage (PNNL)](https://www.pnnl.gov/projects/esgc-cost-performance/compressed-air-energy-storage)

@@ -27,3 +27,7 @@ SEA lost the mainstream legged-robot argument to QDD (which gets compliance via 
 
 ## Suppliers
 [HEBI Robotics](https://www.hebirobotics.com/) — X-series series-elastic smart actuators
+
+## Further reading
+
+[Series Elastic Actuator: Design, Analysis and Comparison (IntechOpen)](https://www.intechopen.com/chapters/51224) · [Modeling and Application of Series Elastic Actuators for Force Control (arXiv)](https://arxiv.org/abs/0912.3956)

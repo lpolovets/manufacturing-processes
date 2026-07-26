@@ -28,3 +28,7 @@ Corrosion repair, copper deposition, dimensional restoration, aerospace repair.
 
 - https://www.youtube.com/watch?v=DnVny_pioJ8 — Cold Spray - Additive Manufacturing (Impact Innovations | Cold Spray Made In Germany, 6 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=yT_Noutx3bU — Cold Spray Additive Manufacturing with SPEE3D (Nathan Builds Robots, 9 minutes, 5k+ views)
+
+## Further reading
+
+[Cold Spraying: Process and Coating Deposition (TWI)](https://www.twi-global.com/what-we-do/research-and-technology/technologies/coating-and-surface-engineering/cold-spraying) · [Cold Spray Additive Manufacturing Systems and Applications (Impact Innovations)](https://impact-innovations.com/en/cold-spray/)

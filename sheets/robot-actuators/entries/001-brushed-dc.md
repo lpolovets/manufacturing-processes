@@ -27,3 +27,7 @@ A fully commoditized industry with sub-dollar units at volume; the premium corel
 
 ## Suppliers
 [maxon](https://www.maxongroup.com/) — premium coreless brushed and BLDC micromotors · [FAULHABER](https://www.faulhaber.com/) — precision micro drive systems
+
+## Further reading
+
+[Motor Tutorials: Coreless DC Motor and Drive Basics (FAULHABER)](https://www.faulhaber.com/en/know-how/tutorials/)

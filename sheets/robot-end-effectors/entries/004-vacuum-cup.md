@@ -24,3 +24,7 @@ Piab, Schmalz, and SMC ecosystems (cups, ejectors, sensors); Amazon Robin/Cardin
 
 ## Economic profile
 A consumables-rich oligopoly (Piab, Schmalz) with razor-blade economics — cups wear out by design — plus an energy-efficiency upgrade cycle (smart ejectors with air-saving control) selling opex reduction. As the incumbent technology of robotic picking, it is the benchmark: any novel gripper pitch must state precisely which objects vacuum fails on and how many of those exist per thousand picks.
+
+## Further reading
+
+[Vacuum Knowledge Base: System Design and Suction Cup Theory (Schmalz)](https://www.schmalz.com/en-us/vacuum-knowledge/) · [Grasp Failure Constraints for Multi-Suction-Cup Grippers (arXiv)](https://arxiv.org/abs/2408.03498)

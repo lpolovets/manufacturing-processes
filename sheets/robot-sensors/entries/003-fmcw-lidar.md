@@ -27,3 +27,7 @@ Aeva (Daimler Trucks design-in — the flagship), Mobileye's internal FMCW progr
 
 ## Economic profile
 The bet is that LiDAR's endpoint is a silicon-photonics chip — at which point FMCW's extra physics comes nearly free and ToF incumbents face a discontinuity. Until that integration matures, units stay expensive and design-ins scarce; Aeva's truck win is the category's existence proof. Watch silicon-photonics fab partnerships, not demo videos.
+
+## Further reading
+
+[Coherent Lidar for Ride-Hailing Autonomous Vehicles (arXiv)](https://arxiv.org/abs/2502.09736) · [Photonic-Electronic Integrated Coherent LiDAR Engine (arXiv)](https://arxiv.org/abs/2306.07990)

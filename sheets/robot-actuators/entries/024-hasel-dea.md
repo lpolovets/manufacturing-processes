@@ -27,3 +27,7 @@ The category venture capital keeps circling: materials are cheap, manufacturing 
 
 ## Suppliers
 [Artimus Robotics](https://www.artimusrobotics.com/) — HASEL actuator commercialization · [ESTAT Actuation](https://www.estat.tech/) — electroadhesive clutches for the same electrostatic toolbox
+
+## Further reading
+
+[HASEL Actuator Technology (Artimus Robotics)](https://www.artimusrobotics.com/technology) · [Review of Electrohydraulic Actuators Inspired by the HASEL Actuator (Biomimetics via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11939893/)

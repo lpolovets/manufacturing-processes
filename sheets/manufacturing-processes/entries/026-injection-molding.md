@@ -33,3 +33,7 @@ High tooling cost; usually best for thousands to millions of parts.
 - https://www.youtube.com/watch?v=b1U9W4iNDiQ — Injection Molding Animation (tronicarts - Multimedia-Agentur, 3 minutes, 5m+ views)
 - https://www.youtube.com/watch?v=sBEzE4PCmqM — What is Injection Molding and How Does it Work? (Protolabs, 5 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=cVsRX0jnsqE — 3D Injection Molding Animation (Sumitomo (SHI) Demag - Injection Molding, 2 minutes, 100k+ views)
+
+## Further reading
+
+[Injection Molding Design Guidelines (Protolabs)](https://www.protolabs.com/services/injection-molding/plastic-injection-molding/design-guidelines/) · [Injection Molding: The Manufacturing and Design Guide (Hubs)](https://www.hubs.com/guides/injection-molding/)

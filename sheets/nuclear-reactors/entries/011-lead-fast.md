@@ -22,3 +22,7 @@ Russia's BREST-OD-300 under construction at Seversk (the world's first purpose-b
 
 ## Economic profile
 The pitch is SFR benefits minus sodium's fire insurance premium, at the cost of materials risk that only reactor-years can retire. BREST's completion will be the field's proof point. Private ventures (newcleo raising near-billion sums) are effectively selling European plutonium-disposition policy plus lead physics — a fuel-cycle business wearing a reactor costume.
+
+## Further reading
+
+[Lead Fast Reactors (Generation IV International Forum)](https://www.gen-4.org/generation-iv-criteria-and-technologies/lead-fast-reactors-lfr) · [LFR System Safety Assessment 2020 (GIF Risk and Safety Working Group)](https://www.gen-4.org/resources/reports/lead-cooled-fast-reactor-lfr-system-safety-assessment-2020)

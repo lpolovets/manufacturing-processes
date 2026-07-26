@@ -33,3 +33,7 @@ Moderate-to-high capex; excellent economics at scale; startup scrap and line uti
 - https://www.youtube.com/watch?v=NSCX6K1eecI — How Does Plastic Extrusion Work? (RAPID DIRECT, 6 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=QP5bVSu9JYw — Plastic Moulding Working Animation (Extrusion, Blow, Vacuum Forming,… (Shubham Kola, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=AR2XBU3Nt4k — Plastic Extrusion Process Explained | Types, Working, and Applications (Mechanical Design Adda, 9 minutes, 1k+ views)
+
+## Further reading
+
+[Plastic Extrusion Process Guide (Xometry)](https://www.xometry.com/resources/materials/plastic-extrusion/) · [Extrusion Know-How Hub (Plastics Technology)](https://www.ptonline.com/zones/extrusion)

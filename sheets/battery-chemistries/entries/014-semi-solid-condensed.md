@@ -24,3 +24,7 @@ CATL condensed-matter cell (civil aviation programs); WeLion semi-solid cells in
 
 ## Economic profile
 The value proposition is mostly cost-side: 24M-style processes remove drying and reduce inactive material; hybrid electrolytes reuse existing gigafactory capex. As a stepping stone it captures revenue now, but it competes directly with fast-improving conventional Li-ion rather than opening a protected niche.
+
+## Further reading
+
+[Gel Polymer Electrolytes: Advancing Solid-State Batteries (Gels via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10379277/) · [Quasi-Solid-State Lithium Batteries via In Situ Polymerized Gel Electrolytes (Chemical Science via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13066942/)

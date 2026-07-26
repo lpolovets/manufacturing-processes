@@ -28,3 +28,7 @@ Aircraft panels, automotive structures, composites, electronics.
 
 - https://www.youtube.com/watch?v=VFn83lMJ7Cg — SAMPE Explains: Adhesive Bonding (SAMPE, 7 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=dWAvPH8aACs — Adhesive Bonding as an Aerospace Joining Method (Calvin Rans, 6 minutes, 10k+ views)
+
+## Further reading
+
+[Science of Adhesion (Adhesive and Sealant Council)](https://www.adhesives.org/adhesives-sealants/science-of-adhesion)

@@ -27,3 +27,7 @@ The AK-series-class QDD module — motor, planetary, encoder, FOC drive in one p
 
 ## Suppliers
 [CubeMars](https://www.cubemars.com/) — AK-series QDD modules, the open-robotics default · [MyActuator](https://www.myactuator.com/) — integrated QDD joint modules
+
+## Further reading
+
+[Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation (arXiv)](https://arxiv.org/abs/1904.03815) · [Alternative Metrics to Select Motors for Quasi-Direct Drive Actuators (arXiv)](https://arxiv.org/abs/2202.12365)

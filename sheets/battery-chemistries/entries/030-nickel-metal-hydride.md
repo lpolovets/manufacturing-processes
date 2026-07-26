@@ -24,3 +24,7 @@ Toyota hybrids (tens of millions of vehicles; NiMH persists in cost-focused trim
 
 ## Economic profile
 A mature chemistry in managed decline: hybrids are migrating to Li-ion, leaving consumer cells and industrial backup. Manufacturing is concentrated in Japan and China. The historical lesson for analysts: patent control (Ovonics/ECD) and one anchor application (Prius) built the market, and cost stagnation versus Li-ion's learning curve unbuilt it.
+
+## Further reading
+
+[BU-203: Nickel-Based Batteries (Battery University)](https://batteryuniversity.com/article/bu-203-nickel-based-batteries) · [The Current Status of Hydrogen Storage Alloy Development for Electrochemical Applications (Materials, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5452859/)

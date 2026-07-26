@@ -29,3 +29,7 @@ Turbine blades, castings, forgings, welds.
 - https://www.youtube.com/watch?v=4GkynMLqq0Q — 🔥 NDT Dye Penetrant Demo (Weld.com, 17 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=QqmSzUxnrXo — How to Do Visible Dye Penetrant Testing (栄進化学【EISHIN Kagaku Official】, 4 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=H3GusEvPZXc — Non-Destructive Testing (NDT): Dye Penetrant Testing - Principle, Defect… (Explore Materials & Metallurgy with Dr. Jay Desai, 12 minutes, 1k+ views)
+
+## Further reading
+
+[Liquid Penetrant Inspection FAQs (Magnaflux)](https://magnaflux.com/Magnaflux/Resources/FAQs/FAQs--Liquid-Penetrant-Inspection) · [Basic Knowledge of Dye Penetrant Testing (Karl Deutsch)](https://www.karldeutsch.de/ndt-knowledge/basic-knowledge/basic-knowledge-about-penetration-or-dye-penetrant-testing/?lang=en)

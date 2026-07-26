@@ -29,3 +29,7 @@ Machining dimensions, molding pressure, coating thickness, battery loading, semi
 - https://www.youtube.com/watch?v=RYMIcEOh5M8 — SPC Simplified - Control Charts (SixSigmaSPCExcel, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=iOJDBpOa3Ko — Control Charts simply explained - Statistical process control - Xbar-R Chart,… (numiqo, 11 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=Ugcb7Vlp0Ts — How do SPC control charts work? (The Engineering Toolbox Channel, 9 minutes, 50k+ views)
+
+## Further reading
+
+[Statistical Process Control Guide (Quality-One)](https://quality-one.com/spc/) · [Process or Product Monitoring and Control, e-Handbook of Statistical Methods (NIST/SEMATECH)](https://www.itl.nist.gov/div898/handbook/pmc/pmc.htm)

@@ -24,3 +24,7 @@ CATL M3P (shipping in mainstream Chinese EVs, often blended), Gotion Astroinno p
 
 ## Economic profile
 Material cost within a few percent of LFP — manganese is cheap — so the energy gain is nearly free if yield and life close. The chemistry's bet is that it intercepts LFP's cost curve while clearing the density bar for mass-market vehicles; blending strategies let cell makers de-risk the transition.
+
+## Further reading
+
+[LMFP Batteries: Bridging Material Innovation with Practical Cell Design (Energy Materials)](https://www.oaepublish.com/articles/energymater.2025.29)

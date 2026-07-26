@@ -22,3 +22,7 @@ TerraPower's Molten Chloride Fast Reactor program with its MCRE experiment plann
 
 ## Economic profile
 Furthest from revenue of the salt family, but carrying the biggest strategic prize: a credible waste-burning reactor changes the politics of nuclear everywhere. MCRE's results this decade will determine whether the concept graduates from viewgraph to engineering. Diligence weight belongs on chlorine-37 supply, fissile startup inventory, and salt chemistry control — not the reactor physics, which is sound.
+
+## Further reading
+
+[Molten Chloride Fast Reactor Technology (TerraPower)](https://www.terrapower.com/downloads/TP_MCFR_Technology.pdf) · [First Fuel Salt Batch for the MCRE (US Department of Energy)](https://www.energy.gov/ne/articles/idaho-national-lab-creates-first-batch-fuel-worlds-first-fast-spectrum-molten-salt)

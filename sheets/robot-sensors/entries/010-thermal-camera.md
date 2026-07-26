@@ -27,3 +27,7 @@ FLIR (Teledyne) Lepton/Boson modules — the category's Intel; automotive night 
 
 ## Economic profile
 Leptons brought entry thermal to ~$200, but automotive-grade resolution remains a $1k+ germanium-and-regulation story; a genuine volume driver (NHTSA's pedestrian-AEB night requirements pushing thermal into mainstream cars) could finally break the cost curve. In robotics it is the specialist that earns its slot wherever robots share darkness with living things.
+
+## Further reading
+
+[How Do Thermal Cameras Work? (Teledyne FLIR)](https://www.flir.com/discover/rd-science/how-do-thermal-cameras-work/) · [Choosing the Right Thermal Imager (Teledyne FLIR OEM)](https://oem.flir.com/learn/discover/choosing-the-right-thermal-imager-for-your-integrated-project/)

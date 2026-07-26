@@ -24,3 +24,7 @@ Schmalz FXP/FMP series (the category standard) on depalletizing cells everywhere
 
 ## Economic profile
 $2–10k units justified wherever mixed or imprecise loads meet high throughput — depalletizing being robotics' current volume application. The foam-and-valve consumable stream mirrors cup economics at larger ticket sizes. Its rise tracks the warehouse automation wave directly: every "we depalletize anything" startup demo has one of these at the wrist.
+
+## Further reading
+
+[Vacuum Area Gripping Systems FXP/FMP (Schmalz)](https://www.schmalz.com/en-us/vacuum-technology-for-automation/vacuum-components/area-gripping-systems-and-end-effectors/vacuum-area-gripping-system-fxp-fmp/) · [Kenos Large-Area Vacuum Gripping Systems (Piab)](https://www.piab.com/en-us/kenos-vacuum-gripping-systems)

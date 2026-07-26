@@ -29,3 +29,7 @@ Heat exchangers, carbide tools, HVAC tubing, honeycomb structures.
 - https://www.youtube.com/watch?v=nBwRpI_0d50 — Fundamentals of Brazing #5: Brazing the Assembly (Lucas-Milhaupt, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=neL4CMdUpjg — What is Brazing? | Skill-Lync (Skill Lync, 5 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=34Pr6lzGt0c — How to Braze - Brazing Success in 7 Steps - Proven Method! (brazeit, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Brazing Fundamentals: The Six Steps (Lucas-Milhaupt)](https://www.lucasmilhaupt.com/Brazing-Academy/Brazing-Fundamentals) · [What Is Brazing? (TWI)](https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-brazing)

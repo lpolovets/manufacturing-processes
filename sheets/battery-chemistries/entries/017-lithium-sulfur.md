@@ -24,3 +24,7 @@ Lyten (Stellantis investment, defense and drone cells), Theion, Zeta Energy (Ste
 
 ## Economic profile
 Bill-of-materials cost could undercut LFP while doubling its energy density — the most disruptive cost-per-kg story in batteries if cycle life closes. Near-term revenue is drones, defense, and aviation, where weight prices dominate. Volumetric density keeps it out of phones and makes EV packaging harder than the Wh/kg headline suggests.
+
+## Further reading
+
+[LiSTAR: The Lithium-Sulfur Technology Accelerator (Faraday Institution)](https://www.faraday.ac.uk/research/beyond-lithium-ion/lithium-sulfur/) · [A Review on Lithium-Sulfur Batteries: Challenge, Development, and Perspective (Nano Research)](https://www.sciopen.com/article/10.1007/s12274-022-5227-0)

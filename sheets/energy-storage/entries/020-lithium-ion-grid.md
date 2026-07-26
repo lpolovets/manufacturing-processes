@@ -24,3 +24,7 @@ Tesla Megapack fleets (Moss Landing 3 GWh, Hornsdale), CATL EnerOne/TENER, Fluen
 
 ## Economic profile
 System prices fell below $150/kWh in 2024–25 (China turnkey bids under $100), resetting the bar for every challenger annually. The correct planning assumption is that Li-ion owns everything up to the crossover duration and that the crossover keeps moving right. LDES business cases that don't model continued lithium decline are fiction.
+
+## Further reading
+
+[Batteries and Secure Energy Transitions (IEA)](https://www.iea.org/reports/batteries-and-secure-energy-transitions) · [Energy Storage Cost and Performance Database (PNNL / DOE Energy Storage Grand Challenge)](https://www.pnnl.gov/esgc-cost-performance)

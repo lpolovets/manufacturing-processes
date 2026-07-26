@@ -29,3 +29,7 @@ Tire compounds, seals, hoses, belts, vibration isolators.
 - https://www.youtube.com/watch?v=BSlkC9SNtfE — Rubber Compound Mixing on a Rubber Mixing Mill (Inspiredge India, 7 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=5KWFusho0HY — Rubber Banbury Mixer Operation (RubberMachineChina, 9 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=q777unSPlZU — RUBBER KNEADER MIXER / BANBURY (Rpm Mach, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Formulation 101: Basics of Rubber Compounding (ChemCeed)](https://chemceed.com/industry-news/formulation-101-a-guide-to-the-basics-of-rubber-compounding/) · [Compounding Technical Papers Library (Akrochem)](https://www.akrochem.com/solutions_technical_papers.php)

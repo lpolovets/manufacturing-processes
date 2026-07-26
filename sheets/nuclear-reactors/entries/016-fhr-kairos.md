@@ -23,3 +23,7 @@ Kairos Power: Hermes (35 MWt) under construction at Oak Ridge — the first non-
 
 ## Economic profile
 The most credible near-term advanced-reactor program in the US on execution evidence: permits in hand, concrete poured, hyperscaler offtake signed. The bet is that manufacturing iteration (Kairos casts its own vessels) plus a boring licensing story beats more ambitious physics. Lithium-7 and beryllium supply plus HALEU are the scaling dependencies to watch.
+
+## Further reading
+
+[KP-FHR Technology (Kairos Power)](https://kairospower.com/technology/) · [Kairos Power Starts Construction of Hermes Reactor (US Department of Energy)](https://www.energy.gov/ne/articles/kairos-power-starts-construction-hermes-reactor)

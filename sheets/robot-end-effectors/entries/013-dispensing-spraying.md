@@ -24,3 +24,7 @@ Dürr, ABB, and Fanuc paint-shop ecosystems (every automotive paint line on eart
 
 ## Economic profile
 Automotive painting is one of robotics' oldest solved markets — an oligopoly with decades of process moat. The new money is EV batteries: every pack needs meters of precisely-dosed adhesives, gap fillers, and thermal materials, making dispensing a beneficiary of electrification roughly proportional to cell production itself. Materials suppliers (Henkel, Sika) and equipment vendors jointly own the recipe lock-in.
+
+## Further reading
+
+[Automotive Paint Robots and EcoBell Atomizers (Dürr)](https://www.durr.com/en/products/paint-shop-application-technology/paint-robots-paint-machines/paint-robots-automotive) · [Thermal Interface Materials and Gap Fillers for EV Batteries (E-Mobility Engineering)](https://www.emobility-engineering.com/gap-fillers-tims/)

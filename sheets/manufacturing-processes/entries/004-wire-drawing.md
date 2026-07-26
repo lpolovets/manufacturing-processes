@@ -33,3 +33,7 @@ Capital-intensive continuous process; high line utilization; low cost per unit l
 - https://www.youtube.com/watch?v=pd4Uk8vk09c — Wire Drawing Process(Parts And Working) (LEARN AND GROW, 3 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=nHkZQSiMStA — Wire Drawing Process Step by Step: From Metal Rod to Wire (Mecholic - For Mechanical Engineering, 2 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=k0RWWMfaWSo — wire drawing process | wire drawing process explained | wire drawing |metal… (Modi Mechanical Engineering Tutorials, 8 minutes, 5k+ views)
+
+## Further reading
+
+[Wire Drawing Process: History and Fundamentals (Expometals)](https://www.expometals.net/en/metal-working-basics/wire-drawing-process-history-fundamentals) · [Wire Technology: Process Engineering and Metallurgy, R. N. Wright (Elsevier)](https://shop.elsevier.com/books/wire-technology/wright/978-0-12-382092-1)

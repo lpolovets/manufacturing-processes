@@ -24,3 +24,7 @@ Nearly all smartphones and tablets (ATL is the dominant maker), wearables, heari
 
 ## Economic profile
 Pouch assembly avoids can-forming capex and packs more active material per gram of packaging, but demands tighter stacking/lamination control and downstream swelling management. Commodity economics at consumer scale; premium pricing only for shaped and ultra-thin custom formats.
+
+## Further reading
+
+[Lithium-Polymer: Substance or Hype? (Battery University)](https://batteryuniversity.com/article/bu-206-lithium-polymer-substance-or-hype)

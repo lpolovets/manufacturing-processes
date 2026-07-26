@@ -29,3 +29,7 @@ Semiconductor repair, microscopy sample preparation, thin-film devices, nanoscal
 - https://www.youtube.com/watch?v=pWYHVsu7Fhk — Focused Ion beam machining (MechanicalVerse, 18 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=7CPlzxfAEj0 — Introduction to Focused Ion Beam (FIB) (Penn State MRI, 10 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=OlZQbNNdlak — Focused Ion Beam Machining Process (Mugdha Bhadak, 14 minutes, 5k+ views)
+
+## Further reading
+
+[Introduction to the Focused Ion Beam System, Nan Yao (Cambridge University Press excerpt)](https://assets.cambridge.org/97805218/31994/excerpt/9780521831994_excerpt.pdf) · [How FIB Instruments Transformed Sample Preparation (AZoM)](https://www.azom.com/article.aspx?ArticleID=22231)

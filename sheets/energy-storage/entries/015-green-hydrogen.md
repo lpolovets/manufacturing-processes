@@ -34,3 +34,7 @@ NEOM's 2.2 GW plant (Air Products/thyssenkrupp), Sinopec Kuqa (China, alkaline),
 
 ## Economic profile
 Everything hinges on the capacity factor of cheap power: electrolyzers running only on curtailed surplus sit idle too much to amortize; running flat kills the "surplus" story. China ships alkaline systems at a third of Western prices, compressing the equipment margin globally. As storage, hydrogen's role is the duration lithium and CAES can't touch — weeks and seasons — where 35% round trip is acceptable because the alternative is not storing at all.
+
+## Further reading
+
+[Global Hydrogen Review 2025 (IEA)](https://www.iea.org/reports/global-hydrogen-review-2025) · [Clean Hydrogen Production Cost Scenarios with PEM Electrolyzers, Record 24005 (DOE Hydrogen Program)](https://www.hydrogen.energy.gov/docs/hydrogenprogramlibraries/pdfs/24005-clean-hydrogen-production-cost-pem-electrolyzer.pdf)

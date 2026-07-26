@@ -28,3 +28,7 @@ Tires, seals, hoses, bushings, belts.
 
 - https://www.youtube.com/watch?v=nmaIvXm-cws — Vulcanisation of Rubber | Polymer (myhometuition, 6 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=sFjGQxUTVJE — Vulcanization of Rubber | 12th Std | Chemistry | Science | CBSE Board | Home… (Home Revise, 2 minutes, 100k+ views)
+
+## Further reading
+
+[Curing with Sulfur and Sulfur Donor Systems (Akrochem)](https://www.akrochem.com/pdf/technical_papers/curing_w_sulfur.pdf) · [Peroxide Curing of Rubber (Akrochem)](https://www.akrochem.com/pdf/technical_papers/peroxide_curing_ss.pdf)

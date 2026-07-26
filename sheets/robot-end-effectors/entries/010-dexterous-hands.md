@@ -31,3 +31,7 @@ OpenAI's cube manipulation (Shadow), academic in-hand-reorientation and tool-use
 
 ## Economic profile
 Two economies sharing one anatomy: a tiny research-instrument market (~$10–50M/yr) whose importance is wildly disproportionate — it is the R&D bench and training-data source for the production wave — and a potential tens-of-millions-of-units component market if general-purpose humanoids ship, with razor-blade fingertip economics. The open question that prices both: what fraction of deployed humanoid tasks actually needs more than a pinch? If the answer is "most," hands become the strategic component of the era; if "few," humanoids quietly ship with two-finger grippers and the premium collapses.
+
+## Further reading
+
+[Shadow Dexterous Hand Series (Shadow Robot)](https://shadowrobot.com/dexterous-hand-series/) · [Learning Dexterous In-Hand Manipulation (arXiv)](https://arxiv.org/abs/1808.00177)

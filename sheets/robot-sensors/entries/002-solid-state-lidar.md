@@ -27,3 +27,7 @@ Hesai AT-series and RoboSense M-series (the Chinese ADAS volume leaders, on doze
 
 ## Economic profile
 Chinese ADAS design-ins turned LiDAR into a sub-$500 automotive component and pulled the whole category's costs down; Western pure-plays consolidated brutally (Ouster-Velodyne merger, multiple bankruptcies). For robotics buyers this is the happy spillover decade: automotive-qualified units at consumer-electronics prices, with the strategic caveat that supply concentrates in two Chinese vendors.
+
+## Further reading
+
+[How Multi-Beam Flash Lidar Works (Ouster)](https://ouster.com/insights/blog/how-multi-beam-flash-lidar-works) · [All-Solid-State Beam Steering via Integrated Optical Phased Arrays (Micromachines)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9228971/)

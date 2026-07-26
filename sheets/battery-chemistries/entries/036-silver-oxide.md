@@ -23,3 +23,7 @@ Watch batteries (SR-series from Murata, Renata, Energizer), hearing-aid-adjacent
 
 ## Economic profile
 A stable, high-margin micro-market keyed to silver prices and dominated by a few Japanese and Swiss producers. Larger silver-zinc cells share the electrochemistry but live in aerospace (see Silver-Zinc entry). No growth story — just a durable annuity on the installed base of small devices needing stable voltage.
+
+## Further reading
+
+[Silver Oxide (Zn/Ag2O) Application Manual (Energizer)](https://data.energizer.com/pdfs/silveroxide_appman.pdf)

@@ -29,3 +29,7 @@ Glass-filled nylon pellets, flame-retardant plastics, conductive polymers, color
 - https://www.youtube.com/watch?v=bCqDfxiuSs8 — Twin Screw Extrusion -- Parts and Operation Twin Screw Extruder (PaulsonTraining, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=WMxlunR1LC0 — Plastic Behavior in the Twin Screw Extruder (PaulsonTraining, 2 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=2WSYjayBuuQ — Compounding with twin screw extruders (Leistritz Extrusion Technology, 3 minutes, 1k+ views)
+
+## Further reading
+
+[Twin Screw Extruders as Continuous Mixers for Thermal Processing (AAPS PharmSciTech, open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4766122/)

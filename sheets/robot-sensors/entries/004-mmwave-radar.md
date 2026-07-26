@@ -27,3 +27,7 @@ Every AEB/ACC-equipped car (Bosch, Continental, Denso corner radars), TI IWR/AWR
 
 ## Economic profile
 The cheapest long-range sensing per dollar in existence, riding TI/NXP/Infineon silicon economics — a single-chip radar is now a $10–40 part. Robotics adoption lags its merits mostly for software reasons (sparse, weird data; thin open-source tooling). Imaging radar is the segment to watch: if resolution keeps climbing at radar prices, it eats LiDAR's mid-range use cases from below.
+
+## Further reading
+
+[The Fundamentals of Millimeter Wave Radar Sensors (Texas Instruments)](https://www.ti.com/lit/wp/spyy005a/spyy005a.pdf) · [4D Millimeter-Wave Radar in Autonomous Driving: A Survey (arXiv)](https://arxiv.org/abs/2306.04242)

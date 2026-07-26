@@ -24,3 +24,7 @@ UK's Octopus Power Pack V2G tariff, Nuvve school-bus fleets (predictable parking
 
 ## Economic profile
 The economics are irresistible in theory — free capacity, paid twice — and the bottleneck is entirely institutional: interconnection, market access rules, and consumer trust. School buses, depots, and fleet vehicles with predictable schedules pencil first. For grid planning, even V1G smart charging captures most of the value at a fraction of the friction.
+
+## Further reading
+
+[Vehicle-to-Grid Technology Analysis (IEA)](https://www.iea.org/reports/vehicle-to-grid-technology) · [Vehicles-to-Grid Integration Assessment Report (DOE)](https://www.energy.gov/sites/default/files/2025-01/Vehicle_Grid_Integration_Asseessment_Report_01162025.pdf)

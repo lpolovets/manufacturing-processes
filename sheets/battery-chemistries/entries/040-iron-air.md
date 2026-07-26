@@ -24,3 +24,7 @@ Form Energy's 100-hour systems — Cambridge, Minnesota (Great River Energy) and
 
 ## Economic profile
 The bet is that decarbonized grids will pay for multi-day firming that daily-cycling lithium cannot provide, and that a 40–50%-efficient battery is acceptable when charged on surplus renewable power. Market timing is the risk: the multi-day storage market barely exists yet, and gas peakers with capture, hydrogen, and transmission all compete for the same role.
+
+## Further reading
+
+[Form Energy Iron-Air Technology (Form Energy)](https://formenergy.com/technology/) · [Silicon and Iron Anodes for Metal-Air Batteries: A Review (Materials via PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6651549/)

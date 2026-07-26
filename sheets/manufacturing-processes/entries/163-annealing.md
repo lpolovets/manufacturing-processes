@@ -29,3 +29,7 @@ Sheet before forming, wire between draws, castings, glass.
 - https://www.youtube.com/watch?v=9kWWKgiBh-Q — Detailed Explanation Of Annealing Heat Treatment | Process, Furnace, Stages,… (James Sword Engineering, 8 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=skQRLfU3plM — Heat Treatment - Types (Including Annealing), Process and Structures… (Matallurgy Data, 18 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=rRJWuj6kauA — Heat treatment. Annealing of steel (Институт нефтегазового инжиниринга УГНТУ, 2 minutes, 5k+ views)
+
+## Further reading
+
+[Annealing Process Guide (Xometry)](https://www.xometry.com/resources/materials/annealing/) · [Overview of Steel Heat Treatment Processes (tec-science)](https://www.tec-science.com/material-science/heat-treatment-steel/overview-of-heat-treatment-processes/)

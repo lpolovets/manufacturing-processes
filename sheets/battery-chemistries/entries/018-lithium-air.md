@@ -24,3 +24,7 @@ Academic and national-lab programs (Argonne, IBM's discontinued Battery 500 proj
 
 ## Economic profile
 Purely a research option. Its role in analysis is as a ceiling reference: any pitch citing "lithium-air-class" density should be tested against the unresolved efficiency, lifetime, and air-purity physics that have stalled the field.
+
+## Further reading
+
+[Advances in Understanding Mechanisms Underpinning Lithium-Air Batteries (Nature Energy)](https://www.nature.com/articles/nenergy2016128)

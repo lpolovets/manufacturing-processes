@@ -29,3 +29,7 @@ Prototype housings, automotive mockups, medical-device enclosures.
 - https://www.youtube.com/watch?v=gcrgXa0yYrw — Urethane Plastic Prototypes using Vacuum Casting (rapidprotovideo, 3 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=sHqHWTK-Esg — How It's Done: Vacuum Casting / Polyurethane Casting | Star Rapid (Star Rapid, 3 minutes, 10k+ views)
 - https://www.youtube.com/watch?v=rYM6anw8TFE — Vacuum Casting Process: A Good Choice for Rapid Prototyping and Low-Volume… (RAPID DIRECT, 3 minutes, 5k+ views)
+
+## Further reading
+
+[Guide to Vacuum Casting and Urethane Casting (Formlabs)](https://formlabs.com/blog/vacuum-casting-urethane-casting-polyurethane-casting/)

@@ -23,3 +23,7 @@ Energizer Ultimate Lithium AA/AAA (the defining product), digital cameras and fl
 
 ## Economic profile
 A branded premium segment essentially owned by Energizer, with pricing power that alkaline's commodity market lacks. The niche is stable but capped: high-drain devices increasingly ship with built-in Li-ion, leaving replaceable-battery devices in slow decline.
+
+## Further reading
+
+[Lithium Iron Disulfide Handbook and Application Manual (Energizer)](https://data.energizer.com/pdfs/lithiuml91l92_appman.pdf)

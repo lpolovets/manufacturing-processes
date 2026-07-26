@@ -29,3 +29,7 @@ Glass, sapphire, ceramics, carbide dies.
 - https://www.youtube.com/watch?v=5w6szZtOg5w — ULTRASONIC MACHINING: How Ultrasonic Machining process work (Animation) (ADTW Study, 7 minutes, 100k+ views)
 - https://www.youtube.com/watch?v=iYbd1LLxHq4 — WORKING OF ULTRASONIC MACHINING PROCESS !! NON TRADITIONAL MACHINING PROCESS (ANUNIVERSE 22, 5 minutes, 50k+ views)
 - https://www.youtube.com/watch?v=jj9s5NhzfnY — How an Ultrasonic Machining Works??? ||Engineer's Academy|| (Engineer's Academy, 9 minutes, 50k+ views)
+
+## Further reading
+
+[What Is Ultrasonic Machining? (Bullen Ultrasonics)](https://www.bullentech.com/what-is-ultrasonic-machining/)

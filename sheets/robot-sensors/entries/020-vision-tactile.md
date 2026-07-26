@@ -27,3 +27,7 @@ GelSight Inc (Mini as the commercial standard), Meta AI's Digit (open-hardware, 
 
 ## Economic profile
 The $300–500 module price point made rich touch accessible to every lab, and consumable gel tips create a razor-blade revenue line. The open question is industrial fitness: research adores it, factories need months-long tip life. If durability closes, vision-based touch is positioned to become the fingertip standard for exactly the reason it won research — it speaks the same language (images) as the rest of the learned stack.
+
+## Further reading
+
+[Tactile Sensing Technology (GelSight)](https://www.gelsight.com/tactile-sensing-technology/) · [Classification of Vision-Based Tactile Sensors: A Review (arXiv)](https://arxiv.org/abs/2509.02478)

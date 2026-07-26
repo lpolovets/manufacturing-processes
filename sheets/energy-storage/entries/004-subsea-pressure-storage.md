@@ -24,3 +24,7 @@ Fraunhofer IEE's StEnSea program: Lake Constance model tests, and the ~9 m spher
 
 ## Economic profile
 Paper economics reach pumped-hydro territory only at large sphere counts and depths; near-term reality is R&D funded by grants and offshore-wind strategic interest. The relevant diligence lens is offshore-industry cost discipline, not storage chemistry — the medium is free, the marine operations are not.
+
+## Further reading
+
+[StEnSea — Stored Energy in the Sea (Fraunhofer IEE)](https://www.iee.fraunhofer.de/en/topics/stensea.html) · [California Sphere Pilot Announcement (Fraunhofer IEE)](https://www.iee.fraunhofer.de/en/presse-infothek/press-media/2024/fraunhofer-iee-and-partners-test-spherical-energy-storage-on-the.html)
