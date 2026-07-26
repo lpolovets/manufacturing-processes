@@ -1,6 +1,8 @@
 # Writing style guide
 
-All prose in this repo — entry markdown sections, `guide.html`, `h2h.html` "Pick it when" cells, blurbs, ledes — should read like Leo Polovets's writing (codingvc.com), not like default AI writing. This file defines what that means concretely. When writing or revising any prose, follow these rules; when in doubt, pick the plainer option.
+All text in this repo — entry markdown sections, `guide.html`, `h2h.html` cells, `sheet.json` blurbs and ledes — should read like Leo Polovets's writing (codingvc.com), not like default AI writing. This file defines what that means concretely. When writing or revising, follow these rules; when in doubt, pick the plainer option.
+
+> **Canonical copy: `~/.claude/STYLE.md`**, which applies to all of Leo's published prose across projects. The voice rules below are duplicated from it so this repo stays self-contained. **Change the voice rules there first, then sync here.** The repo-specific parts — which files and sections are in scope — live in "Scope notes" at the bottom and belong only to this file.
 
 ## The voice in one paragraph
 
