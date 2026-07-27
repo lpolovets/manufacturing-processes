@@ -1,0 +1,122 @@
+{
+  "slug": "uncrewed-systems",
+  "docTitle": "Uncrewed Systems Reference",
+  "shortTitle": "Uncrewed Systems",
+  "blurb": "Drones and uncrewed vehicles across air, sea, and ground — Group 1–5 UAS, loitering munitions, USVs, UUVs, and UGVs, compared on endurance, payload, autonomy, and cost per unit.",
+  "category": "Defense and Aerospace",
+  "question": "Which uncrewed system fits this mission, and what does one cost?",
+  "title": "Uncrewed Systems: A Practical Reference",
+  "lede": "The interesting question about an uncrewed system is rarely what it can do. It is what one costs, how many you can buy, and whether you mind losing them. This guide covers {{N_ENTRIES}} classes of uncrewed system across air, surface, undersea, and ground, with endurance, payload, autonomy level, and unit cost.",
+  "unit": ["system class", "system classes"],
+  "groupLabel": "Class",
+  "explorerTab": "System explorer",
+  "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
+  "searchPlaceholder": "Search drones, USVs, UUVs, UGVs…",
+  "stats": [
+    { "count": "entries", "label": "system classes" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Small UAS (Group 1–2)", "blurb": "under 25 kg, launched by hand or by squad", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Tactical UAS (Group 3)", "blurb": "brigade-level ISR at a few hundred kilograms", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Large UAS (Group 4–5)", "blurb": "aircraft-scale, runway-based, long endurance", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Loitering munitions", "blurb": "the aircraft is the warhead", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Uncrewed surface vessels", "blurb": "boats with nobody aboard", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Uncrewed underwater vehicles", "blurb": "the domain where communication barely works", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Uncrewed ground vehicles", "blurb": "terrain is much harder than airspace", "color": "var(--p7)" }
+  ],
+  "groupBlurbs": {
+    "Combat aircraft": "designed to survive contested airspace",
+    "First-person view": "a human flying it through a video link",
+    "Fixed-wing": "wings buy endurance, at the cost of a launch and recovery problem",
+    "Gliders": "buoyancy changes instead of a propeller",
+    "High altitude": "above the weather, above most air defense",
+    "Large UUV": "torpedo tube or bigger, mission measured in weeks",
+    "Long-range": "hundreds to thousands of kilometers, one way",
+    "Man-portable": "carried in a rucksack, launched by one person",
+    "Medium altitude": "the armed ISR workhorse",
+    "Multirotor": "hover anywhere, pay for it in endurance",
+    "Ocean-going": "crosses oceans without a crew",
+    "Runway and catapult": "conventional aircraft, no cockpit",
+    "Small craft": "cheap hulls, big warheads, short lives",
+    "Small robots": "thrown, carried, or pushed ahead of people",
+    "Small UUV": "two people can lift it over the side",
+    "Vehicles": "truck and tank scale, still the hardest autonomy problem",
+    "Vertical takeoff": "no runway, no catapult, no net"
+  },
+  "facets": [
+    {
+      "id": "role",
+      "key": "roles",
+      "label": "Role",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "What the system is bought to do. ISR covers surveillance and targeting; Strike covers armed and one-way attack; EW covers jamming, decoys, and communications relay; Logistics covers resupply and casualty movement; Survey covers mine countermeasures, hydrography, and inspection.",
+      "order": ["isr", "strike", "ew", "log", "survey"],
+      "options": {
+        "isr": "ISR",
+        "strike": "Strike",
+        "ew": "EW & relay",
+        "log": "Logistics",
+        "survey": "Survey & MCM"
+      }
+    },
+    {
+      "id": "end",
+      "key": "endurance",
+      "label": "Endurance",
+      "type": "range",
+      "color": "--fb",
+      "required": true,
+      "tip": "Time on task per sortie. Minutes (<1 h) · Hours (1–8 h) · Day (8–24 h) · Days (1–7 days) · Weeks (7 days+). Classes that span sizes carry a span.",
+      "order": ["mins", "hours", "day", "days", "weeks"],
+      "options": { "mins": "Minutes", "hours": "Hours", "day": "Day", "days": "Days", "weeks": "Weeks" },
+      "chipLabels": { "mins": "Minutes (<1 h)", "hours": "Hours (1–8 h)", "day": "Day (8–24 h)", "days": "Days (1–7 d)", "weeks": "Weeks (7 d+)" }
+    },
+    {
+      "id": "pay",
+      "key": "payload",
+      "label": "Payload",
+      "type": "range",
+      "color": "--fc",
+      "required": true,
+      "tip": "Useful payload mass, which for a loitering munition means warhead. Tiny (<1 kg) · Small (1–25 kg) · Medium (25–250 kg) · Large (250 kg–2 t) · Heavy (2 t+).",
+      "order": ["tiny", "small", "med", "large", "heavy"],
+      "options": { "tiny": "Tiny", "small": "Small", "med": "Medium", "large": "Large", "heavy": "Heavy" },
+      "chipLabels": { "tiny": "Tiny (<1 kg)", "small": "Small (1–25 kg)", "med": "Medium (25–250 kg)", "large": "Large (250 kg–2 t)", "heavy": "Heavy (2 t+)" }
+    },
+    {
+      "id": "aut",
+      "key": "autonomy",
+      "label": "Autonomy",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "How much a human does in the loop. Piloted = continuous manual control · Waypoint = flies a route, human decides everything else · Supervised = handles its own navigation and sensor tasking, human approves actions · Autonomous = completes the mission without a link, including target selection within set rules.",
+      "order": ["rc", "wp", "sup", "auto"],
+      "options": { "rc": "Piloted", "wp": "Waypoint", "sup": "Supervised", "auto": "Autonomous" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Unit cost",
+      "type": "single",
+      "color": "--fe",
+      "required": true,
+      "tip": "Directional cost of one air or sea vehicle at typical production quantity, excluding ground stations, spares, and the training pipeline. For attritable systems this is the number that decides doctrine.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$10k", "low": "$10k–100k", "med": "$100k–1M", "high": "$1M–10M", "vhigh": "$10M+" }
+    }
+  ],
+  "extraSections": [
+    ["when to use", "When to use"],
+    ["how it is countered", "How it is countered"],
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"],
+    ["further reading", "Further reading"]
+  ]
+}

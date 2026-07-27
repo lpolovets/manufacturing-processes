@@ -1,0 +1,76 @@
+    <h2>How to choose an uncrewed system</h2>
+    <p class="muted">The question that decides an uncrewed system design is not what it can do but whether you mind losing it. A system you cannot afford to lose gets flown conservatively, escorted, and held back from the places where it would be most useful, which usually cancels out its advantages. A system you can afford to lose gets used, and the loss rate becomes a logistics number rather than a crisis. Nearly every argument in this field — collaborative combat aircraft versus stealth UCAV, FPV drones versus loitering munitions, small attack boats versus large uncrewed vessels — is a version of that same question.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Endurance versus hover</td><td>A wing gives four to ten times the endurance of rotors for the same battery, and rotors give the ability to stop and look. Almost every air vehicle configuration decision is this trade, and hybrid VTOL splits it at a cost of 15–25% endurance.</td></tr>
+        <tr><td>Link dependence</td><td>What the system does when the link drops determines whether it works in a contested environment. Radio links are jammable, satellite links are jammable, and fiber links snag. Autonomy is what remains.</td></tr>
+        <tr><td>Navigation without GNSS</td><td>GNSS denial used to stop cheap drones. Visual-inertial navigation and scene matching now cost tens of dollars, so it mostly does not. That single change has reshaped both drone employment and counter-drone planning.</td></tr>
+        <tr><td>Launch and recovery</td><td>For fixed-wing systems the launcher and net often cost as much as the aircraft and constrain where it can operate. VTOL removes them at an endurance penalty. For maritime systems, recovery in a seaway is where vehicles get damaged.</td></tr>
+        <tr><td>Unattended reliability</td><td>An uncrewed vessel on a 60-day deployment has nobody to fix a failed pump. Mean time between failures has to be an order of magnitude better than a crewed equivalent, and this is where most maritime programs have slipped.</td></tr>
+        <tr><td>Communication underwater</td><td>Radio does not propagate underwater, so undersea vehicles get low-rate acoustic links or nothing. They must complete missions autonomously and report on surfacing, which changes how missions are planned and how failures are handled.</td></tr>
+        <tr><td>Autonomy level versus policy</td><td>Target selection without a human in the loop is technically achievable and legally contested. Systems that need full autonomy to work in a jammed environment run straight into that question, and it is not a solved problem.</td></tr>
+        <tr><td>Terrain versus airspace</td><td>Ground autonomy is much harder than air autonomy. Air is empty; ground has mud, stairs, ditches, and rubble. That asymmetry explains why aerial systems have transformed warfare and ground robots mostly have not.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cost exchange ratio</td><td>A $500 drone destroying a $3M vehicle, or a $30k drone absorbing a $1M interceptor, are the two numbers that have driven every recent doctrinal change. Compute it in both directions before buying either side of the trade.</td></tr>
+        <tr><td>Production rate, not unit capability</td><td>Ukraine's drone output is measured in millions per year from workshop-scale facilities. A system that takes three years to qualify is obsolete before it fields. Rate is now a capability metric.</td></tr>
+        <tr><td>Commercial supply chain</td><td>Motors, batteries, cameras, flight controllers, and satellite terminals all come from consumer markets. That makes systems cheap and makes the supply chain a strategic exposure, concentrated heavily in China.</td></tr>
+        <tr><td>The uncrewed-costs-as-much problem</td><td>Stealth UCAVs and robotic combat vehicles both ended up costing roughly what the crewed version costs, which removed the argument for building them. Watch for unit cost as a hard requirement rather than a goal.</td></tr>
+        <tr><td>Export control asymmetry</td><td>MTCR restrictions on US armed drone exports opened the market to Turkish and Chinese suppliers. That policy choice shaped the global armed-drone market more than any technical factor did.</td></tr>
+        <tr><td>Attrition as a planning number</td><td>Small UAS operational life in contested areas is measured in weeks. Buy and budget as if that is true, because it is, and design the training and logistics pipeline around continuous replacement.</td></tr>
+        <tr><td>Data or service, not hardware</td><td>The commercially successful uncrewed maritime businesses sell ocean data by subscription rather than selling hulls. Where a customer wants an answer rather than a vehicle, that model usually wins.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Endurance bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Minutes</div><div class="bv">FPV drones, nano quadcopters, man-portable loitering munitions</div></div>
+      <div class="band"><div class="bt">Hours</div><div class="bv">Small fixed-wing ISR, VTOL hybrids, legged robots</div></div>
+      <div class="band"><div class="bt">Day</div><div class="bv">Group 3 tactical UAS, ground logistics vehicles</div></div>
+      <div class="band"><div class="bt">Days</div><div class="bv">MALE and HALE aircraft, medium survey UUVs</div></div>
+      <div class="band"><div class="bt">Weeks</div><div class="bv">Uncrewed vessels, large UUVs, gliders and sail drones</div></div>
+    </div>
+
+    <h3>Autonomy levels</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Piloted</div><div class="bv">Continuous manual control — FPV drones, EOD robots</div></div>
+      <div class="band"><div class="bt">Waypoint</div><div class="bv">Flies a route; the human decides everything else</div></div>
+      <div class="band"><div class="bt">Supervised</div><div class="bv">Handles navigation and sensors; human approves actions</div></div>
+      <div class="band"><div class="bt">Autonomous</div><div class="bv">Completes the mission with no link, including target selection within set rules</div></div>
+    </div>
+
+    <h2>Why cheap has beaten capable</h2>
+    <p>The systems that have changed warfare recently were not the expensive ones. A $500 FPV drone, a $30k one-way attack drone, and a $250k explosive boat have each produced strategic effects out of proportion to their sophistication, while stealth UCAV and robotic combat vehicle programs have been cancelled or restructured. The mechanism is straightforward. Cheap systems can be used in ways that expose them, so they get used where the value is highest; expensive systems get protected, so they are not there when it matters. Cheap systems can also be produced fast enough to replace losses and to iterate designs in weeks, which matters enormously in a countermeasure race that moves as fast as this one has. The counter-argument is real too: cheap systems have short range, small payloads, and poor weather tolerance, and they do not replace the capabilities that expensive platforms provide. The practical conclusion most forces are reaching is a mix — a small number of exquisite systems for what only they can do, and very large numbers of cheap ones for everything else — with the difficult part being that traditional defense procurement is built for the first and not the second.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Decide the unit cost first and design to it, because unit cost determines how the system will actually be employed. Systems that cost as much as their crewed equivalents get used like crewed equivalents, which forfeits the reason for building them uncrewed. Then check the two numbers that decide whether the system works in a real fight: what it does when the link is jammed, and how many you can produce per month. Capability per aircraft has rarely been the constraint; cost, autonomy under jamming, and production rate consistently have been.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What does the system do when the control link is jammed, and is that behavior useful or just safe?</li>
+      <li>How does it navigate with no GNSS, and how much does that capability cost per unit?</li>
+      <li>What is the launch and recovery footprint, and does it fit where the system actually needs to operate?</li>
+      <li>For unattended systems, what is the demonstrated mean time between failures against the full mission duration?</li>
+      <li>What is the expected operational life in a contested environment, and does the logistics and training pipeline support that replacement rate?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is the cost exchange ratio against the targets it attacks and against the defenses that will attack it?</li>
+      <li>Is unit cost a hard requirement in the program, or a goal that will erode as requirements are added?</li>
+      <li>What is the achievable production rate per month, and what component is the bottleneck?</li>
+      <li>How much of the bill of materials comes from a supply chain concentrated in one country, and what is the substitute?</li>
+      <li>Does the customer want a vehicle or an answer? If an answer, is a data or flight-hour service the better business?</li>
+    </ul>
+
+    <p class="muted">The pattern across this sheet is that hardware advantages evaporate quickly and manufacturing advantages do not. Airframes, hulls, and chassis have converged on similar designs everywhere, and the components come from the same commercial suppliers. What separates programs is the autonomy stack that keeps working when links fail, and the ability to build in quantity at a price that lets the systems be used the way they are meant to be used.</p>

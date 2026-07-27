@@ -1,0 +1,75 @@
+    <h2>How to choose a counter-drone approach</h2>
+    <p class="muted">Counter-UAS is an arithmetic problem before it is an engineering problem. A defense that works perfectly but costs ten times what it destroys loses, because the attacker can afford to keep sending drones and you cannot afford to keep shooting them down. Every serious architecture therefore layers cheap mechanisms that sometimes work underneath expensive ones that usually do, and reserves the expensive ones for targets that justify them. The other structural fact is that no single mechanism covers the threat: jamming fails against fiber-optic and autonomous drones, guns run out of range, lasers stop in fog, and nets only protect what they cover.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Detection is the hard part</td><td>Most counter-UAS failures are detection failures, not defeat failures. A small drone at low altitude against ground clutter is a genuinely difficult radar target, and the false alarm rate matters more than the detection range.</td></tr>
+        <tr><td>What the drone depends on</td><td>Electronic attack works only against drones that depend on a radio link or GNSS. Fiber-optic control, visual navigation, and terminal autonomy each remove one of those dependencies, and all three are now cheap.</td></tr>
+        <tr><td>Engagement window</td><td>A drone diving at 30 m/s gives a few seconds. Systems with 2 km of range engage inside the attack envelope; the difference between 2 km and 10 km of engagement range is the difference between defending and reacting.</td></tr>
+        <tr><td>Debris and what happens on a miss</td><td>Every kinetic engagement puts something on the ground. Gun rounds keep travelling, intercept debris falls, and in populated areas this frequently decides whether a system can be used at all.</td></tr>
+        <tr><td>Magazine depth</td><td>Against salvos of dozens, the question is how many engagements before reload. A gun with 500 rounds and a launcher with 4 missiles are different kinds of defense regardless of their per-shot performance.</td></tr>
+        <tr><td>Weather availability</td><td>Lasers lose range in fog and rain, optical trackers stop in cloud, and acoustic sensing degrades in wind. A system's availability across a year of real weather is usually far below its demonstrated performance.</td></tr>
+        <tr><td>Power and cooling</td><td>Directed energy needs three to five times its output in electrical input plus heat rejection. That determines which platforms can host it and is often the binding constraint rather than the beam.</td></tr>
+        <tr><td>Multiple simultaneous targets</td><td>Dwell time for a laser, slew time for a gun, and reload time for a launcher all cap the engagement rate. Against a swarm, only high-power microwave and area effects have the right arithmetic.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cost exchange per engagement</td><td>The number that decides everything. A $1M interceptor against a $30k drone is a defeat even when it hits. Compute it before buying, and compute the attacker's version too.</td></tr>
+        <tr><td>Acquisition cost versus shot cost</td><td>A laser's $3 shot sits behind a $30M system. Total cost only favors directed energy after many engagements, so the expected engagement count over the system's life is the real question.</td></tr>
+        <tr><td>Production rate on both sides</td><td>Drones are produced at millions per year from workshop-scale facilities. Interceptor production measured in thousands per year does not match that, and no amount of per-unit performance closes the gap.</td></tr>
+        <tr><td>Legal authority</td><td>In most countries only specific government entities may jam, spoof, or take control of an aircraft. That single constraint is why the civil counter-drone market is dominated by detection and by non-destructive capture.</td></tr>
+        <tr><td>Countermeasure cycle time</td><td>Every counter in this field has held for months, not years. Systems that cannot be updated in software, and organizations that take three years to field, are structurally behind.</td></tr>
+        <tr><td>Adapting existing inventory</td><td>The fastest capabilities to field have been adaptations: guided rockets repurposed as interceptors, old anti-aircraft guns pressed back into service. Both beat new programs on time to field by years.</td></tr>
+        <tr><td>Passive measures are underrated</td><td>The most widely used counter to FPV drones is netting. It has no failure mode, needs no operator, and costs almost nothing, and it protects while the expensive systems are looking elsewhere.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Cost exchange bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Unfavorable</div><div class="bv">SHORAD missiles against cheap drones — a win the attacker can afford</div></div>
+      <div class="band"><div class="bt">Even</div><div class="bv">Low-cost interceptors against long-range attack drones</div></div>
+      <div class="band"><div class="bt">Favorable</div><div class="bv">Guided rockets, guns, interceptor drones</div></div>
+      <div class="band"><div class="bt">Strongly favorable</div><div class="bv">Jamming, lasers, microwave, decoys, nets — shots costing dollars</div></div>
+    </div>
+
+    <h3>Collateral risk bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Minimal</div><div class="bv">Passive detection, nets, barriers — nothing leaves the site</div></div>
+      <div class="band"><div class="bt">Low</div><div class="bv">Lasers, protocol takeover, self-protection jamming</div></div>
+      <div class="band"><div class="bt">Moderate</div><div class="bv">Guns with self-destructing rounds, microwave, interceptors</div></div>
+      <div class="band"><div class="bt">High</div><div class="bv">GNSS jamming and spoofing, close-in guns, wideband comms jamming</div></div>
+    </div>
+
+    <h2>Why jamming stopped being enough</h2>
+    <p>Three years ago, jamming was close to a complete answer against small drones. A vehicle-mounted jammer broke the control link, a GNSS jammer stopped anything navigating by satellite, and the cost was a few thousand dollars against threats costing tens of thousands. That has changed for a specific and instructive reason: the drone side removed its dependencies faster than the jamming side could add power. Fiber-optic control removed the radio link entirely for a few hundred dollars of spool. Visual-inertial navigation and scene matching removed the GNSS dependency for the price of a camera and a compute module that the drone already carried. Terminal autonomy removed the need for a link in the final seconds. None of those required new physics — they required cheap commercial components arriving in a market that iterates in weeks. The defensive response has had to move back toward physical defeat: guns, interceptor drones, directed energy, and netting. That is more expensive per engagement than jamming was, which is why the cost-exchange arithmetic has become the central question in the field rather than a footnote to it.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Build the architecture around cost per engagement and around what the threat does not depend on. Cheap layers — passive barriers, detection networks, guns, dazzlers — should carry most of the load, with expensive reliable systems reserved for what the cheap layers miss. Assume every electronic defeat mechanism will be obsoleted within a year by a drone that removes the dependency it attacks, and prefer systems that can be updated in software and produced at the rate the threat is produced. The defense that wins is not the one with the best single system; it is the one whose magazine is deeper than the attacker's.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What is the false alarm rate over a week of real operation in the intended environment, not the maximum detection range on a test range?</li>
+      <li>Does the defeat mechanism depend on the drone using a radio link or GNSS, and what happens when it does not?</li>
+      <li>What is the engagement range against the actual attack profile, and does that leave time to react or only to observe?</li>
+      <li>How many targets can the system service per minute, and what is the magazine depth before reload?</li>
+      <li>Where does the debris land, and does that rule out use where the system is actually needed?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>What is the cost per engagement against the specific threats it will face, and is that exchange sustainable over a campaign?</li>
+      <li>Can the system be produced at a rate comparable to the threat's production rate, and what is the bottleneck component?</li>
+      <li>How quickly can it be updated when the threat changes — software, weeks, or a new program?</li>
+      <li>Is the customer legally permitted to use this mechanism? For civil buyers, most electronic and kinetic options are not available.</li>
+      <li>Does an existing inventory of components make a fast, cheap adaptation possible instead of a new development program?</li>
+    </ul>
+
+    <p class="muted">The consistent pattern in this field is that the cheapest measures have delivered the most protection per dollar and the expensive systems have delivered the most reliable single engagements. Both are needed, and the common procurement error is buying the second while neglecting the first, which leaves an area defended at a few points and unprotected everywhere else.</p>

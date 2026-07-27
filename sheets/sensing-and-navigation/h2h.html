@@ -1,0 +1,34 @@
+    <h2>Head-to-head: the options that actually compete</h2>
+    <p class="muted">Two separate arguments recur in almost every system design: which sensor finds the target, and what the platform navigates by when GNSS is gone. The rows below are the candidates that genuinely compete for the same slot. Specialty sensors — sonar, hyperspectral, emitter fingerprinting, seekers — live in the explorer.</p>
+
+    <h3>Finding the target</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Sensor</th><th>Range</th><th>Defeated by</th><th>Vs stealth</th><th>Cost</th><th>Pick it when</th></tr></thead>
+      <tbody>
+        <tr><td>AESA radar</td><td>100–400 km, engagement quality</td><td>DRFM jamming, stand-in jammers, low-observable targets</td><td>Fair — X-band is what stealth is designed against</td><td>$10M+</td><td>You need multi-function tracking and fire control in one aperture and can afford the modules and the cooling.</td></tr>
+        <tr><td>Mechanically scanned radar</td><td>100–400 km, slow revisit</td><td>Predictable waveform, anti-radiation missiles, terrain masking</td><td>Poor</td><td>$1–10M</td><td>Wide-area search on a budget, cueing a smaller number of expensive electronically scanned sets.</td></tr>
+        <tr><td>VHF/UHF radar</td><td>200–500 km, kilometre accuracy</td><td>Poor accuracy means detection without a firing solution</td><td>Strong — wavelength defeats the shaping</td><td>$5–30M</td><td>You need to know a low-observable aircraft is there, and you have a fire-control layer to hand off to.</td></tr>
+        <tr><td>Over-the-horizon radar</td><td>1,000–3,000 km, tens of km accuracy</td><td>Ionospheric variability, HF jamming, skip zone</td><td>Good</td><td>$100M+ fixed site</td><td>Continental-scale early warning over ocean approaches, where coverage per dollar beats accuracy.</td></tr>
+        <tr><td>Passive coherent location</td><td>50–150 km, depends on illuminators</td><td>Loss of broadcast transmitters, coverage gaps, coarse accuracy</td><td>Good</td><td>$0.5–5M</td><td>You need surveillance without emitting, or spectrum licensing for an active radar is impossible.</td></tr>
+        <tr><td>Electronic support / DF</td><td>Line of sight, hundreds of km</td><td>Emission control — a silent target is invisible</td><td>Strong, if the target transmits</td><td>$5M+ per platform</td><td>Always-on passive layer. It costs nothing to leave running and reveals the opponent's whole electronic order of battle.</td></tr>
+        <tr><td>Infrared search and track</td><td>50–150 km against aircraft</td><td>Cloud and moisture; gives bearing but no range</td><td>Good — stealth is a radar treatment</td><td>$2–10M</td><td>You need passive air-to-air detection in a jammed environment and the theatre has usable weather.</td></tr>
+        <tr><td>Cooled MWIR imaging</td><td>10–40 km against vehicles</td><td>Cloud, multispectral smoke, thermal signature management</td><td>Strong</td><td>$0.5–3M</td><td>Positive identification and targeting at range, day or night, where the extra cost over uncooled is justified past about 3–5 km.</td></tr>
+        <tr><td>Uncooled LWIR imaging</td><td>1–5 km against vehicles</td><td>Same as cooled, plus much lower sensitivity</td><td>Strong</td><td>$1–20k</td><td>Short-range thermal on a budget: weapon sights, small drones, driver's viewers. Instant-on with no cooler.</td></tr>
+        <tr><td>Synthetic aperture radar</td><td>10–800 km, sub-metre imagery</td><td>Repeater jamming, decoys, timing movement between passes</td><td>Fair</td><td>$10M+ per platform</td><td>All-weather imagery and change detection over wide areas, especially coherent change detection along routes.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Knowing where you are when GNSS is denied</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Method</th><th>Accuracy</th><th>Where it fails</th><th>Cost</th><th>Pick it when</th></tr></thead>
+      <tbody>
+        <tr><td>Anti-jam GNSS</td><td>Metres, when available</td><td>Enough distributed jammers saturate the antenna nulls; array does not fit small platforms</td><td>$5–50k</td><td>The platform is large enough for a 20–40 cm antenna and valuable enough to justify it.</td></tr>
+        <tr><td>Navigation-grade INS</td><td>~1 nautical mile per hour of drift</td><td>Nothing attacks it; drift simply grows without bound</td><td>$50–200k</td><td>You need hours of unaided navigation and can carry a shoebox-sized unit. The backbone of every jam-resistant design.</td></tr>
+        <tr><td>MEMS IMU</td><td>Degrades in minutes unaided</td><td>Drift, temperature, acoustic resonance attacks</td><td>$1–5k</td><td>The platform is small and something else — vision, GNSS, terrain — supplies periodic correction.</td></tr>
+        <tr><td>Terrain contour matching</td><td>Tens of metres over land</td><td>Flat ground, water, desert, heavy snow</td><td>$50–500k</td><td>The route crosses terrain with relief and you need a jam-proof absolute fix. Standard on cruise missiles.</td></tr>
+        <tr><td>Scene matching / visual nav</td><td>Tens of metres, metres against distinct scenes</td><td>Night, cloud, smoke, featureless ground, stale reference imagery</td><td>$100–5k</td><td>The platform already carries a camera. Cheapest anti-jam absolute navigation available, and it is spreading fast.</td></tr>
+        <tr><td>Visual-inertial odometry</td><td>0.1–2% of distance travelled</td><td>Darkness, smoke, textureless surfaces, fast motion; relative not absolute</td><td>$50–1k</td><td>Short to medium GNSS-denied legs on small vehicles, indoors, or underground.</td></tr>
+        <tr><td>Celestial (stellar-inertial)</td><td>Tens to hundreds of metres, stable over time</td><td>Any cloud between the sensor and the sky</td><td>$100k–1M</td><td>Very long unaided flights above the weather — ballistic missiles, strategic aircraft, spacecraft.</td></tr>
+        <tr><td>Magnetic / gravity map</td><td>Hundreds of metres to a few km</td><td>Unmapped areas, solar storms, platform magnetic interference</td><td>$50–500k</td><td>Under water or under cloud, where terrain matching and celestial both fail. Bounds inertial drift rather than replacing it.</td></tr>
+      </tbody>
+    </table></div>

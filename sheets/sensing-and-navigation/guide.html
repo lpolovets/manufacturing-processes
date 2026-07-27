@@ -1,0 +1,76 @@
+    <h2>How to choose sensing and navigation</h2>
+    <p class="muted">Sensing and navigation are the same problem viewed from opposite ends: one measures where something else is, the other measures where you are, and both are solved by comparing a measurement against a reference. The useful way to organize the choice is by what has to be true for the sensor to work. Radar needs to transmit. Optical sensors need weather. Passive receivers need the target to emit. GNSS needs a signal from 20,000 km away to survive. Every one of those conditions is something an opponent can attack, so the architecture question is not which sensor is best but which two sensors fail under different conditions.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Active versus passive</td><td>Anything that transmits can be detected, located, and attacked, usually at longer range than it can detect. That asymmetry drives emission control doctrine and is the reason passive sensing keeps gaining ground.</td></tr>
+        <tr><td>Wavelength versus the target</td><td>Stealth shaping and absorbent coatings are tuned against centimetric radar. At VHF the wavelength approaches the size of the aircraft's features and the treatment stops working, which is why counter-stealth sensing means going long or going passive.</td></tr>
+        <tr><td>Detection is not engagement</td><td>A VHF radar or an OTH system finds a target with kilometres of error. Getting from there to a firing solution needs a second sensor, and that handoff is where most integrated air defense architectures actually succeed or fail.</td></tr>
+        <tr><td>Weather and obscurants</td><td>Optical and infrared sensing stops at cloud, fog, and smoke; radar and acoustics do not. Multispectral smoke is cheap, standard-issue equipment, and it defeats a large fraction of the precision-strike chain.</td></tr>
+        <tr><td>Drift versus fix</td><td>Inertial navigation drifts without bound but cannot be attacked; absolute references can be attacked but bound the drift. Every serious navigation design pairs one of each, and the sizing question is how long the absolute reference can be denied.</td></tr>
+        <tr><td>Geometry for passive location</td><td>A single passive receiver gives a bearing, not a position. Accuracy comes from baseline length and time synchronization across several receivers, so the constellation matters more than the individual receiver.</td></tr>
+        <tr><td>Library and map currency</td><td>Radar warning receivers, emitter identification, terrain matching, and scene matching all compare against stored references. A stale library or map degrades the system silently, and keeping them current is an operational tempo problem, not a one-time cost.</td></tr>
+        <tr><td>Processing and data volume</td><td>Hyperspectral cubes, SAR imagery, and wideband RF collection all produce more data than can be moved off the platform. Onboard processing decides what is actually usable, so the compute budget is part of the sensor specification.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Cost exchange against the target</td><td>A $10M VHF radar that cues against a $100M stealth aircraft is a good trade even if it never produces a firing solution. Much of air-defense economics is about forcing the expensive side to spend more.</td></tr>
+        <tr><td>Commercial cost curves</td><td>Automotive radar silicon, phone camera sensors, microbolometers, and MEMS inertial units all got cheap for reasons that had nothing to do with defense. Every one of those declines has shown up as a capability in cheap drones and munitions within a few years.</td></tr>
+        <tr><td>Export control as the real barrier</td><td>Cooled infrared detectors, navigation-grade inertial units, and encrypted GNSS receivers are controlled more tightly than most weapons. Control thresholds set in the 1990s increasingly sit below what is commercially available, which is a growing policy problem.</td></tr>
+        <tr><td>Transmit-receive module cost</td><td>The single number that drives radar capability across the market. GaN modules falling from thousands of dollars to hundreds is what put AESA on trainers, drones, and missile seekers.</td></tr>
+        <tr><td>Commercial sensing constellations</td><td>SAR, RF geolocation, and hyperspectral imaging are now sold by subscription from smallsat operators. Governments increasingly buy a commercial baseline and reserve national systems for what commerce cannot do.</td></tr>
+        <tr><td>Consumables and magazine depth</td><td>Sonobuoys, decoys, and countermeasure flares are consumed at rates peacetime exercises understate. Production capacity, not sensor quality, often sets how long a capability lasts in a real campaign.</td></tr>
+        <tr><td>Software as the moat</td><td>Receivers, cameras, and detectors are increasingly commodity. The durable advantage sits in emitter libraries, target recognition, multi-sensor fusion, and the pipeline that updates them across a fleet in days.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Range bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Near (&lt;1 km)</div><div class="bv">Magnetic anomaly, close-in optical, short-range acoustics</div></div>
+      <div class="band"><div class="bt">Short (1–20 km)</div><div class="bv">Laser designation, mmWave, uncooled thermal, most seekers</div></div>
+      <div class="band"><div class="bt">Medium (20–200 km)</div><div class="bv">Fire-control radar, IRST, cooled thermal, active sonar</div></div>
+      <div class="band"><div class="bt">Long (200–1,000 km)</div><div class="bv">Surveillance radar, SAR, electronic support, passive sonar</div></div>
+      <div class="band"><div class="bt">Strategic (1,000 km+)</div><div class="bv">Over-the-horizon radar, space-based ELINT and imaging</div></div>
+    </div>
+
+    <h3>Jam-resistance bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Poor</div><div class="bv">GNSS, semi-active radar homing — defeated by cheap equipment</div></div>
+      <div class="band"><div class="bt">Fair</div><div class="bv">Active radar seekers, RWRs — degraded by a capable opponent</div></div>
+      <div class="band"><div class="bt">Good</div><div class="bv">AESA, imaging IR, passive radar — needs a specific expensive counter</div></div>
+      <div class="band"><div class="bt">Strong</div><div class="bv">Inertial, terrain and celestial navigation, magnetic anomaly — nothing to attack</div></div>
+    </div>
+
+    <h2>Why navigation is now the harder half</h2>
+    <p>For thirty years GNSS made navigation a solved problem, and design attention went almost entirely to sensing. That has reversed. A few watts of jamming denies GNSS over tens of kilometres, spoofing produces confident wrong answers, and both are cheap enough that they now appear routinely in civil airspace near conflict zones. The practical response has been to invert the architecture: inertial navigation becomes the foundation, and GNSS becomes an opportunistic aid that bounds drift when it happens to be available. Everything else in this sheet's navigation classes exists to bound that drift by some other means — terrain contours over land, scene matching where there is imagery, magnetic and gravity anomalies over water, stars above the clouds. Each works in a specific place and fails elsewhere, which is why capable systems carry several. The cheap end of this is the most consequential: a camera and a MEMS inertial unit costing under $100 gives a small drone useful jam-resistant navigation, and that single fact has made GNSS jamming a much weaker counter to cheap drones than it was three years ago.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Choose sensors by what defeats them, not by their datasheet range. Every modality has conditions under which it reports nothing or reports something confidently wrong, and a capable opponent will arrange those conditions. The useful design question is which two sensors in the architecture fail under different circumstances, and whether the handoff between detection and engagement survives when one of them is denied. In practice the systems that hold up are the ones that pair an active sensor with a passive one, an absolute reference with a dead-reckoning one, and a long wavelength with a short one.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What specific conditions defeat this sensor, and which other sensor in the architecture still works under them?</li>
+      <li>Does detection by this sensor produce a track good enough to act on, or does it require a handoff to something else?</li>
+      <li>How long must the system navigate with no absolute fix, and what position error does that allow at the end?</li>
+      <li>What stored reference — threat library, elevation map, imagery basemap, fingerprint database — does this depend on, and how is it kept current?</li>
+      <li>If this sensor transmits, at what range is the platform detected by a passive receiver, and is that acceptable?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>Which commercial cost curve does this ride — automotive radar, phone cameras, microbolometers, MEMS — and what happens to the defense premium as it falls?</li>
+      <li>Is the moat in the physics, the manufacturing, or the software library? Only the last two have historically been durable.</li>
+      <li>Does export control protect this position, and are the thresholds still above what is commercially available?</li>
+      <li>If the capability is a consumable, what is the production rate, and how does it compare with realistic wartime consumption?</li>
+      <li>Is a commercial constellation about to provide 80% of this capability by subscription, and what is left that only a national system can do?</li>
+    </ul>
+
+    <p class="muted">The pattern across this sheet is that sensing hardware commoditizes and the reference data does not. Receivers, detectors, and cameras keep getting cheaper on commercial volume, while emitter libraries, elevation and imagery basemaps, acoustic signature databases, and fingerprint catalogs stay expensive to build and require continuous maintenance. When assessing a capability, that is usually where the durable advantage sits.</p>

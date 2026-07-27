@@ -1,0 +1,126 @@
+{
+  "slug": "sensing-and-navigation",
+  "docTitle": "Sensing and Navigation Reference",
+  "shortTitle": "Sensing and Navigation",
+  "blurb": "Radar, EO/IR, SIGINT, sonar, hyperspectral and quantum sensing, plus GNSS, inertial, terrain and celestial navigation and missile seekers — compared on range, counter-stealth, jam resistance, and cost.",
+  "category": "Defense and Aerospace",
+  "question": "How does this system find a target and know where it is?",
+  "title": "Sensing and Navigation: A Practical Reference",
+  "lede": "Finding something and knowing where you are turn out to be the same problem solved from opposite ends, and both get harder the moment someone jams you. This guide covers {{N_ENTRIES}} sensing and navigation technologies across seven classes, with detection range, performance against low-observable targets, jam resistance, and cost.",
+  "unit": ["technology", "technologies"],
+  "groupLabel": "Class",
+  "explorerTab": "Sensor explorer",
+  "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
+  "searchPlaceholder": "Search radars, seekers, nav systems…",
+  "stats": [
+    { "count": "entries", "label": "technologies" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Radar", "blurb": "transmit and listen, through weather and dark", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Electro-optical and infrared", "blurb": "photons: imagery, heat, and laser marking", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "RF signals intelligence", "blurb": "listen without transmitting anything", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Undersea sensing", "blurb": "sound is the only thing that carries underwater", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Absolute navigation", "blurb": "fix position against an outside reference", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Dead-reckoning navigation", "blurb": "propagate position from onboard measurement", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Seekers and terminal guidance", "blurb": "the last few kilometers of the engagement", "color": "var(--p7)" }
+  ],
+  "groupBlurbs": {
+    "Active optical": "send out light, measure what comes back",
+    "Celestial and field": "navigate by stars and by the Earth itself",
+    "Command guidance": "someone else does the thinking, the missile flies",
+    "Fire-control radar": "quality track good enough to shoot on",
+    "Imaging EO/IR": "pictures in visible light and heat",
+    "Imaging radar": "radar that produces a map, not a blip",
+    "Inertial": "measure your own acceleration and rotation",
+    "Laser and beam guidance": "ride a beam somebody else is holding on the target",
+    "Map matching": "compare what you see to a stored map",
+    "Non-acoustic undersea": "find submarines by what is not sound",
+    "Odometry": "track motion against the world you can see",
+    "Passive homing": "home on energy the target emits or reflects",
+    "Passive radar": "use other people's transmitters",
+    "Radar homing": "the missile carries or is fed its own radar track",
+    "Satellite navigation": "a global fix, until someone jams it",
+    "Signals collection": "characterize emitters and traffic at scale",
+    "Sonar": "listen and ping in the only medium that carries",
+    "Spectral sensing": "identify material by its spectrum",
+    "Surveillance radar": "wide-area detection at long range",
+    "Terrestrial radio": "ground transmitters as a GPS backstop",
+    "Warning and support": "tell the crew they are being looked at"
+  },
+  "facets": [
+    {
+      "id": "fn",
+      "key": "functions",
+      "label": "Function",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "What the system is for: Search (wide-area detection), Track (maintain a track good enough for fire control), Identify (classify or fingerprint what was found), Navigate (know where you are), Terminal (guide a weapon in the last phase).",
+      "order": ["search", "track", "id", "nav", "term"],
+      "options": {
+        "search": "Search",
+        "track": "Track",
+        "id": "Identify",
+        "nav": "Navigate",
+        "term": "Terminal"
+      }
+    },
+    {
+      "id": "rng",
+      "key": "range",
+      "label": "Range",
+      "type": "range",
+      "color": "--fb",
+      "tagPrefix": "Range",
+      "tip": "Useful detection or acquisition envelope against a typical target. Near (<1 km) · Short (1–20 km) · Medium (20–200 km) · Long (200–1,000 km) · Strategic (1,000 km+). Navigation sensors that measure the platform rather than the world carry no range tag.",
+      "order": ["near", "short", "med", "long", "strat"],
+      "options": { "near": "Near", "short": "Short", "med": "Medium", "long": "Long", "strat": "Strategic" },
+      "chipLabels": { "near": "Near (<1 km)", "short": "Short (1–20 km)", "med": "Medium (20–200 km)", "long": "Long (200–1,000 km)", "strat": "Strategic (1,000 km+)" }
+    },
+    {
+      "id": "lo",
+      "key": "stealth",
+      "label": "Vs stealth",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Vs stealth",
+      "tip": "How well the sensor performs against a low-observable target. Shaping and radar-absorbent material are tuned against centimetric fire-control radar, so long-wavelength, multistatic, and passive infrared approaches all do relatively better. Navigation systems carry no tag here.",
+      "order": ["poor", "fair", "good", "strong"],
+      "options": { "poor": "Poor", "fair": "Fair", "good": "Good", "strong": "Strong" }
+    },
+    {
+      "id": "jam",
+      "key": "jamming",
+      "label": "Jam resist",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Resistance to deliberate interference — jamming, spoofing, decoys, or obscurants. Poor = defeated by widely available equipment · Fair = degraded by a capable opponent · Good = needs a specific, expensive counter · Strong = no practical remote attack, usually because the system emits nothing.",
+      "order": ["poor", "fair", "good", "strong"],
+      "options": { "poor": "Poor", "fair": "Fair", "good": "Good", "strong": "Strong" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "Cost",
+      "required": true,
+      "tip": "Directional unit cost of one installed system at typical production quantities, not the program that developed it. A seeker on a missile and a shipborne radar differ by four orders of magnitude, which is most of why the sheet spans this range.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$10k", "low": "$10k–100k", "med": "$100k–1M", "high": "$1M–10M", "vhigh": "$10M+" }
+    }
+  ],
+  "extraSections": [
+    ["when to use", "When to use"],
+    ["how it is defeated", "How it is defeated"],
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"],
+    ["further reading", "Further reading"]
+  ]
+}

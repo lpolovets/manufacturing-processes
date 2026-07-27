@@ -1,0 +1,77 @@
+    <h2>How to choose a propulsion system</h2>
+    <p class="muted">Propulsion selection is decided almost entirely by two questions: how fast does the vehicle go, and does it have to carry its own oxidizer. The speed regime eliminates most of the options before any trade study starts — a turbofan cannot work above Mach 2.5, a ramjet cannot start from rest, a Hall thruster cannot lift anything. Once the regime narrows the field to two or three candidates, the argument becomes thrust versus specific impulse, and that trade is usually settled by how much time the mission has.</p>
+
+    <h3>Engineering factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Speed regime</td><td>Each cycle works over a narrow Mach band. Turbofans below Mach 0.9, turbojets to about Mach 3, ramjets from Mach 2 to 5, scramjets above Mach 5, rockets anywhere. The regime usually picks the engine before anything else is considered.</td></tr>
+        <tr><td>Thrust versus specific impulse</td><td>These trade against each other in every technology. A chemical rocket makes meganewtons at 350 s; an ion thruster makes 0.2 N at 4,000 s. The mission's available time decides which end you can live with.</td></tr>
+        <tr><td>Carrying the oxidizer</td><td>Air-breathing engines get their oxygen free, which is why their specific impulse is measured in thousands of seconds. Anything that flies outside the atmosphere or above Mach 6 pays that penalty, and it is the single largest term in launch vehicle mass.</td></tr>
+        <tr><td>Thrust-to-weight</td><td>An engine that cannot lift itself plus the vehicle is useless for launch no matter how efficient it is. Rockets run 60–180:1, turbofans about 5:1, and electric thrusters are far below 1:1, which is why they only work in orbit.</td></tr>
+        <tr><td>Throttling, restart, and shutdown</td><td>Solid motors do none of these; liquids and hybrids do all three. If the mission needs a controlled landing, a rendezvous, or an abort, that requirement alone eliminates solid propulsion.</td></tr>
+        <tr><td>Storability</td><td>A weapon or spacecraft that must sit ready for 15 years rules out cryogenics. Solids and hypergolics dominate that role for exactly this reason, and they pay for it in specific impulse or in toxicity.</td></tr>
+        <tr><td>Thermal management</td><td>Above Mach 5 the airframe and engine both need active cooling, usually with the fuel itself, which makes the fuel's heat sink capacity a design limit. On combat aircraft, cooling capacity — not thrust — is now what caps radar and directed-energy growth.</td></tr>
+        <tr><td>Power source mass</td><td>Electric propulsion's real weight is the solar array or reactor plus the power processing unit, not the thruster. System specific mass in kg per kilowatt is the number that decides whether an electric mission closes.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Economic and strategic factors</h3>
+    <div class="tblwrap"><table>
+      <thead><tr><th>Factor</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>Unit cost versus life</td><td>An expendable engine that runs once for 40 minutes can drop a turbine's cost by 10× by giving up 25,000 hours of life. That inversion is what makes cheap cruise missiles and attritable drones possible.</td></tr>
+        <tr><td>Production rate as the constraint</td><td>Since 2022, solid rocket motors and small turbojets have both been rate-limited rather than design-limited. Adding capacity takes three to five years, so procurement plans that assume elastic supply are usually wrong.</td></tr>
+        <tr><td>Sustainment, not acquisition</td><td>Large turbofans are frequently sold near cost, with the money made on parts and service over a 25-year life. For defense buyers, sustainment dominates the budget line and the installed base is the supplier's real asset.</td></tr>
+        <tr><td>Supplier concentration</td><td>Four companies build large turbofans, two build US solid motors at scale, and one line of marine gas turbines powers much of the Western surface fleet. Single-source risk is a standing topic in every propulsion program review.</td></tr>
+        <tr><td>Export control as leverage</td><td>Engines are frequently the binding item in an arms transfer, more than airframes or sensors. Release of a high-performance turbofan is a national decision, and denial is one of the more effective non-proliferation tools available.</td></tr>
+        <tr><td>Propellant supply</td><td>Xenon prices have spiked on small demand shifts, ammonium perchlorate has essentially one US producer, and the move from xenon to krypton and argon in Hall thrusters was driven by supply rather than performance. Propellant chemistry is a supply-chain decision.</td></tr>
+        <tr><td>Reuse economics</td><td>Reuse turns engine cost per flight into engine cost divided by flights, which is why methane displaced kerosene in new launch designs — clean combustion, not raw performance, is what makes fast turnaround practical.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Specific impulse bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">&lt;250 s</div><div class="bv">Solid motors, monopropellants, cold gas — simple and storable</div></div>
+      <div class="band"><div class="bt">250–450 s</div><div class="bv">Liquid bipropellants — the workhorse range for launch</div></div>
+      <div class="band"><div class="bt">450–1,000 s</div><div class="bv">Hydrolox upper stages and nuclear thermal</div></div>
+      <div class="band"><div class="bt">1,000–3,000 s</div><div class="bv">Hall thrusters, arcjets, and ramjets at the low end</div></div>
+      <div class="band"><div class="bt">3,000 s+</div><div class="bv">Ion thrusters and every air-breathing engine, which carries no oxidizer</div></div>
+    </div>
+
+    <h3>Thrust bands</h3>
+    <div class="bands">
+      <div class="band"><div class="bt">Micro (&lt;1 N)</div><div class="bv">Electric thrusters, cold gas, sails — orbital work only</div></div>
+      <div class="band"><div class="bt">Small (1 N–10 kN)</div><div class="bv">Tactical missiles, small turbojets, spacecraft engines</div></div>
+      <div class="band"><div class="bt">Medium (10–200 kN)</div><div class="bv">Fighter and airliner engines, upper stages</div></div>
+      <div class="band"><div class="bt">Large (200 kN–2 MN)</div><div class="bv">First-stage liquid engines</div></div>
+      <div class="band"><div class="bt">Heavy (2 MN+)</div><div class="bv">Large solid boosters and the biggest liquid engines</div></div>
+    </div>
+
+    <h2>Why air-breathing engines look so efficient</h2>
+    <p>Specific impulse for a turbofan is around 6,500 s and for a good rocket around 450 s, which makes the turbofan look fifteen times better. That comparison is misleading, because Isp counts only the propellant the vehicle carries, and an air-breathing engine gets its oxidizer free from the atmosphere. Roughly 78% of a rocket's propellant mass is oxidizer, so a fair comparison of the fuel alone closes most of the gap. The practical consequence still holds: if a vehicle can breathe air, it should, because it does not have to lift the oxygen. That is the entire argument for ramjets in missiles, for air-launched rockets, and for every combined-cycle study since the 1960s. The reason those studies keep failing is that the machinery needed to breathe air across a wide Mach range weighs more than the oxidizer it saves.</p>
+
+    <h2>Core takeaway</h2>
+    <div class="callout">
+      <p>Pick propulsion by the mission's speed regime and time budget first, then optimize within the two or three options that survive. Most propulsion arguments that look like technology debates are really arguments about how long the mission has: a Hall thruster and a chemical engine can deliver the same delta-v, and the only question is whether the spacecraft can spend six months doing it. For anything that flies once and is destroyed, invert the usual engineering priorities — cost per unit and production rate matter more than efficiency, and a 10× cheaper engine with 30% worse fuel burn is usually the right trade.</p>
+    </div>
+
+    <h3>Key questions for engineering decisions</h3>
+    <ul class="qlist">
+      <li>What is the vehicle's Mach range, and which cycles actually operate across all of it?</li>
+      <li>How much time does the mission have for its maneuvers, and does that allow low-thrust propulsion?</li>
+      <li>Does the system need to sit dormant for years, restart on command, or throttle? Each requirement eliminates specific options.</li>
+      <li>Where does the waste heat go, and does the fuel have enough heat sink capacity to carry it?</li>
+      <li>For electric systems, what is the specific mass of the whole power chain in kg per kilowatt, not just the thruster?</li>
+    </ul>
+
+    <h3>Key questions for investment and business analysis</h3>
+    <ul class="qlist">
+      <li>Is the binding constraint on this program design maturity or production rate? Since 2022 it has usually been rate.</li>
+      <li>Who else can make this, and how long would it take them? Hot-section castings and solid propellant casting are both multi-year capabilities.</li>
+      <li>Does the business make money on the engine or on 25 years of parts and service, and does the customer understand which?</li>
+      <li>What propellant does it need, who produces that propellant, and what happened the last time demand moved?</li>
+      <li>If the claim is a percentage efficiency gain, does the mission have a constraint — length, feed pressure, turnaround time — that makes the gain worth requalifying an engine?</li>
+    </ul>
+
+    <p class="muted">Durable advantages in propulsion have generally come from materials and manufacturing rather than from cycle innovation: single-crystal turbine blades, additive chambers with integral cooling, and clean-burning propellants that make reuse practical. New thermodynamic cycles are proposed constantly and adopted rarely, because a 10% efficiency gain seldom justifies requalifying a flight-proven engine.</p>

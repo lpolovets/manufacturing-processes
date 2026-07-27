@@ -1,0 +1,123 @@
+{
+  "slug": "propulsion-systems",
+  "docTitle": "Propulsion Systems Reference",
+  "shortTitle": "Propulsion Systems",
+  "blurb": "Turbofans, ramjets, scramjets, rockets, ion and Hall thrusters, nuclear thermal, and detonation engines — compared on thrust, specific impulse, speed regime, and maturity.",
+  "category": "Defense and Aerospace",
+  "question": "What should push this vehicle, and how fast and how far?",
+  "title": "Propulsion Systems: A Practical Reference",
+  "lede": "Every propulsion choice is a trade between thrust and efficiency, and the speed regime decides which end of that trade you get. This guide covers {{N_ENTRIES}} propulsion technologies across seven classes, with thrust class, specific impulse, operating regime, maturity, and the cost of an engine.",
+  "unit": ["propulsion type", "propulsion types"],
+  "groupLabel": "Class",
+  "explorerTab": "Engine explorer",
+  "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
+  "searchPlaceholder": "Search engines, regimes, propellants…",
+  "stats": [
+    { "count": "entries", "label": "propulsion types" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Air-breathing turbomachinery", "blurb": "gas turbines that carry no oxidizer", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "High-speed air-breathing", "blurb": "ram compression above Mach 3", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Chemical rockets", "blurb": "bring your own oxidizer, work anywhere", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Electric propulsion", "blurb": "tiny thrust, very high efficiency, space only", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Nuclear and propellantless", "blurb": "energy source decoupled from propellant", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Detonation and pulsed cycles", "blurb": "burn by detonation instead of steady flame", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Electrified aviation", "blurb": "batteries, fuel cells, and hybrid turbogenerators", "color": "var(--p7)" }
+  ],
+  "groupBlurbs": {
+    "Battery-electric": "stored electrons turning a propeller",
+    "Combined cycle": "one flowpath, several cycles across the climb",
+    "Cryogenic bipropellant": "pumped liquid engines at the highest performance",
+    "Detonation cycles": "pressure gain from detonation waves",
+    "Electromagnetic": "accelerate plasma with magnetic fields",
+    "Electrostatic": "accelerate ions with an electric field",
+    "Electrothermal": "heat propellant electrically, expand it in a nozzle",
+    "Hybrid motors": "solid fuel with a throttled liquid oxidizer",
+    "Hydrogen and hybrid": "chemical energy carried, electricity made onboard",
+    "Nuclear": "fission heat replacing the combustion chamber",
+    "Propellantless and beamed": "energy from off-board, little or no propellant",
+    "Propeller and rotor drives": "turbines geared down to move a lot of air slowly",
+    "Pulsed combustion": "cheap intermittent burn, no turbomachinery",
+    "Ram compression": "the inlet does the compressor's job",
+    "Solid motors": "propellant cast in the case, ready for years",
+    "Storable propellants": "sit in a tank for a decade, fire on command",
+    "Turbofans": "bypass air for efficiency, core for power",
+    "Turbojets": "all flow through the core, best above Mach 1"
+  },
+  "facets": [
+    {
+      "id": "reg",
+      "key": "regimes",
+      "label": "Regime",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "Where the engine actually works: subsonic flight, supersonic flight, hypersonic flight (roughly Mach 5+), launch and boost through the atmosphere, or in-space maneuvering and transfer.",
+      "order": ["sub", "super", "hyper", "launch", "space"],
+      "options": {
+        "sub": "Subsonic flight",
+        "super": "Supersonic flight",
+        "hyper": "Hypersonic flight",
+        "launch": "Launch and boost",
+        "space": "In-space"
+      }
+    },
+    {
+      "id": "thr",
+      "key": "thrust",
+      "label": "Thrust",
+      "type": "range",
+      "color": "--fb",
+      "required": true,
+      "tagPrefix": "Thrust",
+      "tip": "Thrust per unit at typical installed sizes. Micro (<1 N) · Small (1 N–10 kN) · Medium (10–200 kN) · Large (200 kN–2 MN) · Heavy (2 MN+). Families that scale across sizes carry a span.",
+      "order": ["micro", "small", "med", "large", "heavy"],
+      "options": { "micro": "Micro", "small": "Small", "med": "Medium", "large": "Large", "heavy": "Heavy" },
+      "chipLabels": { "micro": "Micro (<1 N)", "small": "Small (1 N–10 kN)", "med": "Medium (10–200 kN)", "large": "Large (200 kN–2 MN)", "heavy": "Heavy (2 MN+)" }
+    },
+    {
+      "id": "isp",
+      "key": "isp",
+      "label": "Isp",
+      "type": "single",
+      "color": "--fc",
+      "tagPrefix": "Isp",
+      "tip": "Specific impulse: seconds of 1-lb thrust per pound of propellant burned. Air-breathing engines score in the thousands because they do not carry their oxidizer, so compare them to each other rather than to rockets. Systems with no propellant flow of their own — sails, battery-electric and fuel-cell aircraft — carry no Isp tag.",
+      "order": ["vlow", "low", "mid", "high", "vhigh"],
+      "options": { "vlow": "<250 s", "low": "250–450 s", "mid": "450–1000 s", "high": "1000–3000 s", "vhigh": "3000 s+" }
+    },
+    {
+      "id": "mtr",
+      "key": "maturity",
+      "label": "Maturity",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tip": "Mature = decades of fleet service · In service = fielded and flying now · Emerging = flight-tested or in early production · Research = ground tests and programs, nothing operational.",
+      "order": ["std", "common", "emerging", "rd"],
+      "options": { "std": "Mature", "common": "In service", "emerging": "Emerging", "rd": "Research" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "Cost",
+      "type": "single",
+      "color": "--fe",
+      "tagPrefix": "Cost",
+      "tip": "Directional cost of one engine or thruster at typical production quantity, not the cost of the program that developed it. Expendable and mass-produced units sit at the low end; large flight-qualified engines at the high end.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$100k", "low": "$100k–1M", "med": "$1M–10M", "high": "$10M–50M", "vhigh": "$50M+" }
+    }
+  ],
+  "extraSections": [
+    ["when to use", "When to use"],
+    ["key numbers", "Key numbers"],
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"],
+    ["further reading", "Further reading"]
+  ]
+}

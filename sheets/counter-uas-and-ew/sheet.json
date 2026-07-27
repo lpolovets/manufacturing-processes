@@ -1,0 +1,121 @@
+{
+  "slug": "counter-uas-and-ew",
+  "docTitle": "Counter-UAS and Electronic Warfare Reference",
+  "shortTitle": "Counter-UAS and EW",
+  "blurb": "Ways to detect and defeat drones — jamming, spoofing, lasers, high-power microwave, guns, interceptors, and nets — plus the wider electronic warfare toolkit, compared on effectiveness, collateral risk, and cost exchange.",
+  "category": "Defense and Aerospace",
+  "question": "How do you stop a drone without spending more than it cost?",
+  "title": "Counter-UAS and Electronic Warfare: A Practical Reference",
+  "lede": "Shooting down a $500 drone with a $1M missile is a win that you cannot afford twice. This guide covers {{N_ENTRIES}} counter-drone and electronic warfare approaches, compared on what they actually stop, what they break when they miss, and how the cost exchange works out.",
+  "unit": ["approach", "approaches"],
+  "groupLabel": "Class",
+  "explorerTab": "Approach explorer",
+  "guideTab": "Selection guide",
+  "h2hTab": "Head-to-head",
+  "searchPlaceholder": "Search jammers, lasers, guns, interceptors…",
+  "stats": [
+    { "count": "entries", "label": "approaches" },
+    { "count": "parts", "label": "classes" },
+    { "count": "groups", "label": "families" }
+  ],
+  "parts": [
+    { "id": 1, "roman": "I", "name": "Detection and tracking", "blurb": "you cannot stop what you have not found", "color": "var(--p1)" },
+    { "id": 2, "roman": "II", "name": "Electronic attack", "blurb": "break the link or break the navigation", "color": "var(--p2)" },
+    { "id": 3, "roman": "III", "name": "Directed energy", "blurb": "cost per shot measured in electricity", "color": "var(--p3)" },
+    { "id": 4, "roman": "IV", "name": "Guns and projectiles", "blurb": "cheap rounds, short range, and gravity afterward", "color": "var(--p4)" },
+    { "id": 5, "roman": "V", "name": "Interceptors", "blurb": "things that chase other things", "color": "var(--p5)" },
+    { "id": 6, "roman": "VI", "name": "Physical capture and barriers", "blurb": "nets, tethers, and simply being in the way", "color": "var(--p6)" },
+    { "id": 7, "roman": "VII", "name": "Wider electronic warfare", "blurb": "the same fight at aircraft and ship scale", "color": "var(--p7)" }
+  ],
+  "groupBlurbs": {
+    "Cannon": "guns big enough to need fire control",
+    "Capture": "stop the drone without destroying it",
+    "Command and control": "turn many sensors into one decision",
+    "Comms jamming": "deny the opponent's radios and datalinks",
+    "Decoys": "give the seeker something better to look at",
+    "Delivered effects": "put the jammer where the target is",
+    "Drone interceptors": "cheap aircraft that ram or net other aircraft",
+    "Lasers": "burn a hole, or blind the camera",
+    "Link attack": "cut the operator off from the aircraft",
+    "Microwave": "one shot, many targets",
+    "Missiles": "reliable, expensive, and the wrong price against cheap drones",
+    "Navigation attack": "deny or falsify the position solution",
+    "Optical and acoustic": "see and hear what radar misses",
+    "Passive": "no power, no operator, no failure mode",
+    "Radar and RF": "the two sensors that find most drones",
+    "Radar jamming": "protect aircraft and ships from radar-guided weapons",
+    "Small arms": "what people actually have when a drone arrives"
+  },
+  "facets": [
+    {
+      "id": "thr",
+      "key": "threats",
+      "label": "Works on",
+      "type": "multi",
+      "color": "--fa",
+      "required": true,
+      "tagRow": 2,
+      "tip": "What the approach actually defeats. Group 1–2 covers small drones under 25 kg; Group 3–5 covers tactical and larger UAS; Swarms means many simultaneous targets; Cruise missiles covers subsonic one-way attack weapons; Aircraft covers crewed aircraft and the radar-guided weapons aimed at them.",
+      "order": ["g12", "g35", "swarm", "cm", "air"],
+      "options": {
+        "g12": "Group 1–2",
+        "g35": "Group 3–5",
+        "swarm": "Swarms",
+        "cm": "Cruise missiles",
+        "air": "Aircraft"
+      }
+    },
+    {
+      "id": "eff",
+      "key": "effectiveness",
+      "label": "Effectiveness",
+      "type": "single",
+      "color": "--fb",
+      "required": true,
+      "tip": "How reliably it works against the threats it is designed for, in field conditions rather than on a test range. Limited = works sometimes, against some models · Situational = depends heavily on conditions and threat type · Reliable = works when properly employed · High = very high probability of defeat per engagement.",
+      "order": ["poor", "fair", "good", "best"],
+      "options": { "poor": "Limited", "fair": "Situational", "good": "Reliable", "best": "High" }
+    },
+    {
+      "id": "coll",
+      "key": "collateral",
+      "label": "Collateral",
+      "type": "single",
+      "color": "--fc",
+      "required": true,
+      "tip": "Risk to everything that is not the target: falling debris, rounds that keep travelling, interference with friendly GNSS and radios, and effects on civil aviation and infrastructure. This is usually what decides whether a system can be used in a populated area at all.",
+      "order": ["none", "low", "med", "high"],
+      "options": { "none": "Minimal", "low": "Low", "med": "Moderate", "high": "High" }
+    },
+    {
+      "id": "cx",
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "single",
+      "color": "--fd",
+      "required": true,
+      "tagPrefix": "Exchange",
+      "tip": "Cost per engagement against the cost of the target it defeats. Unfavorable = you spend more than the attacker · Even = roughly comparable · Favorable = you spend less · Strongly favorable = you spend a small fraction, usually because the shot is electricity or ammunition rather than a missile.",
+      "order": ["bad", "even", "good", "best"],
+      "options": { "bad": "Unfavorable", "even": "Even", "good": "Favorable", "best": "Strongly favorable" }
+    },
+    {
+      "id": "cost",
+      "key": "cost",
+      "label": "System cost",
+      "type": "single",
+      "color": "--fe",
+      "required": true,
+      "tip": "Directional acquisition cost for one deployed system, excluding the magazine of ammunition or interceptors. A handheld jammer and a shipboard laser differ by four orders of magnitude, which is why the cost-per-shot argument has to be read alongside this.",
+      "order": ["vlow", "low", "med", "high", "vhigh"],
+      "options": { "vlow": "<$100k", "low": "$100k–1M", "med": "$1M–10M", "high": "$10M–50M", "vhigh": "$50M+" }
+    }
+  ],
+  "extraSections": [
+    ["when to use", "When to use"],
+    ["limits and failure modes", "Limits and failure modes"],
+    ["examples", "Examples"],
+    ["economic profile", "Economic profile"],
+    ["further reading", "Further reading"]
+  ]
+}
