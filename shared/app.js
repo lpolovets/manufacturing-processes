@@ -61,6 +61,22 @@ function facetTags(x){
   return rows;
 }
 
+function videosHTML(vid){
+  let h = '<span class="lab">Videos</span>';
+  if(EMBED_OK){
+    h += '<div class="vids">'+vid.map(v=>
+      '<div class="vid"><button class="vplay" data-vid="'+v.id+'" aria-label="Play video'+(v.t?': '+esc(v.t):'')+'">'+
+      '<img src="https://i.ytimg.com/vi/'+v.id+'/hqdefault.jpg" alt="" loading="lazy">'+
+      '<span class="vbtn" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18"><path d="M5.5 3.5v11l9-5.5z" fill="currentColor"/></svg></span>'+
+      '</button>'+(v.t?'<span class="vt">'+esc(v.t)+'</span>':'')+'</div>').join('')+'</div>';
+  } else {
+    h += '<p class="ex" style="margin-top:2px">'+vid.map(v=>
+      '<a href="https://www.youtube.com/watch?v='+v.id+'" target="_blank" rel="noopener">&#9656; '+
+      (v.t?esc(v.t):'Watch on YouTube')+'</a>').join(' &nbsp;&middot;&nbsp; ')+'</p>';
+  }
+  return h;
+}
+
 function cardHTML(x){
   const part = SHEET.parts[x.p-1];
   let body = '';
@@ -71,22 +87,22 @@ function cardHTML(x){
     body += '<span class="lab">Variants</span><div class="variants">'+
       x.v.map(v=>'<div class="variant"><b>'+esc(v.t)+'</b><p>'+fmt(v.d)+'</p></div>').join("")+'</div>';
   }
-  if(x.vid){
-    body += '<span class="lab">Videos</span>';
-    if(EMBED_OK){
-      body += '<div class="vids">'+x.vid.map(v=>
-        '<div class="vid"><button class="vplay" data-vid="'+v.id+'" aria-label="Play video'+(v.t?': '+esc(v.t):'')+'">'+
-        '<img src="https://i.ytimg.com/vi/'+v.id+'/hqdefault.jpg" alt="" loading="lazy">'+
-        '<span class="vbtn" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18"><path d="M5.5 3.5v11l9-5.5z" fill="currentColor"/></svg></span>'+
-        '</button>'+(v.t?'<span class="vt">'+esc(v.t)+'</span>':'')+'</div>').join('')+'</div>';
-    } else {
-      body += '<p class="ex" style="margin-top:2px">'+x.vid.map(v=>
-        '<a href="https://www.youtube.com/watch?v='+v.id+'" target="_blank" rel="noopener">&#9656; '+
-        (v.t?esc(v.t):'Watch on YouTube')+'</a>').join(' &nbsp;&middot;&nbsp; ')+'</p>';
-    }
+  // Videos render before the extra sections by default; a sheet can set
+  // videosAfter to an extraSections label to place them later instead. Entries
+  // often omit sections, so the slot is resolved by position in the sheet's
+  // extraSections order rather than by an exact label match — videos land after
+  // the last section the entry actually has at or before that label.
+  const vids = x.vid ? videosHTML(x.vid) : '';
+  const extra = x.extra || [];
+  let vidPos = -1;
+  if(vids && SHEET.videosAfter){
+    const target = SHEET.extraOrder.indexOf(SHEET.videosAfter);
+    extra.forEach((e,i)=>{ const p = SHEET.extraOrder.indexOf(e[0]); if(p > -1 && p <= target) vidPos = i; });
   }
-  if(x.extra) x.extra.forEach(e=>{
+  if(vids && vidPos === -1) body += vids;
+  extra.forEach((e,i)=>{
     body += '<span class="lab">'+esc(e[0])+'</span><p class="ex" style="margin-top:2px">'+fmt(e[1])+'</p>';
+    if(vids && i === vidPos) body += vids;
   });
   const tags = facetTags(x);
   return '<div class="card" id="'+slug(x.name)+'" style="--pc:'+part.color+'" data-n="'+x.n+'">'+

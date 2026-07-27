@@ -142,6 +142,11 @@ function loadSheet(dir) {
     for (const g of groups)
       if (!sheet.groupBlurbs[g]) throw new Error(sheet.slug + ': groupBlurbs missing group "' + g + '"');
   }
+  if (sheet.videosAfter) {
+    const labels = (sheet.extraSections || []).map(e => e[1]);
+    if (!labels.includes(sheet.videosAfter))
+      throw new Error(sheet.slug + ': videosAfter "' + sheet.videosAfter + '" is not an extraSections label (have: ' + labels.join(', ') + ')');
+  }
   sheet.guide = fs.readFileSync(path.join(dir, 'guide.html'), 'utf8');
   const h2hPath = path.join(dir, 'h2h.html');
   sheet.h2h = fs.existsSync(h2hPath) ? fs.readFileSync(h2hPath, 'utf8') : null;
@@ -212,6 +217,10 @@ function composeBody(sheetData, artifact) {
       return cf;
     }),
   };
+  if (sheet.videosAfter) {
+    clientSheet.videosAfter = sheet.videosAfter;
+    clientSheet.extraOrder = (sheet.extraSections || []).map(e => e[1]);
+  }
   const dataJs = [
     'const EMBED_OK = ' + String(!artifact) + ';',
     'const SHEET = ' + JSON.stringify(clientSheet) + ';',
