@@ -327,17 +327,35 @@ if(EMBED_OK){
 }
 
 // ----- tabs -----
+// Each tab is bookmarkable as #tab-<slugified label>, e.g. #tab-process-explorer.
+// The "tab-" prefix keeps these out of the way of card anchors, which are bare
+// name slugs (#sand-casting) and could otherwise collide with a tab label.
 const tabs = [["tab-explorer","view-explorer"],["tab-guide","view-guide"],["tab-h2h","view-h2h"]]
-  .filter(([tid])=>$(tid));
-tabs.forEach(([tid,vid])=>{
-  $(tid).addEventListener("click", ()=>{
-    tabs.forEach(([t2,v2])=>{
-      $(t2).setAttribute("aria-selected", t2===tid ? "true" : "false");
-      $(v2).classList.toggle("active", v2===vid);
-    });
-    window.scrollTo({top:0});
+  .filter(([tid])=>$(tid))
+  .map(([tid,vid])=>[tid,vid,"tab-"+slug($(tid).textContent)]);
+function showTab(tid, setHash){
+  const tab = tabs.find(([t])=>t===tid);
+  tabs.forEach(([t2,v2])=>{
+    $(t2).setAttribute("aria-selected", t2===tid ? "true" : "false");
+    $(v2).classList.toggle("active", t2===tid);
   });
+  if(setHash){
+    try{ history.replaceState(null,"",location.pathname+location.search+"#"+tab[2]); }catch(e){}
+  }
+  window.scrollTo({top:0});
+}
+tabs.forEach(([tid])=>{
+  $(tid).addEventListener("click", ()=>showTab(tid, true));
 });
+// Returns true when the hash named a tab, so the card deep-link handler can skip it.
+function openTabFromHash(){
+  const h = decodeURIComponent(location.hash.slice(1));
+  if(!h) return false;
+  const tab = tabs.find(([,,hash])=>hash===h);
+  if(!tab) return false;
+  showTab(tab[0], false);
+  return true;
+}
 
 render();
 
@@ -347,10 +365,14 @@ try{
     history.replaceState(null,"",location.pathname.slice(0,-10)+location.search+location.hash);
 }catch(e){}
 function openFromHash(){
+  if(openTabFromHash()) return;
   const id = decodeURIComponent(location.hash.slice(1));
   if(!id) return;
   const card = document.getElementById(id);
   if(!card || !card.classList.contains("card")) return;
+  // A card anchor can arrive while a different tab is showing (back/forward, or a
+  // link followed from the guide), so switch to the explorer or the card stays hidden.
+  showTab("tab-explorer", false);
   card.classList.add("open");
   card.querySelector(".chead").setAttribute("aria-expanded","true");
   card.scrollIntoView({block:"start"});
